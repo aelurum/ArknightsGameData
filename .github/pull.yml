@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: master_v2
+    upstream: Kengxxiao:master
+    mergeMethod: merge
