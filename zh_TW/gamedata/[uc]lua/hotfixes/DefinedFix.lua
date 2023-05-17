@@ -3,7 +3,9 @@ local list =
 {
   
   "HotFixes/ShopHotfixer",
-  "HotFixes/UIHotfixer"
+  "HotFixes/AutoTriggerSkillAbilityHotfixer",
+  "HotFixes/RoguelikeTopicMonthSquadBpMaxHotfixer",
+  "HotFixes/ForcerSkill2HitBehaviourHotfixer",
 };
 
 return list;

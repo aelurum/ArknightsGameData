@@ -1495,8 +1495,12 @@
   },
   "towerNoticeList": [
     {
-      "startTime": 1685563200,
-      "endTime": 1686859199
+      "startTime": 1684180800,
+      "endTime": 1685563199
+    },
+    {
+      "startTime": 1714507200,
+      "endTime": 1715803199
     }
   ],
   "detailConst": {

@@ -679,13 +679,13 @@
       {
         "isInheritable": false,
         "descriptionHead": "部署時觸發效果",
-        "description": "從預備區隨機調度<@ba.vup>一名</>幹員並獲得<@ba.vup>5張</>調用憑證",
+        "description": "獲得<@ba.vup>15張</>調用憑證",
         "levelPhases": [
           {
             "blackboard": [
               {
                 "key": "tomb_buff[support_0].get_gold",
-                "value": 5.0
+                "value": 15.0
               }
             ]
           }

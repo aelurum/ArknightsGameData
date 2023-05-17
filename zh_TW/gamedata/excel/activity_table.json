@@ -1,5 +1,75 @@
 {
   "basicInfo": {
+    "act12mini": {
+      "id": "act12mini",
+      "type": "MINISTORY",
+      "displayType": "MINISTORY",
+      "name": "日暮尋路",
+      "startTime": 1684216800,
+      "endTime": 1684785599,
+      "rewardEndTime": 1685044799,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act12mini",
+      "medalGroupId": null,
+      "ungroupedMedalIds": [
+        "medal_activity_12mini_01",
+        "medal_activity_12mini_02"
+      ],
+      "isReplicate": false
+    },
+    "act17sign": {
+      "id": "act17sign",
+      "type": "CHECKIN_ONLY",
+      "name": "限時累計簽到",
+      "startTime": 1684216800,
+      "endTime": 1685044799,
+      "rewardEndTime": 1685044799,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
+    "act10login": {
+      "id": "act10login",
+      "type": "LOGIN_ONLY",
+      "name": "登入領取獎勵",
+      "startTime": 1687246200,
+      "endTime": 1688414399,
+      "rewardEndTime": 1688414399,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
+    "act28sign": {
+      "id": "act28sign",
+      "type": "CHECKIN_ONLY",
+      "name": "限時累計簽到",
+      "startTime": 1687246200,
+      "endTime": 1688414399,
+      "rewardEndTime": 1688414399,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
+    "act4pray": {
+      "id": "act4pray",
+      "type": "PRAY_ONLY",
+      "name": "際崖城驚奇牆登入活動",
+      "startTime": 1687246200,
+      "endTime": 1688414399,
+      "rewardEndTime": 1688414399,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
     "act3fun": {
       "id": "act3fun",
       "type": "APRIL_FOOL",
@@ -9,8 +79,6 @@
       "rewardEndTime": 1680897599,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -25,8 +93,6 @@
       "rewardEndTime": 1684353599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act12sre",
       "medalGroupId": "medalGroupActivity12side",
       "isReplicate": true
@@ -41,8 +107,6 @@
       "rewardEndTime": 1683403199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act11mini",
       "medalGroupId": null,
       "ungroupedMedalIds": [
@@ -61,8 +125,6 @@
       "rewardEndTime": 1683057599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act19side",
       "medalGroupId": "medalGroupActivity19side",
       "isReplicate": false
@@ -77,8 +139,6 @@
       "rewardEndTime": 1681761599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act18side",
       "medalGroupId": "medalGroupActivity18side",
       "isReplicate": false
@@ -92,8 +152,6 @@
       "rewardEndTime": 1677959999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "209b74",
-      "actTopBarText": "春季簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -108,8 +166,6 @@
       "rewardEndTime": 1678305599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act11sre",
       "medalGroupId": "medalGroupActivity18d3",
       "isReplicate": true
@@ -123,8 +179,6 @@
       "rewardEndTime": 1676318399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "00cef3",
-      "actTopBarText": "喜迎新春登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -138,8 +192,6 @@
       "rewardEndTime": 1677527999,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act17side",
       "medalGroupId": "medalGroupActivity17side",
       "isReplicate": false
@@ -153,8 +205,6 @@
       "rewardEndTime": 1676318399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "4885ff",
-      "actTopBarText": "喜迎新春簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -168,8 +218,6 @@
       "rewardEndTime": 1676318399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "cb271f",
-      "actTopBarText": "限時開採許可",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -184,8 +232,6 @@
       "rewardEndTime": 1672257599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act10sre",
       "medalGroupId": "medalGroupActivity18d0",
       "isReplicate": true
@@ -200,8 +246,6 @@
       "rewardEndTime": 1674071999,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act16side",
       "medalGroupId": "medalGroupActivity16side",
       "isReplicate": false
@@ -216,8 +260,6 @@
       "rewardEndTime": 1669492799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act10mini",
       "medalGroupId": null,
       "ungroupedMedalIds": [
@@ -235,8 +277,6 @@
       "rewardEndTime": 1668628799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "986bdc",
-      "actTopBarText": "靜待晴時簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -251,8 +291,6 @@
       "rewardEndTime": 1668628799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act15side",
       "medalGroupId": "medalGroupActivity15side",
       "isReplicate": false
@@ -266,8 +304,6 @@
       "rewardEndTime": 1668023999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "e79300",
-      "actTopBarText": "濁酒澄心登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -281,8 +317,6 @@
       "rewardEndTime": 1668023999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "df462d",
-      "actTopBarText": "幸運牆登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -296,8 +330,6 @@
       "rewardEndTime": 1666468799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "d49e38",
-      "actTopBarText": "吉兆呈祥簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -312,8 +344,6 @@
       "rewardEndTime": 1666814399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act9sre",
       "medalGroupId": "medalGroupActivity16d5",
       "isReplicate": true
@@ -327,8 +357,6 @@
       "rewardEndTime": 1665604799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "b3b347",
-      "actTopBarText": "金秋時節簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -343,8 +371,6 @@
       "rewardEndTime": 1666209599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act14side",
       "medalGroupId": "medalGroupActivity14side",
       "isReplicate": false
@@ -359,8 +385,6 @@
       "rewardEndTime": 1664308799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act8sre",
       "medalGroupId": "medalGroupActivity15d0",
       "isReplicate": true
@@ -374,8 +398,6 @@
       "rewardEndTime": 1660766399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "dbb15b",
-      "actTopBarText": "感謝慶典簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -389,8 +411,6 @@
       "rewardEndTime": 1660766399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "ff9b00",
-      "actTopBarText": "循光道途登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -404,8 +424,6 @@
       "rewardEndTime": 1660766399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "cb271f",
-      "actTopBarText": "限時開採許可",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -419,8 +437,6 @@
       "rewardEndTime": 1661975999,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act13side",
       "medalGroupId": "medalGroupActivity13side",
       "isReplicate": false
@@ -435,8 +451,6 @@
       "rewardEndTime": 1659124799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act9mini",
       "medalGroupId": null,
       "ungroupedMedalIds": [
@@ -455,8 +469,6 @@
       "rewardEndTime": 1658260799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act7sre",
       "medalGroupId": "medalGroupActivity13d5",
       "isReplicate": true
@@ -470,8 +482,6 @@
       "rewardEndTime": 1657915199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "89bc6f",
-      "actTopBarText": "假日悠然簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -485,8 +495,6 @@
       "rewardEndTime": 1656619199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "ff5f27",
-      "actTopBarText": "懷望桑梓簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -501,8 +509,6 @@
       "rewardEndTime": 1654545599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act12side",
       "medalGroupId": "medalGroupActivity12side",
       "isReplicate": false
@@ -516,8 +522,6 @@
       "rewardEndTime": 1653335999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "0491e8",
-      "actTopBarText": "假日酬賓簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -531,8 +535,6 @@
       "rewardEndTime": 1653335999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "133bda",
-      "actTopBarText": "驚奇牆登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -546,8 +548,6 @@
       "rewardEndTime": 1653335999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "01f3f0",
-      "actTopBarText": "盛夏新星登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -562,8 +562,6 @@
       "rewardEndTime": 1652126399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act6sre",
       "medalGroupId": "medalGroupActivity12d0",
       "isReplicate": true
@@ -578,8 +576,6 @@
       "rewardEndTime": 1650916799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act8mini",
       "medalGroupId": null,
       "ungroupedMedalIds": [
@@ -597,8 +593,6 @@
       "rewardEndTime": 1650052799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "ungroupedMedalIds": [
@@ -615,8 +609,6 @@
       "rewardEndTime": 1649361599,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "ff7e00",
-      "actTopBarText": "泰拉\n饒舌之夜！",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -631,8 +623,6 @@
       "rewardEndTime": 1649102399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act5sre",
       "medalGroupId": "medalGroupActivity11d0",
       "isReplicate": true
@@ -646,8 +636,6 @@
       "rewardEndTime": 1648151999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "008a67",
-      "actTopBarText": "春季簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -662,8 +650,6 @@
       "rewardEndTime": 1647547199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act7mini",
       "medalGroupId": null,
       "ungroupedMedalIds": [
@@ -681,8 +667,6 @@
       "rewardEndTime": 1645559999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "f92946",
-      "actTopBarText": "元宵限時登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -696,8 +680,6 @@
       "rewardEndTime": 1644350399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "0083ff",
-      "actTopBarText": "喜迎新春簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -711,8 +693,6 @@
       "rewardEndTime": 1644350399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "b91600",
-      "actTopBarText": "限時開採許可",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -726,8 +706,6 @@
       "rewardEndTime": 1644350399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "00cef3",
-      "actTopBarText": "喜迎新春登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -742,8 +720,6 @@
       "rewardEndTime": 1644955199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act18d3",
       "medalGroupId": "medalGroupActivity18d3",
       "isReplicate": false
@@ -758,8 +734,6 @@
       "rewardEndTime": 1643659199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act18d0",
       "medalGroupId": "medalGroupActivity18d0",
       "isReplicate": false
@@ -773,8 +747,6 @@
       "rewardEndTime": 1642017599,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "2719fa",
-      "actTopBarText": "歲暮點雪簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -788,8 +760,6 @@
       "rewardEndTime": 1641412799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "df462d",
-      "actTopBarText": "幸運牆登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -803,8 +773,6 @@
       "rewardEndTime": 1641412799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "2ebf81",
-      "actTopBarText": "新春限時登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -819,8 +787,6 @@
       "rewardEndTime": 1642017599,
       "displayOnHome": false,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act16d5",
       "medalGroupId": "medalGroupActivity16d5",
       "isReplicate": false
@@ -835,8 +801,6 @@
       "rewardEndTime": 1640203199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act17d5",
       "medalGroupId": null,
       "isReplicate": true
@@ -851,8 +815,6 @@
       "rewardEndTime": 1637438399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act15d5",
       "medalGroupId": null,
       "isReplicate": false
@@ -867,8 +829,6 @@
       "rewardEndTime": 1637179199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act15d0",
       "medalGroupId": "medalGroupActivity15d0",
       "isReplicate": false
@@ -883,8 +843,6 @@
       "rewardEndTime": 1635364799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": true
@@ -898,8 +856,6 @@
       "rewardEndTime": 1632945599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -913,8 +869,6 @@
       "rewardEndTime": 1632340799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "ffae00",
-      "actTopBarText": "聯動限時登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -928,8 +882,6 @@
       "rewardEndTime": 1632340799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "e16919",
-      "actTopBarText": "鋒芒將現簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -944,8 +896,6 @@
       "rewardEndTime": 1632945599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act17d0",
       "medalGroupId": null,
       "isReplicate": false
@@ -959,8 +909,6 @@
       "rewardEndTime": 1631131199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "538cff",
-      "actTopBarText": "感謝慶典登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -974,8 +922,6 @@
       "rewardEndTime": 1631131199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "ff6425",
-      "actTopBarText": "感謝慶典簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -990,8 +936,6 @@
       "rewardEndTime": 1630526399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act13d5",
       "medalGroupId": "medalGroupActivity13d5",
       "isReplicate": false
@@ -1006,8 +950,6 @@
       "rewardEndTime": 1628711999,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act13d0",
       "medalGroupId": null,
       "isReplicate": false
@@ -1021,8 +963,6 @@
       "rewardEndTime": 1627243199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "f49c49",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1036,8 +976,6 @@
       "rewardEndTime": 1626897599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1052,8 +990,6 @@
       "rewardEndTime": 1626292799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act12d0",
       "medalGroupId": "medalGroupActivity12d0",
       "isReplicate": false
@@ -1068,8 +1004,6 @@
       "rewardEndTime": 1624478399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": true
@@ -1083,8 +1017,6 @@
       "rewardEndTime": 1623355199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "f46525",
-      "actTopBarText": "周年慶典作戰活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1098,8 +1030,6 @@
       "rewardEndTime": 1624478399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "337eb8",
-      "actTopBarText": "喜迎新春簽到活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1113,8 +1043,6 @@
       "rewardEndTime": 1623268799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "ff0327",
-      "actTopBarText": "喜迎新春登入活動",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1129,8 +1057,6 @@
       "rewardEndTime": 1623268799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act9d0",
       "medalGroupId": null,
       "isReplicate": false
@@ -1144,8 +1070,6 @@
       "rewardEndTime": 1620503999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "467997",
-      "actTopBarText": "獵人補給進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1160,8 +1084,6 @@
       "rewardEndTime": 1620849599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act13d2",
       "medalGroupId": null,
       "isReplicate": true
@@ -1175,8 +1097,6 @@
       "rewardEndTime": 1618430399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "4adac4",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1190,8 +1110,6 @@
       "rewardEndTime": 1619812799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1206,8 +1124,6 @@
       "rewardEndTime": 1619035199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act11d0",
       "medalGroupId": "medalGroupActivity11d0",
       "isReplicate": false
@@ -1222,8 +1138,6 @@
       "rewardEndTime": 1617220799,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": "shop_act10d5",
       "medalGroupId": null,
       "isReplicate": false
@@ -1237,8 +1151,6 @@
       "rewardEndTime": 1614801599,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "ff4128",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1253,8 +1165,6 @@
       "rewardEndTime": 1613591999,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1268,8 +1178,6 @@
       "rewardEndTime": 1612987199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "cb2632",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1284,8 +1192,6 @@
       "rewardEndTime": 1612382399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1299,8 +1205,6 @@
       "rewardEndTime": 1609358399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "006eb6",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1314,8 +1218,6 @@
       "rewardEndTime": 1608753599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1330,8 +1232,6 @@
       "rewardEndTime": 1607543999,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1345,8 +1245,6 @@
       "rewardEndTime": 1605124799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "a778f8",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1361,8 +1259,6 @@
       "rewardEndTime": 1604433599,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1376,8 +1272,6 @@
       "rewardEndTime": 1602619199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "003edc",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1391,8 +1285,6 @@
       "rewardEndTime": 1601409599,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "8d4268",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1407,8 +1299,6 @@
       "rewardEndTime": 1600891199,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1422,8 +1312,6 @@
       "rewardEndTime": 1600286399,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "00b7ee",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1437,8 +1325,6 @@
       "rewardEndTime": 1599076799,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "9e1f28",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1452,8 +1338,6 @@
       "rewardEndTime": 1597867199,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "7AAC0D",
-      "actTopBarText": "限時活動進行中",
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1468,8 +1352,6 @@
       "rewardEndTime": 1597262399,
       "displayOnHome": true,
       "hasStage": true,
-      "actTopBarColor": null,
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
@@ -1483,14 +1365,386 @@
       "rewardEndTime": 1595447999,
       "displayOnHome": false,
       "hasStage": false,
-      "actTopBarColor": "FFD800",
-      "actTopBarText": null,
       "templateShopId": null,
       "medalGroupId": null,
       "isReplicate": false
     }
   },
+  "homeActConfig": {
+    "act17sign": {
+      "actId": "act17sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ffc000",
+      "actTopBarText": "萬類共生簽到活動"
+    },
+    "act10login": {
+      "actId": "act10login",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "51b103",
+      "actTopBarText": "淬火成詩登入活動"
+    },
+    "act28sign": {
+      "actId": "act28sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "4885ff",
+      "actTopBarText": "夏日限時簽到活動"
+    },
+    "act4pray": {
+      "actId": "act4pray",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "df462d",
+      "actTopBarText": "驚奇牆登入活動"
+    },
+    "act3fun": {
+      "actId": "act3fun",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": null,
+      "actTopBarText": null
+    },
+    "act27sign": {
+      "actId": "act27sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "209b74",
+      "actTopBarText": "春季簽到活動"
+    },
+    "act9login": {
+      "actId": "act9login",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "00cef3",
+      "actTopBarText": "喜迎新春登入活動"
+    },
+    "act26sign": {
+      "actId": "act26sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "4885ff",
+      "actTopBarText": "喜迎新春簽到活動"
+    },
+    "act3mine": {
+      "actId": "act3mine",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "cb271f",
+      "actTopBarText": "限時開採許可"
+    },
+    "act25sign": {
+      "actId": "act25sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "986bdc",
+      "actTopBarText": "靜待晴時簽到活動"
+    },
+    "act8login": {
+      "actId": "act8login",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "e79300",
+      "actTopBarText": "濁酒澄心登入活動"
+    },
+    "act3pray": {
+      "actId": "act3pray",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "df462d",
+      "actTopBarText": "幸運牆登入活動"
+    },
+    "act24sign": {
+      "actId": "act24sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "d49e38",
+      "actTopBarText": "吉兆呈祥簽到活動"
+    },
+    "act23sign": {
+      "actId": "act23sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "b3b347",
+      "actTopBarText": "金秋時節簽到活動"
+    },
+    "act22sign": {
+      "actId": "act22sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "dbb15b",
+      "actTopBarText": "感謝慶典簽到活動"
+    },
+    "act7login": {
+      "actId": "act7login",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ff9b00",
+      "actTopBarText": "循光道途登入活動"
+    },
+    "act2mine": {
+      "actId": "act2mine",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "cb271f",
+      "actTopBarText": "限時開採許可"
+    },
+    "act21sign": {
+      "actId": "act21sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "89bc6f",
+      "actTopBarText": "假日悠然簽到活動"
+    },
+    "act20sign": {
+      "actId": "act20sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ff5f27",
+      "actTopBarText": "懷望桑梓簽到活動"
+    },
+    "act19sign": {
+      "actId": "act19sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "0491e8",
+      "actTopBarText": "假日酬賓簽到活動"
+    },
+    "act2pray": {
+      "actId": "act2pray",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "133bda",
+      "actTopBarText": "驚奇牆登入活動"
+    },
+    "act6login": {
+      "actId": "act6login",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "01f3f0",
+      "actTopBarText": "盛夏新星登入活動"
+    },
+    "act17d7": {
+      "actId": "act17d7",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ff7e00",
+      "actTopBarText": "泰拉\n饒舌之夜！"
+    },
+    "act18sign": {
+      "actId": "act18sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "008a67",
+      "actTopBarText": "春季簽到活動"
+    },
+    "act15d1": {
+      "actId": "act15d1",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "f92946",
+      "actTopBarText": "元宵限時登入活動"
+    },
+    "act18d3d3": {
+      "actId": "act18d3d3",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "0083ff",
+      "actTopBarText": "喜迎新春簽到活動"
+    },
+    "act18d3d2": {
+      "actId": "act18d3d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "b91600",
+      "actTopBarText": "限時開採許可"
+    },
+    "act18d3d1": {
+      "actId": "act18d3d1",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "00cef3",
+      "actTopBarText": "喜迎新春登入活動"
+    },
+    "act16d6": {
+      "actId": "act16d6",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "2719fa",
+      "actTopBarText": "歲暮點雪簽到活動"
+    },
+    "act16d5d2": {
+      "actId": "act16d5d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "df462d",
+      "actTopBarText": "幸運牆登入活動"
+    },
+    "act16d5d1": {
+      "actId": "act16d5d1",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "2ebf81",
+      "actTopBarText": "新春限時登入活動"
+    },
+    "act16d5": {
+      "actId": "act16d5",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": null,
+      "actTopBarText": null
+    },
+    "act17d0d2": {
+      "actId": "act17d0d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ffae00",
+      "actTopBarText": "聯動限時登入活動"
+    },
+    "act17d0d1": {
+      "actId": "act17d0d1",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "e16919",
+      "actTopBarText": "鋒芒將現簽到活動"
+    },
+    "act14d0d2": {
+      "actId": "act14d0d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "538cff",
+      "actTopBarText": "感謝慶典登入活動"
+    },
+    "act14d0d1": {
+      "actId": "act14d0d1",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ff6425",
+      "actTopBarText": "感謝慶典簽到活動"
+    },
+    "act13d2d1": {
+      "actId": "act13d2d1",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "f49c49",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act9d4": {
+      "actId": "act9d4",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "f46525",
+      "actTopBarText": "周年慶典作戰活動"
+    },
+    "act9d1d1": {
+      "actId": "act9d1d1",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "337eb8",
+      "actTopBarText": "喜迎新春簽到活動"
+    },
+    "act9d1d2": {
+      "actId": "act9d1d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ff0327",
+      "actTopBarText": "喜迎新春登入活動"
+    },
+    "act13d2d2": {
+      "actId": "act13d2d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "467997",
+      "actTopBarText": "獵人補給進行中"
+    },
+    "act10d6": {
+      "actId": "act10d6",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "4adac4",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act8d2": {
+      "actId": "act8d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": null,
+      "actTopBarText": null
+    },
+    "act6d8": {
+      "actId": "act6d8",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ff4128",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act6d7": {
+      "actId": "act6d7",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "cb2632",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act6d0": {
+      "actId": "act6d0",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "006eb6",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act4d2": {
+      "actId": "act4d2",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "a778f8",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act3d5": {
+      "actId": "act3d5",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "003edc",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act3d7": {
+      "actId": "act3d7",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "8d4268",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act2d8": {
+      "actId": "act2d8",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "00b7ee",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act2d5": {
+      "actId": "act2d5",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "9e1f28",
+      "actTopBarText": "限時活動進行中"
+    },
+    "act1d5": {
+      "actId": "act1d5",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "7AAC0D",
+      "actTopBarText": "限時活動進行中"
+    },
+    "0D5act": {
+      "actId": "0D5act",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "FFD800",
+      "actTopBarText": null
+    }
+  },
   "zoneToActivity": {
+    "act12mini_zone1": "act12mini",
     "act12sre_zone1": "act12sre",
     "act12sre_zone2": "act12sre",
     "act12sre_zone3": "act12sre",
@@ -23978,7 +24232,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 200
         }
@@ -24009,7 +24263,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 200
         }
@@ -24040,7 +24294,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 400
         }
@@ -24071,7 +24325,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 400
         }
@@ -24102,7 +24356,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 600
         }
@@ -24133,7 +24387,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 600
         }
@@ -24164,7 +24418,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 800
         }
@@ -24195,7 +24449,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 800
         }
@@ -24226,7 +24480,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 800
         }
@@ -24257,7 +24511,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 1000
         }
@@ -24288,7 +24542,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 1000
         }
@@ -24319,7 +24573,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "FURN",
+          "type": "NONE",
           "id": "furni_dropS002_abbeyRoad_01",
           "count": 1
         }
@@ -24349,7 +24603,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 400
         }
@@ -24379,7 +24633,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 800
         }
@@ -24409,7 +24663,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_ITEM",
+          "type": "NONE",
           "id": "act1d0_token_gold_rep_1",
           "count": 1200
         }
@@ -25349,7 +25603,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 200
         }
@@ -25379,7 +25633,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 200
         }
@@ -25409,7 +25663,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 400
         }
@@ -25439,7 +25693,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 400
         }
@@ -25469,7 +25723,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 600
         }
@@ -25499,7 +25753,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 600
         }
@@ -25529,7 +25783,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 800
         }
@@ -25559,7 +25813,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 800
         }
@@ -25589,7 +25843,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 800
         }
@@ -25619,7 +25873,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 1000
         }
@@ -25649,7 +25903,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 1000
         }
@@ -25679,7 +25933,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "FURN",
+          "type": "NONE",
           "id": "furni_dropS002_abbeyRoad_01",
           "count": 1
         }
@@ -25709,7 +25963,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 400
         }
@@ -25739,7 +25993,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 800
         }
@@ -25769,7 +26023,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "ACTIVITY_COIN",
+          "type": "NONE",
           "id": "1stact",
           "count": 1200
         }
@@ -25798,7 +26052,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "4006",
           "count": 30
         }
@@ -25827,7 +26081,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "3302",
           "count": 10
         }
@@ -25856,7 +26110,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "CHAR",
+          "type": "NONE",
           "id": "char_282_catap",
           "count": 1
         }
@@ -25885,7 +26139,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "tier4_pioneer",
           "count": 2
         }
@@ -25914,7 +26168,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "30022",
           "count": 6
         }
@@ -25943,7 +26197,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "30032",
           "count": 6
         }
@@ -25972,7 +26226,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "30043",
           "count": 3
         }
@@ -26001,7 +26255,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "tier4_pioneer",
           "count": 2
         }
@@ -26030,7 +26284,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "TKT_RECRUIT",
+          "type": "NONE",
           "id": "7001",
           "count": 3
         }
@@ -26059,7 +26313,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "TKT_RECRUIT",
+          "type": "NONE",
           "id": "7001",
           "count": 5
         }
@@ -26088,7 +26342,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "TKT_GACHA",
+          "type": "NONE",
           "id": "7003",
           "count": 1
         }
@@ -26117,7 +26371,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "tier4_medic",
           "count": 2
         }
@@ -26146,7 +26400,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "GOLD",
+          "type": "NONE",
           "id": "4001",
           "count": 10000
         }
@@ -26175,7 +26429,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "GOLD",
+          "type": "NONE",
           "id": "4001",
           "count": 15000
         }
@@ -26204,7 +26458,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "GOLD",
+          "type": "NONE",
           "id": "4001",
           "count": 20000
         }
@@ -26233,7 +26487,7 @@
       "periodicalPoint": 0,
       "rewards": [
         {
-          "type": "MATERIAL",
+          "type": "NONE",
           "id": "tier4_medic",
           "count": 2
         }
@@ -32854,6 +33108,343 @@
       }
     },
     "CHECKIN_ONLY": {
+      "act17sign": {
+        "checkInList": {
+          "0": {
+            "itemList": [
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              },
+              {
+                "id": "4001",
+                "count": 10000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 1,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "1": {
+            "itemList": [
+              {
+                "id": "randomMaterial_1",
+                "count": 5,
+                "type": "VOUCHER_MGACHA"
+              },
+              {
+                "id": "7001",
+                "count": 5,
+                "type": "TKT_RECRUIT"
+              }
+            ],
+            "order": 2,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "2": {
+            "itemList": [
+              {
+                "id": "4002",
+                "count": 1,
+                "type": "DIAMOND"
+              },
+              {
+                "id": "7002",
+                "count": 5,
+                "type": "TKT_INST_FIN"
+              }
+            ],
+            "order": 3,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "3": {
+            "itemList": [
+              {
+                "id": "randomMaterial_1",
+                "count": 5,
+                "type": "VOUCHER_MGACHA"
+              },
+              {
+                "id": "4003",
+                "count": 300,
+                "type": "DIAMOND_SHD"
+              }
+            ],
+            "order": 4,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "4": {
+            "itemList": [
+              {
+                "id": "7003",
+                "count": 1,
+                "type": "TKT_GACHA"
+              },
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 5,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "5": {
+            "itemList": [
+              {
+                "id": "randomMaterial_1",
+                "count": 5,
+                "type": "VOUCHER_MGACHA"
+              },
+              {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 6,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "6": {
+            "itemList": [
+              {
+                "id": "char_173_slchan@wwf#1",
+                "count": 1,
+                "type": "CHAR_SKIN"
+              },
+              {
+                "id": "3401",
+                "count": 200,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 7,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          }
+        },
+        "apSupplyOutOfDateDict": {
+          "ap_supply_lt_120": 1685303999
+        }
+      },
+      "act28sign": {
+        "checkInList": {
+          "0": {
+            "itemList": [
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              },
+              {
+                "id": "furni_act27d0_prizeWheel_01",
+                "count": 1,
+                "type": "FURN"
+              }
+            ],
+            "order": 1,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "1": {
+            "itemList": [
+              {
+                "id": "furni_act30d0_fan_01",
+                "count": 1,
+                "type": "FURN"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 2,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 1,
+            "isDynItem": false
+          },
+          "2": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "31053",
+                "count": 5,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 3,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "3": {
+            "itemList": [
+              {
+                "id": "mod_update_token_1",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3301",
+                "count": 30,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 4,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "4": {
+            "itemList": [
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              },
+              {
+                "id": "3003",
+                "count": 20,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 5,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "5": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "7001",
+                "count": 5,
+                "type": "TKT_RECRUIT"
+              }
+            ],
+            "order": 6,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "6": {
+            "itemList": [
+              {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "7002",
+                "count": 5,
+                "type": "TKT_INST_FIN"
+              }
+            ],
+            "order": 7,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "7": {
+            "itemList": [
+              {
+                "id": "mod_update_token_1",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 20,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 8,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "8": {
+            "itemList": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 9,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "9": {
+            "itemList": [
+              {
+                "id": "4002",
+                "count": 1,
+                "type": "DIAMOND"
+              },
+              {
+                "id": "3401",
+                "count": 200,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 10,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          }
+        },
+        "apSupplyOutOfDateDict": {
+          "ap_supply_lt_120": 1688932799
+        }
+      },
       "act27sign": {
         "checkInList": {
           "0": {
@@ -32872,7 +33463,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -32890,7 +33482,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -32908,7 +33501,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -32926,7 +33520,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -32944,7 +33539,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -32962,7 +33558,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -32980,7 +33577,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -33005,7 +33603,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -33023,7 +33622,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -33041,7 +33641,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -33059,7 +33660,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -33077,7 +33679,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -33095,7 +33698,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -33113,7 +33717,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -33131,7 +33736,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -33149,7 +33755,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -33167,7 +33774,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -33192,7 +33800,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -33210,7 +33819,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -33228,7 +33838,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -33246,7 +33857,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -33264,7 +33876,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -33282,7 +33895,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -33300,7 +33914,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -33318,7 +33933,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -33336,7 +33952,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -33354,7 +33971,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "10": {
             "itemList": [
@@ -33372,7 +33990,8 @@
             "order": 11,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "11": {
             "itemList": [
@@ -33390,7 +34009,8 @@
             "order": 12,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "12": {
             "itemList": [
@@ -33408,7 +34028,8 @@
             "order": 13,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "13": {
             "itemList": [
@@ -33426,7 +34047,8 @@
             "order": 14,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "14": {
             "itemList": [
@@ -33444,7 +34066,8 @@
             "order": 15,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -33469,7 +34092,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -33487,7 +34111,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -33505,7 +34130,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -33523,7 +34149,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -33541,7 +34168,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -33559,7 +34187,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -33577,7 +34206,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -33602,7 +34232,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -33620,7 +34251,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -33638,7 +34270,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -33656,7 +34289,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -33674,7 +34308,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -33692,7 +34327,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -33710,7 +34346,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -33728,7 +34365,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -33746,7 +34384,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -33764,7 +34403,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -33789,7 +34429,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -33807,7 +34448,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -33825,7 +34467,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -33843,7 +34486,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -33861,7 +34505,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -33879,7 +34524,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -33897,7 +34543,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -33915,7 +34562,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -33933,7 +34581,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 2
+            "showItemOrder": 2,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -33951,7 +34600,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -33976,7 +34626,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -33994,7 +34645,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -34012,7 +34664,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -34030,7 +34683,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -34048,7 +34702,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -34066,7 +34721,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -34084,7 +34740,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -34109,7 +34766,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -34127,7 +34785,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -34145,7 +34804,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -34163,7 +34823,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -34181,7 +34842,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -34199,7 +34861,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -34217,7 +34880,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -34242,7 +34906,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -34260,7 +34925,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -34278,7 +34944,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -34296,7 +34963,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -34314,7 +34982,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -34332,7 +35001,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -34350,7 +35020,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -34368,7 +35039,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -34386,7 +35058,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -34404,7 +35077,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 2
+            "showItemOrder": 2,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -34429,7 +35103,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -34447,7 +35122,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -34465,7 +35141,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -34483,7 +35160,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -34501,7 +35179,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -34519,7 +35198,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -34537,7 +35217,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 2
+            "showItemOrder": 2,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -34562,7 +35243,8 @@
             "order": 1,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -34580,7 +35262,8 @@
             "order": 2,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -34598,7 +35281,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -34616,7 +35300,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -34634,7 +35319,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -34652,7 +35338,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -34670,7 +35357,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -34688,7 +35376,8 @@
             "order": 8,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -34706,7 +35395,8 @@
             "order": 9,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -34724,7 +35414,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -34749,7 +35440,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -34767,7 +35459,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -34785,7 +35478,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -34803,7 +35497,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -34821,7 +35516,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -34839,7 +35535,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -34857,7 +35554,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -34875,7 +35573,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -34893,7 +35592,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -34911,7 +35611,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -34936,7 +35637,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -34954,7 +35656,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -34972,7 +35675,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -34990,7 +35694,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -35008,7 +35713,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -35026,7 +35732,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -35044,7 +35751,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -35062,7 +35770,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -35080,7 +35789,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -35098,7 +35808,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "10": {
             "itemList": [
@@ -35116,7 +35827,8 @@
             "order": 11,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "11": {
             "itemList": [
@@ -35134,7 +35846,8 @@
             "order": 12,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "12": {
             "itemList": [
@@ -35152,7 +35865,8 @@
             "order": 13,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           },
           "13": {
             "itemList": [
@@ -35170,7 +35884,8 @@
             "order": 14,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "14": {
             "itemList": [
@@ -35188,7 +35903,8 @@
             "order": 15,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -35213,7 +35929,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -35231,7 +35948,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -35249,7 +35967,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -35267,7 +35986,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -35285,7 +36005,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -35303,7 +36024,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -35321,7 +36043,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 1,
-            "showItemOrder": 1
+            "showItemOrder": 1,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -35346,7 +36069,8 @@
             "order": 1,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -35364,7 +36088,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -35382,7 +36107,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -35400,7 +36126,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -35418,7 +36145,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -35436,7 +36164,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -35454,7 +36183,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -35472,7 +36202,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -35490,7 +36221,8 @@
             "order": 9,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -35508,7 +36240,8 @@
             "order": 10,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -35533,7 +36266,8 @@
             "order": 1,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -35551,7 +36285,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -35569,7 +36304,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -35587,7 +36323,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -35605,7 +36342,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -35623,7 +36361,8 @@
             "order": 6,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -35641,7 +36380,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -35671,7 +36411,8 @@
             "order": 1,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -35694,7 +36435,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -35717,7 +36459,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -35740,7 +36483,8 @@
             "order": 4,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -35763,7 +36507,8 @@
             "order": 5,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -35786,7 +36531,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -35809,7 +36555,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -35832,7 +36579,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -35855,7 +36603,8 @@
             "order": 9,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -35878,7 +36627,8 @@
             "order": 10,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "10": {
             "itemList": [
@@ -35901,7 +36651,8 @@
             "order": 11,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "11": {
             "itemList": [
@@ -35924,7 +36675,8 @@
             "order": 12,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "12": {
             "itemList": [
@@ -35947,7 +36699,8 @@
             "order": 13,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "13": {
             "itemList": [
@@ -35970,7 +36723,8 @@
             "order": 14,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -35990,7 +36744,8 @@
             "order": 1,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36003,7 +36758,8 @@
             "order": 2,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -36016,7 +36772,8 @@
             "order": 3,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -36029,7 +36786,8 @@
             "order": 4,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -36042,7 +36800,8 @@
             "order": 5,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -36055,7 +36814,8 @@
             "order": 6,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -36068,7 +36828,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -36081,7 +36842,8 @@
             "order": 8,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -36094,7 +36856,8 @@
             "order": 9,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -36119,7 +36882,8 @@
             "order": 1,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36137,7 +36901,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -36155,7 +36920,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -36173,7 +36939,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -36191,7 +36958,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -36209,7 +36977,8 @@
             "order": 6,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -36222,7 +36991,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -36247,7 +37017,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36265,7 +37036,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -36283,7 +37055,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -36301,7 +37074,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -36319,7 +37093,8 @@
             "order": 5,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -36337,7 +37112,8 @@
             "order": 6,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -36350,7 +37126,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -36368,7 +37145,8 @@
             "order": 8,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -36386,7 +37164,8 @@
             "order": 9,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -36404,7 +37183,8 @@
             "order": 10,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -36429,7 +37209,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36447,7 +37228,8 @@
             "order": 2,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -36465,7 +37247,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -36483,7 +37266,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -36501,7 +37285,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -36519,7 +37304,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -36537,7 +37323,8 @@
             "order": 7,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "7": {
             "itemList": [
@@ -36555,7 +37342,8 @@
             "order": 8,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "8": {
             "itemList": [
@@ -36573,7 +37361,8 @@
             "order": 9,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "9": {
             "itemList": [
@@ -36591,7 +37380,8 @@
             "order": 10,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -36611,7 +37401,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36624,7 +37415,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -36642,7 +37434,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -36660,7 +37453,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -36673,7 +37467,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -36691,7 +37486,8 @@
             "order": 6,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -36709,7 +37505,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -36729,7 +37526,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36747,7 +37545,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -36765,7 +37564,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -36783,7 +37583,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -36796,7 +37597,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -36814,7 +37616,8 @@
             "order": 6,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -36832,7 +37635,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -36852,7 +37656,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36865,7 +37670,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -36883,7 +37689,8 @@
             "order": 3,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -36896,7 +37703,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -36909,7 +37717,8 @@
             "order": 5,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -36927,7 +37736,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -36945,7 +37755,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -36970,7 +37781,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -36988,7 +37800,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -37001,7 +37814,8 @@
             "order": 3,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -37019,7 +37833,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -37037,7 +37852,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -37055,7 +37871,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -37078,7 +37895,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -37103,7 +37921,8 @@
             "order": 1,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "1": {
             "itemList": [
@@ -37121,7 +37940,8 @@
             "order": 2,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "2": {
             "itemList": [
@@ -37139,7 +37959,8 @@
             "order": 3,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "3": {
             "itemList": [
@@ -37157,7 +37978,8 @@
             "order": 4,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "4": {
             "itemList": [
@@ -37175,7 +37997,8 @@
             "order": 5,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "5": {
             "itemList": [
@@ -37193,7 +38016,8 @@
             "order": 6,
             "color": 0,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           },
           "6": {
             "itemList": [
@@ -37216,7 +38040,8 @@
             "order": 7,
             "color": 1,
             "keyItem": 0,
-            "showItemOrder": 0
+            "showItemOrder": 0,
+            "isDynItem": false
           }
         },
         "apSupplyOutOfDateDict": {
@@ -65030,8 +65855,10 @@
                     "buildableMask": 1,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65070,8 +65897,10 @@
                     "buildableMask": 3,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65087,8 +65916,10 @@
                     "buildableMask": 2,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65119,8 +65950,10 @@
                     "buildableMask": 3,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65155,8 +65988,10 @@
                     "buildableMask": 3,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65191,8 +66026,10 @@
                     "buildableMask": 3,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65223,8 +66060,10 @@
                     "buildableMask": 3,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65259,8 +66098,10 @@
                     "buildableMask": 3,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65299,8 +66140,10 @@
                     "buildableMask": 3,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65339,8 +66182,10 @@
                     "buildableMask": 1,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -65403,8 +66248,10 @@
                     "buildableMask": 2,
                     "charIdFilter": null,
                     "enemyIdFilter": null,
+                    "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
-                    "tileKeyFilter": null
+                    "tileKeyFilter": null,
+                    "groupTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -66611,7 +67458,19 @@
         }
       }
     },
+    "TYPE_ACT20SIDE": {},
     "LOGIN_ONLY": {
+      "act10login": {
+        "description": "<color value=#898989>該物品過期時間</color>\n<color value=#54d600>2023/07/04 03:59</color>",
+        "itemList": [
+          {
+            "id": "LIMITED_TKT_GACHA_10_3001",
+            "count": 1,
+            "type": "LIMITED_TKT_GACHA_10"
+          }
+        ],
+        "apSupplyOutOfDateDict": {}
+      },
       "act9login": {
         "description": "<color value=#898989>該物品過期時間</color>\n<color value=#f6a800>2023/02/14 03:59</color>",
         "itemList": [
@@ -66713,6 +67572,40 @@
       }
     },
     "MINISTORY": {
+      "act12mini": {
+        "tokenItemId": "act12mini_token_component",
+        "zoneDescList": {
+          "act12mini_zone1": {
+            "zoneId": "act12mini_zone1",
+            "unlockText": "完成主線關卡1-10解鎖"
+          }
+        },
+        "favorUpList": {},
+        "extraDropZoneList": [
+          "main_0",
+          "main_1",
+          "main_2",
+          "main_3",
+          "main_4",
+          "main_5",
+          "main_6",
+          "main_7",
+          "main_8",
+          "main_9",
+          "main_10",
+          "weekly_1",
+          "weekly_2",
+          "weekly_3",
+          "weekly_4",
+          "weekly_5",
+          "weekly_6",
+          "weekly_7",
+          "weekly_8",
+          "weekly_9",
+          "weekly_10",
+          "act12mini_zone1"
+        ]
+      },
       "act11mini": {
         "tokenItemId": "act11mini_token_card",
         "zoneDescList": {
@@ -67972,9 +68865,13 @@
           ]
         }
       }
-    }
+    },
+    "BOSS_RUSH": {}
   },
   "activityItems": {
+    "act12mini": [
+      "act12mini_token_component"
+    ],
     "act12sre": [
       "act12side_token_coupon_rep_1",
       "act12side_point_cmemomedal_rep_1"
@@ -68261,6 +69158,10 @@
       1617262200,
       1618430399
     ],
+    "act12mini": [
+      1684216800,
+      1684785599
+    ],
     "act11mini": [],
     "act10mini": [
       1668664800,
@@ -68289,6 +69190,11 @@
     ]
   },
   "dynActs": {
+    "act4pray": {
+      "slotCount": 12,
+      "rule1": "用盡當日次數選取的所有心動券中，合成玉數量最多的1張心動券為當日最終獎勵。",
+      "rule2": "當日心動券合成玉獎勵不足400時，次日可選擇3張心動券。"
+    },
     "act3pray": {
       "slotCount": 12,
       "rule1": "用盡當日次數選取的所有幸運籤中，合成玉數量最多的1張幸運籤為當日最終獎勵。",
@@ -70430,6 +71336,21 @@
         }
       ],
       "startTs": 1683187200
+    },
+    {
+      "id": "dis_mini_12",
+      "type": "ACTIVITY",
+      "funcId": "act12mini",
+      "endTs": 1684785599,
+      "sortId": 29,
+      "itemId": "act12mini_token_component",
+      "timeNodes": [
+        {
+          "title": "<日暮尋路>活動已開放",
+          "ts": 1684216800
+        }
+      ],
+      "startTs": 1684216800
     }
   ],
   "actFunData": {
@@ -70863,6 +71784,19 @@
       "killEnemyDes": "挨打的倒楣鬼",
       "killBossDes": "挨毒打的倒楣鬼頭子",
       "totalTime": "一共玩了這麼久"
+    }
+  },
+  "carData": {
+    "carDict": {},
+    "runeDataDict": {},
+    "cartStages": [],
+    "constData": {
+      "carItemUnlockStageId": null,
+      "carItemUnlockDesc": null,
+      "spLevelUnlockItemCnt": 0,
+      "mileStoneBaseInterval": 0,
+      "spStageIds": null,
+      "carFrameDefaultColor": null
     }
   },
   "kvSwitchData": {

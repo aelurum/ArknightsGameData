@@ -871,9 +871,9 @@
     "char_500_noirc",
     "char_503_rang"
   ],
-  "attackMax": 1210.0,
-  "defMax": 826.0,
-  "hpMax": 4225.0,
+  "attackMax": 2000.0,
+  "defMax": 1000.0,
+  "hpMax": 6000.0,
   "reMax": 100.0,
   "diamondToShdRate": 180,
   "requestSameFriendCD": 14400,
@@ -931,6 +931,11 @@
     "lv.sp": "<color=#fd4600>{0}</color>",
     "lv.ez": "<color=#0098dc>{0}</color>",
     "ro1.get": "<color=#E5B684>{0}</color>",
+    "ro2.lose": "<color=#FF6E6E>{0}</color>",
+    "ro2.get": "<color=#59DDDC>{0}</color>",
+    "ro2.virtue": "<color=#0098dc>{0}</color>",
+    "ro2.mutation": "<color=#9266b2>{0}</color>",
+    "ro2.desc": "<color=#6d6d6d>{0}</color>",
     "rc.title": "<color=#FFFFFF>{0}</color>",
     "rc.subtitle": "<color=#FFC90E>{0}</color>",
     "rc.em": "<color=#FF7F27>{0}</color>",
@@ -961,6 +966,7 @@
     "act.missiontips": "<color=#d9bd6a>{0}</color>",
     "lv.hdbg": "<color=#7ba61f>{0}</color>",
     "tu.ht": "<color=#ff8d00>{0}</color>",
+    "lv.act20side": "<color=#F7BC44>{0}</color>",
     "act.spreward": "<color=#FF5001>{0}</color>",
     "act.timelimit": "<color=#ffe300>{0}</color>",
     "vc.text": "<color=#898989>{0}</color>",
@@ -1203,6 +1209,11 @@
       "termName": "法術脆弱",
       "description": "受到的法術傷害提升相應比例（同名效果取最高）"
     },
+    "ba.dying": {
+      "termId": "ba.dying",
+      "termName": "重傷",
+      "description": "移速下降且無法被阻擋，10秒後自然死亡，被擊殺後使擊殺者回復數點技力"
+    },
     "cc.bd_A_1": {
       "termId": "cc.bd_A_1",
       "termName": "念力",
@@ -1311,7 +1322,7 @@
     "cc.g.sp": {
       "termId": "cc.g.sp",
       "termName": "異格",
-      "description": "包含以下幹員\n炎獄炎熔、濁心斯卡蒂、假日威龍陳、耀騎士臨光、寒芒克洛絲、歸溟幽靈鯊、濯塵芙蓉"
+      "description": "包含所有異格幹員"
     },
     "cc.g.abyssal": {
       "termId": "cc.g.abyssal",
@@ -1347,6 +1358,21 @@
       "termId": "cc.c.abyssal2_3",
       "termName": "特殊疊加規則",
       "description": "無法與<$cc.m.var2><@cc.rem>配合意識</></>進行疊加，且優先生效\n無法與<$cc.m.pow1><@cc.rem>自動化·α</></>、<$cc.m.pow2><@cc.rem>自動化·β</></>、<$cc.m.pow3><@cc.rem>仿生海龍</></>進行疊加，且清零效果優先生效"
+    },
+    "cc.c.room1": {
+      "termId": "cc.c.room1",
+      "termName": "部分設施",
+      "description": "包含以下設施\n發電站、人力辦公室、會客室"
+    },
+    "cc.c.room2": {
+      "termId": "cc.c.room2",
+      "termName": "其他設施",
+      "description": "包含以下設施\n發電站、製造站、貿易站、人力辦公室、會客室"
+    },
+    "cc.c.skill": {
+      "termId": "cc.c.skill",
+      "termName": "部分技能",
+      "description": "包含以下技能\n左膀右臂、S.W.E.E.P.、零食網路、清理協定、替身、必要責任、護衛、小小的領袖、獨善其身"
     },
     "cc.t.strong2": {
       "termId": "cc.t.strong2",
@@ -1393,6 +1419,11 @@
       "termName": "萊茵科技類技能",
       "description": "包含以下技能\n萊茵科技·α、萊茵科技·β"
     },
+    "cc.sk.manu3": {
+      "termId": "cc.sk.manu3",
+      "termName": "紅松騎士團類技能",
+      "description": "包含以下技能\n紅松騎士團·α、紅松騎士團·β"
+    },
     "cc.tag.op": {
       "termId": "cc.tag.op",
       "termName": "作業平台",
@@ -1405,6 +1436,6 @@
     }
   },
   "storyReviewUnlockItemLackTip": "事相碎片數量不足，請前往採購憑證區或活動期間商店獲取",
-  "dataVersion": "28.3.0",
-  "resPrefVersion": "29d0d0"
+  "dataVersion": "29.1.0",
+  "resPrefVersion": "31d0d0"
 }

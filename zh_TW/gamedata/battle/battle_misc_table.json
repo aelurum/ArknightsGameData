@@ -215,6 +215,16 @@
       "sceneId": "Obt/Main/level_main_10-15",
       "hookedMapPreviewId": "main_10-15"
     },
+    "Obt/Main/level_easy_11-15": {
+      "levelId": "Obt/Main/level_main_11-15",
+      "sceneId": "Obt/Main/level_main_11-15",
+      "hookedMapPreviewId": "main_11-15"
+    },
+    "Obt/Main/level_easy_11-17": {
+      "levelId": "Obt/Main/level_main_11-17",
+      "sceneId": "Obt/Main/level_main_11-17",
+      "hookedMapPreviewId": "main_11-17"
+    },
     "Obt/Main/level_easy_sub_09-1-1": {
       "levelId": "Obt/Main/level_sub_09-1-1",
       "sceneId": "Obt/Main/level_sub_09-1-1",

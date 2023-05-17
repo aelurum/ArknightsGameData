@@ -489,7 +489,7 @@
       "iconId": "LMTGS_COIN_2701",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 10016,
+      "sortId": 10017,
       "usage": "新型招聘合約所約定的一種時限貨幣，累積一定數量後可在指定時期內招聘指定幹員。",
       "obtainApproach": "幹員入職的饋贈",
       "classifyType": "NORMAL",
@@ -1441,6 +1441,22 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "voucher_chipPack": {
+      "itemId": "voucher_chipPack",
+      "name": "晶片組自助列印盒",
+      "description": "在我們積極進行產品更新換代時，困難正不斷浮現，其中急需解決的問題之一，是......訓練數據不足......",
+      "rarity": 4,
+      "iconId": "voucher_chipPack",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 60002,
+      "usage": "已集成訓練記錄和相關材料的一次性複合自助列印器械，只需輕輕一按，就可立即列印任意晶片組一塊。",
+      "obtainApproach": "活動獲得",
+      "classifyType": "CONSUME",
+      "itemType": "OPTIONAL_VOUCHER_PICK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "voucher_chip": {
       "itemId": "voucher_chip",
       "name": "晶片自助列印盒",
@@ -1449,24 +1465,8 @@
       "iconId": "voucher_chip",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 60001,
+      "sortId": 60003,
       "usage": "已集成訓練記錄和相關材料的一次性自助列印器械，只需輕輕一按，就可立即列印任意晶片一塊。",
-      "obtainApproach": "活動獲得",
-      "classifyType": "CONSUME",
-      "itemType": "OPTIONAL_VOUCHER_PICK",
-      "stageDropList": [],
-      "buildingProductList": []
-    },
-    "voucher_chipPack": {
-      "itemId": "voucher_chipPack",
-      "name": "晶片組自助列印盒",
-      "description": "在我們積極進行產品更新換代時，困難正不斷浮現，其中急需解決的問題之一，是......訓練數據不足......",
-      "rarity": 2,
-      "iconId": "voucher_chipPack",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 60002,
-      "usage": "已集成訓練記錄和相關材料的一次性複合自助列印器械，只需輕輕一按，就可立即列印任意晶片組一塊。",
       "obtainApproach": "活動獲得",
       "classifyType": "CONSUME",
       "itemType": "OPTIONAL_VOUCHER_PICK",
@@ -1737,7 +1737,7 @@
       "iconId": "randomDiamondShd_1",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 60107,
+      "sortId": 60108,
       "usage": "分發給羅德島全員的紅包，數額隨機，飽含著對新年的祝福。",
       "obtainApproach": "贈送",
       "classifyType": "CONSUME",
@@ -1753,7 +1753,7 @@
       "iconId": "randomDiamondShd_2",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 60108,
+      "sortId": 60109,
       "usage": "分發給羅德島全員的禮盒，數額隨機，飽含著慶典到來的喜悅。",
       "obtainApproach": "贈送",
       "classifyType": "CONSUME",
@@ -2191,50 +2191,473 @@
       ],
       "buildingProductList": []
     },
-    "30011": {
-      "itemId": "30011",
-      "name": "源岩",
-      "description": "富含有機物，常見於源石揮發殆盡後的地區。相對源石來說是較為容易採集的材料。",
+    "30051": {
+      "itemId": "30051",
+      "name": "雙酮",
+      "description": "極少量的非單酮製劑，透過再處理後，工程幹員將藉由其發生的化合反應轉變過程中的固化現象，來黏結其它穩定結構。",
       "rarity": 0,
-      "iconId": "MTL_SL_G1",
+      "iconId": "MTL_SL_KETONE1",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100015,
-      "usage": "從地表開採出的岩石，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "sortId": 100049,
+      "usage": "極少量的工業用有機化合物。可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act15side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_03",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act13side_01",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act13side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act9mini_01",
-          "occPer": "ALWAYS"
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act18d3_01",
-          "occPer": "ALMOST"
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_03",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act18d3_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16d5_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act16d5_06",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_03",
+          "stageId": "act15d0_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act17d0_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act17d0_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12d0_03",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act9d0_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18d0_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11d0_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act7d5_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act19side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "sub_02-09",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_01-06",
+          "occPer": "ALMOST"
+        }
+      ],
+      "buildingProductList": []
+    },
+    "30052": {
+      "itemId": "30052",
+      "name": "酮凝集",
+      "description": "經過特殊處理後產出的少量多態酮製劑，易於閉合的分子構造能將原本繁雜的處理工藝簡化為單純的化學反應，當然，也需要一定的技術支援。",
+      "rarity": 1,
+      "iconId": "MTL_SL_KETONE2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100048,
+      "usage": "少量的工業用有機化合物。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act15side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act10d5_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act11d0_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13d5_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act17d0_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act15d0_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act16d5_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18d0_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18d3_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act13side_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act14side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act4d0_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "a001_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act19side_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act10mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "sub_07-1-2",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "sub_06-2-1",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "main_08-08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_07-16",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_07-10",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_06-14",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_03-07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "sub_02-01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_10-08",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "tough_10-08",
+          "occPer": "ALWAYS"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "22"
+        }
+      ]
+    },
+    "30053": {
+      "itemId": "30053",
+      "name": "酮凝集組",
+      "description": "進一步脫烴處理後得到的中等量酮製劑。製劑接觸空氣後易與空氣中的一些非氧分子發生反應。所以在處理過程中，工程幹員理當精準操作，以免浪費材料。",
+      "rarity": 2,
+      "iconId": "MTL_SL_KETONE3",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100047,
+      "usage": "中等量的工業用有機化合物。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act11mini_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18d0_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15d0_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13d0_07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11d0_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act6d5_06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_03-01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_04-05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_06-07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_07-12",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_08-17",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_10-03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_10-03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "sub_09-1-1",
+          "occPer": "OFTEN"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "23"
+        }
+      ]
+    },
+    "30054": {
+      "itemId": "30054",
+      "name": "酮陣列",
+      "description": "由工程幹員嚴格監控的大量不穩定實驗性酮製劑。是高級的工業材料之一，運用時也請多加小心。",
+      "rarity": 3,
+      "iconId": "MTL_SL_KETONE4",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100046,
+      "usage": "大量的工業用有機化合物。可用於多種強化場合，也常作為製作聚合劑的原料之一。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_04-05",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_05-08",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "sub_09-1-1",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "24"
+        }
+      ]
+    },
+    "30041": {
+      "itemId": "30041",
+      "name": "異鐵碎片",
+      "description": "大規模金屬原料加工的副產物，因其可塑性強、難以被氧化的特性，常被用於材料金屬熔煉與階段性再處理。",
+      "rarity": 0,
+      "iconId": "MTL_SL_IRON1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100045,
+      "usage": "普普通通的工業材料。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act15side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18d3_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18d3_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act16d5_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15d5_02",
           "occPer": "ALWAYS"
         },
         {
@@ -2243,22 +2666,14 @@
         },
         {
           "stageId": "act17d0_01",
-          "occPer": "ALMOST"
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act17d0_02",
-          "occPer": "ALMOST"
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act17d0_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13d5_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13d0_02",
+          "stageId": "act13d5_01",
           "occPer": "ALWAYS"
         },
         {
@@ -2266,160 +2681,144 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act9d0_01",
+          "stageId": "act9d0_03",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act18d0_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act6d5_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act11mini_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act19side_01",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act11d0_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act10d5_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13side_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act4d0_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "a001_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act14side_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act11mini_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act19side_01",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act19side_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act18side_01",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act18side_02",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act16side_01",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act16side_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act14side_03",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act16side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act10mini_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15side_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15side_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act14side_01",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act10mini_01",
-          "occPer": "USUAL"
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "sub_02-05",
+          "stageId": "act10mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "sub_02-08",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "main_00-09",
-          "occPer": "ALWAYS"
+          "stageId": "main_01-03",
+          "occPer": "ALMOST"
         }
       ],
       "buildingProductList": []
     },
-    "30012": {
-      "itemId": "30012",
-      "name": "固源岩",
-      "description": "內含有密集的微孔，常作為源石氣體分解物的吸附劑。多用於防護夾層。",
+    "30042": {
+      "itemId": "30042",
+      "name": "異鐵",
+      "description": "在少數惰化流程中，異鐵碎片偶爾會產生相變，聚合為異鐵。一般認為達到此量級的異鐵產物才是異鐵較為穩定的形態。",
       "rarity": 1,
-      "iconId": "MTL_SL_G2",
+      "iconId": "MTL_SL_IRON2",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100014,
-      "usage": "從地表開採出的岩石固塊，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "sortId": 100044,
+      "usage": "罕見的工業材料。可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act13side_06",
+          "stageId": "act10mini_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act7d5_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act10d5_04",
           "occPer": "ALWAYS"
         },
         {
           "stageId": "act9d0_04",
-          "occPer": "ALWAYS"
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act12d0_04",
-          "occPer": "ALMOST"
+          "stageId": "act12d0_05",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act13d5_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act17d0_06",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act17d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act16d5_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act16d5_04",
+          "stageId": "act16d5_07",
           "occPer": "ALMOST"
         },
         {
@@ -2431,992 +2830,186 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act11d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act6d5_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act14side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act16side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18side_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act11mini_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "sub_06-1-2",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_07-14",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_05-10",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "sub_02-12",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_01-07",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "sub_05-1-1",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "sub_03-3-2",
-          "occPer": "USUAL"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "34"
-        }
-      ]
-    },
-    "30013": {
-      "itemId": "30013",
-      "name": "固源岩組",
-      "description": "固源岩的壓縮定型產物，可自然形成。易碎，隨著工業實力的提升，採集到更加完整的固源岩組已不成問題。只是在分類存放時容易和其它用途的石料搞混。",
-      "rarity": 2,
-      "iconId": "MTL_SL_G3",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100013,
-      "usage": "從地表開採出的岩石固塊組，可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act15side_07",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act8mini_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act7mini_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act18d3_07",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act16d5_10",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act12d0_06",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_02-04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_04-06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_06-05",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_07-01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-05",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_08-03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_09-11",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_10-05",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "tough_10-05",
-          "occPer": "USUAL"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "35"
-        }
-      ]
-    },
-    "30014": {
-      "itemId": "30014",
-      "name": "提純源岩",
-      "description": "高度提純後的源岩展現出了不同於原料的型態，其工藝消耗與提純成本也急劇上升。無論是誰，看著規則的切割面都會不禁發出感慨吧。這就是工業與自然結合的魅力。",
-      "rarity": 3,
-      "iconId": "MTL_SL_G4",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100012,
-      "usage": "從地表開採出的岩石固塊組提純出的物質，可用於多種強化場合，也常作為製作聚合劑的原料之一。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "main_04-06",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_07-01",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_08-03",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_09-11",
-          "occPer": "SOMETIMES"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "36"
-        }
-      ]
-    },
-    "30061": {
-      "itemId": "30061",
-      "name": "破損裝置",
-      "description": "一些殘破的裝置。這些裝置曾被拼裝在敵人的武器和防具上，經歷了激烈的戰鬥後已經損壞，不過其內部元件依舊具備一定的使用價值。",
-      "rarity": 0,
-      "iconId": "MTL_SL_BOSS1",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100019,
-      "usage": "收繳來的破損機械裝置，可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act14side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act8mini_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act7mini_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act18d3_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d3_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d0_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16d5_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15d5_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act17d0_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act17d0_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13d5_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13d0_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act12d0_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act9d0_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act11d0_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15d0_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "a001_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act14side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act11mini_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act19side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act7d5_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act16side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_02-03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_01-05",
-          "occPer": "USUAL"
-        }
-      ],
-      "buildingProductList": []
-    },
-    "30062": {
-      "itemId": "30062",
-      "name": "裝置",
-      "description": "一套相對完整的裝置，含有大量密集的可用電子元件。為了迎合輕便實用的設計，主機板寸土寸金的空間被塞的滿滿當當。",
-      "rarity": 1,
-      "iconId": "MTL_SL_BOSS2",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100018,
-      "usage": "收繳來的常規機械裝置，可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
           "stageId": "act13side_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13side_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "a001_03",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act9d0_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12d0_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13d0_05",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13d5_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act17d0_06",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15d0_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15d5_05",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act16d5_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d0_05",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act7mini_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act8mini_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act9mini_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act6d5_05",
+          "stageId": "act16side_05",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act16side_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act18side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act19side_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act11mini_05",
+          "stageId": "act18side_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act11d0_05",
+          "stageId": "act19side_04",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_08-09",
+          "stageId": "act12mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act4d0_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_08-12",
           "occPer": "USUAL"
         },
         {
-          "stageId": "main_06-10",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_01-12",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_10-03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_09-02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "tough_10-03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "sub_05-3-1",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "sub_03-2-2",
+          "stageId": "main_07-09",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "main_06-01",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "main_05-07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_02-01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_09-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "sub_03-2-1",
+          "occPer": "ALWAYS"
         }
       ],
       "buildingProductList": [
         {
           "roomType": "WORKSHOP",
-          "formulaId": "19"
+          "formulaId": "25"
         }
       ]
     },
-    "30063": {
-      "itemId": "30063",
-      "name": "全新裝置",
-      "description": "一套全新裝配而成的裝置，透過重構同類型裝置的結構，主機板原本一直存在的空間緊張的問題得到了解決，當然啟動時的能耗要求也變高了。",
+    "30043": {
+      "itemId": "30043",
+      "name": "異鐵組",
+      "description": "加工過程中，多塊異鐵在極少數非人為因素影響下，偶然產生的異鐵組合，硬度下降，純度進一步上升。",
       "rarity": 2,
-      "iconId": "MTL_SL_BOSS3",
+      "iconId": "MTL_SL_IRON3",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100017,
-      "usage": "收繳來的全新機械裝置，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "sortId": 100043,
+      "usage": "珍貴的工業材料。可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act15side_06",
+          "stageId": "act9mini_06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15d0_08",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18d3_09",
+          "stageId": "act13d0_08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act9d0_08",
           "occPer": "USUAL"
         },
         {
-          "stageId": "main_03-04",
+          "stageId": "act10d5_06",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_04-10",
+          "stageId": "main_02-08",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_05-10",
+          "stageId": "main_05-05",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_06-14",
+          "stageId": "main_06-09",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_07-07",
+          "stageId": "main_07-16",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_07-13",
+          "stageId": "main_09-15",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_08-14",
+          "stageId": "main_10-10",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_09-08",
+          "stageId": "tough_10-10",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "sub_04-1-1",
           "occPer": "OFTEN"
         }
       ],
       "buildingProductList": [
         {
           "roomType": "WORKSHOP",
-          "formulaId": "20"
+          "formulaId": "26"
         }
       ]
     },
-    "30064": {
-      "itemId": "30064",
-      "name": "改量裝置",
-      "description": "經過大量私自改造的裝置，是極大擴充了容量後的版本，大幅提升性能的同時犧牲了穩定性，從中能感受到製作者所投入的狂熱與執著......",
+    "30044": {
+      "itemId": "30044",
+      "name": "異鐵塊",
+      "description": "在極為苛刻的條件下，由多套異鐵組熔鑄成型的異鐵塊。已知異鐵材料中最為穩定也最為稀少的形式，作為原材料，足以打破現有製品運用領域的疆界。",
       "rarity": 3,
-      "iconId": "MTL_SL_BOSS4",
+      "iconId": "MTL_SL_IRON4",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100016,
-      "usage": "收繳來的高等機械裝置，可用於多種強化場合，也常作為製作雙極納米片的原料之一。",
+      "sortId": 100042,
+      "usage": "價值高昂的工業材料。可用於多種強化場合，也常作為製作聚合劑的原料之一。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "main_04-10",
+          "stageId": "main_05-05",
           "occPer": "SOMETIMES"
         },
         {
-          "stageId": "main_07-07",
-          "occPer": "SOMETIMES"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "21"
-        }
-      ]
-    },
-    "30031": {
-      "itemId": "30031",
-      "name": "酯原料",
-      "description": "近代工業中至關重要的材料之一，許多現代產品的誕生都歸功於它的出現。當然了，這只是原料，幾乎派不上什麼大用場。",
-      "rarity": 0,
-      "iconId": "MTL_SL_RUSH1",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100023,
-      "usage": "工業製造所需的酯原料，可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act14side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d3_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act18d3_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act18d0_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act16d5_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15d0_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act17d0_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act17d0_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13d5_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act12d0_02",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act9d0_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act11d0_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act14side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act6d5_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "a001_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act11mini_01",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act11mini_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act19side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "sub_02-07",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_00-11",
-          "occPer": "ALWAYS"
-        }
-      ],
-      "buildingProductList": []
-    },
-    "30032": {
-      "itemId": "30032",
-      "name": "聚酸酯",
-      "description": "雖然強度上還略有不足，但已經可以用來製作我們所需要的部分基礎物件。同時是一些緩釋藥物中的常用成分。",
-      "rarity": 1,
-      "iconId": "MTL_SL_RUSH2",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100022,
-      "usage": "工業製造所需的零散聚酸酯，可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act14side_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act11d0_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act12d0_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act17d0_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15d0_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15d5_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act16d5_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act18d3_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13side_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "a001_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15side_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act19side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act7d5_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_08-04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_06-08",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_06-05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_01-08",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "main_10-14",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "tough_10-14",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "sub_05-2-1",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "sub_03-1-2",
-          "occPer": "ALWAYS"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "28"
-        }
-      ]
-    },
-    "30033": {
-      "itemId": "30033",
-      "name": "聚酸酯組",
-      "description": "進一步加工後的材料，符合通用標準，能夠滿足市面上絕大多數的需求。可以用於加工一些特殊材料。",
-      "rarity": 2,
-      "iconId": "MTL_SL_RUSH3",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100021,
-      "usage": "工業製造所需的一組聚酸酯，可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act19side_06",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act10mini_07",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act14side_07",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18d0_06",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act16d5_09",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15d5_07",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13d5_07",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act10d5_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act4d0_05",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_02-06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_03-08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_06-04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_09-06",
-          "occPer": "OFTEN"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "29"
-        }
-      ]
-    },
-    "30034": {
-      "itemId": "30034",
-      "name": "聚酸酯塊",
-      "description": "精煉提純後的材料。作為商品，主要面向的客戶是對原材料有極高要求的組織和科研機構。也許會成為新一代材料的試金石也說不定哦。",
-      "rarity": 3,
-      "iconId": "MTL_SL_RUSH4",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100020,
-      "usage": "工業製造所需的成塊聚酸酯，可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "main_03-08",
+          "stageId": "main_09-15",
           "occPer": "SOMETIMES"
         },
         {
-          "stageId": "main_06-04",
+          "stageId": "main_10-10",
           "occPer": "SOMETIMES"
         },
         {
-          "stageId": "main_09-06",
+          "stageId": "tough_10-10",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "sub_04-1-1",
           "occPer": "SOMETIMES"
         }
       ],
       "buildingProductList": [
         {
           "roomType": "WORKSHOP",
-          "formulaId": "30"
+          "formulaId": "27"
         }
       ]
     },
@@ -3428,14 +3021,22 @@
       "iconId": "MTL_SL_STRG1",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100027,
+      "sortId": 100041,
       "usage": "機械化製作的廉價天然糖替代產物，可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act14side_03",
+          "stageId": "act14side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_02",
           "occPer": "OFTEN"
         },
         {
@@ -3463,16 +3064,16 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "act14side_03",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act15d5_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15d0_01",
-          "occPer": "ALWAYS"
+          "stageId": "act17d0_01",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act17d0_02",
@@ -3503,11 +3104,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act17d0_01",
-          "occPer": "USUAL"
+          "stageId": "act15d0_01",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13side_01",
+          "stageId": "act14side_02",
           "occPer": "OFTEN"
         },
         {
@@ -3515,8 +3116,24 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act14side_02",
+          "stageId": "act15side_03",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act12mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act11mini_03",
@@ -3535,11 +3152,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18side_02",
-          "occPer": "OFTEN"
+          "stageId": "act4d0_01",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16side_01",
+          "stageId": "act18side_02",
           "occPer": "OFTEN"
         },
         {
@@ -3547,11 +3164,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act4d0_01",
-          "occPer": "ALWAYS"
+          "stageId": "act16side_03",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_03",
+          "stageId": "act10mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -3575,15 +3192,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_01",
+          "stageId": "act16side_01",
           "occPer": "OFTEN"
         },
         {
@@ -3605,7 +3214,7 @@
       "iconId": "MTL_SL_STRG2",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100026,
+      "sortId": 100040,
       "usage": "機械化製作的少量糖塊，可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -3735,7 +3344,7 @@
       "iconId": "MTL_SL_STRG3",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100025,
+      "sortId": 100039,
       "usage": "機械化製作的中等量糖塊，可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -3817,7 +3426,7 @@
       "iconId": "MTL_SL_STRG4",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100024,
+      "sortId": 100038,
       "usage": "機械化製作的大量糖塊，可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -3851,22 +3460,30 @@
         }
       ]
     },
-    "30041": {
-      "itemId": "30041",
-      "name": "異鐵碎片",
-      "description": "大規模金屬原料加工的副產物，因其可塑性強、難以被氧化的特性，常被用於材料金屬熔煉與階段性再處理。",
+    "30031": {
+      "itemId": "30031",
+      "name": "酯原料",
+      "description": "近代工業中至關重要的材料之一，許多現代產品的誕生都歸功於它的出現。當然了，這只是原料，幾乎派不上什麼大用場。",
       "rarity": 0,
-      "iconId": "MTL_SL_IRON1",
+      "iconId": "MTL_SL_RUSH1",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100031,
-      "usage": "普普通通的工業材料。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "sortId": 100037,
+      "usage": "工業製造所需的酯原料，可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act15side_03",
+          "stageId": "act15side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_02",
           "occPer": "OFTEN"
         },
         {
@@ -3887,6 +3504,409 @@
         },
         {
           "stageId": "act18d3_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18d3_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18d0_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act16d5_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15d0_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act17d0_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act17d0_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13d5_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12d0_02",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act9d0_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act11d0_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act6d5_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "a001_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act12mini_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act11mini_01",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act11mini_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act19side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "sub_02-07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_00-11",
+          "occPer": "ALWAYS"
+        }
+      ],
+      "buildingProductList": []
+    },
+    "30032": {
+      "itemId": "30032",
+      "name": "聚酸酯",
+      "description": "雖然強度上還略有不足，但已經可以用來製作我們所需要的部分基礎物件。同時是一些緩釋藥物中的常用成分。",
+      "rarity": 1,
+      "iconId": "MTL_SL_RUSH2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100036,
+      "usage": "工業製造所需的零散聚酸酯，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act14side_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act11d0_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12d0_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13d0_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act17d0_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15d0_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15d5_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act16d5_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act18d3_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13side_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "a001_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15side_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act19side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act7d5_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_08-04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_06-08",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_06-05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_01-08",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "main_10-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_10-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "sub_05-2-1",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "sub_03-1-2",
+          "occPer": "ALWAYS"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "28"
+        }
+      ]
+    },
+    "30033": {
+      "itemId": "30033",
+      "name": "聚酸酯組",
+      "description": "進一步加工後的材料，符合通用標準，能夠滿足市面上絕大多數的需求。可以用於加工一些特殊材料。",
+      "rarity": 2,
+      "iconId": "MTL_SL_RUSH3",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100035,
+      "usage": "工業製造所需的一組聚酸酯，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act19side_06",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act10mini_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14side_07",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18d0_06",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act16d5_09",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act15d5_07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13d5_07",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act10d5_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act4d0_05",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_02-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_03-08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_06-04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_07-03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_09-06",
+          "occPer": "OFTEN"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "29"
+        }
+      ]
+    },
+    "30034": {
+      "itemId": "30034",
+      "name": "聚酸酯塊",
+      "description": "精煉提純後的材料。作為商品，主要面向的客戶是對原材料有極高要求的組織和科研機構。也許會成為新一代材料的試金石也說不定哦。",
+      "rarity": 3,
+      "iconId": "MTL_SL_RUSH4",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100034,
+      "usage": "工業製造所需的成塊聚酸酯，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_03-08",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_06-04",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_09-06",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "30"
+        }
+      ]
+    },
+    "30061": {
+      "itemId": "30061",
+      "name": "破損裝置",
+      "description": "一些殘破的裝置。這些裝置曾被拼裝在敵人的武器和防具上，經歷了激烈的戰鬥後已經損壞，不過其內部元件依舊具備一定的使用價值。",
+      "rarity": 0,
+      "iconId": "MTL_SL_BOSS1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100033,
+      "usage": "收繳來的破損機械裝置，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act14side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act8mini_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act7mini_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18d3_01",
           "occPer": "OFTEN"
         },
         {
@@ -3894,16 +3914,20 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14side_02",
+          "stageId": "act18d0_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d0_02",
+          "stageId": "act14side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15d0_03",
-          "occPer": "ALWAYS"
+          "stageId": "act16d5_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15d0_01",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act17d0_01",
@@ -3914,40 +3938,60 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13d5_01",
+          "stageId": "act13d5_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act12d0_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act9d0_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act16d5_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act14side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act6d5_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act11mini_02",
+          "stageId": "act13d0_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act11mini_04",
-          "occPer": "ALMOST"
+          "stageId": "act12d0_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act9d0_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act11d0_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15d5_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "a001_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11mini_01",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act19side_01",
@@ -3962,15 +4006,15 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act7d5_01",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act18side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11d0_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act16side_01",
+          "stageId": "act16side_02",
           "occPer": "OFTEN"
         },
         {
@@ -3998,30 +4042,465 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_02",
+          "stageId": "act15side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "sub_02-08",
+          "stageId": "act16side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_02-03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "main_01-03",
-          "occPer": "ALMOST"
+          "stageId": "main_01-05",
+          "occPer": "USUAL"
         }
       ],
       "buildingProductList": []
     },
-    "30042": {
-      "itemId": "30042",
-      "name": "異鐵",
-      "description": "在少數惰化流程中，異鐵碎片偶爾會產生相變，聚合為異鐵。一般認為達到此量級的異鐵產物才是異鐵較為穩定的形態。",
+    "30062": {
+      "itemId": "30062",
+      "name": "裝置",
+      "description": "一套相對完整的裝置，含有大量密集的可用電子元件。為了迎合輕便實用的設計，主機板寸土寸金的空間被塞的滿滿當當。",
       "rarity": 1,
-      "iconId": "MTL_SL_IRON2",
+      "iconId": "MTL_SL_BOSS2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100032,
+      "usage": "收繳來的常規機械裝置，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act13side_07",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act9d0_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12d0_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13d0_05",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13d5_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act17d0_06",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15d0_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15d5_05",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act16d5_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18d0_05",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act7mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act8mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act9mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act11d0_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act6d5_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act19side_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act11mini_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act12mini_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act16side_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_08-09",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_06-10",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_01-12",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_10-03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_09-02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_10-03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "sub_05-3-1",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "sub_03-2-2",
+          "occPer": "ALMOST"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "19"
+        }
+      ]
+    },
+    "30063": {
+      "itemId": "30063",
+      "name": "全新裝置",
+      "description": "一套全新裝配而成的裝置，透過重構同類型裝置的結構，主機板原本一直存在的空間緊張的問題得到了解決，當然啟動時的能耗要求也變高了。",
+      "rarity": 2,
+      "iconId": "MTL_SL_BOSS3",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100031,
+      "usage": "收繳來的全新機械裝置，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act12mini_08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_06",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18d3_09",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_03-04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_04-10",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-10",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_06-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_07-07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_07-13",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_08-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_09-08",
+          "occPer": "OFTEN"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "20"
+        }
+      ]
+    },
+    "30064": {
+      "itemId": "30064",
+      "name": "改量裝置",
+      "description": "經過大量私自改造的裝置，是極大擴充了容量後的版本，大幅提升性能的同時犧牲了穩定性，從中能感受到製作者所投入的狂熱與執著......",
+      "rarity": 3,
+      "iconId": "MTL_SL_BOSS4",
       "overrideBkg": null,
       "stackIconId": null,
       "sortId": 100030,
-      "usage": "罕見的工業材料。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "usage": "收繳來的高等機械裝置，可用於多種強化場合，也常作為製作雙極納米片的原料之一。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_04-10",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_07-07",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "21"
+        }
+      ]
+    },
+    "30011": {
+      "itemId": "30011",
+      "name": "源岩",
+      "description": "富含有機物，常見於源石揮發殆盡後的地區。相對源石來說是較為容易採集的材料。",
+      "rarity": 0,
+      "iconId": "MTL_SL_G1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100029,
+      "usage": "從地表開採出的岩石，可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act14side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act9mini_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act18d3_01",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18d3_02",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18d3_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act16d5_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15d5_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15d0_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act17d0_01",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act17d0_02",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act17d0_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13d5_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13d0_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12d0_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act9d0_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act11d0_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act10d5_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act14side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act4d0_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "a001_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act12mini_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act12mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act12mini_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act11mini_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act19side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act19side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act16side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act16side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act10mini_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act10mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act10mini_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act15side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act16side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "sub_02-05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_00-09",
+          "occPer": "ALWAYS"
+        }
+      ],
+      "buildingProductList": []
+    },
+    "30012": {
+      "itemId": "30012",
+      "name": "固源岩",
+      "description": "內含有密集的微孔，常作為源石氣體分解物的吸附劑。多用於防護夾層。",
+      "rarity": 1,
+      "iconId": "MTL_SL_G2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100028,
+      "usage": "從地表開採出的岩石固塊，可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
@@ -4031,27 +4510,35 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act7d5_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act10d5_04",
-          "occPer": "ALWAYS"
-        },
-        {
           "stageId": "act9d0_04",
-          "occPer": "OFTEN"
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act12d0_05",
-          "occPer": "ALWAYS"
+          "stageId": "act12d0_04",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act13d5_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16d5_07",
+          "stageId": "act17d0_06",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act17d0_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act15d0_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act16d5_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act16d5_04",
           "occPer": "ALMOST"
         },
         {
@@ -4063,577 +4550,531 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act13side_07",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act4d0_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "a001_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act16side_05",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act19side_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_08-12",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_07-09",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "main_06-01",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "main_05-07",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_02-01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_09-14",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "sub_03-2-1",
-          "occPer": "ALWAYS"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "25"
-        }
-      ]
-    },
-    "30043": {
-      "itemId": "30043",
-      "name": "異鐵組",
-      "description": "加工過程中，多塊異鐵在極少數非人為因素影響下，偶然產生的異鐵組合，硬度下降，純度進一步上升。",
-      "rarity": 2,
-      "iconId": "MTL_SL_IRON3",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100029,
-      "usage": "珍貴的工業材料。可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act9mini_06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15d0_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13d0_08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act9d0_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10d5_06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_02-08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_06-09",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-16",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_09-15",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_10-10",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "tough_10-10",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "sub_04-1-1",
-          "occPer": "OFTEN"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "26"
-        }
-      ]
-    },
-    "30044": {
-      "itemId": "30044",
-      "name": "異鐵塊",
-      "description": "在極為苛刻的條件下，由多套異鐵組熔鑄成型的異鐵塊。已知異鐵材料中最為穩定也最為稀少的形式，作為原材料，足以打破現有製品運用領域的疆界。",
-      "rarity": 3,
-      "iconId": "MTL_SL_IRON4",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100028,
-      "usage": "價值高昂的工業材料。可用於多種強化場合，也常作為製作聚合劑的原料之一。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "main_05-05",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_09-15",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_10-10",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "tough_10-10",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "sub_04-1-1",
-          "occPer": "SOMETIMES"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "27"
-        }
-      ]
-    },
-    "30051": {
-      "itemId": "30051",
-      "name": "雙酮",
-      "description": "極少量的非單酮製劑，透過再處理後，工程幹員將藉由其發生的化合反應轉變過程中的固化現象，來黏結其它穩定結構。",
-      "rarity": 0,
-      "iconId": "MTL_SL_KETONE1",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100035,
-      "usage": "極少量的工業用有機化合物。可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act14side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d3_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d3_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d0_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16d5_06",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15d0_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act17d0_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act17d0_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12d0_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act9d0_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act16d5_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act11d0_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act7d5_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act11mini_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act19side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "sub_02-09",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_01-06",
-          "occPer": "ALMOST"
-        }
-      ],
-      "buildingProductList": []
-    },
-    "30052": {
-      "itemId": "30052",
-      "name": "酮凝集",
-      "description": "經過特殊處理後產出的少量多態酮製劑，易於閉合的分子構造能將原本繁雜的處理工藝簡化為單純的化學反應，當然，也需要一定的技術支援。",
-      "rarity": 1,
-      "iconId": "MTL_SL_KETONE2",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100034,
-      "usage": "少量的工業用有機化合物。可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act15side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act10d5_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act11d0_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13d5_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act17d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15d0_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act16d5_05",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18d0_03",
-          "occPer": "ALMOST"
-        },
-        {
           "stageId": "act18d3_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act13side_05",
+          "stageId": "act11d0_04",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act6d5_03",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act14side_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act4d0_03",
+          "stageId": "act15side_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "a001_04",
+          "stageId": "act16side_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act19side_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act10mini_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "sub_07-1-2",
+          "stageId": "act18side_03",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "sub_06-2-1",
+          "stageId": "act11mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13side_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "main_08-08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_07-16",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_07-10",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_06-14",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_03-07",
+          "stageId": "sub_06-1-2",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "sub_02-01",
+          "stageId": "main_07-14",
           "occPer": "USUAL"
         },
         {
-          "stageId": "main_10-08",
+          "stageId": "main_05-10",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "sub_02-12",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "tough_10-08",
+          "stageId": "main_01-07",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "sub_05-1-1",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "sub_03-3-2",
+          "occPer": "USUAL"
         }
       ],
       "buildingProductList": [
         {
           "roomType": "WORKSHOP",
-          "formulaId": "22"
+          "formulaId": "34"
         }
       ]
     },
-    "30053": {
-      "itemId": "30053",
-      "name": "酮凝集組",
-      "description": "進一步脫烴處理後得到的中等量酮製劑。製劑接觸空氣後易與空氣中的一些非氧分子發生反應。所以在處理過程中，工程幹員理當精準操作，以免浪費材料。",
+    "30013": {
+      "itemId": "30013",
+      "name": "固源岩組",
+      "description": "固源岩的壓縮定型產物，可自然形成。易碎，隨著工業實力的提升，採集到更加完整的固源岩組已不成問題。只是在分類存放時容易和其它用途的石料搞混。",
       "rarity": 2,
-      "iconId": "MTL_SL_KETONE3",
+      "iconId": "MTL_SL_G3",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100033,
-      "usage": "中等量的工業用有機化合物。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "sortId": 100027,
+      "usage": "從地表開採出的岩石固塊組，可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act11mini_07",
+          "stageId": "act15side_07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act8mini_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act7mini_04",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18d0_07",
+          "stageId": "act18d3_07",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15d0_07",
+          "stageId": "act16d5_10",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act12d0_06",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act13d0_07",
+          "stageId": "main_02-04",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11d0_07",
+          "stageId": "main_04-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_06-05",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act6d5_06",
+          "stageId": "main_07-01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_03-01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_04-05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_06-07",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-12",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_08-17",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_10-03",
+          "stageId": "main_07-05",
           "occPer": "USUAL"
         },
         {
-          "stageId": "tough_10-03",
+          "stageId": "main_08-03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_09-11",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_10-05",
           "occPer": "USUAL"
         },
         {
-          "stageId": "sub_09-1-1",
-          "occPer": "OFTEN"
+          "stageId": "tough_10-05",
+          "occPer": "USUAL"
         }
       ],
       "buildingProductList": [
         {
           "roomType": "WORKSHOP",
-          "formulaId": "23"
+          "formulaId": "35"
         }
       ]
     },
-    "30054": {
-      "itemId": "30054",
-      "name": "酮陣列",
-      "description": "由工程幹員嚴格監控的大量不穩定實驗性酮製劑。是高級的工業材料之一，運用時也請多加小心。",
+    "30014": {
+      "itemId": "30014",
+      "name": "提純源岩",
+      "description": "高度提純後的源岩展現出了不同於原料的型態，其工藝消耗與提純成本也急劇上升。無論是誰，看著規則的切割面都會不禁發出感慨吧。這就是工業與自然結合的魅力。",
       "rarity": 3,
-      "iconId": "MTL_SL_KETONE4",
+      "iconId": "MTL_SL_G4",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100032,
-      "usage": "大量的工業用有機化合物。可用於多種強化場合，也常作為製作聚合劑的原料之一。",
+      "sortId": 100026,
+      "usage": "從地表開採出的岩石固塊組提純出的物質，可用於多種強化場合，也常作為製作聚合劑的原料之一。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "main_04-05",
+          "stageId": "main_04-06",
           "occPer": "SOMETIMES"
         },
         {
-          "stageId": "main_05-08",
+          "stageId": "main_07-01",
           "occPer": "SOMETIMES"
         },
         {
-          "stageId": "sub_09-1-1",
+          "stageId": "main_08-03",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_09-11",
           "occPer": "SOMETIMES"
         }
       ],
       "buildingProductList": [
         {
           "roomType": "WORKSHOP",
-          "formulaId": "24"
+          "formulaId": "36"
+        }
+      ]
+    },
+    "30103": {
+      "itemId": "30103",
+      "name": "RMA70-12",
+      "description": "自然態呈複雜多面體的礦物。在被發現其現代工業價值之前，就已經被發現了其在源石技藝施展中的價值。",
+      "rarity": 2,
+      "iconId": "MTL_SL_RMA7012",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100025,
+      "usage": "一種敏感且有良好傳導效果的礦物。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act11mini_08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act7mini_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18d0_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15d5_08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12d0_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_02-10",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_04-09",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-09",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_06-13",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_07-08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_08-10",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_09-17",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_10-04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_10-04",
+          "occPer": "OFTEN"
+        }
+      ],
+      "buildingProductList": []
+    },
+    "30104": {
+      "itemId": "30104",
+      "name": "RMA70-24",
+      "description": "自然態呈複雜多面體的礦物。於1024年被發現，在龐大的工業體系中，展現出了在源石技藝體系內其他礦物不曾具備的巨大價值。",
+      "rarity": 3,
+      "iconId": "MTL_SL_RMA7024",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100024,
+      "usage": "一種十分敏感且有優秀傳導效果的礦物。可用於多種強化場合，也常作為製作D32鋼的原料之一。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_04-09",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_06-13",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_10-04",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_10-04",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "15"
+        }
+      ]
+    },
+    "30093": {
+      "itemId": "30093",
+      "name": "研磨石",
+      "description": "不起爆、不粉化、不開裂，於零件加工工序中佔有重要地位的工具材料。自然屬性相當穩定。",
+      "rarity": 2,
+      "iconId": "MTL_SL_PG1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100023,
+      "usage": "用於加工武器零件的研磨石。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act18side_06",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14side_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act17d0_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act11d0_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act6d5_08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "a001_06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_03-03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_04-08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_06-12",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_07-15",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_09-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_10-11",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_10-11",
+          "occPer": "OFTEN"
+        }
+      ],
+      "buildingProductList": []
+    },
+    "30094": {
+      "itemId": "30094",
+      "name": "五水研磨石",
+      "description": "相較普通研磨石，物質結構更加穩定的工具材料。極難與其它物質發生化學反應。",
+      "rarity": 3,
+      "iconId": "MTL_SL_PG2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100022,
+      "usage": "用於精加工武器零件的高級研磨石。可用於多種強化場合，也常作為製作D32鋼的原料之一。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_04-08",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_07-15",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "16"
+        }
+      ]
+    },
+    "30083": {
+      "itemId": "30083",
+      "name": "輕錳礦",
+      "description": "用以產出極為泛用的工業催化劑的金屬礦物。再加工過程十分複雜，因不規範操作而導致事故的例子比比皆是。",
+      "rarity": 2,
+      "iconId": "MTL_SL_MANGANESE1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100021,
+      "usage": "用於提煉冶煉用的金屬礦物。可用於多種強化場合，也常作為製造站合成專案的原料。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "act17d0_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act13d5_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_03-02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_04-07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_06-02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_07-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_08-11",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_09-13",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_10-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_10-14",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_10-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_10-14",
+          "occPer": "USUAL"
+        }
+      ],
+      "buildingProductList": []
+    },
+    "30084": {
+      "itemId": "30084",
+      "name": "三水錳礦",
+      "description": "少有廠家願意用於生產工業催化劑的珍貴金屬礦物。所製催化劑壽命極長，能夠多次反覆利用並汽提再生，然而複雜的加工工序令多數廠商望而卻步。",
+      "rarity": 3,
+      "iconId": "MTL_SL_MANGANESE2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100020,
+      "usage": "用於提煉冶煉用的金屬礦物。可用於多種強化場合，也常作為製作D32鋼的原料之一。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_04-07",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_06-02",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_08-11",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_09-13",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_10-06",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_10-06",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "17"
         }
       ]
     },
@@ -4645,7 +5086,7 @@
       "iconId": "MTL_SL_ALCOHOL1",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100005,
+      "sortId": 100019,
       "usage": "片狀有機化合物。可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -4738,7 +5179,7 @@
       "iconId": "MTL_SL_ALCOHOL2",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100004,
+      "sortId": 100018,
       "usage": "片狀有機化合物。可用於多種強化場合，也常作為製作雙極納米片的原料之一。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -4776,402 +5217,6 @@
         }
       ]
     },
-    "30083": {
-      "itemId": "30083",
-      "name": "輕錳礦",
-      "description": "用以產出極為泛用的工業催化劑的金屬礦物。再加工過程十分複雜，因不規範操作而導致事故的例子比比皆是。",
-      "rarity": 2,
-      "iconId": "MTL_SL_MANGANESE1",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100007,
-      "usage": "用於提煉冶煉用的金屬礦物。可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act17d0_07",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13d5_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_03-02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_04-07",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_06-02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-14",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_08-11",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_09-13",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_10-06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_10-14",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "tough_10-06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "tough_10-14",
-          "occPer": "USUAL"
-        }
-      ],
-      "buildingProductList": []
-    },
-    "30084": {
-      "itemId": "30084",
-      "name": "三水錳礦",
-      "description": "少有廠家願意用於生產工業催化劑的珍貴金屬礦物。所制催化劑壽命極長，能夠多次反覆利用並汽提再生，然而複雜的加工工序令多數廠商望而卻步。",
-      "rarity": 3,
-      "iconId": "MTL_SL_MANGANESE2",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100006,
-      "usage": "用於提煉冶煉用的金屬礦物。可用於多種強化場合，也常作為製作D32鋼的原料之一。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "main_04-07",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_06-02",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_08-11",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_09-13",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_10-06",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "tough_10-06",
-          "occPer": "SOMETIMES"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "17"
-        }
-      ]
-    },
-    "30093": {
-      "itemId": "30093",
-      "name": "研磨石",
-      "description": "不起爆、不粉化、不開裂，於零件加工工序中佔有重要地位的工具材料。自然屬性相當穩定。",
-      "rarity": 2,
-      "iconId": "MTL_SL_PG1",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100009,
-      "usage": "用於加工武器零件的研磨石。可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act18side_06",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act14side_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act17d0_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act11d0_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act6d5_08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "a001_06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_03-03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_04-08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-07",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_06-12",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-15",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_09-14",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_10-11",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "tough_10-11",
-          "occPer": "OFTEN"
-        }
-      ],
-      "buildingProductList": []
-    },
-    "30094": {
-      "itemId": "30094",
-      "name": "五水研磨石",
-      "description": "相較普通研磨石，物質結構更加穩定的工具材料。極難與其它物質發生化學反應。",
-      "rarity": 3,
-      "iconId": "MTL_SL_PG2",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100008,
-      "usage": "用於精加工武器零件的高級研磨石。可用於多種強化場合，也常作為製作D32鋼的原料之一。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "main_04-08",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_07-15",
-          "occPer": "SOMETIMES"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "16"
-        }
-      ]
-    },
-    "30103": {
-      "itemId": "30103",
-      "name": "RMA70-12",
-      "description": "自然態呈複雜多面體的礦物。在被發現其現代工業價值之前，就已經被發現了其在源石技藝施展中的價值。",
-      "rarity": 2,
-      "iconId": "MTL_SL_RMA7012",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100011,
-      "usage": "一種敏感且有良好傳導效果的礦物。可用於多種強化場合，也常作為製造站合成專案的原料。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "act11mini_08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act7mini_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d0_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15d5_08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12d0_08",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "main_02-10",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_04-09",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-09",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_06-13",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_08-10",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_09-17",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_10-04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "tough_10-04",
-          "occPer": "OFTEN"
-        }
-      ],
-      "buildingProductList": []
-    },
-    "30104": {
-      "itemId": "30104",
-      "name": "RMA70-24",
-      "description": "自然態呈複雜多面體的礦物。於1024年被發現，在龐大的工業體系中，展現出了在源石技藝體系內其他礦物不曾具備的巨大價值。",
-      "rarity": 3,
-      "iconId": "MTL_SL_RMA7024",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100010,
-      "usage": "一種十分敏感且有優秀傳導效果的礦物。可用於多種強化場合，也常作為製作D32鋼的原料之一。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [
-        {
-          "stageId": "main_04-09",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_06-13",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "main_10-04",
-          "occPer": "SOMETIMES"
-        },
-        {
-          "stageId": "tough_10-04",
-          "occPer": "SOMETIMES"
-        }
-      ],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "15"
-        }
-      ]
-    },
-    "30115": {
-      "itemId": "30115",
-      "name": "聚合劑",
-      "description": "精密穿戴著裝中常用的材料。多作為隔絕塗層使用。強大的聚合黏接效果足以阻斷源石的揮發。",
-      "rarity": 4,
-      "iconId": "MTL_SL_PP",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100003,
-      "usage": "複雜的液態工業產物。用於高級強化場合。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "14"
-        }
-      ]
-    },
-    "30125": {
-      "itemId": "30125",
-      "name": "雙極納米片",
-      "description": "對範圍內源石敏感的裝置。能有效提升源石附近範圍內作戰武器和設備對源石的敏感性，使源石技藝的存儲幾近可能。",
-      "rarity": 4,
-      "iconId": "MTL_SL_BN",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100002,
-      "usage": "現代工業的創造力結晶。用於高級強化場合。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "13"
-        }
-      ]
-    },
-    "30135": {
-      "itemId": "30135",
-      "name": "D32鋼",
-      "description": "強度超群，無法擊穿，順暢傳導源石技藝，將重新訂立武器材料的標準。",
-      "rarity": 4,
-      "iconId": "MTL_SL_DS",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100001,
-      "usage": "自然界中不應存在的人造金屬材料，呈固態。用於高級強化場合。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "12"
-        }
-      ]
-    },
     "31013": {
       "itemId": "31013",
       "name": "凝膠",
@@ -5180,7 +5225,7 @@
       "iconId": "MTL_SL_PGEL3",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100037,
+      "sortId": 100017,
       "usage": "一種高強度的可塑性材料。可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5237,7 +5282,7 @@
       "iconId": "MTL_SL_PGEL4",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100036,
+      "sortId": 100016,
       "usage": "一種具備極高強度的可塑性材料。可用於多種強化場合。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5279,7 +5324,7 @@
       "iconId": "MTL_SL_IAM3",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100039,
+      "sortId": 100015,
       "usage": "電子工業用特殊高熔點合金。可用於多種強化場合，也常作為製造站合成專案的原料。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5344,7 +5389,7 @@
       "iconId": "MTL_SL_IAM4",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100038,
+      "sortId": 100014,
       "usage": "產量稀少的電子工業用特殊高熔點合金。可用於多種強化場合。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5390,12 +5435,16 @@
       "iconId": "MTL_SL_OC3",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100042,
+      "sortId": 100013,
       "usage": "重要的源石工業材料，可用於多種強化場合，可以製作與合成更高級的源石電子元件。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "act12mini_07",
+          "occPer": "USUAL"
+        },
         {
           "stageId": "act10mini_08",
           "occPer": "USUAL"
@@ -5443,7 +5492,7 @@
       "iconId": "MTL_SL_OC4",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100041,
+      "sortId": 100012,
       "usage": "重要的源石工業材料，可用於多種強化場合，是製作源石晶體單元的基礎元件。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5465,27 +5514,6 @@
         }
       ]
     },
-    "30145": {
-      "itemId": "30145",
-      "name": "晶體電子單元",
-      "description": "泰拉源石科技的結晶，泰拉工業現代化的代表。源石施術單元與城際網路服務器的製造都離不開這種科技產品。",
-      "rarity": 4,
-      "iconId": "MTL_SL_OEU",
-      "overrideBkg": null,
-      "stackIconId": null,
-      "sortId": 100040,
-      "usage": "昂貴的源石工業產品，用於重要的強化場合。",
-      "obtainApproach": null,
-      "classifyType": "MATERIAL",
-      "itemType": "MATERIAL",
-      "stageDropList": [],
-      "buildingProductList": [
-        {
-          "roomType": "WORKSHOP",
-          "formulaId": "57"
-        }
-      ]
-    },
     "31043": {
       "itemId": "31043",
       "name": "半自然溶劑",
@@ -5494,7 +5522,7 @@
       "iconId": "MTL_SL_SS",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100044,
+      "sortId": 100011,
       "usage": "一種物理性能優異，耐酸鹼性良好的活性溶劑。可用於多種強化場合。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5523,7 +5551,7 @@
       "iconId": "MTL_SL_RS",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100043,
+      "sortId": 100010,
       "usage": "經特殊工藝製作而成特殊塗料。用於高級強化場合。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5553,7 +5581,7 @@
       "iconId": "MTL_SL_CCF",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100046,
+      "sortId": 100009,
       "usage": "一種金屬加工時必備的工業試劑。可用於多種強化場合。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5582,7 +5610,7 @@
       "iconId": "MTL_SL_PLCF",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 100045,
+      "sortId": 100008,
       "usage": "由多種活性溶劑配置而成的原液。用於高級強化場合。",
       "obtainApproach": null,
       "classifyType": "MATERIAL",
@@ -5597,6 +5625,90 @@
         {
           "roomType": "WORKSHOP",
           "formulaId": "60"
+        }
+      ]
+    },
+    "30115": {
+      "itemId": "30115",
+      "name": "聚合劑",
+      "description": "精密穿戴著裝中常用的材料。多作為隔絕塗層使用。強大的聚合黏接效果足以阻斷源石的揮發。",
+      "rarity": 4,
+      "iconId": "MTL_SL_PP",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100005,
+      "usage": "複雜的液態工業產物。用於高級強化場合。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "14"
+        }
+      ]
+    },
+    "30125": {
+      "itemId": "30125",
+      "name": "雙極納米片",
+      "description": "對範圍內源石敏感的裝置。能有效提升源石附近範圍內作戰武器和設備對源石的敏感性，使源石技藝的存儲幾近可能。",
+      "rarity": 4,
+      "iconId": "MTL_SL_BN",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100004,
+      "usage": "現代工業的創造力結晶。用於高級強化場合。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "13"
+        }
+      ]
+    },
+    "30135": {
+      "itemId": "30135",
+      "name": "D32鋼",
+      "description": "強度超群，無法擊穿，順暢傳導源石技藝，將重新訂立武器材料的標準。",
+      "rarity": 4,
+      "iconId": "MTL_SL_DS",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100003,
+      "usage": "自然界中不應存在的人造金屬材料，呈固態。用於高級強化場合。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "12"
+        }
+      ]
+    },
+    "30145": {
+      "itemId": "30145",
+      "name": "晶體電子單元",
+      "description": "泰拉源石科技的結晶，泰拉工業現代化的代表。源石施術單元與城際網路服務器的製造都離不開這種科技產品。",
+      "rarity": 4,
+      "iconId": "MTL_SL_OEU",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 100002,
+      "usage": "昂貴的源石工業產品，用於重要的強化場合。",
+      "obtainApproach": null,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": [
+        {
+          "roomType": "WORKSHOP",
+          "formulaId": "57"
         }
       ]
     },
@@ -7494,7 +7606,7 @@
       "iconId": "p_char_278_orchid",
       "overrideBkg": null,
       "stackIconId": null,
-      "sortId": 800013,
+      "sortId": 900013,
       "usage": "用於提升梓蘭的潛能。",
       "obtainApproach": "幹員入職的饋贈",
       "classifyType": "MATERIAL",
@@ -8088,6 +8200,22 @@
       "stackIconId": null,
       "sortId": 800033,
       "usage": "用於提升安比爾的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "p_char_385_finlpp": {
+      "itemId": "p_char_385_finlpp",
+      "name": "清流的信物",
+      "description": "一小瓶家鄉的清泉，可以作為裝飾佩戴。將它帶在身上，清流很樂意與你分享她的故鄉。",
+      "rarity": 3,
+      "iconId": "p_char_385_finlpp",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 800034,
+      "usage": "用於提升清流的潛能。",
       "obtainApproach": "幹員入職的饋贈",
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
@@ -10014,6 +10142,22 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "p_char_4032_provs": {
+      "itemId": "p_char_4032_provs",
+      "name": "但書的信物",
+      "description": "一本寫滿了筆記的卡西米爾案例分析書。無數條底線標出重點，越多越無用。",
+      "rarity": 4,
+      "iconId": "p_char_4032_provs",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 700107,
+      "usage": "用於提升但書的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "p_char_103_angel": {
       "itemId": "p_char_103_angel",
       "name": "能天使的信物",
@@ -10968,6 +11112,22 @@
       "stackIconId": null,
       "sortId": 600060,
       "usage": "用於提升多蘿西的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "p_char_4064_mlynar": {
+      "itemId": "p_char_4064_mlynar",
+      "name": "瑪恩納的信物",
+      "description": "一把造型古典的拆信刀，曾開啟許多悲歡離合。很長一段時間裡，這也是他手中最鋒利的東西。",
+      "rarity": 5,
+      "iconId": "p_char_4064_mlynar",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 600063,
+      "usage": "用於提升瑪恩納的潛能。",
       "obtainApproach": "幹員入職的饋贈",
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
@@ -14063,6 +14223,55 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "act12mini_token_component": {
+      "itemId": "act12mini_token_component",
+      "name": "制式器械零件",
+      "description": "迅速繡蝕的戰爭野心的殘骸，騎士團淘汰或損壞武器的零件，處置不當的話會有源石感染的風險。不知道為什麼，有時候能在尋常農戶的家中發現。",
+      "rarity": 4,
+      "iconId": "act12mini_token_component",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "茨沃涅克附近較常見的廢舊器械零件，在遍佈卡西米爾城鎮的連鎖超市可以回收。",
+      "obtainApproach": "活動期間關卡限時掉落",
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [
+        {
+          "stageId": "act12mini_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12mini_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12mini_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12mini_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12mini_07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12mini_08",
+          "occPer": "ALWAYS"
+        }
+      ],
+      "buildingProductList": []
+    },
     "uni_set_reception": {
       "itemId": "uni_set_reception",
       "name": "龍門風情茶室傢俱收藏包",
@@ -14209,6 +14418,26 @@
     "ap_supply_lt_80": {
       "id": "ap_supply_lt_80",
       "ap": 80,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2022_1": {
+      "id": "ap_supply_lt_120_2022_1",
+      "ap": 120,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2022_2": {
+      "id": "ap_supply_lt_120_2022_2",
+      "ap": 120,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2022_3": {
+      "id": "ap_supply_lt_120_2022_3",
+      "ap": 120,
+      "hasTs": true
+    },
+    "ap_supply_lt_120_2022_4": {
+      "id": "ap_supply_lt_120_2022_4",
+      "ap": 120,
       "hasTs": true
     }
   },
@@ -14606,6 +14835,62 @@
     "furni_rhineLab_curtain_S_01": 1,
     "furni_rhineLab_wallpaper_01": 1,
     "furni_rhineLab_floor_01": 1,
+    "furni_idealCity_ceilingLamp_01": 1,
+    "furni_idealCity_partition_01": 1,
+    "furni_idealCity_lifeBuoyRack_01": 1,
+    "furni_idealCity_flag_01": 1,
+    "furni_idealCity_ceiling_01": 1,
+    "furni_idealCity_fan_01": 1,
+    "furni_idealCity_sofa_S_01": 1,
+    "furni_idealCity_bench_01": 1,
+    "furni_idealCity_pottedPlant_01": 1,
+    "furni_idealCity_sandCastle_01": 1,
+    "furni_idealCity_sofa_L_01": 1,
+    "furni_idealCity_surfboard_01": 1,
+    "furni_idealCity_pottedPlant2_01": 1,
+    "furni_idealCity_downlight_01": 4,
+    "furni_idealCity_beach_01": 1,
+    "furni_idealCity_wallpaper_01": 1,
+    "furni_idealCity_floor_01": 1,
+    "furni_camp_curtain_01": 1,
+    "furni_camp_ceilingLight_01": 1,
+    "furni_camp_toolTable_01": 1,
+    "furni_camp_BBQGrill_01": 1,
+    "furni_camp_carpet_01": 1,
+    "furni_camp_brazier_01": 1,
+    "furni_camp_column_01": 1,
+    "furni_camp_ceiling_01": 1,
+    "furni_camp_ceilingLamp_01": 1,
+    "furni_camp_table_01": 1,
+    "furni_camp_longBench_01": 1,
+    "furni_camp_pager_01": 1,
+    "furni_camp_hangingChair_01": 1,
+    "furni_camp_stone_01": 1,
+    "furni_camp_fishingRodKit_01": 1,
+    "furni_camp_wallpaper_01": 1,
+    "furni_camp_floor_01": 1,
+    "furni_outdoor_ceilingLamp_01": 2,
+    "furni_outdoor_ceiling_01": 1,
+    "furni_outdoor_cabinet_01": 1,
+    "furni_outdoor_stoolKit_01": 1,
+    "furni_outdoor_barrel_01": 1,
+    "furni_outdoor_ceilingLight_01": 1,
+    "furni_outdoor_bar_01": 1,
+    "furni_outdoor_carpet_01": 1,
+    "furni_outdoor_stool_01": 1,
+    "furni_outdoor_freezer_01": 1,
+    "furni_outdoor_bench_01": 1,
+    "furni_outdoor_bonfire_01": 1,
+    "furni_outdoor_soundSystem_01": 1,
+    "furni_outdoor_hangingNet_01": 1,
+    "furni_outdoor_bar2_01": 1,
+    "furni_outdoor_carpet2_01": 1,
+    "furni_outdoor_tent_01": 1,
+    "furni_outdoor_chair_01": 1,
+    "furni_outdoor_wallpaper_01": 1,
+    "furni_animation_projector_01": 1,
+    "furni_animation_trophy_01": 1,
+    "furni_outdoor_floor_01": 1,
     "furni_MA2020_rabbit_01": 1,
     "furni_MA_teaTable_01": 1,
     "furni_oct1st_seating_01": 1,
@@ -14657,6 +14942,7 @@
     "furni_act24d0_table_01": 1,
     "furni_act25d0_table_01": 1,
     "furni_act25d0_decoration_01": 1,
+    "furni_act30d0_fan_01": 1,
     "furni_foolsDay_penguin_01": 1,
     "furni_tangyuan_ceiling_01": 1,
     "furni_tangyuan_priceList_01": 1,
@@ -14707,6 +14993,7 @@
     "furni_dropS009_etudeOp10No12_01": 1,
     "furni_dropS009_fantaisieOp49_01": 1,
     "furni_dropS009_nocturnesOp9_01": 1,
+    "furni_dropS031_spaceWar_01": 1,
     "furni_dropS018_needlePhobia_01": 1,
     "furni_dropS018_thalassophobia_01": 1,
     "furni_dropS018_octopus_01": 1,
@@ -14718,6 +15005,7 @@
     "furni_dropS025_mahjong_01": 1,
     "furni_dropS025_cai_01": 1,
     "furni_dropS026_seven_01": 1,
+    "furni_dropS026_gluttony_01": 1,
     "furni_dropS026_greed_01": 1,
     "furni_dropS026_sloth_01": 1,
     "furni_dropS026_lust_01": 1,
@@ -14757,8 +15045,6 @@
     "furni_team002_opdaA6_gacha_01": 1,
     "furni_team002_abyssal_trident_01": 1,
     "furni_team002_sweep_weaponRack_01": 1,
-    "furni_animation_projector_01": 1,
-    "furni_animation_trophy_01": 1,
     "furni_reception_screen_01": 1,
     "furni_reception_sofa_01": 1,
     "furni_reception_longBench_01": 1,
@@ -14803,6 +15089,9 @@
     "char_479_sleach@epoque#14": 1,
     "char_473_mberry@epoque#14": 1,
     "char_402_tuye@epoque#14": 1,
+    "char_337_utage@epoque#15": 1,
+    "char_264_f12yin@epoque#15": 1,
+    "char_475_akafyu@epoque#15": 1,
     "char_120_hibisc@nian#1": 1,
     "char_010_chen@nian#2": 1,
     "char_308_swire@nian#2": 1,
@@ -14905,6 +15194,7 @@
     "char_285_medic2@boc#4": 1,
     "char_193_frostl@boc#4": 1,
     "char_474_glady@boc#5": 1,
+    "char_173_slchan@wwf#1": 1,
     "char_202_demkni@boc#1": 1,
     "char_291_aglina@boc#1": 1,
     "char_140_whitew@boc#1": 1,

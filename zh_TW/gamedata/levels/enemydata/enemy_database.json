@@ -95650,7 +95650,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "能夠部署陷阱，撤回保護目標時不扣除關卡生命值"
+              "m_value": "能夠部署陷阱，撤回保護目標時不扣除關卡生命值\n"
             },
             "prefabKey": {
               "m_defined": true,

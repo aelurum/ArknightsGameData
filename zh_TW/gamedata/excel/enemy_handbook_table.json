@@ -6197,10 +6197,12 @@
   "enemy_1162_magmot": {
     "enemyId": "enemy_1162_magmot",
     "enemyIndex": "DH9",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 314,
     "name": "術師快艇",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "搭載著控潮術師的快艇，載具損毀後術師會繼續作戰。",
     "attackType": "遠程 法術",
@@ -6216,10 +6218,12 @@
   "enemy_1162_magmot_2": {
     "enemyId": "enemy_1162_magmot_2",
     "enemyIndex": "DH10",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 315,
     "name": "領潮員快艇",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "搭載著領潮員的快艇，載具損毀後領潮員會繼續作戰。",
     "attackType": "遠程 法術",
@@ -6235,10 +6239,12 @@
   "enemy_1163_hvymot": {
     "enemyId": "enemy_1163_hvymot",
     "enemyIndex": "DH11",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 316,
     "name": "水手重艇",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "搭載著水手的重艇，載具損毀後水手會繼續作戰。",
     "attackType": "近戰",
@@ -6254,10 +6260,12 @@
   "enemy_1163_hvymot_2": {
     "enemyId": "enemy_1163_hvymot_2",
     "enemyIndex": "DH12",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 317,
     "name": "水手長重艇",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "搭載著水手長的重艇，載具損毀後水手長會繼續作戰。",
     "attackType": "近戰",
@@ -6273,10 +6281,12 @@
   "enemy_1164_bmbmot": {
     "enemyId": "enemy_1164_bmbmot",
     "enemyIndex": "DH13",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 318,
     "name": "無人爆破艇",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "NORMAL",
     "description": "已超載的無人爆破艇，爆炸後會造成侵蝕損傷。",
     "attackType": "不攻擊",
@@ -6292,10 +6302,12 @@
   "enemy_1164_bmbmot_2": {
     "enemyId": "enemy_1164_bmbmot_2",
     "enemyIndex": "DH14",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 319,
     "name": "無人爆破重艇",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "NORMAL",
     "description": "已超載的無人爆破艇，塞入了更多爆破物，爆炸後會造成侵蝕損傷。",
     "attackType": "不攻擊",
@@ -6311,10 +6323,12 @@
   "enemy_1164_bmbmot_3": {
     "enemyId": "enemy_1164_bmbmot_3",
     "enemyIndex": "DH15",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 320,
     "name": "潘喬的爆破艇",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "NORMAL",
     "description": "潘喬直屬手下操控的超載無人爆破艇，爆炸後會造成侵蝕損傷。",
     "attackType": "不攻擊",
@@ -8037,7 +8051,7 @@
     "attack": "A+",
     "defence": "B",
     "resistance": "B",
-    "ability": "攻擊消耗【斷刃】使攻擊力提升，被擊倒時未消耗的【斷刃】會生成【鐵矛頭】（至少<@eb.key>1</>個）。",
+    "ability": "攻擊消耗【斷刃】使攻擊力提升，被擊倒時未消耗的【斷刃】會生成【銅矛頭】（至少<@eb.key>1</>個）。",
     "isInvalidKilled": false,
     "overrideKillCntInfos": {},
     "hideInHandbook": false
@@ -8058,7 +8072,7 @@
     "attack": "A+",
     "defence": "A",
     "resistance": "B",
-    "ability": "攻擊消耗【斷刃】使攻擊力提升，被擊倒時未消耗的【斷刃】會生成【銅矛頭】（至少<@eb.key>1</>個）。",
+    "ability": "攻擊消耗【斷刃】使攻擊力提升，被擊倒時未消耗的【斷刃】會生成【鐵矛頭】（至少<@eb.key>1</>個）。",
     "isInvalidKilled": false,
     "overrideKillCntInfos": {},
     "hideInHandbook": false
@@ -8403,10 +8417,12 @@
   "enemy_1217_rescar": {
     "enemyId": "enemy_1217_rescar",
     "enemyIndex": "SK11",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 426,
     "name": "尋路者甜品商",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "似乎是街頭常見的甜品小販。然而這些甜品車中裝載的恐怕不止甜品。惹怒他們的後果很可怕。",
     "attackType": "遠程",
@@ -8422,10 +8438,12 @@
   "enemy_1217_rescar_2": {
     "enemyId": "enemy_1217_rescar_2",
     "enemyIndex": "SK12",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 427,
     "name": "尋路者知名甜品商",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "似乎是街頭常見的甜品小販。然而這些甜品車中裝載的恐怕不止甜品。惹怒他們的後果非常可怕。",
     "attackType": "遠程",
@@ -8441,10 +8459,12 @@
   "enemy_1218_bomscr": {
     "enemyId": "enemy_1218_bomscr",
     "enemyIndex": "SK13",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 428,
     "name": "糖果車",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "NORMAL",
     "description": "會自動追蹤目標的小車。你可以從這些小車得到糖果，當然，是在爆炸之後。",
     "attackType": "近戰",
@@ -8460,10 +8480,12 @@
   "enemy_1218_bomscr_2": {
     "enemyId": "enemy_1218_bomscr_2",
     "enemyIndex": "SK14",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 429,
     "name": "精緻糖果車",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "NORMAL",
     "description": "會自動追蹤目標的小車。你可以從這些小車得到糖果，當然，是在巨大的爆炸之後。",
     "attackType": "近戰",
@@ -8677,10 +8699,12 @@
   "enemy_1224_dsuply": {
     "enemyId": "enemy_1224_dsuply",
     "enemyIndex": "SCI9",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 440,
     "name": "薩卡茲子裔補給車",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "受到血魔大君賜福的補給用載具。在場時，大君之觸與大君之賜將會更具活力。",
     "attackType": "遠程",
@@ -8696,10 +8720,12 @@
   "enemy_1224_dsuply_2": {
     "enemyId": "enemy_1224_dsuply_2",
     "enemyIndex": "SCI10",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 441,
     "name": "薩卡茲子裔改裝補給車",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "受到血魔大君精心賜福的補給用載具。在場時，大君之觸與大君之賜將會更具活力。",
     "attackType": "遠程",
@@ -9820,10 +9846,12 @@
   "enemy_1254_lypa": {
     "enemyId": "enemy_1254_lypa",
     "enemyIndex": "RO11",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 497,
     "name": "實驗用動力裝甲",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "無人操控的動力裝甲。不需要操控者在其中控制，但靈活度仍舊很高。",
     "attackType": "近戰",
@@ -9839,10 +9867,12 @@
   "enemy_1254_lypa_2": {
     "enemyId": "enemy_1254_lypa_2",
     "enemyIndex": "RO12",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 498,
     "name": "測試用動力裝甲",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "無人操控的動力裝甲。彷彿擁有自主意識一般，就連經驗豐富的工程師也很難憑肉眼分辨是否有人操控。",
     "attackType": "近戰",
@@ -9858,10 +9888,12 @@
   "enemy_1255_lybgpa": {
     "enemyId": "enemy_1255_lybgpa",
     "enemyIndex": "RO13",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 499,
     "name": "R-31重型動力裝甲",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "大約半年前出現在某些雇傭兵團體中的型號，性能與五年前軍方量產的相當。萊茵生命能量科的項目與多方合作，現在也在爭取更多的合作機會。",
     "attackType": "近戰",
@@ -9877,10 +9909,12 @@
   "enemy_1255_lybgpa_2": {
     "enemyId": "enemy_1255_lybgpa_2",
     "enemyIndex": "RO14",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 500,
     "name": "R-31a重型動力裝甲",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "大約半年前出現在某些雇傭兵團體中的型號，性能與五年前軍方量產的相當。技術不被限定，哥倫比亞人在遵守法律的同時，總是樂意尋求效率更高的方式。",
     "attackType": "近戰",
@@ -9896,10 +9930,12 @@
   "enemy_1256_lyacpa": {
     "enemyId": "enemy_1256_lyacpa",
     "enemyIndex": "RO15",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 501,
     "name": "R-11突擊動力裝甲",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "搭載了遠程武器的型號，攻擊力大幅度增強。這類實驗性質的武器即使技術仍處在原型階段，威力和能量也絕對不容小覷。",
     "attackType": "遠程",
@@ -9915,10 +9951,12 @@
   "enemy_1256_lyacpa_2": {
     "enemyId": "enemy_1256_lyacpa_2",
     "enemyIndex": "RO16",
-    "enemyTags": null,
+    "enemyTags": [
+      "machine"
+    ],
     "sortId": 502,
     "name": "R-11a突擊動力裝甲",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "搭載了遠程武器的型號，攻擊力大幅度增強。很難想像這種技術若是可以量產，將會帶來怎樣的改變。",
     "attackType": "遠程",
@@ -9954,7 +9992,7 @@
     "enemyId": "enemy_2001_duckmi",
     "enemyIndex": "DLD",
     "enemyTags": null,
-    "sortId": 504,
+    "sortId": 539,
     "name": "鴨爵",
     "enemyRace": null,
     "enemyLevel": "ELITE",
@@ -9973,7 +10011,7 @@
     "enemyId": "enemy_2002_bearmi",
     "enemyIndex": "GPN",
     "enemyTags": null,
-    "sortId": 505,
+    "sortId": 540,
     "name": "高普尼克",
     "enemyRace": null,
     "enemyLevel": "ELITE",
@@ -9992,7 +10030,7 @@
     "enemyId": "enemy_2009_csaudc",
     "enemyIndex": "CS1",
     "enemyTags": null,
-    "sortId": 506,
+    "sortId": 542,
     "name": "駭笑看客",
     "enemyRace": null,
     "enemyLevel": "ELITE",
@@ -10011,7 +10049,7 @@
     "enemyId": "enemy_2010_csdcr",
     "enemyIndex": "CS2",
     "enemyTags": null,
-    "sortId": 507,
+    "sortId": 543,
     "name": "緋紅歌伶",
     "enemyRace": null,
     "enemyLevel": "ELITE",
@@ -10032,7 +10070,7 @@
     "enemyTags": [
       "originiumartscraft"
     ],
-    "sortId": 508,
+    "sortId": 544,
     "name": "劇場組裝體",
     "enemyRace": "法術造物",
     "enemyLevel": "ELITE",
@@ -10051,7 +10089,7 @@
     "enemyId": "enemy_2012_csbln",
     "enemyIndex": "CS4",
     "enemyTags": null,
-    "sortId": 509,
+    "sortId": 545,
     "name": "“小驚喜”",
     "enemyRace": null,
     "enemyLevel": "NORMAL",
@@ -10070,7 +10108,7 @@
     "enemyId": "enemy_2017_csphts",
     "enemyIndex": "PTS",
     "enemyTags": null,
-    "sortId": 510,
+    "sortId": 546,
     "name": "不祥幻影",
     "enemyRace": null,
     "enemyLevel": "ELITE",
@@ -10088,10 +10126,12 @@
   "enemy_4001_toxcar": {
     "enemyId": "enemy_4001_toxcar",
     "enemyIndex": "MU1",
-    "enemyTags": null,
-    "sortId": 511,
+    "enemyTags": [
+      "machine"
+    ],
+    "sortId": 556,
     "name": "改造瓦斯車",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "以前是大型移動城市的農藥噴灑車，被可露希爾改造為催淚瓦斯噴射裝置，但是她沒來得及給小車安裝敵我識別系統。",
     "attackType": "近戰 遠程",
@@ -10107,10 +10147,12 @@
   "enemy_4001_toxcar_2": {
     "enemyId": "enemy_4001_toxcar_2",
     "enemyIndex": "MU2",
-    "enemyTags": null,
-    "sortId": 512,
+    "enemyTags": [
+      "machine"
+    ],
+    "sortId": 557,
     "name": "高能瓦斯車",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "ELITE",
     "description": "以前是大型移動城市的農藥噴灑車，被可露希爾改造為催淚瓦斯噴射裝置，但是她沒來得及給小車安裝敵我識別系統。這個型號的瓦斯車氣罐進行了擴容，危險性上升。",
     "attackType": "近戰 遠程",
@@ -10129,7 +10171,7 @@
     "enemyTags": [
       "drone"
     ],
-    "sortId": 513,
+    "sortId": 558,
     "name": "二手廉價無人機",
     "enemyRace": "無人機",
     "enemyLevel": "NORMAL",
@@ -10150,7 +10192,7 @@
     "enemyTags": [
       "drone"
     ],
-    "sortId": 514,
+    "sortId": 559,
     "name": "二手改裝無人機",
     "enemyRace": "無人機",
     "enemyLevel": "NORMAL",
@@ -10168,10 +10210,12 @@
   "enemy_4003_pbank": {
     "enemyId": "enemy_4003_pbank",
     "enemyIndex": "MU5",
-    "enemyTags": null,
-    "sortId": 515,
+    "enemyTags": [
+      "machine"
+    ],
+    "sortId": 560,
     "name": "移動電源",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "NORMAL",
     "description": "哥倫比亞某科技公司早年的實驗產品，設計目的是戰地能源供給，但是這台車其實並沒有安裝定位設備，如果沒人攔住，它就自己開走了。",
     "attackType": "不攻擊",
@@ -10190,7 +10234,7 @@
     "enemyTags": [
       "infection"
     ],
-    "sortId": 516,
+    "sortId": 561,
     "name": "\"龐貝\"",
     "enemyRace": "感染生物",
     "enemyLevel": "BOSS",
@@ -10209,7 +10253,7 @@
     "enemyId": "enemy_1500_skulsr",
     "enemyIndex": "SS",
     "enemyTags": null,
-    "sortId": 517,
+    "sortId": 562,
     "name": "碎骨",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10228,7 +10272,7 @@
     "enemyId": "enemy_1502_crowns",
     "enemyIndex": "CS",
     "enemyTags": null,
-    "sortId": 518,
+    "sortId": 563,
     "name": "弑君者",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10247,7 +10291,7 @@
     "enemyId": "enemy_1503_talula",
     "enemyIndex": "TA",
     "enemyTags": null,
-    "sortId": 519,
+    "sortId": 564,
     "name": "塔露拉",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10268,7 +10312,7 @@
     "enemyTags": [
       "sarkaz"
     ],
-    "sortId": 520,
+    "sortId": 565,
     "name": "W",
     "enemyRace": "薩卡茲",
     "enemyLevel": "BOSS",
@@ -10287,7 +10331,7 @@
     "enemyId": "enemy_1505_frstar",
     "enemyIndex": "FN",
     "enemyTags": null,
-    "sortId": 521,
+    "sortId": 566,
     "name": "霜星",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10306,7 +10350,7 @@
     "enemyId": "enemy_1507_mephi",
     "enemyIndex": "MP",
     "enemyTags": null,
-    "sortId": 522,
+    "sortId": 567,
     "name": "梅菲斯特",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10325,7 +10369,7 @@
     "enemyId": "enemy_1508_faust",
     "enemyIndex": "FA",
     "enemyTags": null,
-    "sortId": 523,
+    "sortId": 568,
     "name": "浮士德",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10344,7 +10388,7 @@
     "enemyId": "enemy_1509_mousek",
     "enemyIndex": "MK",
     "enemyTags": null,
-    "sortId": 524,
+    "sortId": 569,
     "name": "“鼠王”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10363,7 +10407,7 @@
     "enemyId": "enemy_1510_frstar2",
     "enemyIndex": "FNF",
     "enemyTags": null,
-    "sortId": 525,
+    "sortId": 570,
     "name": "霜星，“冬痕”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10384,7 +10428,7 @@
     "enemyTags": [
       "sarkaz"
     ],
-    "sortId": 526,
+    "sortId": 571,
     "name": "愛國者",
     "enemyRace": "薩卡茲",
     "enemyLevel": "BOSS",
@@ -10405,7 +10449,7 @@
     "enemyTags": [
       "sarkaz"
     ],
-    "sortId": 527,
+    "sortId": 572,
     "name": "泥岩",
     "enemyRace": "薩卡茲",
     "enemyLevel": "BOSS",
@@ -10423,10 +10467,12 @@
   "enemy_1512_mcmstr": {
     "enemyId": "enemy_1512_mcmstr",
     "enemyIndex": "BU",
-    "enemyTags": null,
-    "sortId": 528,
+    "enemyTags": [
+      "machine"
+    ],
+    "sortId": 573,
     "name": "“巨大的醜東西”",
-    "enemyRace": null,
+    "enemyRace": "機械",
     "enemyLevel": "BOSS",
     "description": "祖瑪瑪的得意之作，龐大的機械怪獸，由大祭司駕駛。攻擊方式遠近兼顧，並且能夠輕易地破壞巨蕈與木樁。正常工程師恐怕難以想像為何這樣拼裝的機器能夠動起來，然而它就是這樣動了起來。",
     "attackType": "近戰 遠程",
@@ -10445,7 +10491,7 @@
     "enemyTags": [
       "sarkaz"
     ],
-    "sortId": 529,
+    "sortId": 574,
     "name": "腐敗騎士",
     "enemyRace": "薩卡茲",
     "enemyLevel": "BOSS",
@@ -10466,7 +10512,7 @@
     "enemyTags": [
       "sarkaz"
     ],
-    "sortId": 530,
+    "sortId": 575,
     "name": "凋零騎士",
     "enemyRace": "薩卡茲",
     "enemyLevel": "BOSS",
@@ -10485,7 +10531,7 @@
     "enemyId": "enemy_1514_smephi",
     "enemyIndex": "SMP",
     "enemyTags": null,
-    "sortId": 531,
+    "sortId": 576,
     "name": "梅菲斯特，“歌者”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10504,7 +10550,7 @@
     "enemyId": "enemy_1515_bsnake",
     "enemyIndex": "BSN",
     "enemyTags": null,
-    "sortId": 532,
+    "sortId": 577,
     "name": "\"不死的黑蛇\"",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10523,7 +10569,7 @@
     "enemyId": "enemy_1516_jakill",
     "enemyIndex": "JAK",
     "enemyTags": null,
-    "sortId": 533,
+    "sortId": 578,
     "name": "傑斯頓·威廉姆斯",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10544,7 +10590,7 @@
     "enemyTags": [
       "animated"
     ],
-    "sortId": 534,
+    "sortId": 579,
     "name": "“自在”",
     "enemyRace": "化物",
     "enemyLevel": "BOSS",
@@ -10565,7 +10611,7 @@
     "enemyTags": [
       "infection"
     ],
-    "sortId": 535,
+    "sortId": 580,
     "name": "“進化的本質”",
     "enemyRace": "感染生物",
     "enemyLevel": "BOSS",
@@ -10584,7 +10630,7 @@
     "enemyId": "enemy_1520_empgrd",
     "enemyIndex": "EMG",
     "enemyTags": null,
-    "sortId": 536,
+    "sortId": 581,
     "name": "“皇帝的利刃”，追獵者",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10605,7 +10651,7 @@
     "enemyTags": [
       "seamonster"
     ],
-    "sortId": 537,
+    "sortId": 582,
     "name": "鹽風主教昆圖斯",
     "enemyRace": "海怪",
     "enemyLevel": "BOSS",
@@ -10624,7 +10670,7 @@
     "enemyId": "enemy_1522_captan",
     "enemyIndex": "CPS",
     "enemyTags": null,
-    "sortId": 538,
+    "sortId": 583,
     "name": "潘喬·薩拉斯",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10634,7 +10680,7 @@
     "attack": "A+",
     "defence": "A",
     "resistance": "B",
-    "ability": "召喚”風箏“和爆破艇協助作戰；使用水炮攻擊生命上限最高的單位，持續造成法術和<$ba.dt.erosion>侵蝕損傷</>；第二形態下周期性攻擊周圍所有單位；使用槍械攻擊防禦力最高的單位，並降低其防禦；擊敗單位或被擊敗時提升全場敵人的攻擊和移動速度。",
+    "ability": "召喚”風箏“和爆破艇協助作戰；使用水炮攻擊生命上限最高的單位，持續造成法術和<$ba.dt.erosion>侵蝕損傷</>；第二形態下周期性攻擊周圍所有單位；使用銃械攻擊防禦力最高的單位，並降低其防禦；擊敗單位或被擊敗時提升全場敵人的攻擊和移動速度。",
     "isInvalidKilled": false,
     "overrideKillCntInfos": {},
     "hideInHandbook": false
@@ -10643,7 +10689,7 @@
     "enemyId": "enemy_1523_mandra",
     "enemyIndex": "MD",
     "enemyTags": null,
-    "sortId": 539,
+    "sortId": 584,
     "name": "蔓德拉",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10662,7 +10708,7 @@
     "enemyId": "enemy_1524_bldkgt",
     "enemyIndex": "BK",
     "enemyTags": null,
-    "sortId": 540,
+    "sortId": 585,
     "name": "血騎士狄開俄波利斯",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10681,7 +10727,7 @@
     "enemyId": "enemy_1525_blkswb",
     "enemyIndex": "BJ",
     "enemyTags": null,
-    "sortId": 541,
+    "sortId": 586,
     "name": "鐧",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10702,7 +10748,7 @@
     "enemyTags": [
       "animated"
     ],
-    "sortId": 542,
+    "sortId": 587,
     "name": "歲相",
     "enemyRace": "化物",
     "enemyLevel": "BOSS",
@@ -10721,7 +10767,7 @@
     "enemyId": "enemy_1527_martyr",
     "enemyIndex": "AND",
     "enemyTags": null,
-    "sortId": 543,
+    "sortId": 588,
     "name": "“殉道者”，安多恩",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10742,7 +10788,7 @@
     "enemyTags": [
       "sarkaz"
     ],
-    "sortId": 544,
+    "sortId": 589,
     "name": "曼弗雷德",
     "enemyRace": "薩卡茲",
     "enemyLevel": "BOSS",
@@ -10763,7 +10809,7 @@
     "enemyTags": [
       "seamonster"
     ],
-    "sortId": 545,
+    "sortId": 590,
     "name": "屠諭者，大群意志",
     "enemyRace": "海怪",
     "enemyLevel": "BOSS",
@@ -10784,7 +10830,7 @@
     "enemyTags": [
       "originiumartscraft"
     ],
-    "sortId": 546,
+    "sortId": 591,
     "name": "白堊，“塵世遺骸”",
     "enemyRace": "法術造物",
     "enemyLevel": "BOSS",
@@ -10803,7 +10849,7 @@
     "enemyId": "enemy_1531_bbrain",
     "enemyIndex": "BBR",
     "enemyTags": null,
-    "sortId": 547,
+    "sortId": 592,
     "name": "“喚醒”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10824,7 +10870,7 @@
     "enemyTags": [
       "originiumartscraft"
     ],
-    "sortId": 548,
+    "sortId": 595,
     "name": "迷路的巨像",
     "enemyRace": "法術造物",
     "enemyLevel": "BOSS",
@@ -10843,7 +10889,7 @@
     "enemyId": "enemy_2004_balloon",
     "enemyIndex": "JTM",
     "enemyTags": null,
-    "sortId": 549,
+    "sortId": 596,
     "name": "噴氣人",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10862,7 +10908,7 @@
     "enemyId": "enemy_2005_axetro",
     "enemyIndex": "FSK",
     "enemyTags": null,
-    "sortId": 550,
+    "sortId": 597,
     "name": "“遺棄者”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10881,7 +10927,7 @@
     "enemyId": "enemy_2006_flsnip",
     "enemyIndex": "RSH",
     "enemyTags": null,
-    "sortId": 551,
+    "sortId": 598,
     "name": "鏽錘戰士",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10900,7 +10946,7 @@
     "enemyId": "enemy_2007_flwitch",
     "enemyIndex": "FZM",
     "enemyTags": null,
-    "sortId": 552,
+    "sortId": 599,
     "name": "“寒災”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10919,7 +10965,7 @@
     "enemyId": "enemy_2008_flking",
     "enemyIndex": "GST",
     "enemyTags": null,
-    "sortId": 553,
+    "sortId": 600,
     "name": "“墓碑”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10940,7 +10986,7 @@
     "enemyTags": [
       "originiumartscraft"
     ],
-    "sortId": 554,
+    "sortId": 601,
     "name": "漂泊頌偶",
     "enemyRace": "法術造物",
     "enemyLevel": "BOSS",
@@ -10959,7 +11005,7 @@
     "enemyId": "enemy_2014_csicer",
     "enemyIndex": "ICR",
     "enemyTags": null,
-    "sortId": 555,
+    "sortId": 602,
     "name": "“雪牝”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10978,7 +11024,7 @@
     "enemyId": "enemy_2015_csicem",
     "enemyIndex": "ICM",
     "enemyTags": null,
-    "sortId": 556,
+    "sortId": 603,
     "name": "“霜牡”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -10997,7 +11043,7 @@
     "enemyId": "enemy_2016_csphtm",
     "enemyIndex": "PTM",
     "enemyTags": null,
-    "sortId": 557,
+    "sortId": 604,
     "name": "盧西恩，“猩紅血鑽”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -11018,7 +11064,7 @@
     "enemyTags": [
       "originiumartscraft"
     ],
-    "sortId": 558,
+    "sortId": 605,
     "name": "傷心的大鎖",
     "enemyRace": "法術造物",
     "enemyLevel": "BOSS",
@@ -11037,7 +11083,7 @@
     "enemyId": "enemy_2019_cshost",
     "enemyIndex": "HST",
     "enemyTags": null,
-    "sortId": 559,
+    "sortId": 606,
     "name": "“劇團喉舌”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -11056,7 +11102,7 @@
     "enemyId": "enemy_2020_cswrtr",
     "enemyIndex": "WRT",
     "enemyTags": null,
-    "sortId": 560,
+    "sortId": 607,
     "name": "“劇作家”",
     "enemyRace": null,
     "enemyLevel": "BOSS",
@@ -11075,7 +11121,7 @@
     "enemyId": "enemy_5008_cstrwd",
     "enemyIndex": "-",
     "enemyTags": null,
-    "sortId": 561,
+    "sortId": 620,
     "name": "-",
     "enemyRace": null,
     "enemyLevel": "NORMAL",
@@ -11094,7 +11140,7 @@
     "enemyId": "enemy_5009_shtrwd",
     "enemyIndex": "-",
     "enemyTags": null,
-    "sortId": 562,
+    "sortId": 621,
     "name": "-",
     "enemyRace": null,
     "enemyLevel": "NORMAL",
@@ -11113,7 +11159,7 @@
     "enemyId": "enemy_5010_catrdg",
     "enemyIndex": "-",
     "enemyTags": null,
-    "sortId": 563,
+    "sortId": 622,
     "name": "-",
     "enemyRace": null,
     "enemyLevel": "NORMAL",
@@ -11132,7 +11178,7 @@
     "enemyId": "enemy_6001_trsgst",
     "enemyIndex": "DL1",
     "enemyTags": null,
-    "sortId": 564,
+    "sortId": 623,
     "name": "飛腿毛賊",
     "enemyRace": null,
     "enemyLevel": "ELITE",
@@ -11151,7 +11197,7 @@
     "enemyId": "enemy_6002_trswlf",
     "enemyIndex": "DL2",
     "enemyTags": null,
-    "sortId": 565,
+    "sortId": 624,
     "name": "流眼淚偵探",
     "enemyRace": null,
     "enemyLevel": "ELITE",
@@ -11172,7 +11218,7 @@
     "enemyTags": [
       "infection"
     ],
-    "sortId": 566,
+    "sortId": 625,
     "name": "“閃亮噗嚕”",
     "enemyRace": "感染生物",
     "enemyLevel": "ELITE",
@@ -11193,7 +11239,7 @@
     "enemyTags": [
       "infection"
     ],
-    "sortId": 567,
+    "sortId": 626,
     "name": "“米蘭”",
     "enemyRace": "感染生物",
     "enemyLevel": "BOSS",
@@ -11214,7 +11260,7 @@
     "enemyTags": [
       "originiumartscraft"
     ],
-    "sortId": 568,
+    "sortId": 627,
     "name": "圓岩巨像",
     "enemyRace": "法術造物",
     "enemyLevel": "BOSS",
@@ -11235,7 +11281,7 @@
     "enemyTags": [
       "originiumartscraft"
     ],
-    "sortId": 569,
+    "sortId": 628,
     "name": "粗圓岩",
     "enemyRace": "法術造物",
     "enemyLevel": "NORMAL",

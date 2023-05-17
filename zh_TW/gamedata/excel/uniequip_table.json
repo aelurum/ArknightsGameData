@@ -19,7 +19,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_mgllan": {
       "uniEquipId": "uniequip_002_mgllan",
@@ -105,7 +106,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 1
     },
     "uniequip_001_folivo": {
       "uniEquipId": "uniequip_001_folivo",
@@ -126,7 +128,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_folivo": {
       "uniEquipId": "uniequip_002_folivo",
@@ -212,7 +215,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 1
     },
     "uniequip_001_otter": {
       "uniEquipId": "uniequip_001_otter",
@@ -233,7 +237,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_otter": {
       "uniEquipId": "uniequip_002_otter",
@@ -319,7 +324,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 1
     },
     "uniequip_001_deepcl": {
       "uniEquipId": "uniequip_001_deepcl",
@@ -340,7 +346,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_deepcl": {
       "uniEquipId": "uniequip_002_deepcl",
@@ -426,7 +433,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 2
     },
     "uniequip_001_pallas": {
       "uniEquipId": "uniequip_001_pallas",
@@ -447,7 +455,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_pallas": {
       "uniEquipId": "uniequip_002_pallas",
@@ -533,7 +542,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 1
     },
     "uniequip_001_sophia": {
       "uniEquipId": "uniequip_001_sophia",
@@ -554,7 +564,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_sophia": {
       "uniEquipId": "uniequip_002_sophia",
@@ -640,7 +651,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 1
     },
     "uniequip_001_swire": {
       "uniEquipId": "uniequip_001_swire",
@@ -661,7 +673,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_swire": {
       "uniEquipId": "uniequip_002_swire",
@@ -747,7 +760,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 1
     },
     "uniequip_001_doberm": {
       "uniEquipId": "uniequip_001_doberm",
@@ -768,7 +782,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 0
     },
     "uniequip_002_doberm": {
       "uniEquipId": "uniequip_002_doberm",
@@ -854,7 +869,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1627963200
+      "uniEquipGetTime": 1627963200,
+      "charEquipOrder": 2
     },
     "uniequip_001_fartth": {
       "uniEquipId": "uniequip_001_fartth",
@@ -875,7 +891,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1634284800
+      "uniEquipGetTime": 1634284800,
+      "charEquipOrder": 0
     },
     "uniequip_002_fartth": {
       "uniEquipId": "uniequip_002_fartth",
@@ -961,7 +978,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1634284800
+      "uniEquipGetTime": 1634284800,
+      "charEquipOrder": 1
     },
     "uniequip_001_milu": {
       "uniEquipId": "uniequip_001_milu",
@@ -982,7 +1000,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 0
     },
     "uniequip_002_milu": {
       "uniEquipId": "uniequip_002_milu",
@@ -1068,7 +1087,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 2
     },
     "uniequip_001_cuttle": {
       "uniEquipId": "uniequip_001_cuttle",
@@ -1089,7 +1109,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 0
     },
     "uniequip_002_cuttle": {
       "uniEquipId": "uniequip_002_cuttle",
@@ -1175,7 +1196,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 1
     },
     "uniequip_001_glaze": {
       "uniEquipId": "uniequip_001_glaze",
@@ -1196,7 +1218,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 0
     },
     "uniequip_002_glaze": {
       "uniEquipId": "uniequip_002_glaze",
@@ -1282,7 +1305,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 1
     },
     "uniequip_001_cgbird": {
       "uniEquipId": "uniequip_001_cgbird",
@@ -1303,7 +1327,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 0
     },
     "uniequip_002_cgbird": {
       "uniEquipId": "uniequip_002_cgbird",
@@ -1389,7 +1414,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 1
     },
     "uniequip_001_plosis": {
       "uniEquipId": "uniequip_001_plosis",
@@ -1410,7 +1436,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 0
     },
     "uniequip_002_plosis": {
       "uniEquipId": "uniequip_002_plosis",
@@ -1496,7 +1523,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 1
     },
     "uniequip_001_breeze": {
       "uniEquipId": "uniequip_001_breeze",
@@ -1517,7 +1545,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 0
     },
     "uniequip_002_breeze": {
       "uniEquipId": "uniequip_002_breeze",
@@ -1603,7 +1632,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 1
     },
     "uniequip_001_flower": {
       "uniEquipId": "uniequip_001_flower",
@@ -1624,7 +1654,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 0
     },
     "uniequip_002_flower": {
       "uniEquipId": "uniequip_002_flower",
@@ -1710,7 +1741,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1631851200
+      "uniEquipGetTime": 1631851200,
+      "charEquipOrder": 2
     },
     "uniequip_001_phatom": {
       "uniEquipId": "uniequip_001_phatom",
@@ -1731,7 +1763,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_phatom": {
       "uniEquipId": "uniequip_002_phatom",
@@ -1817,7 +1850,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 1
     },
     "uniequip_001_kafka": {
       "uniEquipId": "uniequip_001_kafka",
@@ -1838,7 +1872,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_kafka": {
       "uniEquipId": "uniequip_002_kafka",
@@ -1924,7 +1959,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 2
     },
     "uniequip_001_red": {
       "uniEquipId": "uniequip_001_red",
@@ -1945,7 +1981,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_red": {
       "uniEquipId": "uniequip_002_red",
@@ -2031,7 +2068,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 2
     },
     "uniequip_001_waaifu": {
       "uniEquipId": "uniequip_001_waaifu",
@@ -2052,7 +2090,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_waaifu": {
       "uniEquipId": "uniequip_002_waaifu",
@@ -2138,7 +2177,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 1
     },
     "uniequip_001_gravel": {
       "uniEquipId": "uniequip_001_gravel",
@@ -2159,7 +2199,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_gravel": {
       "uniEquipId": "uniequip_002_gravel",
@@ -2245,7 +2286,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 1
     },
     "uniequip_001_pasngr": {
       "uniEquipId": "uniequip_001_pasngr",
@@ -2266,7 +2308,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_pasngr": {
       "uniEquipId": "uniequip_002_pasngr",
@@ -2352,7 +2395,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 1
     },
     "uniequip_001_leizi": {
       "uniEquipId": "uniequip_001_leizi",
@@ -2373,7 +2417,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_leizi": {
       "uniEquipId": "uniequip_002_leizi",
@@ -2459,7 +2504,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 1
     },
     "uniequip_001_pudd": {
       "uniEquipId": "uniequip_001_pudd",
@@ -2480,7 +2526,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 0
     },
     "uniequip_002_pudd": {
       "uniEquipId": "uniequip_002_pudd",
@@ -2566,7 +2613,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1635739200
+      "uniEquipGetTime": 1635739200,
+      "charEquipOrder": 2
     },
     "uniequip_001_chen": {
       "uniEquipId": "uniequip_001_chen",
@@ -2587,7 +2635,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_chen": {
       "uniEquipId": "uniequip_002_chen",
@@ -2673,7 +2722,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 1
     },
     "uniequip_001_tachak": {
       "uniEquipId": "uniequip_001_tachak",
@@ -2694,7 +2744,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_tachak": {
       "uniEquipId": "uniequip_002_tachak",
@@ -2780,7 +2831,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 1
     },
     "uniequip_001_bibeak": {
       "uniEquipId": "uniequip_001_bibeak",
@@ -2801,7 +2853,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_bibeak": {
       "uniEquipId": "uniequip_002_bibeak",
@@ -2887,7 +2940,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 1
     },
     "uniequip_001_cutter": {
       "uniEquipId": "uniequip_001_cutter",
@@ -2908,7 +2962,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_cutter": {
       "uniEquipId": "uniequip_002_cutter",
@@ -2994,7 +3049,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 2
     },
     "uniequip_001_bpipe": {
       "uniEquipId": "uniequip_001_bpipe",
@@ -3015,7 +3071,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_bpipe": {
       "uniEquipId": "uniequip_002_bpipe",
@@ -3101,7 +3158,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 1
     },
     "uniequip_001_grani": {
       "uniEquipId": "uniequip_001_grani",
@@ -3122,7 +3180,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_grani": {
       "uniEquipId": "uniequip_002_grani",
@@ -3208,7 +3267,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 1
     },
     "uniequip_001_wildmn": {
       "uniEquipId": "uniequip_001_wildmn",
@@ -3229,7 +3289,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_wildmn": {
       "uniEquipId": "uniequip_002_wildmn",
@@ -3315,7 +3376,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 1
     },
     "uniequip_001_sddrag": {
       "uniEquipId": "uniequip_001_sddrag",
@@ -3336,7 +3398,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_sddrag": {
       "uniEquipId": "uniequip_002_sddrag",
@@ -3422,7 +3485,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 2
     },
     "uniequip_001_vigna": {
       "uniEquipId": "uniequip_001_vigna",
@@ -3443,7 +3507,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 0
     },
     "uniequip_002_vigna": {
       "uniEquipId": "uniequip_002_vigna",
@@ -3529,7 +3594,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1640059200
+      "uniEquipGetTime": 1640059200,
+      "charEquipOrder": 2
     },
     "uniequip_001_nearl2": {
       "uniEquipId": "uniequip_001_nearl2",
@@ -3550,7 +3616,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_nearl2": {
       "uniEquipId": "uniequip_002_nearl2",
@@ -3636,7 +3703,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 1
     },
     "uniequip_001_skadi": {
       "uniEquipId": "uniequip_001_skadi",
@@ -3657,7 +3725,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_skadi": {
       "uniEquipId": "uniequip_002_skadi",
@@ -3743,7 +3812,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 2
     },
     "uniequip_001_flameb": {
       "uniEquipId": "uniequip_001_flameb",
@@ -3764,7 +3834,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_flameb": {
       "uniEquipId": "uniequip_002_flameb",
@@ -3850,7 +3921,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 2
     },
     "uniequip_001_franka": {
       "uniEquipId": "uniequip_001_franka",
@@ -3871,7 +3943,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_franka": {
       "uniEquipId": "uniequip_002_franka",
@@ -3957,7 +4030,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 1
     },
     "uniequip_001_peacok": {
       "uniEquipId": "uniequip_001_peacok",
@@ -3978,7 +4052,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_peacok": {
       "uniEquipId": "uniequip_002_peacok",
@@ -4064,7 +4139,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 1
     },
     "uniequip_001_gyuki": {
       "uniEquipId": "uniequip_001_gyuki",
@@ -4085,7 +4161,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_gyuki": {
       "uniEquipId": "uniequip_002_gyuki",
@@ -4171,7 +4248,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 2
     },
     "uniequip_001_nothin": {
       "uniEquipId": "uniequip_001_nothin",
@@ -4192,7 +4270,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_nothin": {
       "uniEquipId": "uniequip_002_nothin",
@@ -4278,7 +4357,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 1
     },
     "uniequip_001_strong": {
       "uniEquipId": "uniequip_001_strong",
@@ -4299,7 +4379,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_strong": {
       "uniEquipId": "uniequip_002_strong",
@@ -4385,7 +4466,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 1
     },
     "uniequip_001_lmlee": {
       "uniEquipId": "uniequip_001_lmlee",
@@ -4406,7 +4488,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_lmlee": {
       "uniEquipId": "uniequip_002_lmlee",
@@ -4492,7 +4575,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 1
     },
     "uniequip_001_ling": {
       "uniEquipId": "uniequip_001_ling",
@@ -4513,7 +4597,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 0
     },
     "uniequip_002_ling": {
       "uniEquipId": "uniequip_002_ling",
@@ -4599,7 +4684,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1643083200
+      "uniEquipGetTime": 1643083200,
+      "charEquipOrder": 2
     },
     "uniequip_001_cqbw": {
       "uniEquipId": "uniequip_001_cqbw",
@@ -4620,7 +4706,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_cqbw": {
       "uniEquipId": "uniequip_002_cqbw",
@@ -4706,7 +4793,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 1
     },
     "uniequip_001_phenxi": {
       "uniEquipId": "uniequip_001_phenxi",
@@ -4727,7 +4815,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_phenxi": {
       "uniEquipId": "uniequip_002_phenxi",
@@ -4813,7 +4902,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 2
     },
     "uniequip_001_meteo": {
       "uniEquipId": "uniequip_001_meteo",
@@ -4834,7 +4924,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_meteo": {
       "uniEquipId": "uniequip_002_meteo",
@@ -4920,7 +5011,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 2
     },
     "uniequip_001_sesa": {
       "uniEquipId": "uniequip_001_sesa",
@@ -4941,7 +5033,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_sesa": {
       "uniEquipId": "uniequip_002_sesa",
@@ -5027,7 +5120,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 1
     },
     "uniequip_001_yuki": {
       "uniEquipId": "uniequip_001_yuki",
@@ -5048,7 +5142,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_yuki": {
       "uniEquipId": "uniequip_002_yuki",
@@ -5134,7 +5229,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 2
     },
     "uniequip_001_dusk": {
       "uniEquipId": "uniequip_001_dusk",
@@ -5155,7 +5251,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_dusk": {
       "uniEquipId": "uniequip_002_dusk",
@@ -5241,7 +5338,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 1
     },
     "uniequip_001_mostma": {
       "uniEquipId": "uniequip_001_mostma",
@@ -5262,7 +5360,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_mostma": {
       "uniEquipId": "uniequip_002_mostma",
@@ -5348,7 +5447,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 2
     },
     "uniequip_001_lava2": {
       "uniEquipId": "uniequip_001_lava2",
@@ -5369,7 +5469,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_lava2": {
       "uniEquipId": "uniequip_002_lava2",
@@ -5455,7 +5556,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 1
     },
     "uniequip_001_skfire": {
       "uniEquipId": "uniequip_001_skfire",
@@ -5476,7 +5578,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_skfire": {
       "uniEquipId": "uniequip_002_skfire",
@@ -5562,7 +5665,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 2
     },
     "uniequip_001_lionhd": {
       "uniEquipId": "uniequip_001_lionhd",
@@ -5583,7 +5687,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_lionhd": {
       "uniEquipId": "uniequip_002_lionhd",
@@ -5669,7 +5774,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 1
     },
     "uniequip_001_fmout": {
       "uniEquipId": "uniequip_001_fmout",
@@ -5690,7 +5796,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_fmout": {
       "uniEquipId": "uniequip_002_fmout",
@@ -5776,7 +5883,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 1
     },
     "uniequip_001_greyy": {
       "uniEquipId": "uniequip_001_greyy",
@@ -5797,7 +5905,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 0
     },
     "uniequip_002_greyy": {
       "uniEquipId": "uniequip_002_greyy",
@@ -5883,7 +5992,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1672299000
+      "uniEquipGetTime": 1672299000,
+      "charEquipOrder": 2
     },
     "uniequip_001_shwaz": {
       "uniEquipId": "uniequip_001_shwaz",
@@ -5904,7 +6014,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_shwaz": {
       "uniEquipId": "uniequip_002_shwaz",
@@ -5990,7 +6101,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 1
     },
     "uniequip_001_prove": {
       "uniEquipId": "uniequip_001_prove",
@@ -6011,7 +6123,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_prove": {
       "uniEquipId": "uniequip_002_prove",
@@ -6097,7 +6210,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 1
     },
     "uniequip_001_acdrop": {
       "uniEquipId": "uniequip_001_acdrop",
@@ -6118,7 +6232,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_acdrop": {
       "uniEquipId": "uniequip_002_acdrop",
@@ -6204,7 +6319,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 1
     },
     "uniequip_001_lisa": {
       "uniEquipId": "uniequip_001_lisa",
@@ -6225,7 +6341,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_lisa": {
       "uniEquipId": "uniequip_002_lisa",
@@ -6311,7 +6428,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 1
     },
     "uniequip_001_aglina": {
       "uniEquipId": "uniequip_001_aglina",
@@ -6332,7 +6450,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_aglina": {
       "uniEquipId": "uniequip_002_aglina",
@@ -6418,7 +6537,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 2
     },
     "uniequip_001_glacus": {
       "uniEquipId": "uniequip_001_glacus",
@@ -6439,7 +6559,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_glacus": {
       "uniEquipId": "uniequip_002_glacus",
@@ -6525,7 +6646,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 1
     },
     "uniequip_001_glassb": {
       "uniEquipId": "uniequip_001_glassb",
@@ -6546,7 +6668,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_glassb": {
       "uniEquipId": "uniequip_002_glassb",
@@ -6632,7 +6755,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 2
     },
     "uniequip_001_podego": {
       "uniEquipId": "uniequip_001_podego",
@@ -6653,7 +6777,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_podego": {
       "uniEquipId": "uniequip_002_podego",
@@ -6739,7 +6864,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 1
     },
     "uniequip_001_skgoat": {
       "uniEquipId": "uniequip_001_skgoat",
@@ -6760,7 +6886,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 0
     },
     "uniequip_002_skgoat": {
       "uniEquipId": "uniequip_002_skgoat",
@@ -6846,7 +6973,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1673935200
+      "uniEquipGetTime": 1673935200,
+      "charEquipOrder": 2
     },
     "uniequip_001_ghost2": {
       "uniEquipId": "uniequip_001_ghost2",
@@ -6867,7 +6995,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_ghost2": {
       "uniEquipId": "uniequip_002_ghost2",
@@ -6953,7 +7082,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 1
     },
     "uniequip_001_bena": {
       "uniEquipId": "uniequip_001_bena",
@@ -6974,7 +7104,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_bena": {
       "uniEquipId": "uniequip_002_bena",
@@ -7060,7 +7191,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 2
     },
     "uniequip_001_kazema": {
       "uniEquipId": "uniequip_001_kazema",
@@ -7081,7 +7213,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_kazema": {
       "uniEquipId": "uniequip_002_kazema",
@@ -7167,7 +7300,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 1
     },
     "uniequip_001_lumen": {
       "uniEquipId": "uniequip_001_lumen",
@@ -7188,7 +7322,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_lumen": {
       "uniEquipId": "uniequip_002_lumen",
@@ -7274,7 +7409,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 1
     },
     "uniequip_001_ceylon": {
       "uniEquipId": "uniequip_001_ceylon",
@@ -7295,7 +7431,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_ceylon": {
       "uniEquipId": "uniequip_002_ceylon",
@@ -7381,7 +7518,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 1
     },
     "uniequip_001_whispr": {
       "uniEquipId": "uniequip_001_whispr",
@@ -7402,7 +7540,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_whispr": {
       "uniEquipId": "uniequip_002_whispr",
@@ -7488,7 +7627,117 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_finlpp": {
+      "uniEquipId": "uniequip_001_finlpp",
+      "uniEquipName": "清流證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員清流擅長大範圍治療並為其他幹員提供增益效果\n根據外勤部門決議\n在外勤任務中劃分為醫療幹員，行使療養師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_385_finlpp",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_finlpp": {
+      "uniEquipId": "uniequip_002_finlpp",
+      "uniEquipName": "“江河之韻”",
+      "uniEquipIcon": "uniequip_002_finlpp",
+      "uniEquipDesc": "我的護身符丟了，找了很久都沒找到。雖然只是在炎國執行任務時順道買的小玩意，但據當地人說，是在寺廟裡開過光的。有人告訴我，可以去清流那問問看。清流......我對這個名字沒有太深的印象，難道是後勤部負責失物招領的新幹員？\n不在宿舍......\n也不在會議室......\n我是在大浴場找到的她，她剛結束檢修工作，當時正在——泡澡，我在門外甚至能聽到她在唱歌，高音很完美......只是泡那麼久不會難受嗎？\n“抱歉抱歉，讓你久等了。”\n“羅德島的排汙工作是合格的，但對於過濾系統本身的清潔未免也太不重視了，絕大多數區域都有積淤，需要頻繁進出，我只能等到全部清理工作完成才......嘿嘿。”\n“你看看這是你的護身符嗎？”\n這位小姑娘一邊自顧自地說著，一邊打開一個袋子，除了我的護身符，我還看到裡面有彈珠、髮飾、試管，甚至一個彈夾......\n“這些，都是在排汙過濾系統裡找到的？”\n“是啊。剛發現的時候裹了一層泥巴，很髒，但我已經認真清洗過了。”\n我剛想問“為什麼會丟到那裡去”，但忍住了，這個問題似乎該問我自己......\n後來我和工程部的朋友聊起這次本艦故障檢修，誰也沒想到問題居然出在排汙系統上，剛入職一天的清流幹員獨立承擔了清理任務，在髒兮兮的內過濾系統裡待了足足兩天......個別區域堵塞的“罪魁禍首”，便是我們這些意外丟失遍尋不見的“寶貝”。我想起我此前表示感謝時清流有些羞怯的笑容，她只是叮囑說“以後請注意”，順便交代了一些注意事項。水能夠沖走一切，所以我們習慣了扭扭龍頭按按開關，很簡單。也正是因為水能夠沖走一切，所以我們從來不知道，看不見的地方，有多汙濁。\n聽說清流已經負責起了羅德島的艦船排汙工作，我不知道她喜歡什麼，想來想去，只好買了塊香皂送給她，後來才知道她已經收到很多塊了。看來不止我一個人想到向她表示感謝。\n\n——摘自清流入職定期評估時某幹員的敘述",
+      "typeIcon": "wah-y",
+      "typeName1": "WAH",
+      "typeName2": "Y",
+      "equipShiningColor": "blue",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_385_finlpp",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_finlpp_1",
+        "uniequip_002_finlpp_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30033",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30053",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30083",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 2
     },
     "uniequip_001_zumama": {
       "uniEquipId": "uniequip_001_zumama",
@@ -7509,7 +7758,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_zumama": {
       "uniEquipId": "uniequip_002_zumama",
@@ -7595,7 +7845,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 1
     },
     "uniequip_001_aurora": {
       "uniEquipId": "uniequip_001_aurora",
@@ -7616,7 +7867,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_aurora": {
       "uniEquipId": "uniequip_002_aurora",
@@ -7702,7 +7954,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 1
     },
     "uniequip_001_irene": {
       "uniEquipId": "uniequip_001_irene",
@@ -7723,7 +7976,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 0
     },
     "uniequip_002_irene": {
       "uniEquipId": "uniequip_002_irene",
@@ -7809,7 +8063,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1675150200
+      "uniEquipGetTime": 1675150200,
+      "charEquipOrder": 2
     },
     "uniequip_001_ebnhlz": {
       "uniEquipId": "uniequip_001_ebnhlz",
@@ -7830,7 +8085,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_ebnhlz": {
       "uniEquipId": "uniequip_002_ebnhlz",
@@ -7916,7 +8172,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 1
     },
     "uniequip_001_iris": {
       "uniEquipId": "uniequip_001_iris",
@@ -7937,7 +8194,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_iris": {
       "uniEquipId": "uniequip_002_iris",
@@ -8023,7 +8281,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 1
     },
     "uniequip_001_indigo": {
       "uniEquipId": "uniequip_001_indigo",
@@ -8044,7 +8303,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_indigo": {
       "uniEquipId": "uniequip_002_indigo",
@@ -8130,7 +8390,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 1
     },
     "uniequip_001_demkni": {
       "uniEquipId": "uniequip_001_demkni",
@@ -8151,7 +8412,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_demkni": {
       "uniEquipId": "uniequip_002_demkni",
@@ -8237,7 +8499,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 1
     },
     "uniequip_001_blemsh": {
       "uniEquipId": "uniequip_001_blemsh",
@@ -8258,7 +8521,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_blemsh": {
       "uniEquipId": "uniequip_002_blemsh",
@@ -8344,7 +8608,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 2
     },
     "uniequip_001_nearl": {
       "uniEquipId": "uniequip_001_nearl",
@@ -8365,7 +8630,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_nearl": {
       "uniEquipId": "uniequip_002_nearl",
@@ -8451,7 +8717,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 1
     },
     "uniequip_001_hmau": {
       "uniEquipId": "uniequip_001_hmau",
@@ -8472,7 +8739,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_hmau": {
       "uniEquipId": "uniequip_002_hmau",
@@ -8558,7 +8826,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 2
     },
     "uniequip_001_sunbr": {
       "uniEquipId": "uniequip_001_sunbr",
@@ -8579,7 +8848,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 0
     },
     "uniequip_002_sunbr": {
       "uniEquipId": "uniequip_002_sunbr",
@@ -8665,7 +8935,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 1
     },
     "uniequip_003_pasngr": {
       "uniEquipId": "uniequip_003_pasngr",
@@ -8751,7 +9022,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 2
     },
     "uniequip_003_skadi": {
       "uniEquipId": "uniequip_003_skadi",
@@ -8837,7 +9109,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1679983200
+      "uniEquipGetTime": 1679983200,
+      "charEquipOrder": 1
     },
     "uniequip_001_jesica": {
       "uniEquipId": "uniequip_001_jesica",
@@ -8858,7 +9131,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_jesica": {
       "uniEquipId": "uniequip_002_jesica",
@@ -8944,7 +9218,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_001_shotst": {
       "uniEquipId": "uniequip_001_shotst",
@@ -8965,7 +9240,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_shotst": {
       "uniEquipId": "uniequip_002_shotst",
@@ -9051,7 +9327,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 1
     },
     "uniequip_001_clour": {
       "uniEquipId": "uniequip_001_clour",
@@ -9072,7 +9349,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_clour": {
       "uniEquipId": "uniequip_002_clour",
@@ -9158,7 +9436,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 1
     },
     "uniequip_001_mm": {
       "uniEquipId": "uniequip_001_mm",
@@ -9179,7 +9458,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_mm": {
       "uniEquipId": "uniequip_002_mm",
@@ -9265,7 +9545,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 1
     },
     "uniequip_001_bluep": {
       "uniEquipId": "uniequip_001_bluep",
@@ -9286,7 +9567,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_bluep": {
       "uniEquipId": "uniequip_002_bluep",
@@ -9372,7 +9654,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_001_platnm": {
       "uniEquipId": "uniequip_001_platnm",
@@ -9393,7 +9676,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_platnm": {
       "uniEquipId": "uniequip_002_platnm",
@@ -9479,7 +9763,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 1
     },
     "uniequip_001_swllow": {
       "uniEquipId": "uniequip_001_swllow",
@@ -9500,7 +9785,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_swllow": {
       "uniEquipId": "uniequip_002_swllow",
@@ -9586,7 +9872,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_001_aprl": {
       "uniEquipId": "uniequip_001_aprl",
@@ -9607,7 +9894,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_aprl": {
       "uniEquipId": "uniequip_002_aprl",
@@ -9693,7 +9981,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_001_kroos2": {
       "uniEquipId": "uniequip_001_kroos2",
@@ -9714,7 +10003,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_kroos2": {
       "uniEquipId": "uniequip_002_kroos2",
@@ -9800,7 +10090,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 1
     },
     "uniequip_001_angel": {
       "uniEquipId": "uniequip_001_angel",
@@ -9821,7 +10112,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_angel": {
       "uniEquipId": "uniequip_002_angel",
@@ -9907,7 +10199,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 1
     },
     "uniequip_001_archet": {
       "uniEquipId": "uniequip_001_archet",
@@ -9928,7 +10221,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_archet": {
       "uniEquipId": "uniequip_002_archet",
@@ -10014,7 +10308,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_001_ash": {
       "uniEquipId": "uniequip_001_ash",
@@ -10035,7 +10330,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_ash": {
       "uniEquipId": "uniequip_002_ash",
@@ -10121,7 +10417,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_003_mgllan": {
       "uniEquipId": "uniequip_003_mgllan",
@@ -10207,7 +10504,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_003_pallas": {
       "uniEquipId": "uniequip_003_pallas",
@@ -10293,7 +10591,8 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
     },
     "uniequip_001_halo": {
       "uniEquipId": "uniequip_001_halo",
@@ -10314,7 +10613,8 @@
       "missionList": [],
       "itemCost": null,
       "type": "INITIAL",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 0
     },
     "uniequip_002_halo": {
       "uniEquipId": "uniequip_002_halo",
@@ -10400,7 +10700,1163 @@
         ]
       },
       "type": "ADVANCED",
-      "uniEquipGetTime": 1681371000
+      "uniEquipGetTime": 1681371000,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_provs": {
+      "uniEquipId": "uniequip_001_provs",
+      "uniEquipName": "但書證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員但書擅長牽制敵人\n根據外勤部門決議\n在外勤任務中劃分為輔助幹員，行使凝滯師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_4032_provs",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_provs": {
+      "uniEquipId": "uniequip_002_provs",
+      "uniEquipName": "黛絲特的畢業禮",
+      "uniEquipIcon": "uniequip_002_provs",
+      "uniEquipDesc": "黛絲特的《卡西米爾現行法律與商業資本的對峙、媾和及未來態想像》一文觀點犀利、論證翔實，兼具理論深度與實踐價值，無疑是一篇是極為優秀的論文。但要授予她法學院優秀畢業生榮譽，我和其他幾位老師有過一些爭執。\n執教數十年，我們常常見到心懷抱負的學生，他們按在法典封面上起誓的手微微顫抖，眼神裡的嚮往和堅定卻如光般灼目。我們也常常見到中途改道或者迷失方向的學子，他們質問從業資格考試為何會出“搶劫者為了威懾劃傷受害人手臂，結果對方因造血功能障礙流血死亡，該如何定罪量刑”這樣荒唐的題目，隨後更驚訝地發現在卡西米爾，所學、所考與所用竟然如此迥異，法典上的條文明晰卻狹窄，它們無法跟上競技場、商店街生長的速度，“工具論”與“目的論”的爭辯只在課堂，法律在現實中的適用更多依賴於解釋、補充和範式案例指導......它們在一切空白處的形態才是卡西米爾法律的真實面目。這對於我們這些老傢伙來說，都沒那麼容易消化，更何況年輕人。\n黛絲特是一位足夠優秀的學生。我曾勸說過她留在學院繼續深造，或許更多的知識積累與辯證思考可以將她聰明的頭腦打磨得更具智慧。但是她已迫不及待地想要在實戰中大展拳腳。在寫作這篇論文前，她已經拿到了長韁律所的正式錄用通知，她去實習前，我曾向帶她的大律師打過招呼，拜託他照顧什麼也不懂的學生。但對方說黛絲特在律所“適應”得很好，提過不少一針見血的建議，推進了官司的進展，並勸我不要太過操心。\n黛絲特太過聰明，也太過於絕對，這是她與多數學生最大的不同。她對於用法律尋找真理的執著支撐著她取得如斯優秀的成績，但她還沒有做好“找不到答案”的準備。我們都明白，越是虔誠的信徒，在信仰崩塌後，越是容易墜入更深的虛空。作為老師，我們無權為學生選擇前路，只能在他們身後送上祝福。\n希望她不會是下一個在大騎士領璀璨的霓虹燈中迷失方向的年輕人。\n......\n\n——摘自黛絲特的導師，沃伯茨教授在法學院優秀畢業生內部評定會上的發言",
+      "typeIcon": "dec-x",
+      "typeName1": "DEC",
+      "typeName2": "X",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_4032_provs",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_provs_1",
+        "uniequip_002_provs_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30024",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30104",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_yak": {
+      "uniEquipId": "uniequip_001_yak",
+      "uniEquipName": "角峰證章\t",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員角峰擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_199_yak",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_yak": {
+      "uniEquipId": "uniequip_002_yak",
+      "uniEquipName": "父親的袍子",
+      "uniEquipIcon": "uniequip_002_yak",
+      "uniEquipDesc": "在雪境最寒冷的季節，你的母親因為陣痛從馱獸身上跌落，地上厚厚的積雪保護了她和你。她一聲高過一聲的呻吟吸引牲畜一隻隻靠了過來，圍成一個圈，將她包圍在內。那些牲畜暖烘烘的皮毛厚實細密，把風雪擋在外面，而從它們口鼻中噴出的熱氣砌成一堵牆，為你母親的分娩提供了合適的溫度。\n你出生了，臉上髒兮兮的，一直乾嚎，我伸出手摸了摸你緊閉的眼縫，粗糙的皮膚蹭得你眼角通紅一片。我生就一副結實寬大的手，你的祖父為此驕傲，說我會是一個能養家的男人，可它們卻在那天害得你啼哭不止。\n於是你母親不悅地將我的手拍開，我笑著，正打算抽回手指，你的手臂卻從繈褓中探出，緊緊牽住我的手指。你看，明明你只有我一隻手大，卻能讓我驚慌失措，呆立在雪地動彈不得。\n一直在外面疾馳呼嘯著的風雪擠進了牲畜圍成的產房，紅潤的血色從你裸露在外的皮膚上褪去，不祥的青紫色漫延上來。你的母親解開我袍子的前襟，把你塞進我的胸膛。我小心翼翼裹緊袍子，像對待我第二顆心臟。而你被凍得硬邦邦的小臉被我的體溫溫暖，終於你不再啼哭，只是含著手指，呼吸細弱。你的母親則在這時攀上我的後背，打著呼哨驅趕牲畜群回家，滾滾的牲畜群順著狹窄的緩坡奔下山，我像牲畜的頭領，背上馱著纖細的她，懷裡裝著孱弱的你，兩腿卻在及踝深的雪地中不停打顫，好像負著的是一方天地的重量。\n後來那件袍子的胸口位置破了一個窟窿，應該是在哪一次聖獵中吧。去年你的母親把它從衣櫃底翻了出來，我們幾乎都要忘記它了。最後你的母親細細補好了它，問我還穿嗎？我搖搖頭，說還是寄給你吧。我已經衰老，日漸佝僂，而你正值盛年，如高山巍峨，再不懼朔風和冰雪。可我還是想寄給你，想你穿著它的樣子，和我當年的樣子是否如出一轍？所以穿上它吧，所以躲進來吧，縱使我的胸膛乾癟枯瘦，我的袍子千瘡百孔，卻依然能夠保護一顆心臟。\n——父親的信",
+      "typeIcon": "pro-y",
+      "typeName1": "PRO",
+      "typeName2": "Y",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_199_yak",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_yak_1",
+        "uniequip_002_yak_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31023",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30033",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31013",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_snakek": {
+      "uniEquipId": "uniequip_001_snakek",
+      "uniEquipName": "蛇屠箱證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員蛇屠箱擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_150_snakek",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_snakek": {
+      "uniEquipId": "uniequip_002_snakek",
+      "uniEquipName": "超強棒球套裝",
+      "uniEquipIcon": "uniequip_002_snakek",
+      "uniEquipDesc": "啊，午覺，暖洋洋，睡完以後就可以去看棒球比賽。蛇屠箱滿足地在甲板上翻了一個身。\n\n欸，這是哪兒？為什麼太陽變成了棒球，雲朵是手套？眼前出現了她熟悉的棒球場，自己曾經在這裡盡情地揮舞球棒。咦？球場外有人在哭，那個人的胸前長滿結晶，他的球棒被折成兩半，掉在腳邊。\n你好啊，你怎麼哭了？唔，我好像在哪裡見過你？你是那個大球手安布魯·愛德華茲對不對？你看，我的球棒上還有你的簽名！雖然被我寫成愛德噶茲啦，嘿嘿！\n可是眼前的人不理她，他繼續流淚。球場裡的人驅趕他們，罵聲變成棒球飛出來，砸中球手身上的源石結晶。球手用衣服裹緊自己，他逐漸變成一大塊堅固且沉默的石頭，失去了光。\n蛇屠箱把背包蓋在他身上，她告訴球手，自己會帶他去羅德島，肯定能讓他變回原來的樣子。\n他們越過頭盔堆起的山丘，跨過球棍搭起的大橋，乘著棒球飛過天空——\n當艦船的形狀逐漸出現在眼前，蛇屠箱興奮起來，看，我們到了！你在這裡就可以治病，不用擔心被趕出球場，不用再拿衣服把石頭藏起來，大街小巷會繼續為你歡呼——無敵球手安布魯！\n球手彷彿也很開心，他崩開了石頭，伸出了胳膊，揮舞起球棒——\n\n呼......哎呀！誰打我腦袋！\n炎熔，我和你說，我做了一個好長的夢！夢到了......夢到了什麼來著？\n管它呢！走吧，棒球比賽就要開場了，球手可是終於復出的安布魯先生！\n\n在感染者社區裡，一片空地被幾根欄杆圍起，人們把這裡叫做球場。\n蛇屠箱看到了自己的偶像。復出的球手沒有藏起身上的結晶，歡呼聲蓋過了所有聲音，她高興地蹦起來。\n突然，球場中的安布魯先生對著她揮了揮手，他走出人群，輕輕拍了拍蛇屠箱的肩膀。陽光下，蛇屠箱看到了一張笑臉。\n她在這時想起來，似乎在很久以前，自己因為礦石病被趕出棒球場。那天她從街頭走到街尾，遇見了一個流淚的球手。\n球手是誰呢，她記不清了。自己又說了什麼呢，她也記不清了。\n但是現在眼前這位球手對她說：“謝謝你當時安慰我，小姑娘。”",
+      "typeIcon": "pro-x",
+      "typeName1": "PRO",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_150_snakek",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_snakek_1",
+        "uniequip_002_snakek_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31033",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30103",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30023",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_bubble": {
+      "uniEquipId": "uniequip_001_bubble",
+      "uniEquipName": "泡泡證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員泡泡擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_381_bubble",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_bubble": {
+      "uniEquipId": "uniequip_002_bubble",
+      "uniEquipName": "泡泡閃光必殺劍",
+      "uniEquipIcon": "uniequip_002_bubble",
+      "uniEquipDesc": "泡泡的心情糟透了。\n最近，她和同齡夥伴們一起在看新動畫片《三個小劍客》。裡面每個和她們年齡相仿的小英雄都拿著一把閃閃發光的源石劍，還能放出超級酷炫，讓整個螢幕瘋狂閃爍的必殺技，所有人都看得熱血沸騰。也就只有巫戀那個冷漠的傢伙會在這時候插一句“那個劍一看就是玩具”這種不解風情的話。\n泡泡本來對武器沒有什麼想法。劍嘛，又輕又脆，肯定比不上大錘頭大斧子這種硬派好東西。\n但是當見到一起看動畫的朋友有一天當眾掏劍時，她坐不住了。\n那把劍和動畫裡的一模一樣！那個光效，那個小按鈕，還有朋友一邊將劍舉向天空一邊大喊必殺技的帥氣模樣。\n泡泡心裡迅速升起了一股佔有欲。\n肯定不能搶別人的，這點泡泡已經吃足教訓了，但她又不知道怎麼去獲得這樣的劍。\n買嗎？怎麼買？找誰買？用什麼買？她連這個鐵皮箱子有多少房間都不知道，更何況小夥伴和她說這個東西是從卡西米爾運來的，現在買不到。\n我泡泡想要的東西怎麼能拿不到呢？！泡泡心裡全是這種想法，但現實就擺在這裡，她什麼都不懂，除了搶別人的，確實沒有獲得玩具劍的辦法。而最近獲得的教訓和培養起的道德，都在強壓著她強搶別人玩具的衝動。\n於是泡泡只能自己憋著一股氣，用胡亂衝撞和大喊大叫發洩自己的不滿。偶爾，跑累打累了，就躲在宿舍裡，一個人抱著部族圖騰哭。\n這種無力感成為了泡泡身上的重負。\n小莫提品嘗到這份食糧並將之分享給了巫戀。在大致瞭解了來龍去脈後，巫戀找到了醫療部的心理諮詢幹員，緊接著，一封通訊從人事部發往了薩爾貢......\n今天是泡泡每年一度的“見爸爸日”，她的父親答應每年來看她一回，這是她在一年之中除生日外最重要的日子，泡泡讓自己強行打起精神，用笑容面對爸爸。話雖如此，在見到爸爸後，心中的苦悶全都變成了淚水，話都說不好，只好趴在爸爸懷裡一個勁地哭。\n哭完了，她從爸爸懷裡跳下來，沉默地坐回沙發。她的父親則從背囊中抽出了一把玩具劍。\n就在那一瞬間，泡泡的雙眼亮得像星星。",
+      "typeIcon": "pro-x",
+      "typeName1": "PRO",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_381_bubble",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_bubble_1",
+        "uniequip_002_bubble_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31043",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30063",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30093",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_moeshd": {
+      "uniEquipId": "uniequip_001_moeshd",
+      "uniEquipName": "可頌證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員可頌擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_201_moeshd",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_moeshd": {
+      "uniEquipId": "uniequip_002_moeshd",
+      "uniEquipName": "作戰靴",
+      "uniEquipIcon": "uniequip_002_moeshd",
+      "uniEquipDesc": "三日\n今天龍門天氣晴朗，和空一起去逛街，路過常去的裝備店，發現裡面的合金零件包正在促銷，一時心動購入許多，嗚......荷包大出血，心痛。\n七日\n一天都是大太陽，熱到爆表，但最喜歡的路邊攤出了新口味的糕點，在烈日下排隊一個半小時，肚皮曬得通紅，用了空送給我的藥，非常有效，睡前不再痛了。\n十日\n天氣陰，新購入一批雨傘，儲蓄所剩無幾，下個月得吃泡麵了。早知道前幾天就省著點花，好歹能留點餘錢以備不時之需。\n十七日\n多雲轉晴，紅燒排骨味的泡麵味道還不錯嘛，連著吃一個禮拜都不會膩！\n二十日\n晴轉多雲，紅燒排骨味的吃完了，只有香蔥燒蛋味了，還行，勉勉強強能吃。\n二十三日\n我的泡麵已經吃完了......一桶都不剩了。謝謝德克薩斯把她的小餅乾分享給我，那一刻，在饑餓的我眼裡，她的面龐光芒四射。\n二十四日\n下暴雨啦！！起床時明明還是陽光燦爛的樣子，路上的行人走過我賣傘的攤位，個個都是目不斜視直直向前。但很快，烏雲趕了過來，很多人猝不及防被雨水澆了個全身濕透， 而我的傘在頃刻間被搶購一空！好耶！\n這狠賺的一筆非常難得，我應該存進銀行，做一次細水長流的規劃。一直以來我內心中都有一個想法——擁有一家自己的雜貨店，就在龍門。\n或許是時候為它著手準備了，相比龍門價格高昂的地皮租金，這筆存款顯得微不足道，但我認為，這是一個不錯的開始。\n三十一日\n我最喜歡的牌子出了新款的作戰靴......我不應該這樣的，一時的衝動後便是無盡的悔恨，或許......我應該花一個晚上好好反思自己的行為，被欲望衝昏頭腦的我一定很難看吧，好難過......\n一日\n啊，新款作戰靴真的好好用，雖然花了錢很心疼，但是非常值得，一點也不虧！",
+      "typeIcon": "pro-y",
+      "typeName1": "PRO",
+      "typeName2": "Y",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_201_moeshd",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_moeshd_1",
+        "uniequip_002_moeshd_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30034",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31034",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30074",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_bison": {
+      "uniEquipId": "uniequip_001_bison",
+      "uniEquipName": "拜松證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員拜松擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_325_bison",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_bison": {
+      "uniEquipId": "uniequip_002_bison",
+      "uniEquipName": "“一路以來”",
+      "uniEquipIcon": "uniequip_002_bison",
+      "uniEquipDesc": "卡西米爾。或許密不透風的霓虹曾經讓他有些畏縮，但他清楚自己身上的責任。那天成功結束溝通後走出玻璃門，高樓上不滅的燈光拉長他腳下的影子，拜松這才意識到已是深夜。\n拉特蘭。當街角的建築物在他頭頂轟然倒塌，拜松在震驚中接住了一塊差點砸到他頭上的甜點。宏偉教堂在陽光下的光芒短暫地奪走他的心神，隨即他推開大門，裡面坐滿信使。\n哥倫比亞。拓荒城市的永不停歇讓他對人類的生命力產生深深敬畏，前沿的科技也讓他更加謹慎地在心中一遍遍斟酌著合約的條目與措辭。數位高層坐在對面，拜松一人坐在桌前。\n薩米。他曾試探性地短暫踏入冰原，可惜少年人的意氣終究難以扛過自然的力量。當拜松在小屋中裹著毯子啜飲熱水時，屋外悠揚的歌聲傳進耳朵。他趴在窗前，記下歌詞的大意。\n敘拉古。荒漠的風沙扯碎他手中的地圖，拜松憑著五彩燈光尋到了目的地酒吧。推門進去，裡面的三個魯珀安靜下來。他鎮定地遞出貨物與資訊，無視毯子下閃著冷光的銃械。\n炎。回到他熟悉的地方，推門進去也仍舊是他熟悉的派對。拜松想起上一次漫天的糖果落下時自己的驚詫，現在他看著眼前的混亂，只是伸手去接紅頭髮前輩拿出的一面已經變得古裡古怪的盾牌，依稀能看出原本的設計是他父親的手筆。\n他用一路以來磨煉出的坦然和冷靜讓自己的表情沒有什麼變化，但大地上風姿各異的一幕幕已經在一瞬間紛紛掠過他的腦海，音樂中夾雜著一些“正在送貨結果遇上事了趕緊拿來擋擋，上面的改造是補償”的解釋。\n拜松接過這份來自父親的禮物，在音樂與蘋果派的香氣中，繞去吧台開始撰寫回信。\n稱謂、問候語、正文，他問候父母的身體，寫下最近的工作情況。一抬眼，香檳突然飛向門口一位不知名黑幫打手的臉，拜松利索地把信放進懷裡，舉起了盾牌。\n如果有一天，他能做到完全獨當一面的話......拜松邊試圖弄清楚那些花裡胡哨的模組是幹什麼的，邊止不住地在腦子裡想，他要讓這裡老老實實地按照正常企業的秩序運行一個月！\n......大膽點，一年！",
+      "typeIcon": "pro-x",
+      "typeName1": "PRO",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_325_bison",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_bison_1",
+        "uniequip_002_bison_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30074",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30094",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_zebra": {
+      "uniEquipId": "uniequip_001_zebra",
+      "uniEquipName": "暴雨證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員暴雨擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_304_zebra",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_zebra": {
+      "uniEquipId": "uniequip_002_zebra",
+      "uniEquipName": "人氣角色貼紙",
+      "uniEquipIcon": "uniequip_002_zebra",
+      "uniEquipDesc": "“他們說你是個細作，說你背叛了我們，但我不會相信！”\n“我們不是最好的夥伴嗎？這一定是誤會，對不對？！”\n“真的是你？！你真的、真的背叛了我們？！”\n“為什麼！沒有一個答案的話，我是不會相信的！”\n“只要你說你是清白的，我就一定相信你！”\n“你曾經救過我一次，從那時候起，我就一直當你是我的恩人......”\n“是嗎，你已經、不記得了？”\n“可是，對我來說這是不會變的事實......就算是命令，我也沒法對你動手！”\n——摘自漫畫《戰場奇兵》第六卷第九話\n\n新來的前薩爾貢士兵縮在角落裡看漫畫時，一般都非常安靜。\n不過今天似乎有點特殊，休息室裡的其他幹員都聽到了一聲壓抑但清晰的抽泣聲，然後大家驚訝地發現，手捧著一本漫畫，把自己埋在休息室一角的沙發裡的暴雨，竟然，正在落淚。\n這種非常規的事態令大家私下裡議論紛紛。\n\n“這本漫畫有什麼值得哭泣的點嗎？”\n“不知道，我一直覺得那個系列畫得挺爛的。”\n“那為什麼......”\n“我說，要不然直接問問本人？”\n“等會等會，萬一戳到她的傷心處怎麼辦啊！”\n“那你說怎麼辦？”\n“我有辦法。”\n\n或許是因為看書被打擾，借這本漫畫給暴雨的斑點打了個哈欠站了出來，走上前拍了拍還在落淚的暴雨的肩膀。\n“這套漫畫——”\n斑點慢吞吞地說，“主角最後成了個單盾接大炮的超人，主角團一個都沒死，據說背叛了的夥伴其實是忍辱負重的雙料間諜，敵方全都被感化一個個投降了。”\n無情的斑點繼續說，“你手上這卷之後，劇情就崩盤了。”\n\n暴雨停止了抽泣，她的表情因為聽到劇透後過於複雜的內心情感而變得一片空白。\n“那就是說......主角保護了所有人，他的夥伴也沒有背叛......嗎？”\n暴雨緩慢地合上漫畫。\n確實是個爛結局。又爛又俗，聽完之後就像是腦袋被盾牌砸過一樣頭疼。\n\n但是......\n故事嘛。大團圓結局又何妨呢？\n單盾接大炮——聽、聽起來還有點帥呢。",
+      "typeIcon": "pro-y",
+      "typeName1": "PRO",
+      "typeName2": "Y",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_304_zebra",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_zebra_1",
+        "uniequip_002_zebra_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31014",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30034",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_hsguma": {
+      "uniEquipId": "uniequip_001_hsguma",
+      "uniEquipName": "星熊證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員星熊擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_136_hsguma",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_hsguma": {
+      "uniEquipId": "uniequip_002_hsguma",
+      "uniEquipName": "友人們的贈禮",
+      "uniEquipIcon": "uniequip_002_hsguma",
+      "uniEquipDesc": "■月■日\n從那個人手裡拿到了這面盾，不常見的造型，非常鋒利，但是手感很好。\n般若，那人說這是它的名字。雖然不知道他起名時心裡念的是哪一篇經文，或者想著哪一個人，哪一樁過錯，但我喜歡這個名字。般若，我會帶走它，今後它就是我的搭檔了。\n\n\n■月■日\n出發之前，般若這傢伙的“父親”說還有東西要給我，本以為是什麼重要的物品，結果卻只是一塊廢鐵。\n對方說，和般若相配的把手需要我自己打磨。雖然是個古怪的要求，但若說這也是修行的一種，倒也不是不能接受。般若既然已經有了令人喪膽的盾面，和鋒利到足以切碎敵人的邊緣，由我親手來製作與其相配的內面，或許也是應有之義。\n\n■月■日\n據說，要一直打磨到空手握著般若戰鬥，也不會磨手，不會感到任何不適的程度才行。\n那就是要把棱角都磨平才行的意思囉？\n行吧，看起來會是一個漫長的過程。\n\n■月■日\n好像已經磨了夠久了，但還是磨手。\n看起來已經很平滑了，這樣還是不夠嗎？\n\n■月■日\n離開東國......也有不少日子了。龍門是個複雜的地方，有好的地方，也有壞的地方，教訓了不少該教訓的人，也遇到了不少有意思的人，我覺得我喜歡這裡。\n般若的把手已經沒有再能打磨的地方了，用了這麼久，連弧度都已經被磨平了。但這東西終究是一塊鐵，不論如何還是做不到讓人在使用時沒有任何不適，從最開始，這似乎就是一個不可能的任務。\n就當是我的修行不足吧。就算勉強將棱角都磨平，終究還是瞞不過自己。鐵塊就是鐵塊，沒法變柔軟，就算外表圓滑了，本質卻不會變。\n到了今天，那個人的用意，我似乎也理解了一些。\n\n■月■日\n收到了朋友們合送的禮物。\n或許不該這麼說，不過，確實沒有想到，這兩位大小姐會花心思替我考慮合適的禮物。最新款的盾牌軟帶把手啊......確實是現在的我需要的東西，難為她們能考慮到。\n朋友們的一番心意，明天就來用用看吧。",
+      "typeIcon": "pro-y",
+      "typeName1": "PRO",
+      "typeName2": "Y",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_136_hsguma",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_hsguma_1",
+        "uniequip_002_hsguma_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_nian": {
+      "uniEquipId": "uniequip_001_nian",
+      "uniEquipName": "年證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員年擅長維持戰線抵禦敵人\n根據外勤部門決議\n在外勤任務中劃分為重裝幹員，行使鐵衛職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_2014_nian",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_nian": {
+      "uniEquipId": "uniequip_002_nian",
+      "uniEquipName": "混沌陣列",
+      "uniEquipIcon": "uniequip_002_nian",
+      "uniEquipDesc": "邊鄙有李氏者，往耕，掘得一偶，長尺餘，形類甲士，栩栩然如生，而其質莫辨。以遺其子，子甚愛之。\n李氏子嘗持偶與鄰人子戲，效征伐事。偶輕且堅，旁物觸之即缺。鄰子取泥塑陶俑之類為陣，無有可當者，忿甚，猝持鋤擊偶，鋤壞而偶無損。李氏子益寶之，必置偶於枕邊，然後寢。\n鄰人子以偶事告其父。其父性貪婪，又嘗為盜，聞之，以為奇珍。\n某日，適城移駐邊鄙，鄰人乃夜入李氏宅，攫偶而走，欲入城而獻貴人焉。\n未幾，道逢一人，語曰：“夜行疲甚，不如暫歇。”不答。又曰：“子囊中偶，稚子玩物也。俾人知之，於子無益，反受其殃。宜速反。”\n鄰人大駭，知遇異人，逡巡不能前，唯曰諾諾。異人知其意，大笑。鄰人懼而不敢視。少頃聲止，而異人已去矣。\n其人雖畏禍，竟不反，疾走趨城，而囊中偶益重，幾不能荷，曳之。須臾力盡，情志昏亂，恐異人奪偶，遂伏於囊上，四顧而哭，終不能舍。\n旦日，商人過，見一人伏地而寐。俄而驚覺，執囊曰：“無奪我偶！”而囊中無一物。商人以其狂，棄之。其人昏昏然，歸家，尋病終。\n李氏子起，遍尋偶不得，大哭不能止。或謂鄰人竊盜，李氏欲問於鄰，見其病甚篤，竟不問。\n鄉人以偶為不祥，李氏子與辯，不勝，忿而不言。李氏恐子步鄰後塵，詳細察之，其子無病狂狀，而始習鍛冶事。或問李氏子，對曰：“我知偶非神異，實人工也。我其鑄新偶勝之。”\n李氏子年稍長，鍛冶不輟，巧思通神，其名聞於京師。有司考校其才，稱善。擢為天師。\n又五年，李氏子鑄偶，獻諸工部。其偶以甲士為形，披堅執銳，質輕而堅，雖日曝雨蝕而不鏽。尚書驚，具問其事，李氏子以幼時事語之。尚書默然不應。\n李氏子壽九十而終，巧技流傳不可勝數，至今仍有用者。",
+      "typeIcon": "pro-x",
+      "typeName1": "PRO",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_2014_nian",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_nian_1",
+        "uniequip_002_nian_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 1
+    },
+    "uniequip_003_ebnhlz": {
+      "uniEquipId": "uniequip_003_ebnhlz",
+      "uniEquipName": "“樂理闡釋者”",
+      "uniEquipIcon": "uniequip_003_ebnhlz",
+      "uniEquipDesc": "鬍子有些花白的工程幹員把定製的施術裝置套組交到我手中。外形完全符合我的要求：沒有一絲矯飾的樸素金屬盒，表面打磨得光可鑒人的短杖，渾然一體的銀色球形儲能單元。剛出廠的源石電路製品散發著溶劑的氣味。\n我從盒裡揀起法杖，儲能單元平穩地飄了起來，應和著法杖的動作，在距離我手掌幾十釐米的半空中形成了穩定的軌道。\n我將儲能單元一口氣擊發，合金靶心的紅色圓圈被儲能單元打得凹了進去。無可挑剔的能量轉換效率。\n我和工程幹員的眼神交匯。我們都明白這是件傑作。\n\n幾個月後，我又和他遇見，帶著舊法杖，口袋裡揣著源石骰子。\n“舊鞋好穿。”他說。\n我只能聳肩。\n“但我還是想知道你為何用回舊裝備，”他的護目鏡後面射來銳利的目光，“就算是外形原因也無所謂，就當這是工程部的售後服務好了。”\n“因為......聲音。”\n“聲音？”\n我索性抽出短杖，隨手揮了一下。杖尖劃過空氣，發出的不是破空聲，而是樂音。\n“在接受你的委託之後，我研究過這根杖，它引發的空氣振動頻率的確超出常理。很神奇，但對施術既沒有裨益，也沒有妨礙。”\n“我承認，但這是我的私——”\n私事。\n我定製新杖，就是為了遠離這擾人的樂音。這聲音和夕照廳前曾響起的奇異旋律如出一轍。每次我白天揮動法杖，半夜都會夢見那時的場景，聽見那時的旋律。\n新杖成功地讓我的夢靜了音，可那景象還在我眼前，無聲的掙扎更加淒慘，無聲的死鬥更加可怖。\n重新拿起舊杖後，我才明白，當一場噩夢貫穿了你的整個人生，想將其忘掉只是種徒勞。\n我逃不掉，也做不到與之和睦相處，我不得不承認它是我的一部分，然後和它鬥上一輩子。\n就像現在，定製新杖的人是我，放棄新杖的人也是我。\n烏提卡伯爵大人大可一走了之，把困惑和惱怒丟給其他人，但黑鍵不能。\n黑鍵當然可以怒斥那些自以為高貴的蠢貨；然而，面對一位被他冒犯到的工匠，他真的有權利用幾句惡言把人打發走嗎？\n如果是......那個人，他會怎麼做？他會希望我怎麼做？\n答案再明白不過了。\n我艱難地清了清嗓子，不確定自己會不會再次冒犯到對方。\n“事情的原委有點長，但......如果你願意聽，我會一五一十地解釋清楚的。”",
+      "typeIcon": "msc-y",
+      "typeName1": "MSC",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_4046_ebnhlz",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_ebnhlz_1",
+        "uniequip_003_ebnhlz_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 2
+    },
+    "uniequip_003_zumama": {
+      "uniEquipId": "uniequip_003_zumama",
+      "uniEquipName": "“小小的醜東西”",
+      "uniEquipIcon": "uniequip_003_zumama",
+      "uniEquipDesc": "那些駛過荒野的巨大東西到底是什麼？祖瑪瑪百思不得其解，三天沒有睡好覺。\n嘉維爾看著祖瑪瑪厚重的黑眼圈，一邊表示了適當的關切，一邊揮出了如同往常的毫無保留的一拳，祖瑪瑪被打倒在地，不過，這次她卻沒有急著站起來。\n“祖魯扎克爺爺說那是移動城市，移動城市是什麼？”祖瑪瑪看向藍色的天空，向好友拋出了這個困擾了自己整整三天的問題，她從來沒有這麼困惑過，連樹上長出了從沒見過的蘑菇都只讓祖瑪瑪想了一天半而已。\n嘉維爾給出了一個自認為充滿智慧的回答，一句從祖魯扎克爺爺那裡聽來的諺語：“因為所以，自有道理。”她活動著自己的手腕，“祖瑪瑪，你休息夠了沒？我們該繼續了！”\n祖瑪瑪突然感到有點無聊，她爬了起來，走向移動城市曾經駛過的地方。移動城市的輪廓仍然能隱隱約約看見，但眼睛所跨越的距離比腿腳遠得多，一個孩子的腳步怎麼能追上行駛的機械？直到夕陽落下，祖瑪瑪感覺自己和移動城市之間的距離也沒有縮短分毫。\n她有些喪氣，沮喪地坐在地上，卻被什麼東西硌了一下，她從屁股底下摸出來一個奇奇怪怪的金屬圈，祖瑪瑪曾瞥見部族裡最有見識的大哥拿出過差不多的東西，是叫什麼來著？“鑼帽”？也許是“騾貓”？\n祖瑪瑪把它放進了自己的口袋。這個小玩意可能根本就不是從移動城市上掉下來的，可能只是一位粗心的旅人落下的東西，但祖瑪瑪此時此刻就是很喜歡它。\n她開始收集這些廢銅爛鐵和怪異零件，並不擇手段地把它們組合在一起。一開始是用線捆住，後來是用膠水黏，直到有一天，祖瑪瑪從一支過路的商隊那裡聽說了什麼是焊接。\n終於有一天，這個奇怪的小玩意從祖瑪瑪的手中誕生了，嘉維爾和特米米的評價都是“很醜”，但祖瑪瑪還是很喜歡它。\n祖瑪瑪把它捧在手心，又來到了曾經看到移動城市的那個地方。那座移動城市早已不見蹤影，但祖瑪瑪總覺得自己還能感覺到它行駛所帶來的震動。\n一個奇怪的黎博利突然出現在了祖瑪瑪身邊：“小姑娘，你在想什麼？”\n祖瑪瑪緊緊捏著自己手中的這個小小的醜東西，把自己的手捏得生疼。\n“我想讓它動起來。”",
+      "typeIcon": "hes-y",
+      "typeName1": "HES",
+      "typeName2": "Y",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_416_zumama",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_zumama_1",
+        "uniequip_003_zumama_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1684216800,
+      "charEquipOrder": 2
     }
   },
   "missionList": {
@@ -12358,6 +13814,34 @@
       "uniEquipId": "uniequip_002_whispr",
       "jumpStageId": "main_02-05"
     },
+    "uniequip_002_finlpp_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "由非助戰清流累計使用湧泉5次",
+      "paramList": [
+        "char_385_finlpp",
+        "skchr_finlpp_2",
+        "5",
+        "char_385_finlpp"
+      ],
+      "uniEquipMissionId": "uniequip_002_finlpp_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_finlpp",
+      "jumpStageId": null
+    },
+    "uniequip_002_finlpp_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲3-7；且僅可編入非助戰清流1名醫療幹員並上場",
+      "paramList": [
+        "3",
+        "main_03-07",
+        "char_385_finlpp",
+        "MEDIC"
+      ],
+      "uniEquipMissionId": "uniequip_002_finlpp_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_finlpp",
+      "jumpStageId": "main_03-07"
+    },
     "uniequip_002_zumama_1": {
       "template": "EquipmentDamageTotal",
       "desc": "由非助戰森蚺累計造成60000點傷害",
@@ -13131,6 +14615,314 @@
       "uniEquipMissionSort": 4,
       "uniEquipId": "uniequip_003_mgllan",
       "jumpStageId": "main_02-02"
+    },
+    "uniequip_002_snakek_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰蛇屠箱累計使用殼狀防禦8次",
+      "paramList": [
+        "char_150_snakek",
+        "skchr_snakek_2",
+        "8",
+        "char_150_snakek"
+      ],
+      "uniEquipMissionId": "uniequip_002_snakek_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_snakek",
+      "jumpStageId": null
+    },
+    "uniequip_002_snakek_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲2-10；必須編入非助戰蛇屠箱並上場，且不編入其他重裝幹員",
+      "paramList": [
+        "3",
+        "main_02-10",
+        "char_150_snakek",
+        "TANK"
+      ],
+      "uniEquipMissionId": "uniequip_002_snakek_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_snakek",
+      "jumpStageId": "main_02-10"
+    },
+    "uniequip_002_yak_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰角峰累計使用抗寒體質8次",
+      "paramList": [
+        "char_199_yak",
+        "skchr_yak_2",
+        "8",
+        "char_199_yak"
+      ],
+      "uniEquipMissionId": "uniequip_002_yak_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_yak",
+      "jumpStageId": null
+    },
+    "uniequip_002_yak_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲3-6；且僅可編入非助戰角峰1名重裝幹員並上場",
+      "paramList": [
+        "3",
+        "main_03-06",
+        "char_199_yak",
+        "TANK"
+      ],
+      "uniEquipMissionId": "uniequip_002_yak_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_yak",
+      "jumpStageId": "main_03-06"
+    },
+    "uniequip_002_bubble_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰泡泡並上場，且每次戰鬥至少釋放1次挨打",
+      "paramList": [
+        "5",
+        "skchr_bubble_2",
+        "1",
+        "char_381_bubble"
+      ],
+      "uniEquipMissionId": "uniequip_002_bubble_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_bubble",
+      "jumpStageId": null
+    },
+    "uniequip_002_bubble_2": {
+      "template": "EquipmentCharKilledStage",
+      "desc": "3星通關主題曲4-6；必須編入非助戰泡泡並上場，且使用泡泡滅8個敵人",
+      "paramList": [
+        "3",
+        "main_04-06",
+        "char_381_bubble",
+        "8",
+        "char_381_bubble"
+      ],
+      "uniEquipMissionId": "uniequip_002_bubble_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_bubble",
+      "jumpStageId": "main_04-06"
+    },
+    "uniequip_002_moeshd_1": {
+      "template": "EquipmentEventBattleMore",
+      "desc": "完成5次戰鬥；必須編入非助戰可頌，且每次戰鬥至少使3名敵人墜落地穴",
+      "paramList": [
+        "5",
+        "char_201_moeshd",
+        "SIMPLE,*,fall_down",
+        "3"
+      ],
+      "uniEquipMissionId": "uniequip_002_moeshd_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_moeshd",
+      "jumpStageId": null
+    },
+    "uniequip_002_moeshd_2": {
+      "template": "EquipmentSkillCastStage",
+      "desc": "3星通關主題曲2-8；必須編入非助戰可頌並上場，且使用2次磁暴錘",
+      "paramList": [
+        "3",
+        "main_02-08",
+        "skchr_moeshd_2",
+        "2",
+        "char_201_moeshd"
+      ],
+      "uniEquipMissionId": "uniequip_002_moeshd_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_moeshd",
+      "jumpStageId": "main_02-08"
+    },
+    "uniequip_002_bison_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰拜松並上場，且每次戰鬥至少釋放2次深化陣線",
+      "paramList": [
+        "5",
+        "skchr_bison_2",
+        "2",
+        "char_325_bison"
+      ],
+      "uniEquipMissionId": "uniequip_002_bison_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_bison",
+      "jumpStageId": null
+    },
+    "uniequip_002_bison_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲3-7；且僅可編入非助戰拜松1名重裝幹員並上場",
+      "paramList": [
+        "3",
+        "main_03-07",
+        "char_325_bison",
+        "TANK"
+      ],
+      "uniEquipMissionId": "uniequip_002_bison_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_bison",
+      "jumpStageId": "main_03-07"
+    },
+    "uniequip_002_zebra_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰暴雨累計使用應急迷彩30次",
+      "paramList": [
+        "char_304_zebra",
+        "skchr_zebra_1",
+        "30",
+        "char_304_zebra"
+      ],
+      "uniEquipMissionId": "uniequip_002_zebra_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_zebra",
+      "jumpStageId": null
+    },
+    "uniequip_002_zebra_2": {
+      "template": "EquipmentSquadNoAnyDead",
+      "desc": "3星通關主題曲2-7；必須編入非助戰暴雨並上場，且所有幹員不被擊倒",
+      "paramList": [
+        "3",
+        "main_02-07",
+        "char_304_zebra"
+      ],
+      "uniEquipMissionId": "uniequip_002_zebra_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_zebra",
+      "jumpStageId": "main_02-07"
+    },
+    "uniequip_002_hsguma_1": {
+      "template": "EquipmentCharKilled",
+      "desc": "由非助戰星熊累計造成60殲滅數",
+      "paramList": [
+        "char_136_hsguma",
+        "60",
+        "char_136_hsguma"
+      ],
+      "uniEquipMissionId": "uniequip_002_hsguma_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_hsguma",
+      "jumpStageId": null
+    },
+    "uniequip_002_hsguma_2": {
+      "template": "EquipmentSquadNum",
+      "desc": "3星通關主題曲3-1；必須編入非助戰星熊並上場，其他成員僅可編入4名幹員",
+      "paramList": [
+        "3",
+        "main_03-01",
+        "char_136_hsguma",
+        "4"
+      ],
+      "uniEquipMissionId": "uniequip_002_hsguma_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_hsguma",
+      "jumpStageId": "main_03-01"
+    },
+    "uniequip_002_nian_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "由非助戰年累計造成60000點傷害",
+      "paramList": [
+        "char_2014_nian",
+        "60000"
+      ],
+      "uniEquipMissionId": "uniequip_002_nian_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_nian",
+      "jumpStageId": null
+    },
+    "uniequip_002_nian_2": {
+      "template": "EquipmentCharKilledStage",
+      "desc": "3星通關別傳WR-9；必須編入非助戰年並上場，且使用年至少殲滅10名敵人",
+      "paramList": [
+        "3",
+        "act16d5_09",
+        "char_2014_nian",
+        "10",
+        "char_2014_nian"
+      ],
+      "uniEquipMissionId": "uniequip_002_nian_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_nian",
+      "jumpStageId": "act16d5_09"
+    },
+    "uniequip_002_provs_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰但書累計使用致勝立論14次",
+      "paramList": [
+        "char_4032_provs",
+        "skchr_provs_2",
+        "14",
+        "char_4032_provs"
+      ],
+      "uniEquipMissionId": "uniequip_002_provs_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_provs",
+      "jumpStageId": null
+    },
+    "uniequip_002_provs_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲4-7；必須編入非助戰但書並上場，且使用但書至少殲滅3隻高能源石蟲",
+      "paramList": [
+        "3",
+        "main_04-07",
+        "char_4032_provs",
+        "DEATHDETAIL,char_4032_provs,enemy_1021_bslime",
+        "3"
+      ],
+      "uniEquipMissionId": "uniequip_002_provs_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_provs",
+      "jumpStageId": "main_04-07"
+    },
+    "uniequip_003_ebnhlz_1": {
+      "template": "EquipmentBattleCharKilled",
+      "desc": "完成5次戰鬥；必須編入非助戰黑鍵並上場，且使用黑鍵殲滅至少6個敵人",
+      "paramList": [
+        "5",
+        "char_4046_ebnhlz",
+        "6"
+      ],
+      "uniEquipMissionId": "uniequip_003_ebnhlz_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_ebnhlz",
+      "jumpStageId": null
+    },
+    "uniequip_003_ebnhlz_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲3-6；必須編入非助戰黑鍵並上場，且使用黑鍵殲滅屠宰老手",
+      "paramList": [
+        "3",
+        "main_03-06",
+        "char_4046_ebnhlz",
+        "DEATHDETAIL,char_4046_ebnhlz,enemy_1034_laxe_2",
+        "1"
+      ],
+      "uniEquipMissionId": "uniequip_003_ebnhlz_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_ebnhlz",
+      "jumpStageId": "main_03-06"
+    },
+    "uniequip_003_zumama_1": {
+      "template": "EquipmentEventTotal",
+      "desc": "由非助戰森蚺累計殲滅10個精英或領袖敵人",
+      "paramList": [
+        "char_416_zumama",
+        "DEATHDETAIL,char_416_zumama,BOSS,ELITE",
+        "10"
+      ],
+      "uniEquipMissionId": "uniequip_003_zumama_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_zumama",
+      "jumpStageId": null
+    },
+    "uniequip_003_zumama_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關別傳RI-7；必須編入非助戰森蚺並上場，且使用森蚺殲滅至少2名提亞卡烏勇士",
+      "paramList": [
+        "3",
+        "act12d0_07",
+        "char_416_zumama",
+        "DEATHDETAIL,char_416_zumama,enemy_1098_cchmpn",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_003_zumama_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_zumama",
+      "jumpStageId": "act12d0_07"
     }
   },
   "subProfDict": {
@@ -13418,6 +15210,11 @@
       "subProfessionId": "incantationmedic",
       "subProfessionName": "咒癒師",
       "subProfessionCatagory": 57
+    },
+    "shotprotector": {
+      "subProfessionId": "shotprotector",
+      "subProfessionName": "哨戒鐵衛",
+      "subProfessionCatagory": 59
     }
   },
   "charEquip": {
@@ -13705,9 +15502,14 @@
       "uniequip_001_whispr",
       "uniequip_002_whispr"
     ],
+    "char_385_finlpp": [
+      "uniequip_001_finlpp",
+      "uniequip_002_finlpp"
+    ],
     "char_416_zumama": [
       "uniequip_001_zumama",
-      "uniequip_002_zumama"
+      "uniequip_002_zumama",
+      "uniequip_003_zumama"
     ],
     "char_422_aurora": [
       "uniequip_001_aurora",
@@ -13719,7 +15521,8 @@
     ],
     "char_4046_ebnhlz": [
       "uniequip_001_ebnhlz",
-      "uniequip_002_ebnhlz"
+      "uniequip_002_ebnhlz",
+      "uniequip_003_ebnhlz"
     ],
     "char_338_iris": [
       "uniequip_001_iris",
@@ -13800,6 +15603,42 @@
     "char_135_halo": [
       "uniequip_001_halo",
       "uniequip_002_halo"
+    ],
+    "char_4032_provs": [
+      "uniequip_001_provs",
+      "uniequip_002_provs"
+    ],
+    "char_199_yak": [
+      "uniequip_001_yak",
+      "uniequip_002_yak"
+    ],
+    "char_150_snakek": [
+      "uniequip_001_snakek",
+      "uniequip_002_snakek"
+    ],
+    "char_381_bubble": [
+      "uniequip_001_bubble",
+      "uniequip_002_bubble"
+    ],
+    "char_201_moeshd": [
+      "uniequip_001_moeshd",
+      "uniequip_002_moeshd"
+    ],
+    "char_325_bison": [
+      "uniequip_001_bison",
+      "uniequip_002_bison"
+    ],
+    "char_304_zebra": [
+      "uniequip_001_zebra",
+      "uniequip_002_zebra"
+    ],
+    "char_136_hsguma": [
+      "uniequip_001_hsguma",
+      "uniequip_002_hsguma"
+    ],
+    "char_2014_nian": [
+      "uniequip_001_nian",
+      "uniequip_002_nian"
     ]
   },
   "equipTrackDict": [
@@ -14407,6 +16246,14 @@
           "equipId": "uniequip_002_whispr"
         },
         {
+          "charId": "char_385_finlpp",
+          "equipId": "uniequip_001_finlpp"
+        },
+        {
+          "charId": "char_385_finlpp",
+          "equipId": "uniequip_002_finlpp"
+        },
+        {
           "charId": "char_416_zumama",
           "equipId": "uniequip_001_zumama"
         },
@@ -14623,6 +16470,91 @@
         {
           "charId": "char_135_halo",
           "equipId": "uniequip_002_halo"
+        }
+      ]
+    },
+    {
+      "timeStamp": 1684216800,
+      "trackList": [
+        {
+          "charId": "char_4032_provs",
+          "equipId": "uniequip_001_provs"
+        },
+        {
+          "charId": "char_4032_provs",
+          "equipId": "uniequip_002_provs"
+        },
+        {
+          "charId": "char_199_yak",
+          "equipId": "uniequip_001_yak"
+        },
+        {
+          "charId": "char_199_yak",
+          "equipId": "uniequip_002_yak"
+        },
+        {
+          "charId": "char_150_snakek",
+          "equipId": "uniequip_001_snakek"
+        },
+        {
+          "charId": "char_150_snakek",
+          "equipId": "uniequip_002_snakek"
+        },
+        {
+          "charId": "char_381_bubble",
+          "equipId": "uniequip_001_bubble"
+        },
+        {
+          "charId": "char_381_bubble",
+          "equipId": "uniequip_002_bubble"
+        },
+        {
+          "charId": "char_201_moeshd",
+          "equipId": "uniequip_001_moeshd"
+        },
+        {
+          "charId": "char_201_moeshd",
+          "equipId": "uniequip_002_moeshd"
+        },
+        {
+          "charId": "char_325_bison",
+          "equipId": "uniequip_001_bison"
+        },
+        {
+          "charId": "char_325_bison",
+          "equipId": "uniequip_002_bison"
+        },
+        {
+          "charId": "char_304_zebra",
+          "equipId": "uniequip_001_zebra"
+        },
+        {
+          "charId": "char_304_zebra",
+          "equipId": "uniequip_002_zebra"
+        },
+        {
+          "charId": "char_136_hsguma",
+          "equipId": "uniequip_001_hsguma"
+        },
+        {
+          "charId": "char_136_hsguma",
+          "equipId": "uniequip_002_hsguma"
+        },
+        {
+          "charId": "char_2014_nian",
+          "equipId": "uniequip_001_nian"
+        },
+        {
+          "charId": "char_2014_nian",
+          "equipId": "uniequip_002_nian"
+        },
+        {
+          "charId": "char_4046_ebnhlz",
+          "equipId": "uniequip_003_ebnhlz"
+        },
+        {
+          "charId": "char_416_zumama",
+          "equipId": "uniequip_003_zumama"
         }
       ]
     }
