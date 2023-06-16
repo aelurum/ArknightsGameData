@@ -1,0 +1,838 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_indoor",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+月色如霜，傾瀉在廳堂正中那方桐木桌上，桌旁坐著一對夫妻。女人不安地搓著雙手，似乎是有話想要對撐著腦袋假寐的丈夫說。
+她咽了口唾沫，支支吾吾地開了口。
+[Dialog]
+[Character(name="avg_npc_140",name2="avg_npc_141",fadetime=0.5,block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]當家的，我今天在廚房裡......聽見怪聲了，噠噠噠的，怪嚇人的。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=1)]
+[name="夫"]婦道人家大驚小怪，這有些年頭的老房子都這樣，到處都嘎吱嘎吱響個不停。你就是剛搬進來沒聽習慣。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]不是的，聽、聽起來像是有東西在牆裡面。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=1)]
+[name="夫"]你這女人天天正事不幹，淨胡思亂想，我在外面從天亮忙到天黑，回家了連口熱飯都沒有。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]我、我不敢，我進了廚房背後總感覺涼颼颼的，像是有什麼......在盯著我。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=1)]
+[name="夫"]放屁，我看你這婆娘就是躲懶，一身懶骨頭挨頓打就好了。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]當家的，求你饒了我吧，我上次的傷還沒好全呢。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=1)]
+[name="夫"]不想挨揍就趕緊去廚房給我溫壺酒來，記得還要炸些花生米來配。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]當家的，我是真不敢進去了，那地方處處都透著詭異。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=1)]
+[name="夫"]我看你今天還真是皮癢了！
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]當家的，我錯了，饒命啊！
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=1)]
+[name="夫"]看我今天不打死——
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]當家的你聽，那聲音又來了！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+噠、噠、噠。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]我沒騙你，真的有聲音。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+噠、噠、噠。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=1)]
+[name="夫"]行，老子這就進廚房給你看個明白，要是我去了什麼也沒有，你就等著吧。
+[Character(name="avg_npc_140", name2="avg_npc_141", focus=2)]
+[name="妻"]我、我——
+[Dialog]
+[Character(name="avg_npc_140", name2="avg_npc_141")]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="char_empty",name2="avg_npc_141",fadetime=1,block=true)]
+[delay(time=1.5)]
+[Dialog]
+[Character(fadetime=0.5)]
+[Delay(time=1.5)]
+窗外烏雲蔽月，驟雨將至。
+[Character(name="avg_npc_141")]
+[name="妻"]當家的，當家的？
+[name="妻"]你有看到什麼嗎？
+[Dialog]
+[Character]
+[Delay(time=1)]
+......
+等了好久，妻子也沒有聽見回覆，空氣中靜默一片，只有些細若遊絲的聲音從廚房中幽幽蕩來。
+她屏住呼吸，站起來凝神靜聽，只聽得幾聲：
+噠、噠、噠。
+瞬間，妻子臉色劇變，瞳孔放大，豆大的冷汗從額頭上沁出，就在她跌跌撞撞要跑去鄰居家求助時，丈夫說話了。
+[name="夫"]你來吧。
+[Character(name="avg_npc_141")]
+[name="妻"]當家的，你還好嗎？
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="夫"]沒事了。
+妻子拿起蠟燭，緩緩向廚房挪去。廚房的門虛掩著，她推開門，裡面漆黑一片，幾乎不能視物。
+她舉起蠟燭照見了靠在牆邊的丈夫，不由得鬆了一口氣。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[name="妻"]你看見什麼了嗎？
+[Character(name="avg_npc_140",blackstart=0.2,blackend=0.7)]
+[name="夫"]你來吧，沒事了。
+[name="妻"]當家的，這話你剛剛就說了，怎麼還說呢？
+[Character(name="avg_npc_140",blackstart=0.2,blackend=0.7)]
+[name="夫"]你來吧，沒事了。
+昏黃的燭光在丈夫臉上不斷跳躍，妻子突然注意到，丈夫的表情從她進門便是一副空洞死寂的模樣，口中則一直重覆著剛才那句話：
+你來吧，沒事了。
+[Dialog]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.1, block=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.1, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.1, block=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.3, block=true)]
+窗外一道落雷突然砸下，白光瞬時照亮了整個廚房。
+妻子發現，丈夫並非靠在牆邊，而是整個身體都融進了牆體，只剩一張慘白的臉露在外面。
+與此同時，那熟悉的聲音再次傳來。
+噠、噠、噠。
+終於妻子再也抑制不住，大聲驚叫起來。
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[name="？？？"]啊啊啊啊啊啊啊——你不要再說啦！
+[Dialog]
+[Character]
+[Background(image="bg_bar_1",screenadapt="showall")]
+[Delay(time=1)]
+[PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(name="char_101_sora_1#4",fadetime=0.5,block=true)]
+[Delay(time=0.6)]
+[name="空"]啊啊啊啊啊！可頌你別說了，我、我不要聽了，嗚嗚。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#2", focus=2)]
+[name="可頌"]嘿嘿，我還沒講完呢，你不想知道那位妻子後來如何了嗎？
+[Character(name="char_101_sora_1#4")]
+[name="空"]（捂耳朵）我不要聽，你住口！
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#2", focus=2)]
+[name="可頌"]哈哈哈，那你呢，小朋友，你要不要聽完啊？
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#2", focus=1)]
+[name="小黑"]你講吧，我聽著呢。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#2", focus=2)]
+[name="可頌"]看你這故作鎮靜的小臉，別裝了，你肯定是害怕了。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#2", focus=1)]
+[name="小黑"]可是......確實沒有那麼可怕啊。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#2", focus=2)]
+[name="可頌"]哼哼，不要逞強了，要是真的害怕，姐姐我就勉為其難地給你一個擁抱好了。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd#2", focus=1)]
+[name="小黑"]謝謝，但是真的不需要了，感覺那個姐姐好像更需要的樣子。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd#2", focus=2)]
+[name="可頌"]（回頭）
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="char_101_sora_1#4")]
+[name="空"]（抽泣）
+[name="空"]好可怕......嗚，可頌你真是太過分了，講這麼恐怖的故事。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd#2", focus=2)]
+[name="可頌"]呃......不好意思啊，哈哈，本來只是想嚇嚇這位小朋友來著，沒想到嚇到你這個大人了。
+[Character(name="char_101_sora_1#4")]
+[name="空"]嗚，你是說我比小孩子還不經嚇嗎？
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd#4", focus=2)]
+[name="可頌"]不是的不是的，哎呀，我錯了，求你別哭了。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd", focus=2)]
+[name="可頌"]哎，小朋友，你真的一點都沒有被嚇到嗎？
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd", focus=1)]
+[name="小黑"]沒有。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd", focus=2)]
+[name="可頌"]這也回答得太乾脆了吧。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd#3", focus=2)]
+[name="可頌"]那你就不想知道最後的結局嗎？
+[Character(name="avg_lolxh_4067_1#7$1", name2="char_201_moeshd#3", focus=1)]
+[name="小黑"]欺負妻子的傢伙受到了懲罰，那不就夠了。
+[Character(name="avg_lolxh_4067_1#7$1", name2="char_201_moeshd#3", focus=2)]
+[name="可頌"]確實，沒了家暴她的丈夫那位妻子會更開心啊。
+[name="可頌"]那你也不怕妖精來咬你的小腳丫，嗷嗚嗷嗚！
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_201_moeshd#3", focus=1)]
+[name="小黑"]（可......我自己就是妖精啊。）
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_201_moeshd#3", focus=1)]
+[name="小黑"]其實，我以前見過很多這樣的情況......
+[Character(name="char_101_sora_1#3")]
+[name="空"]小朋友你居然見過？！難道這些事情都是......真實的！
+[name="空"]啊，可頌......感覺我的安全感要因為這個故事灰飛煙滅了......
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_201_moeshd#8", focus=2)]
+[name="可頌"]沒有，我剛剛講的故事都是瞎編的！空你還好嗎？你的眼睛已經徹底沒有神采了啊喂！
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#8", focus=1)]
+[name="小黑"]那個......
+[Character(name="avg_lolxh_4067_1#7$1", name2="char_201_moeshd#8", focus=1)]
+[name="小黑"]（要怎麼告訴她們，在我們那邊，這樣的事一般都是空間系能力者失控闖的禍啊......）
+[name="小黑"]（感覺會館裡的大家都見怪不怪了。）
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="char_105_emper",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[name="大帝"]我讓你們兩個帶老鯉那傢伙的員工進來，為什麼半天都不見你們進來，離開我的領導，讓你們充滿了迷茫嗎？
+[Character(name="char_201_moeshd")]
+[name="可頌"]報告老闆，我們在這裡等了半個小時，根本沒有見到鯉先生派來的人，只有一位小朋友走了進來，和我們共度了這無聊的半小時。
+[Character(name="char_101_sora_1#4")]
+[name="空"]還有恐怖的......
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]請問您是大帝先生嗎？
+[Character(name="char_105_emper")]
+[name="大帝"]不錯，正是我。
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]鯉先生派我來為您處理店內的異響事件，我叫小黑，您好。
+[Character(name="char_201_moeshd")]
+[name="可頌"]哈哈......老闆驚喜吧！
+[Character(name="char_105_emper")]
+[name="大帝"]希望你那半個小時過得足夠無聊，因為很快你將會度過一個非常有聊的周末。
+[Character(name="char_201_moeshd#4")]
+[name="可頌"]老闆您倒也不必把加班說得這麼委婉......
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#8", focus=2)]
+[name="可頌"]（小朋友，你為什麼不早說？！）
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#8", focus=1)]
+[name="小黑"]（我還沒來得及開口，你就要拉著我講恐怖故事。）
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_201_moeshd#4", focus=2)]
+[name="可頌"]唉，這......
+[Character(name="char_105_emper")]
+[name="大帝"]老鯉有告訴你詳細的情況嗎？
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]只說了大概。
+[Character(name="char_105_emper")]
+[name="大帝"]飛仔，過來告訴這位小朋友你都遇到了什麼。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="avg_npc_033",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[name="酒保"]大概從三個月前開始，我斷斷續續地在廚房和倉庫中聽到噠噠噠的聲音，尤其在夜深人靜的時候聽得最清楚。
+[name="酒保"]結合最近廚房和倉庫中均有小件食品丟失的情況，據我們判斷，應該是牆體內藏匿有小型動物，而且最重要的是——
+[Character(name="char_105_emper")]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
+[name="大帝"]最重要的是我最珍貴的一張限定黑膠被咬壞了，等著看吧，沒有什麼東西在傷害我的寶貝後還能安然離開我的酒吧。
+[Character(name="char_101_sora_1",name2="char_201_moeshd#1",focus=1)]
+[name="空"]（可頌......所以這就是你故事的素材來源嗎？）
+[Character(name="char_101_sora_1",name2="char_201_moeshd#3",focus=2)]
+[name="可頌"]（哈哈，我也只是學習老闆隨時隨地獲取靈感的精神嘛......）
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]您應該可以找到更專業的人來處理吧。
+[Character(name="char_105_emper")]
+[name="大帝"]沒錯，但是那群膽大包天的混蛋竟然說要拆掉整面牆才能找到。
+[name="大帝"]這間酒吧可是全龍門最有腔調的地方，只有沒有品味的傢伙才會想著對它動粗。
+[Character(name="avg_lolxh_4067_1#7$1")]
+[name="小黑"]（只是看著金燦燦的......還是老君的地盤更漂亮。）
+[Character(name="char_105_emper")]
+[name="大帝"]老鯉說你會有更好的法子，你可不要讓我失望，不然你將會付出難以想像的巨大代價。
+[Character(name="avg_lolxh_4067_1#5$1")]
+[name="小黑"]哼——
+[name="小黑"]（要不是答應了鯉先生，我才不要來。）
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]答應鯉先生的事我肯定會做到。
+[Character(name="char_105_emper")]
+[name="大帝"]那就拿出點真本事吧，小朋友。
+[name="大帝"]（伸出翅膀去拍小黑的腦袋）
+[Character(name="avg_lolxh_4067_1#5$1")]
+[name="小黑"]請不要碰我的耳朵，謝謝。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=1.5)]
+[Character(name="char_101_sora_1",name2="char_201_moeshd#8",focus=2)]
+[name="可頌"]（哇，這孩子好酷，他居然敢給老闆臉色看。）
+[Character(name="char_101_sora_1#4",name2="char_201_moeshd#8",focus=1)]
+[name="空"]（會被老闆記住呢......好擔心......）
+[Character(name="char_105_emper")]
+[name="大帝"](真是有意思的小孩，逗起來挺好玩的，要不然想個辦法把他從老鯉那裡拐過來算了。)
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_pgbase_1",screenadapt="showall")]
+[Delay(time=1)]
+[PlayMusic(intro="$m_dia_street_intro", key="$m_dia_street_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#2$1",fadetime=0.5,block=true)]
+[Delay(time=1)]
+[name="小黑"]沒人跟來......
+[name="小黑"]那就好。
+[Character(name="avg_lolxh_4067_1#4$1")]
+[name="小黑"]通風管......啊，找到了，在上面。
+[name="小黑"]黑咻，拜託你了。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="黑咻"]（鑽入通風管）
+[Dialog]
+[Delay(time=1.5)]
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]看到了。
+[name="小黑"]你藏得好深啊。
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]你不肯自己出來嗎？那我只能動手了。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+眨眼間，一直藏在小黑袖間的金屬環自行解開，在空中繞過幾圈後，變成了一個個大小不一的圓球。
+小黑抬手指向通風管的入口，金屬球便爭先恐後地湧入管道，在其中不斷彈跳碰撞，發出刺耳的聲音將裡面的生物驅趕至另一處通風口。
+聽到噠噠的聲音從中傳來，小黑打開通風口處的鐵網，看到一隻小小動物蜷縮著身體，在裡面顫抖不已。
+[Dialog]
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_npc_603_1#1$1",fadetime=1,block=true)]
+[delay(time=1.5)]
+[PlaySound(key="$d_avg_mouse",volume=1)]
+[Character(name="avg_lolxh_4067_1#2$1", name2="avg_npc_603_1#1$1", focus=2)]
+[name="？？？"]吱吱。
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=1)]
+[name="小黑"]沒事了，過來吧。
+[name="小黑"]抱歉，我不是故意要嚇你的。
+[Dialog]
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=2)]
+[characteraction(name="right", type="move", xpos=-50, fadetime=1.5, block=true)]
+[delay(time=1)]
+[name="？？？"]（試探著爬上小黑的手掌）
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=1)]
+[name="小黑"]你比比丟還要小呢。
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=2)]
+[name="？？？"]吱吱......
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=1)]
+[name="小黑"]你得換個地方生存了，這裡的人不希望你繼續待在這裡。
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=2)]
+[name="？？？"]吱吱？
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=1)]
+[name="小黑"]在這裡你會有危險。
+[name="小黑"]那隻怪裡怪氣的企鵝因為你咬了他的東西，放話說要你好看。
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=2)]
+[name="？？？"]吱吱！！
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_603_1#1$1", focus=1)]
+[name="小黑"]別擔心，我不會把你交出去的。
+[name="小黑"]走吧，我偷偷放你離開。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_warehouse",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#2$1", name2="avg_npc_603_1#1$1", focus=1)]
+[name="小黑"]這裡就是酒吧的後門了，快走吧。
+[Dialog]
+[PlaySound(key="$d_avg_mouse",volume=1)]
+[Character(name="avg_lolxh_4067_1#2$1", name2="avg_npc_603_1#1$1", focus=2)]
+[characteraction(name="right", type="jump" , power=10, times=2, fadetime=1,block=true)]
+[name="？？？"]吱吱。
+[Character(name="avg_lolxh_4067_1#3$1", name2="avg_npc_603_1#1$1", focus=1)]
+[name="小黑"]不用謝，再見。
+[Dialog]
+[Character(name="avg_lolxh_4067_1#3$1", name2="avg_npc_603_1#1$1")]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_pawfootstep_1",volume=0.2)]
+[characteraction(name="right", type="move", xpos=200, fadetime=2,block=false)]
+[character(name="avg_lolxh_4067_1#3$1",name2="char_empty",fadetime=0.5)]
+[delay(time=2)]
+[characteraction(name="right", type="move", xpos=0, fadetime=0.3, block=true)]
+[delay(time=0.51)]
+[PlaySound(key="$d_avg_pawfootstep_3",volume=1)]
+[characteraction(name="right", type="move", xpos=-200, fadetime=1, block=false)]
+[Character(name="avg_lolxh_4067_1#3$1", name2="avg_npc_599_1#1$1",fadetime=0.7)]
+[delay(time=2)]
+[Character(name="avg_lolxh_4067_1#4$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]你怎麼到這裡來了？
+[name="小黑"]你是不是......嘴裡咬著什麼？
+[Character(name="avg_lolxh_4067_1#4$1", name2="avg_npc_599_1#1$1", focus=2)]
+[name="烏雲獸"]嗚......
+[Character(name="avg_lolxh_4067_1#9$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]快吐出來！
+[name="小黑"]張嘴，快張嘴，你快把它咬死了。
+[Character(name="avg_lolxh_4067_1#9$1", name2="avg_npc_599_1#1$1", focus=2)]
+[name="烏雲獸"]噗——
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_603_1#1$1",fadetime=1,block=true)]
+[Delay(time=0.51)]
+[name="？？？"]吱......
+[Dialog]
+[PlaySound(key="$bodyfalldown3", volume=1)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[characteraction(name="middle", type="move", ypos=-50, fadetime=2,block=true)]
+[character(fadetime=0.5)]
+[name="？？？"]（重重栽倒）
+[Dialog]
+[Character(name="avg_lolxh_4067_1#9$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]你真把它咬傷了？！
+[Character(name="avg_lolxh_4067_1#9$1", name2="avg_npc_599_1#1$1", focus=2)]
+[characteraction(name="right", type="move", xpos=50, fadetime=1,block=false)]
+[name="烏雲獸"]（起身欲跑）
+[Character(name="avg_lolxh_4067_1#9$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]你別跑！給我回來。
+[Dialog]
+[Character(name="avg_lolxh_4067_1#9$1", name2="avg_npc_599_1#1$1", focus=2)]
+[characteraction(name="right", type="exit", direction="right",fadetime=2.5)]
+[delay(time=1)]
+[name="烏雲獸"]（飛快躥出）
+[Dialog]
+[Character(name="avg_lolxh_4067_1#5$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]小心架子！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$sheildimpact", volume=0.7)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+咚——
+[Dialog]
+[Character(name="avg_npc_599_1#1$1")]
+[name="烏雲獸"]咪......
+[Dialog]
+[PlaySound(key="$bodyfalldown3", volume=1)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[characteraction(name="middle", type="move", ypos=-50, fadetime=2,block=true)]
+[character(fadetime=0.5)]
+[name="烏雲獸"]（重重栽倒）
+吱呀吱呀——
+[Character(name="avg_lolxh_4067_1#4$1")]
+[name="小黑"]糟糕了！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_doorbreak", volume=1)]
+[PlaySound(key="$d_avg_glass_break", volume=1,delay=0.7)]
+[CameraShake(duration=1, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+被烏雲獸狠狠撞到的架子正搖搖欲墜，小黑無暇顧及架子上的貨物，只得衝上前去先將烏雲獸和小動物從架子下撈起。
+待他站定腳步，背後的架子隨即倒塌，發出一聲巨響。
+[Dialog]
+[Delay(time=1)]
+[Character(name="char_101_sora_1#3", name2="char_201_moeshd#8", focus=2)]
+[name="可頌"]發生什麼事了？！
+[Character(name="char_101_sora_1#3", name2="char_201_moeshd#8", focus=1)]
+[name="空"]呃！那不是老闆前些天剛購入的一箱酒嘛......
+[Character(name="char_105_emper")]
+[name="大帝"]小朋友，你要不要和我解釋下，到底怎麼回事？
+[Character(name="avg_lolxh_4067_1#5$1")]
+[name="小黑"]我......
+[name="小黑"]（左手舉起小動物）
+[name="小黑"]我找到牆裡的小傢伙了！
+[Character(name="avg_lolxh_4067_1#9$1")]
+[name="小黑"]架子......
+[name="小黑"]（右手舉起烏雲獸）
+[name="小黑"]是它撞倒的！
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_bar_1",screenadapt="showall")]
+[Delay(time=1)]
+[PlayMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#2$1", name2="avg_npc_599_1#1$1", focus=2)]
+[name="烏雲獸"]咪......？
+[Character(name="avg_lolxh_4067_1#2$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]你終於醒了。
+[Character(name="avg_lolxh_4067_1#2$1", name2="avg_npc_599_1#1$1", focus=2)]
+[name="烏雲獸"]咪嗚......
+[Character(name="avg_lolxh_4067_1#5$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]我可被你害慘了。你偷偷跟過來幹什麼？
+[Character(name="avg_lolxh_4067_1#5$1", name2="avg_npc_599_1#1$1", focus=2)]
+[name="烏雲獸"]（低下頭）
+[Character(name="avg_lolxh_4067_1#5$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]都說了，我會幫你的，但今天我有事。
+[Character(name="avg_lolxh_4067_1#5$1", name2="avg_npc_599_1#1$1", focus=2)]
+[name="烏雲獸"]（趴下）
+[Character(name="avg_lolxh_4067_1#1$1", name2="avg_npc_599_1#1$1", focus=1)]
+[name="小黑"]......算了，現在怪你也沒用。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd", focus=2)]
+[name="可頌"]小朋友，你在那邊和那隻烏雲獸嘀嘀咕咕什麼哪？快過來吧，我預估了老闆的生氣程度，不到百分之六十，還行，你能活著回去。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd", focus=1)]
+[name="空"]喂，你不要再恐嚇小孩子了。
+[Character(name="avg_lolxh_4067_1#10$1")]
+[name="小黑"]損壞的東西，我會想辦法賠償的。
+[Character(name="char_105_emper")]
+[name="大帝"]哼，那可是一箱上好的陳釀蘭姆酒，是玻利瓦爾當年最甜蜜的甘蔗釀造而成。
+[name="大帝"]不過，比起物質，我更在乎對精神的追求，你這小屁孩我暫時沒空理會，我得先看看是哪個不長眼的小蟊賊敢損壞我的限量黑膠。
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]你們......把它怎麼樣了？
+[Character(name="char_105_emper")]
+[name="大帝"]飛仔，把籠子給我提過來！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="avg_npc_033",name2="avg_npc_603_1#1$1",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[Character(name="avg_npc_033", name2="avg_npc_603_1#1$1", focus=1)]
+[name="酒保"]來了，老闆。
+[Character(name="avg_npc_033", name2="avg_npc_603_1#1$1", focus=2)]
+[name="？？？"]吱吱吱！！
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#8", focus=2)]
+[name="可頌"]啊，原來是只鼷獸啊。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#8", focus=1)]
+[name="空"]看起來，好可愛啊！
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]鼷獸是什麼？
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd", focus=2)]
+[name="可頌"]生長在薩爾貢本土野外的動物，長得很可愛所以被一些商旅帶到移動城市作為寵物販賣。
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]如果是寵物的話，為什麼它會出現在這裡的管道中？
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd", focus=2)]
+[name="可頌"]因為這種動物晝伏夜出，性格又膽小謹慎不易親人，很多人嫌它們夜裡吵得煩，或者覺得不好玩，就棄養了。
+[name="可頌"]管道裡的環境隱蔽陰涼，符合它們的穴居特性，所以有些便在裡面築巢繁衍了起來。
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd", focus=1)]
+[name="空"]這些不負責任的主人就不會受到處罰嗎？
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#4", focus=2)]
+[name="可頌"]哈哈，龍門目前沒有這樣的規定就是了，而且就算是有，也很難落實。
+[Character(name="avg_npc_033")]
+[name="酒保"]空小姐你是心好，不知道這些鼷獸給城市的設施造成了多大的破壞。
+[name="酒保"]這些玩意兒的牙齒生長速度很快，每天都需要磨牙，會咬任何出現在它們眼前的物品。
+[name="酒保"]去年十三區大停電，就是因為生活在地下結構層的一窩鼷獸啃壞了一條供電線。
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#5", focus=2)]
+[name="可頌"]我記得龍門去年的財政支出裡有很大一筆錢花在了消滅這些入侵動物上。
+[Character(name="avg_lolxh_4067_1#7$1")]
+[name="小黑"]（擰起眉頭）......可，又不是它們自願來到這裡的。
+[Character(name="avg_npc_033")]
+[name="酒保"]這些冤枉錢也不是我們自願花的啊。
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#5", focus=1)]
+[name="空"]就不能捉起來放生到野外嗎？
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#5", focus=2)]
+[name="可頌"]（搖頭）成本只會更高，再者龍門航線周圍的野外環境不一定有適宜鼷獸生存的地方，隨意放生反而可能造成更多的傷害。
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#5", focus=1)]
+[name="空"]既然是寵物，總能找到想要領養的人吧？我們可以在店門口張貼廣告，給這隻鼷獸尋找一位新的主人。
+[Character(name="avg_npc_033")]
+[name="酒保"]幾年前或許還能輕鬆找到，如今關於這玩意兒的負面消息層出不窮，聽說馬上就有禁養政策出台，誰這時候上趕著找麻煩啊？
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#5", focus=1)]
+[name="空"]哼，說了那麼多，你想怎麼辦乾脆直說吧！
+[Character(name="avg_npc_033")]
+[name="酒保"]啊，就......隨便找個桶子溺死在裡面好了，我在老家都是這麼處理害獸的。
+[Character(name="avg_lolxh_4067_1#5$1")]
+[name="小黑"]（咬牙）你憑什麼這麼做！
+[Character(name="avg_npc_033")]
+[name="酒保"]哈，像你這樣的小孩我見多了，看著它可愛，你就覺得可憐，要是它長個怪模樣，你就該是另一副面孔了。
+[Character(name="avg_lolxh_4067_1#9$1")]
+[name="小黑"]你胡說什麼！
+[Character(name="avg_npc_033")]
+[name="酒保"]你瞪我做什麼？這是在我們店裡找到的，自然是我們說了算。
+[Character(name="avg_lolxh_4067_1#9$1")]
+[name="小黑"]它們也不是自願到這裡來的。你們把它們帶到這兒來，不想要了就隨便丟掉，它們做錯了什麼？！
+[Character(name="avg_npc_033")]
+[name="酒保"]怎樣，這片大地就是弱肉強食的。當然是人類作為強者，決定一切！
+[Character(name="avg_lolxh_4067_1#9$1")]
+[name="小黑"]你別太過分了！
+[Character(name="avg_npc_033")]
+[name="酒保"]你個小屁孩才是，別太多事了！
+[musicvolume(volume=0, fadetime=5)]
+[Character(name="char_105_emper")]
+[name="大帝"]好了！我的耳朵都要起繭子了！
+[name="大帝"]都閉嘴吧，我已經做好決定了！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$bullet_loading", volume=1)]
+[Delay(time=1)]
+子彈上膛的聲音響起，大帝舉起了配銃對準了籠子裡的鼷獸。這隻鼷獸即將血濺當場的命運，讓所有人的呼吸都變得急促。
+就在大帝扣動扳機前的一刹那，一隻小手按住了銃管。
+[Dialog]
+[Character(name="avg_lolxh_4067_1#5$1", name2="char_105_emper", focus=1)]
+[name="小黑"]你不能殺它。
+[Character(name="avg_lolxh_4067_1#5$1", name2="char_105_emper", focus=2)]
+[name="大帝"]你以為可以阻止我嗎，小屁孩？或許你有兩把刷子，但是你想好之後的結果了嗎？
+[name="大帝"]你可是代表老鯉來辦事的，你也不想老鯉的招牌砸在你的手裡吧？
+[Character(name="avg_lolxh_4067_1#5$1", name2="char_105_emper", focus=1)]
+[name="小黑"]你——
+[Character(name="avg_lolxh_4067_1#7$1", name2="char_105_emper", focus=1)]
+[name="小黑"]......我只是......
+[Character(name="avg_lolxh_4067_1#10$1", name2="char_105_emper", focus=1)]
+[name="小黑"]只能這樣做嗎？
+[name="小黑"]被迫離開自己的家，四處流浪......沒人想要這樣吧。
+[name="小黑"]可以再想想別的辦法嗎？
+[name="小黑"]一直被驅趕，真的很難受......
+[name="小黑"]它們也只是想要一個家啊！
+[Character(name="avg_lolxh_4067_1#10$1", name2="char_105_emper", focus=2)]
+[name="大帝"]你廢話說完了嗎？
+[PlaySound(key="$d_avg_gunload", volume=1)]
+[name="大帝"]（揚起手銃）
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd", focus=1)]
+[name="空"]老闆，我也可以領養——
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd", focus=2)]
+[name="可頌"]噓，你先別說話。
+[Character(name="avg_lolxh_4067_1#5$1", name2="char_105_emper", focus=1)]
+[name="小黑"]我可以帶它走！不許你殺它！！
+[Dialog]
+[Character(name="avg_lolxh_4067_1#5$1", name2="char_105_emper", focus=2)]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_lighter", volume=0.6)]
+[Delay(time=1)]
+[musicvolume(volume=0.4, fadetime=1)]
+[name="大帝"]你們都緊張什麼？我只是抽根雪茄罷了。
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=1)]
+[name="小黑"]......
+[name="小黑"]這東西......其實是打火機？
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=2)]
+[name="大帝"]不然呢？蝕刻子彈可是很貴的，浪費在這裡太可惜了。
+[name="大帝"]你剛剛說的話，是你的真心話嗎？不錯，還挺感人的。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]（臉紅）
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]哼，小孩子還是表情多點的好，天天板著一張臉裝什麼成熟，一點都不好玩。
+[Character(name="avg_npc_033")]
+[name="酒保"]那老闆，這隻鼷獸......
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]留著吧，歸我養了。
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=1)]
+[name="小黑"]所以......你一開始就不打算殺它嗎？
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=2)]
+[name="大帝"]荒唐，你竟然敢揣測我偉大的想法。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]......
+[name="小黑"]（誰能猜到你在想什麼啊！）
+[Character(name="avg_npc_033")]
+[name="酒保"]可是政府馬上就要——
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]你看我長了一副怕魏彥吾的模樣嗎？
+[Character(name="avg_npc_033")]
+[name="酒保"]好吧，您既然這麼決定了，我也不好說什麼......
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]喂，小屁孩，別傻站著了，提上籠子跟我走。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]去做什麼？
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]少廢話。
+[Dialog]
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper")]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=2)]
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd", focus=2)]
+[name="可頌"]哼哼，果然不出我所料。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd", focus=1)]
+[name="空"]所以你攔著我，是因為你一早就知道老闆根本沒打算殺那隻鼷獸嗎？
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#3", focus=2)]
+[name="可頌"]當然了，那把銃，哦不，那支打火機還是我推銷給老闆的。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#3", focus=1)]
+[name="空"]所以你是存心要看我和那位小朋友白白緊張的樣子嗎？
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#3", focus=2)]
+[name="可頌"]哎呀，你難道就不好奇他那副小酷哥臉破功的樣子嗎？
+[Character(name="char_101_sora_1#5", name2="char_201_moeshd#3", focus=1)]
+[name="空"]我看你就是壞心眼！
+[Dialog]
+[character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="char_102_texas_1",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[name="德克薩斯"]剛剛店裡發生什麼了，怎麼飛仔一臉的不高興？
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#2", focus=2)]
+[name="可頌"]哈哈，他今天在老闆和一個小朋友那裡吃癟了。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#2", focus=1)]
+[name="空"]對了，德克薩斯，牆板裡的小動物剛剛找到了，是一隻鼷獸。
+[Character(name="char_102_texas_1")]
+[name="德克薩斯"]猜到了，老闆最後怎麼決定的？
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#2", focus=1)]
+[name="空"]飛仔建議處理掉，但是老闆他決定領養它作為自己的寵物。
+[Character(name="char_102_texas_1#3")]
+[name="德克薩斯"]鼷獸的話......不奇怪。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#8", focus=2)]
+[name="可頌"]欸，你是知道些什麼嗎？
+[Character(name="char_102_texas_1#3")]
+[name="德克薩斯"]老闆曾經養過這種小東西，大概幾年前吧......
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#8", focus=1)]
+[name="空"]為什麼我們都不知道？
+[Character(name="char_102_texas_1")]
+[name="德克薩斯"]因為......害羞？
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd", focus=2)]
+[name="可頌"]然後呢？然後呢？
+[Character(name="char_102_texas_1")]
+[name="德克薩斯"]然後就沒有然後了，鼷獸的平均壽命只有兩年，很快就去世了。
+[Character(name="char_101_sora_1#1", name2="char_201_moeshd#8", focus=2)]
+[name="可頌"]所以那段時間老闆總是喝醉，然後獨自在房間裡聽藍調音樂的原因是......？
+[Character(name="char_102_texas_1#3")]
+[name="德克薩斯"]應該是。
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#8", focus=1)]
+[name="空"]......怎麼辦，我又想哭了。
+[Character(name="char_101_sora_1#4", name2="char_201_moeshd#4", focus=2)]
+[name="可頌"]你別啊！
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_lmstreet_2",screenadapt="showall")]
+[Delay(time=1)]
+[PlayMusic(intro="$m_dia_street_intro", key="$m_dia_street_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", fadetime=1)]
+[Delay(time=2)]
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]......
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]喂，這一路上你光悶著頭，一聲不響，就沒有什麼話要和我說嗎？
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_105_emper", focus=1)]
+[name="小黑"]......謝謝你，大帝先生。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_105_emper", focus=2)]
+[name="大帝"]小屁孩，你的感謝對我來說不值一提，我不需要你講這些。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_105_emper", focus=1)]
+[name="小黑"]那我沒有別的要說的了。
+[Character(name="avg_lolxh_4067_1#2$1", name2="char_105_emper", focus=2)]
+[name="大帝"]你自己這一路憋在肚子裡的話，真的只有這麼點嗎？
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]呃......
+[name="小黑"]為什麼要收養這隻動物，只是恰好因為......你喜歡嗎？
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]不然呢？
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=1)]
+[name="小黑"]要是你不喜歡，那是不是......你也會認同那傢伙的做法？就那樣隨意地把這隻動物處理掉？
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=2)]
+[name="大帝"]如果我真的這麼做了，你會怎麼辦？
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]我還是會阻止你。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]那不就得了。
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=1)]
+[name="小黑"]......什麼意思？
+[Character(name="avg_lolxh_4067_1#8$1", name2="char_105_emper", focus=2)]
+[name="大帝"]既然我的想法並不會影響你的選擇，那為什麼還要在意呢？
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]可是——
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]選好了就不要嘰嘰歪歪地多想了，堅持去做就好了。不過選之前自己先掂量清楚，不然後悔了就是記一輩子的事。
+[Dialog]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]好了，我們到了。
+[Character(name="avg_lolxh_4067_1#10$1", name2="char_105_emper", focus=1)]
+[name="小黑"]這個地方......
+[Character(name="avg_lolxh_4067_1#10$1", name2="char_105_emper", focus=2)]
+[name="大帝"]你知道這是哪裡嗎？
+[Character(name="avg_lolxh_4067_1#10$1", name2="char_105_emper", focus=1)]
+[name="小黑"]知道，鯉先生和我講過，這裡是貧民窟，是那些得了石頭病的人住的地方。
+[Character(name="avg_lolxh_4067_1#10$1", name2="char_105_emper", focus=2)]
+[name="大帝"]他還說什麼了？
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]讓我不要靠近這裡。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]他說的沒錯，這裡不是你這樣的小孩該來的地方。
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=1)]
+[name="小黑"]那你還帶我來......
+[Character(name="avg_lolxh_4067_1#1$1", name2="char_105_emper", focus=2)]
+[name="大帝"]正是因為沒人願意來，所以對於一些不想被找到的人來說，這裡反而是安全的。
+[Dialog]
+[character]
+[Delay(time=0.51)]
+[PlaySound(key="$doorknockquite", volume=1)]
+[Delay(time=1)]
+[PlaySound(key="$dooropenquite", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_331_1#1$1",fadetime=0.5,block=true)]
+[Delay(time=1)]
+[name="？？？"]呦，大帝先生，你今天怎麼有空來光顧我這裡啊？
+[Character(name="char_105_emper")]
+[name="大帝"]帶了兩隻小動物來你這裡檢查下。
+[Character(name="avg_npc_331_1#1$1")]
+[name="？？？"]你又帶什麼奇怪的動物來了？
+[Character(name="char_105_emper")]
+[name="大帝"]小屁孩，給他看。
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]是這個。
+[Dialog]
+[PlaySound(key="$d_avg_cloakmovement", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_331_1#1$1")]
+[name="？？？"]鼷獸？啊，還有一隻烏雲獸。
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]大帝先生，他是？
+[Character(name="char_105_emper")]
+[name="大帝"]是個醫生，有兩把刷子，人和動物都能治。
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]哈哈，只要敢來我這裡的，是人是動物，我都能治。
+[Character(name="avg_lolxh_4067_1#4$1")]
+[name="小黑"]既然這麼厲害，那為什麼要藏在這裡？
+[Character(name="char_105_emper")]
+[name="大帝"]問他自己。
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]哎，小朋友，因為我是個壞人嘛。
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]醫生怎麼會是壞人？
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]因為醫生會用最直白殘忍的方式去逼迫你面對自己的痛苦，他帶給你的，總是壞消息。
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]那不是壞人，那是誠實的人。
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]哈哈，最誠實的人也就是最殘忍的人。
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]你到底想要說什麼？
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]很好，繼續保持你的疑惑，別覺得什麼都是理所當然。
+[name="醫生"]那些讓你無比確定的事，它們最終只會欺騙你。
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]你就不能把話說得再明白點嗎......？
+[Character(name="char_105_emper")]
+[name="大帝"]差不多行了，你夢話講夠沒？這隻鼷獸情況到底怎麼樣？
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]算我多嘴，哎呦呦。
+[name="醫生"]來，小乖乖，讓我看看......沒什麼大礙，摸著很瘦，皮毛也沒什麼光澤，只是營養不良罷了。但是看著精神蔫蔫的，怎麼回事？
+[Character(name="char_105_emper")]
+[name="大帝"]是生病嗎？
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]會不會是被嚇到了？之前它被烏雲獸叼在了嘴裡。
+[Character(name="avg_npc_599_1#1$1")]
+[name="烏雲獸"]（舔舔爪子）嗷......
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]難怪了，這種小型齧齒動物正好在雲獸的食譜上。
+[name="醫生"]不過，這隻烏雲獸很眼熟，似乎在哪裡見過......
+[Dialog]
+[PlaySound(key="$d_avg_cloakmovement", volume=0.7)]
+[Delay(time=1)]
+[name="醫生"]（一把撈起烏雲獸）
+[name="醫生"]好傢伙，過來給我瞧瞧。啊，果然，一看腿上這道縫合痕跡就是我的手筆，規整、優雅、完美。
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]那它的主人你還記得嗎？
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]嗯......三年前應該就是他抱著這小傢伙來找我的。沒記錯的話，好像是個礦石病感染者，當時看著就已經快不行了。
+[name="醫生"]看他可憐，我免費治好了他的寵物，他竟然還想拜託我收留這小傢伙。
+[Character(name="avg_lolxh_4067_1#10$1")]
+[name="小黑"]你沒收留它。
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]當然了，我是醫生，又不是慈善家。
+[Character(name="char_105_emper")]
+[name="大帝"]難道不是因為你自己也沒錢養。
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]看，我說什麼來著，最誠實的人也就是最殘忍的人。
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]......呃，是吧。
+[name="小黑"]那......你知道這個人在哪裡嗎？
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]病得那麼重，應該沒多久就死了吧。貧民窟最外側有片空地，一些感染者的遺物會被放在那裡供人祭奠，你可以去找找。
+[name="醫生"]話說回來，我現在還記得那人找遍全身每一分錢的樣子，就只為讓我收下他的寵物，真是可憐。
+[Character(name="avg_lolxh_4067_1#4$1")]
+[name="小黑"]這麼久你都記得？
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]我......記性很好嘛。唉，你說奇怪不？甚至這人最後掏出來的龍門幣數目我都還記得。
+[Character(name="avg_lolxh_4067_1#4$1")]
+[name="小黑"]是多少？
+[Character(name="avg_npc_331_1#1$1")]
+[name="醫生"]六十七，剛好六十七龍門幣。
+[Dialog]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Character]
+[Image]

@@ -1,5 +1,36 @@
 {
   "basicInfo": {
+    "act13sre": {
+      "id": "act13sre",
+      "type": "TYPE_ACT13SIDE",
+      "name": "長夜臨光·復刻",
+      "startTime": 1685431800,
+      "endTime": 1686254399,
+      "rewardEndTime": 1686599999,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act13sre",
+      "medalGroupId": "medalGroupActivity13side",
+      "isReplicate": true
+    },
+    "act13mini": {
+      "id": "act13mini",
+      "type": "MINISTORY",
+      "displayType": "MINISTORY",
+      "name": "好久不見",
+      "startTime": 1686641400,
+      "endTime": 1687204799,
+      "rewardEndTime": 1687463999,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act13mini",
+      "medalGroupId": null,
+      "ungroupedMedalIds": [
+        "medal_hidden_13mini_01",
+        "medal_hidden_13mini_02"
+      ],
+      "isReplicate": false
+    },
     "act12mini": {
       "id": "act12mini",
       "type": "MINISTORY",
@@ -1744,6 +1775,10 @@
     }
   },
   "zoneToActivity": {
+    "act13sre_zone1": "act13sre",
+    "act13sre_zone2": "act13sre",
+    "act13sre_zone3": "act13sre",
+    "act13mini_zone1": "act13mini",
     "act12mini_zone1": "act12mini",
     "act12sre_zone1": "act12sre",
     "act12sre_zone2": "act12sre",
@@ -1833,6 +1868,1308 @@
     "A001_zone2": "1stact"
   },
   "missionData": [
+    {
+      "id": "13sreActivity_1",
+      "sortId": 1,
+      "description": "通關NL-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_01",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 20
+        },
+        {
+          "type": "FURN",
+          "id": "furni_kazimierz_LIVE_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_2",
+      "sortId": 2,
+      "description": "通關NL-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_02",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 30
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_3",
+      "sortId": 3,
+      "description": "通關NL-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_03",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 30
+        },
+        {
+          "type": "CHAR",
+          "id": "char_496_wildmn",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_4",
+      "sortId": 4,
+      "description": "通關NL-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_04",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_5",
+      "sortId": 5,
+      "description": "通關NL-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_05",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 20
+        },
+        {
+          "type": "FURN",
+          "id": "furni_kazimierz_stool_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_6",
+      "sortId": 6,
+      "description": "通關NL-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_06",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_7",
+      "sortId": 7,
+      "description": "通關NL-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_07",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_8",
+      "sortId": 8,
+      "description": "以3星評價完成NL-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_07",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 2
+        },
+        {
+          "type": "FURN",
+          "id": "furni_kazimierz_decoration_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_9",
+      "sortId": 9,
+      "description": "通關NL-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_08",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_10",
+      "sortId": 10,
+      "description": "以3星評價完成NL-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_08",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 2
+        },
+        {
+          "type": "FURN",
+          "id": "furni_kazimierz_table_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_11",
+      "sortId": 11,
+      "description": "通關NL-9",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_09",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_12",
+      "sortId": 12,
+      "description": "以3星評價完成NL-9",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_09",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 2
+        },
+        {
+          "type": "FURN",
+          "id": "furni_kazimierz_partition2_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_13",
+      "sortId": 13,
+      "description": "通關NL-10",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_10",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 1
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_14",
+      "sortId": 14,
+      "description": "以3星評價完成NL-10",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_10",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 2
+        },
+        {
+          "type": "FURN",
+          "id": "furni_kazimierz_ceilingLamp_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_15",
+      "sortId": 15,
+      "description": "通關NL-EX-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex01",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_16",
+      "sortId": 16,
+      "description": "通關NL-EX-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex02",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_17",
+      "sortId": 17,
+      "description": "通關NL-EX-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex03",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_18",
+      "sortId": 18,
+      "description": "通關NL-EX-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex04",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_19",
+      "sortId": 19,
+      "description": "通關NL-EX-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex05",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_20",
+      "sortId": 20,
+      "description": "通關NL-EX-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex06",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_21",
+      "sortId": 21,
+      "description": "通關NL-EX-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex07",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_22",
+      "sortId": 22,
+      "description": "通關NL-EX-7突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex07#f#",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_23",
+      "sortId": 23,
+      "description": "通關NL-EX-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex08",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 4
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_24",
+      "sortId": 24,
+      "description": "通關NL-EX-8突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_ex08#f#",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 4
+        },
+        {
+          "type": "FURN",
+          "id": "furni_dropS023_birdmanOfAlcatraz_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_25",
+      "sortId": 25,
+      "description": "通關活動關卡15次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act13side_01^act13side_02^act13side_03^act13side_04^act13side_05^act13side_06^act13side_07^act13side_08^act13side_09^act13side_10^act13side_ex01^act13side_ex01#f#^act13side_ex02^act13side_ex02#f#^act13side_ex03^act13side_ex03#f#^act13side_ex04^act13side_ex04#f#^act13side_ex05^act13side_ex05#f#^act13side_ex06^act13side_ex06#f#^act13side_ex07^act13side_ex07#f#^act13side_ex08^act13side_ex08#f#^act13side_s01^act13side_s01#f#^act13side_s02^act13side_s02#f#^act13side_s03^act13side_s03#f#^act13side_s04^act13side_s04#f#^act13side_s05^act13side_s05#f#",
+        "15"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 2
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_26",
+      "sortId": 26,
+      "description": "通關活動關卡45次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act13side_01^act13side_02^act13side_03^act13side_04^act13side_05^act13side_06^act13side_07^act13side_08^act13side_09^act13side_10^act13side_ex01^act13side_ex01#f#^act13side_ex02^act13side_ex02#f#^act13side_ex03^act13side_ex03#f#^act13side_ex04^act13side_ex04#f#^act13side_ex05^act13side_ex05#f#^act13side_ex06^act13side_ex06#f#^act13side_ex07^act13side_ex07#f#^act13side_ex08^act13side_ex08#f#^act13side_s01^act13side_s01#f#^act13side_s02^act13side_s02#f#^act13side_s03^act13side_s03#f#^act13side_s04^act13side_s04#f#^act13side_s05^act13side_s05#f#",
+        "45"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 2
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_27",
+      "sortId": 27,
+      "description": "通關活動關卡85次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act13side_01^act13side_02^act13side_03^act13side_04^act13side_05^act13side_06^act13side_07^act13side_08^act13side_09^act13side_10^act13side_ex01^act13side_ex01#f#^act13side_ex02^act13side_ex02#f#^act13side_ex03^act13side_ex03#f#^act13side_ex04^act13side_ex04#f#^act13side_ex05^act13side_ex05#f#^act13side_ex06^act13side_ex06#f#^act13side_ex07^act13side_ex07#f#^act13side_ex08^act13side_ex08#f#^act13side_s01^act13side_s01#f#^act13side_s02^act13side_s02#f#^act13side_s03^act13side_s03#f#^act13side_s04^act13side_s04#f#^act13side_s05^act13side_s05#f#",
+        "85"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_commerce",
+          "count": 2
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_28",
+      "sortId": 28,
+      "description": "完成每日事務5次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Act13sideCompleteDailyMission",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 2
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_29",
+      "sortId": 29,
+      "description": "完成每日事務10次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Act13sideCompleteDailyMission",
+      "templateType": "0",
+      "param": [
+        "0",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 2
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_30",
+      "sortId": 30,
+      "description": "完成每日事務15次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Act13sideCompleteDailyMission",
+      "templateType": "0",
+      "param": [
+        "0",
+        "15"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_kazimierz",
+          "count": 2
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_31",
+      "sortId": 31,
+      "description": "通關NL-S-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_s03",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_armorless",
+          "count": 6
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_32",
+      "sortId": 32,
+      "description": "通關NL-S-3突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_s03#f#",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_armorless",
+          "count": 7
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_33",
+      "sortId": 33,
+      "description": "通關NL-S-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_s04",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_armorless",
+          "count": 6
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_34",
+      "sortId": 34,
+      "description": "通關NL-S-4突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_s04#f#",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_armorless",
+          "count": 7
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_35",
+      "sortId": 35,
+      "description": "通關NL-S-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_s05",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_armorless",
+          "count": 6
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "13sreActivity_36",
+      "sortId": 36,
+      "description": "通關NL-S-5突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act13side_s05#f#",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act13sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "act13side_prestige_armorless",
+          "count": 7
+        },
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act13side_token_model_rep_1",
+          "count": 120
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
     {
       "id": "12sreActivity_1",
       "sortId": 1,
@@ -31666,6 +33003,54 @@
   ],
   "missionGroup": [
     {
+      "id": "act13sre",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": [],
+      "missionIds": [
+        "13sreActivity_1",
+        "13sreActivity_2",
+        "13sreActivity_3",
+        "13sreActivity_4",
+        "13sreActivity_5",
+        "13sreActivity_6",
+        "13sreActivity_7",
+        "13sreActivity_8",
+        "13sreActivity_9",
+        "13sreActivity_10",
+        "13sreActivity_11",
+        "13sreActivity_12",
+        "13sreActivity_13",
+        "13sreActivity_14",
+        "13sreActivity_15",
+        "13sreActivity_16",
+        "13sreActivity_17",
+        "13sreActivity_18",
+        "13sreActivity_19",
+        "13sreActivity_20",
+        "13sreActivity_21",
+        "13sreActivity_22",
+        "13sreActivity_23",
+        "13sreActivity_24",
+        "13sreActivity_25",
+        "13sreActivity_26",
+        "13sreActivity_27",
+        "13sreActivity_28",
+        "13sreActivity_29",
+        "13sreActivity_30",
+        "13sreActivity_31",
+        "13sreActivity_32",
+        "13sreActivity_33",
+        "13sreActivity_34",
+        "13sreActivity_35",
+        "13sreActivity_36"
+      ],
+      "startTs": 1685431800,
+      "endTs": 1686599999
+    },
+    {
       "id": "act12sre",
       "title": null,
       "type": "ACTIVITY",
@@ -54396,6 +55781,2541 @@
       }
     },
     "TYPE_ACT13SIDE": {
+      "act13sre": {
+        "constData": {
+          "prestigeDescList": [
+            "冷漠",
+            "中立",
+            "友好",
+            "欣賞",
+            "尊敬"
+          ],
+          "dailyRandomCount": null,
+          "dailyWeightInitial": 0,
+          "dailyWeightComplete": 0,
+          "agendaRecover": 3,
+          "agendaMax": 15,
+          "agendaHint": 10,
+          "missionPoolMax": 6,
+          "missionBoardMax": 3,
+          "itemRandomList": [
+            {
+              "id": "30013",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30023",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30033",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30043",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30053",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30063",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30073",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30083",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30093",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30103",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31013",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31023",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31033",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31043",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31053",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ],
+          "unlockPrestigeCond": "act13side_01",
+          "hotSpotShowFlag": 1685431800
+        },
+        "orgDataMap": {
+          "kazimierz": {
+            "orgId": "kazimierz",
+            "orgName": "監正會",
+            "orgEnName": "Adeptus Sprawiedliwi Kazimierz",
+            "openTime": -1,
+            "principalIdList": [
+              "gravel",
+              "silverlance",
+              "Ioleta"
+            ],
+            "prestigeList": [
+              {
+                "rank": "D",
+                "threshold": 0,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "C",
+                "threshold": 10,
+                "reward": null,
+                "newsCount": 3,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "B",
+                "threshold": 20,
+                "reward": null,
+                "newsCount": 3,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "A",
+                "threshold": 40,
+                "reward": {
+                  "id": "act13side_token_key",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                "newsCount": 4,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "S",
+                "threshold": 50,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 0,
+                "avgCount": 1
+              }
+            ],
+            "agendaCount2PrestigeItemMap": {
+              "1": {
+                "id": "act13side_prestige_kazimierz",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "2": {
+                "id": "act13side_prestige_kazimierz",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              "3": {
+                "id": "act13side_prestige_kazimierz",
+                "count": 6,
+                "type": "MATERIAL"
+              }
+            },
+            "orgSectionList": [
+              {
+                "sectionName": "監正會委託",
+                "sortId": 1,
+                "groupData": {
+                  "groupId": "kazimierz_1",
+                  "groupName": "監正會委託",
+                  "orgId": "kazimierz",
+                  "missionList": [
+                    "13sreActivity_2",
+                    "13sreActivity_4",
+                    "13sreActivity_6",
+                    "13sreActivity_9",
+                    "13sreActivity_10",
+                    "13sreActivity_13",
+                    "13sreActivity_14",
+                    "13sreActivity_16",
+                    "13sreActivity_18",
+                    "13sreActivity_20",
+                    "13sreActivity_23",
+                    "13sreActivity_24"
+                  ]
+                }
+              },
+              {
+                "sectionName": "保密協定",
+                "sortId": 2,
+                "groupData": {
+                  "groupId": "kazimierz_2",
+                  "groupName": "保密協定",
+                  "orgId": "kazimierz",
+                  "missionList": [
+                    "13sreActivity_28",
+                    "13sreActivity_29",
+                    "13sreActivity_30"
+                  ]
+                }
+              }
+            ],
+            "prestigeItem": {
+              "id": "act13side_prestige_kazimierz",
+              "count": 2,
+              "type": "MATERIAL"
+            }
+          },
+          "commerce": {
+            "orgId": "commerce",
+            "orgName": "商業聯合會",
+            "orgEnName": "General chamber of commerce",
+            "openTime": -1,
+            "principalIdList": [
+              "jewell",
+              "mcgee",
+              "malkiewicz"
+            ],
+            "prestigeList": [
+              {
+                "rank": "D",
+                "threshold": 0,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "C",
+                "threshold": 10,
+                "reward": null,
+                "newsCount": 3,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "B",
+                "threshold": 20,
+                "reward": null,
+                "newsCount": 1,
+                "archiveCount": 1,
+                "avgCount": 0
+              },
+              {
+                "rank": "A",
+                "threshold": 40,
+                "reward": {
+                  "id": "act13side_token_card",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                "newsCount": 2,
+                "archiveCount": 1,
+                "avgCount": 0
+              },
+              {
+                "rank": "S",
+                "threshold": 50,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 0,
+                "avgCount": 1
+              }
+            ],
+            "agendaCount2PrestigeItemMap": {
+              "1": {
+                "id": "act13side_prestige_commerce",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "2": {
+                "id": "act13side_prestige_commerce",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              "3": {
+                "id": "act13side_prestige_commerce",
+                "count": 6,
+                "type": "MATERIAL"
+              }
+            },
+            "orgSectionList": [
+              {
+                "sectionName": "聯合會委託",
+                "sortId": 1,
+                "groupData": {
+                  "groupId": "commerce_1",
+                  "groupName": "聯合會委託",
+                  "orgId": "commerce",
+                  "missionList": [
+                    "13sreActivity_1",
+                    "13sreActivity_3",
+                    "13sreActivity_5",
+                    "13sreActivity_7",
+                    "13sreActivity_8",
+                    "13sreActivity_11",
+                    "13sreActivity_12",
+                    "13sreActivity_15",
+                    "13sreActivity_17",
+                    "13sreActivity_19",
+                    "13sreActivity_21",
+                    "13sreActivity_22"
+                  ]
+                }
+              },
+              {
+                "sectionName": "非公開邀約",
+                "sortId": 2,
+                "groupData": {
+                  "groupId": "commerce_2",
+                  "groupName": "非公開邀約",
+                  "orgId": "commerce",
+                  "missionList": [
+                    "13sreActivity_25",
+                    "13sreActivity_26",
+                    "13sreActivity_27"
+                  ]
+                }
+              }
+            ],
+            "prestigeItem": {
+              "id": "act13side_prestige_commerce",
+              "count": 2,
+              "type": "MATERIAL"
+            }
+          },
+          "armorless": {
+            "orgId": "armorless",
+            "orgName": "無胄盟",
+            "orgEnName": "Armorless Union",
+            "openTime": 1685431800,
+            "principalIdList": [
+              "platnm",
+              "mannar",
+              "toland"
+            ],
+            "prestigeList": [
+              {
+                "rank": "D",
+                "threshold": 0,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "C",
+                "threshold": 10,
+                "reward": null,
+                "newsCount": 2,
+                "archiveCount": 0,
+                "avgCount": 0
+              },
+              {
+                "rank": "B",
+                "threshold": 20,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 1,
+                "avgCount": 0
+              },
+              {
+                "rank": "A",
+                "threshold": 40,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 1,
+                "avgCount": 0
+              },
+              {
+                "rank": "S",
+                "threshold": 50,
+                "reward": null,
+                "newsCount": 0,
+                "archiveCount": 0,
+                "avgCount": 1
+              }
+            ],
+            "agendaCount2PrestigeItemMap": {
+              "1": {
+                "id": "act13side_prestige_armorless",
+                "count": 2,
+                "type": "MATERIAL"
+              },
+              "2": {
+                "id": "act13side_prestige_armorless",
+                "count": 4,
+                "type": "MATERIAL"
+              },
+              "3": {
+                "id": "act13side_prestige_armorless",
+                "count": 6,
+                "type": "MATERIAL"
+              }
+            },
+            "orgSectionList": [
+              {
+                "sectionName": "個人事項",
+                "sortId": 1,
+                "groupData": {
+                  "groupId": "armorless_1",
+                  "groupName": "個人事項",
+                  "orgId": "armorless",
+                  "missionList": [
+                    "13sreActivity_31",
+                    "13sreActivity_32",
+                    "13sreActivity_33",
+                    "13sreActivity_34",
+                    "13sreActivity_35",
+                    "13sreActivity_36"
+                  ]
+                }
+              }
+            ],
+            "prestigeItem": {
+              "id": "act13side_prestige_armorless",
+              "count": 2,
+              "type": "MATERIAL"
+            }
+          }
+        },
+        "principalDataMap": {
+          "gravel": {
+            "principalId": "gravel",
+            "principalName": "礫",
+            "principalEnName": " Gravel",
+            "avgCharId": "char_237_gravel#1",
+            "principalDescList": [
+              "一直使用代號打招呼，不會覺得有疏遠感嗎？我可是很希望博士哪一天能用塞諾蜜來稱呼我呢，多親切呀，嘻嘻~",
+              "您有什麼需要嗎？請向我提出來吧，您的一切願望，我都會盡力去滿足的~",
+              "沉默著守護別人對守護者來說也是一種幸福呢，啊，很抱歉，我不該自詡為博士的守護者，哼哼，我會注意的~",
+              "您對所有人都是這麼溫柔嗎，嗯？哼——想要完全理解您，並不是一件容易的事呢。不過沒關係，我喜歡挑戰。",
+              "這枚烙在肉體上的印記也算是給自己一個警示，畢竟，烙在心靈上的印記，可要比這可怕多了。",
+              "白金畢竟是無胄盟，是商業聯合會的爪牙，下次見到她還是請更小心一些。",
+              "“找機會領那個戴兜帽的客人去換身衣服。”——我們家老爺是這，哦，其實是我想這麼說來著，嘻嘻。"
+            ]
+          },
+          "silverlance": {
+            "principalId": "silverlance",
+            "principalName": "銀槍的天馬",
+            "principalEnName": "Silverlance Pegasus",
+            "avgCharId": "avg_npc_224",
+            "principalDescList": [
+              "向您致意，羅德島的博士。",
+              "沒有大宗師的首肯，我們不會脫下頭盔。征戰騎士鐵律在此。",
+              "抱歉，私下向他人透露姓名同樣也是不被准許的。",
+              "請不要觸碰武器，多謝。",
+              "只要有我們在，您在大騎士領的安全就能得以保障，商業聯合會也不能動您分毫。",
+              "您是在問征戰騎士的職責與義務嗎？這個問題......請容我請示一下大宗師，由她來判斷是否能夠回答。",
+              "我們是征戰騎士，大騎士領並不是我們的居所。"
+            ]
+          },
+          "Ioleta": {
+            "principalId": "Ioleta",
+            "principalName": "伊奧萊塔",
+            "principalEnName": "Ioleta",
+            "avgCharId": "avg_npc_210_1",
+            "principalDescList": [
+              "特錦賽很快就會結束，但卡西米爾的硝煙卻不會散去，羅德島的博士。後面的日子，還長得很啊......",
+              "臨光家的人從來不會讓人失望，太陽總會升起的。",
+              "我們並非是在公開場合交談，博士，請隨意一些，不用那麼緊張。",
+              "只有征戰騎士會稱呼我為“大宗師”，這是我們內部的禮節，也算是一種有益的傳承吧。",
+              "伊奧萊塔·羅素，監正會主席，很高興與你合作。",
+              "像索娜那樣的成熟孩子這年頭也不多見了，但看著她的眼睛，想到她所受的痛苦......我並沒有資格去勸慰她什麼。",
+              "礫是個值得栽培的好苗子，我希望羅德島，特別是博士你，能給她應有的待遇......我看她的確是想留在羅德島上的，難道我記錯了？"
+            ]
+          },
+          "jewell": {
+            "principalId": "jewell",
+            "principalName": "朱維爾",
+            "principalEnName": "Jewell",
+            "avgCharId": "avg_npc_223",
+            "principalDescList": [
+              "我是發言人馬克維茨閣，呃......馬克維茨先生的助理，朱維爾，您可以叫我小朱......這是我的名片，請博士閣下過目......",
+              "是，是的！我曾經有幸能與馬克維茨閣下共事，所以才有了如今的機會......為了報答馬克維茨閣下的恩情，我會加倍努力工作。",
+              "博士閣下，您有什麼吩咐嗎？產品介紹、旅遊路線規劃、材料修訂，我都能幫上些忙......您是說只要倒杯水？好，好的，請稍等，我這就為您服務。",
+              "我的夢想是在工作二十年後獲得優秀員工獎章，聽說得到獎章的員工在購買公司產品時可以獲得九九折永久優惠，這實在是太豐厚了。",
+              "這份報告還有改進的空間，不，呃，我明白......只是，您能否在時間上寬限......是，是的，我明白了，明天會準時提交的......抱歉，博士閣下，您有什麼吩咐？",
+              "我睡著了？！不，不好......很抱歉，博士閣下......剛剛電話有沒有......好的，好的，勞煩您費心了......我......我去洗把臉，馬上回來繼續工作。",
+              "等特錦賽相關事項結束，貴公司是要啟程前往其他國家了吧。啊，是的，很感謝您近期的栽培，博士閣下，我會永遠牢記您的教導，預祝您和您的公司也一路順風。"
+            ]
+          },
+          "mcgee": {
+            "principalId": "mcgee",
+            "principalName": "麥基",
+            "principalEnName": "McKee",
+            "avgCharId": "avg_npc_212_1",
+            "principalDescList": [
+              "合約上規定的事項，您履行得很好。但聯合會希望，您不要做多餘的事，博士。",
+              "我是麥基，商業聯合會的發言人之一，和馬克維茨一起負責傳達特錦賽期間商業聯合會提出的相關事項，希望我們合作愉快。",
+              "德羅斯特女士有她自己的生活準則，即使是負責與她對接的我也無權評價。",
+              "在羅德島駐留在大騎士領期間，商業聯合會可能會為羅德島發佈醫藥以外的合作邀請，您可以選擇是否完成，而我們也會根據貴公司的活躍程度做出評價。",
+              "如果各位要申請在大騎士領的自由行動，還請向監正會方面傳達，商業聯合會並沒有相關職權。",
+              "我只會向各位傳達商業聯合會的決議，如果有具體事項想要討論，還請去找馬克維茨，他主要負責與你們的對接。",
+              "商業聯合會將配合監正會，保證特錦賽能夠公平公正的舉行......您這是什麼表情？"
+            ]
+          },
+          "malkiewicz": {
+            "principalId": "malkiewicz",
+            "principalName": "馬克維茨",
+            "principalEnName": "Malkiewicz",
+            "avgCharId": "avg_npc_211_1",
+            "principalDescList": [
+              "在合法合規且商業聯合會允諾的範圍內，我會盡可能為感染者爭取權益，所以在感染者騎士收容方案的細節條目更新上，我需要您的建議。",
+              "總會有一部分事項無法透過正規流程實現，所以，商業聯合會需要無胄盟來處理那些問題。",
+              "即使臨光奪冠，卡西米爾也不會發生什麼翻天覆地的變化。她還在使用規則，而不是去破壞它，這就是最好的證明。",
+              "我們不是第一次見面了，尊敬的博士。重新自我介紹一下，我是商業聯合會的發言人馬克維茨，叫我馬克維茨就好。",
+              "就在幾個月前，我還只是個破產後進入公司上班的小職員，而現在，我是商業聯合會的發言人，這或許和我的能力有關，但機遇......機遇才是更重要的那環。在卡西米爾，一切皆有可能。",
+              "特錦賽結束後，發言人會得到一筆不菲的獎金，然後失去這一身份，返回先前的企業和崗位。至於我在之後會去哪裡任職......抱歉，博士，我自己也不清楚。",
+              "您可以信任我，就如信任您的幹員那樣。遇到困難就請給我打個電話吧，寫信也可以，收到您的資訊，我會儘快回復。"
+            ]
+          },
+          "platnm": {
+            "principalId": "platnm",
+            "principalName": "白金",
+            "principalEnName": "Platinum",
+            "avgCharId": "char_204_platnm_1#1",
+            "principalDescList": [
+              "唉......提不起勁......真麻煩啊......實在不行就請無薪假吧......",
+              "哈......我還在放假呢......一起走走？行吧。",
+              "沒什麼，我只是想看看，你能做到什麼程度，羅德島的博士。",
+              "不該問的就別問，不然你能不能活著離開大騎士領都不好說。唉......我為什麼要費力和你講這些......",
+              "最近不能吃甜食......喝果汁熬上一陣吧......身材要是走樣了形象上說不過去。",
+              "工作是為了糊口啊，還能有其他什麼原因呢......休息時間到了，再見。",
+              "要是哪一天你們羅德島的人不給我添麻煩就好了......沒事，我也就想想，畢竟我們立場不一樣。"
+            ]
+          },
+          "mannar": {
+            "principalId": "mannar",
+            "principalName": "瑪恩納",
+            "principalEnName": "Młynar",
+            "avgCharId": "avg_npc_108#1",
+            "principalDescList": [
+              "請您過目我司與羅德島的合作事項，有問題的話，我會儘快上報。",
+              "沒有其他話題的話，請容我先行告退了，公司裡還有會議需要我出席。",
+              "你們對感染者......不，沒事。",
+              "請恕我拒絕回答任何與家族有關的問題，這與工作無關。",
+              "上班、工作、下班、回家，我的生活和千千萬萬普通的卡西米爾人沒什麼區別。",
+              "瑪恩納·臨光，代表我司與羅德島接洽，這是我的名片，請您過目。",
+              "托蘭？不，我和他並沒有太多交集。"
+            ]
+          },
+          "toland": {
+            "principalId": "toland",
+            "principalName": "托蘭",
+            "principalEnName": "Toland",
+            "avgCharId": "avg_npc_213_1",
+            "principalDescList": [
+              "“火肺”和“黃煙”可是我的好兄弟啊，他們死得不明不白的，真是令人傷心啊。說起來，這件事和你們可能有點關係，聽說他倆是被一個阿戈爾女人一劍砍翻的，你認識她嗎？",
+              "相逢就是緣啊，看在這份緣分上，不如把報酬加個零如何？嗯......哈哈，想不到您也會開玩笑。不是加在前面......",
+              "您付了錢，就暫時是我老闆啦，希望我們能合作愉快。說吧，我要做些什麼？",
+              "為了生存下去，處理下外表還是有必要的吧。不得不說，少了一對角，少了很多麻煩。",
+              "我只是個沒名氣的賞金獵人，靠做些粗事過活，現在招呼了一些兄弟準備一起做些事情。怎麼樣，我們能達成合作嗎，博士？",
+              "賞金獵人混口飯吃，到處走不一定會用真名的哦，如果老闆您一定想要個名字的話，哼，我想想，哦對了，您可以叫我托蘭·卡什。",
+              "瑪恩納？嘿這個人我可太熟了，看在我們合作愉快的份上，關於他的情報，我可以打個友情價給你。"
+            ]
+          }
+        },
+        "longTermMissionDataMap": {
+          "13sreActivity_1": {
+            "missionName": "觀賞開幕式",
+            "groupId": "commerce_1",
+            "principalId": "jewell",
+            "finishedDesc": "在特錦賽開幕式上，博士給初次見面的聯合會人員留下了個好印象。",
+            "sectionSortId": 1,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_01"
+          },
+          "13sreActivity_2": {
+            "missionName": "感染者遺體善後",
+            "groupId": "kazimierz_1",
+            "principalId": "gravel",
+            "finishedDesc": "博士指導了對死亡感染者騎士的遺體善後工作。無人遭受感染。",
+            "sectionSortId": 1,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_02"
+          },
+          "13sreActivity_3": {
+            "missionName": "參加電話會議",
+            "groupId": "commerce_1",
+            "principalId": "jewell",
+            "finishedDesc": "在前期的電話會議中，博士的敏銳思維令聯合會與會人員印象深刻。",
+            "sectionSortId": 2,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_03"
+          },
+          "13sreActivity_4": {
+            "missionName": "赴宴",
+            "groupId": "kazimierz_1",
+            "principalId": "gravel",
+            "finishedDesc": "聯合會主辦的宴席上也有監正會成員出席，他們與博士達成了共識。",
+            "sectionSortId": 2,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_04"
+          },
+          "13sreActivity_5": {
+            "missionName": "與企業高層會晤",
+            "groupId": "commerce_1",
+            "principalId": "jewell",
+            "finishedDesc": "在取得初步信任後，聯合會開始安排一些骨幹企業與羅德島對接。",
+            "sectionSortId": 3,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_05"
+          },
+          "13sreActivity_6": {
+            "missionName": "緊急秩序維護",
+            "groupId": "kazimierz_1",
+            "principalId": "gravel",
+            "finishedDesc": "停電加大了監正會的治安壓力，羅德島在力所能及的範圍給予了援助。",
+            "sectionSortId": 3,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_06"
+          },
+          "13sreActivity_7": {
+            "missionName": "零號地塊物資押運",
+            "groupId": "commerce_1",
+            "principalId": "mcgee",
+            "finishedDesc": "在羅德島的押運下，物資已安全到達零號地塊的指定區域。",
+            "sectionSortId": 4,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_07"
+          },
+          "13sreActivity_8": {
+            "missionName": "維持賽場秩序",
+            "groupId": "commerce_1",
+            "principalId": "mcgee",
+            "finishedDesc": "羅德島對於處理應急事項頗有心得，而這正是聯合會欠缺的部分。",
+            "sectionSortId": 5,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_07"
+          },
+          "13sreActivity_9": {
+            "missionName": "逐魘騎士調查",
+            "groupId": "kazimierz_1",
+            "principalId": "silverlance",
+            "finishedDesc": "交付調查材料後，大騎士長以私人身份向博士表達了感謝。",
+            "sectionSortId": 4,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_08"
+          },
+          "13sreActivity_10": {
+            "missionName": "通訊頻段檢測",
+            "groupId": "kazimierz_1",
+            "principalId": "silverlance",
+            "finishedDesc": "為了處理竊聽問題，羅德島協助監正會重新調整了加密通訊方式。",
+            "sectionSortId": 5,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_08"
+          },
+          "13sreActivity_11": {
+            "missionName": "商業效益預估",
+            "groupId": "commerce_1",
+            "principalId": "malkiewicz",
+            "finishedDesc": "聯合會希望借助博士的商業嗅覺預估特錦賽後的重點項目。",
+            "sectionSortId": 6,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_09"
+          },
+          "13sreActivity_12": {
+            "missionName": "非正式談話",
+            "groupId": "commerce_1",
+            "principalId": "malkiewicz",
+            "finishedDesc": "“我需要你的建議，博士。”",
+            "sectionSortId": 7,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_09"
+          },
+          "13sreActivity_13": {
+            "missionName": "佈置冠軍牆展廳",
+            "groupId": "kazimierz_1",
+            "principalId": "Ioleta",
+            "finishedDesc": "監正會將一些稀缺裝飾的製作任務委託給了羅德島工坊。",
+            "sectionSortId": 6,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_10"
+          },
+          "13sreActivity_14": {
+            "missionName": "特錦賽閉幕式收尾",
+            "groupId": "kazimierz_1",
+            "principalId": "Ioleta",
+            "finishedDesc": "出於雙方的友好合作，大騎士長希望羅德島能參加閉幕式收尾工作。",
+            "sectionSortId": 7,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_10"
+          },
+          "13sreActivity_15": {
+            "missionName": "捕捉鉗獸",
+            "groupId": "commerce_1",
+            "principalId": "mcgee",
+            "finishedDesc": "根除鉗獸氾濫需要大量資金，而羅德島的出價比清掃公司低很多。",
+            "sectionSortId": 8,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex01"
+          },
+          "13sreActivity_16": {
+            "missionName": "收容醉酒騎士",
+            "groupId": "kazimierz_1",
+            "principalId": "silverlance",
+            "finishedDesc": "既然普通治安人員難以應付醉酒騎士，那就請羅德島外勤幹員來。",
+            "sectionSortId": 8,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex02"
+          },
+          "13sreActivity_17": {
+            "missionName": "拍攝公益廣告",
+            "groupId": "commerce_1",
+            "principalId": "mcgee",
+            "finishedDesc": "羅德島幹員拍攝的廣告為聯合會帶來了豐厚回報。",
+            "sectionSortId": 9,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex03"
+          },
+          "13sreActivity_18": {
+            "missionName": "維持商場秩序",
+            "groupId": "kazimierz_1",
+            "principalId": "silverlance",
+            "finishedDesc": "任務結束後，每位羅德島幹員都獲得了限量商品作為謝禮。",
+            "sectionSortId": 9,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex04"
+          },
+          "13sreActivity_19": {
+            "missionName": "處理擾民問題",
+            "groupId": "commerce_1",
+            "principalId": "mcgee",
+            "finishedDesc": "聯合會很滿意羅德島幹員對逐魘騎士狂熱粉絲擾民行為的處理。",
+            "sectionSortId": 10,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex05"
+          },
+          "13sreActivity_20": {
+            "missionName": "安撫人群",
+            "groupId": "kazimierz_1",
+            "principalId": "Ioleta",
+            "finishedDesc": "在阿米婭充滿感情的勸說下，事端很快就被消弭。",
+            "sectionSortId": 10,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex06"
+          },
+          "13sreActivity_21": {
+            "missionName": "突擊檢查",
+            "groupId": "commerce_1",
+            "principalId": "malkiewicz",
+            "finishedDesc": "因為有董事的子女參與其中，聯合會只能尋求外部援助。",
+            "sectionSortId": 11,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex07"
+          },
+          "13sreActivity_22": {
+            "missionName": "粉絲團整頓",
+            "groupId": "commerce_1",
+            "principalId": "malkiewicz",
+            "finishedDesc": "聯合會從來不是鐵板一塊，在某些事件上，它們傾向於委託羅德島。",
+            "sectionSortId": 12,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex07#f#"
+          },
+          "13sreActivity_23": {
+            "missionName": "報業審查",
+            "groupId": "kazimierz_1",
+            "principalId": "Ioleta",
+            "finishedDesc": "鑑於個別報社行為過於出格，監正會借助羅德島發起了審查。",
+            "sectionSortId": 11,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex08"
+          },
+          "13sreActivity_24": {
+            "missionName": "保護冠軍",
+            "groupId": "kazimierz_1",
+            "principalId": "Ioleta",
+            "finishedDesc": "多虧了羅德島，幾位冠軍耳邊能夠清淨幾天。",
+            "sectionSortId": 12,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_ex08#f#"
+          },
+          "13sreActivity_25": {
+            "missionName": "簽訂感染者治療協議",
+            "groupId": "commerce_2",
+            "principalId": "jewell",
+            "finishedDesc": "在羅德島接手感染者治療這一事項後，聯合會節省了很多資金。",
+            "sectionSortId": 1,
+            "haveStageBtn": false,
+            "jumpStageId": null
+          },
+          "13sreActivity_26": {
+            "missionName": "列席董事會閉門會議",
+            "groupId": "commerce_2",
+            "principalId": "mcgee",
+            "finishedDesc": "閉門會議結束後，聯合會整體確認將羅德島定義為可信賴外部企業。",
+            "sectionSortId": 2,
+            "haveStageBtn": false,
+            "jumpStageId": null
+          },
+          "13sreActivity_27": {
+            "missionName": "調查無胄盟",
+            "groupId": "commerce_2",
+            "principalId": "malkiewicz",
+            "finishedDesc": "無胄盟調查內容已交付，馬克維茨將和麥基商議後續處理事項。",
+            "sectionSortId": 3,
+            "haveStageBtn": false,
+            "jumpStageId": null
+          },
+          "13sreActivity_28": {
+            "missionName": "追緝國民院副審官",
+            "groupId": "kazimierz_2",
+            "principalId": "gravel",
+            "finishedDesc": "在羅德島完成追緝後，監正會將對國民院發出整頓要求。",
+            "sectionSortId": 1,
+            "haveStageBtn": false,
+            "jumpStageId": null
+          },
+          "13sreActivity_29": {
+            "missionName": "征戰騎士偽裝測試",
+            "groupId": "kazimierz_2",
+            "principalId": "silverlance",
+            "finishedDesc": "經過反覆測試，征戰騎士們的偽裝流程已得到了進一步優化。",
+            "sectionSortId": 2,
+            "haveStageBtn": false,
+            "jumpStageId": null
+          },
+          "13sreActivity_30": {
+            "missionName": "商業聯合會動向預研",
+            "groupId": "kazimierz_2",
+            "principalId": "Ioleta",
+            "finishedDesc": "根據博士提供的消息，大騎士長得以精準研判聯合會今後的方針。",
+            "sectionSortId": 3,
+            "haveStageBtn": false,
+            "jumpStageId": null
+          },
+          "13sreActivity_31": {
+            "missionName": "賞金獵人接洽",
+            "groupId": "armorless_1",
+            "principalId": "toland",
+            "finishedDesc": "博士和卡西米爾賞金獵人達成了合作。",
+            "sectionSortId": 1,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_s03"
+          },
+          "13sreActivity_32": {
+            "missionName": "賞金目標抓捕",
+            "groupId": "armorless_1",
+            "principalId": "toland",
+            "finishedDesc": "在完成賞金單前，托蘭沒想到博士會有指揮這方面作戰的經驗。",
+            "sectionSortId": 2,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_s03#f#"
+          },
+          "13sreActivity_33": {
+            "missionName": "公務彙報",
+            "groupId": "armorless_1",
+            "principalId": "mannar",
+            "finishedDesc": "博士在代表羅德島與新公司接洽時，發現對方公司的代表是瑪恩納。",
+            "sectionSortId": 3,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_s04"
+          },
+          "13sreActivity_34": {
+            "missionName": "合作愉快",
+            "groupId": "armorless_1",
+            "principalId": "mannar",
+            "finishedDesc": "博士和瑪恩納最終達成共識，代表雙方公司簽署了協定。",
+            "sectionSortId": 4,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_s04#f#"
+          },
+          "13sreActivity_35": {
+            "missionName": "偶遇",
+            "groupId": "armorless_1",
+            "principalId": "platnm",
+            "finishedDesc": "博士在閒逛時遇見了白金。",
+            "sectionSortId": 5,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_s05"
+          },
+          "13sreActivity_36": {
+            "missionName": "巧合",
+            "groupId": "armorless_1",
+            "principalId": "platnm",
+            "finishedDesc": "機緣巧合下，博士和白金喝了杯下午茶。",
+            "sectionSortId": 6,
+            "haveStageBtn": true,
+            "jumpStageId": "act13side_s05#f#"
+          }
+        },
+        "dailyMissionDataList": [
+          {
+            "id": "13sreDailyActivity_1",
+            "sortId": 1,
+            "description": "2星或以上通關NL-1，並且至少擊敗1名無胄盟弩手",
+            "missionName": "弩手培訓",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_01",
+              "enemy_1179_aruarw",
+              "killed",
+              "1"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_01",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_2",
+            "sortId": 2,
+            "description": "2星或以上通關NL-1，並且至少擊敗3隻暗潮鉗獸",
+            "missionName": "鉗獸訓練",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_01",
+              "enemy_1178_dscorp",
+              "killed",
+              "3"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_01",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_3",
+            "sortId": 3,
+            "description": "3星通關NL-1，並且使用城市霓虹1次",
+            "missionName": "點亮夜空",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "3",
+              "act13side_01",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "1"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_01",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_4",
+            "sortId": 4,
+            "description": "2星或以上通關NL-2，並且至少擊敗5名無胄盟刺客",
+            "missionName": "巡視街道",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_02",
+              "enemy_1180_aruass",
+              "killed",
+              "5"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_02",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_5",
+            "sortId": 5,
+            "description": "2星或以上通關NL-2，並且至少擊敗6隻暗潮鉗獸",
+            "missionName": "下水道清掃",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_02",
+              "enemy_1178_dscorp",
+              "killed",
+              "6"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_02",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_6",
+            "sortId": 6,
+            "description": "3星通關NL-2，並且至少使用城市霓虹1次",
+            "missionName": "燈光修繕",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "3",
+              "act13side_02",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "1"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_02",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_7",
+            "sortId": 7,
+            "description": "3星通關NL-3，並且至少使用城市霓虹1次",
+            "missionName": "廣告更換",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "3",
+              "act13side_03",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "1"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_03",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_8",
+            "sortId": 8,
+            "description": "3星通關NL-4，並且至少使用城市霓虹3次",
+            "missionName": "定期維護",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "3",
+              "act13side_04",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "3"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_04",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_9",
+            "sortId": 9,
+            "description": "2星或以上通關NL-4，並且擊敗燭騎士薇薇安娜",
+            "missionName": "與燭騎士切磋",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_04",
+              "enemy_1184_cadkgt_3",
+              "killed",
+              "1"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_04",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_10",
+            "sortId": 10,
+            "description": "2星或以上通關NL-5，並且擊敗青金，莫尼克及青金，羅伊",
+            "missionName": "無胄盟能力評估",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_05",
+              "enemy_1182_flasrt_3^enemy_1183_mlasrt_3",
+              "killed",
+              "2"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_05",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_11",
+            "sortId": 11,
+            "description": "3星通關NL-6,並且野鬃和索娜不被擊敗",
+            "missionName": "關鍵人物護衛",
+            "template": "CompleteStageCondition",
+            "templateType": "12",
+            "param": [
+              "12",
+              "3",
+              "act13side_06",
+              "char_496_wildmn^char_420_flamtl"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_06",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_12",
+            "sortId": 12,
+            "description": "3星通關NL-6,並且不使用騎士之徽",
+            "missionName": "夜視能力訓練",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_06",
+              "trap_049_candle",
+              "born",
+              "0"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_06",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_13",
+            "sortId": 13,
+            "description": "2星或以上通關NL-7，並且至少擊敗3名騎士遊蕩者",
+            "missionName": "退役騎士關係維護",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_07",
+              "enemy_1181_napkgt",
+              "killed",
+              "3"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_07",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_14",
+            "sortId": 14,
+            "description": "2星或以上通關NL-8，並且擊敗“最後的怯薛”拓拉",
+            "missionName": "控制逐魘騎士",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_08",
+              "enemy_1185_nmekgt_3",
+              "killed",
+              "1"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_08",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_15",
+            "sortId": 15,
+            "description": "2星或以上通關NL-9，並且擊敗至少3名夢魘效仿者",
+            "missionName": "遏制狂熱粉絲",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_09",
+              "enemy_1185_nmekgt",
+              "killed",
+              "3"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_09",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_16",
+            "sortId": 16,
+            "description": "2星或以上通關NL-10，並且擊敗血騎士狄開俄波利斯",
+            "missionName": "與血騎士切磋",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_10",
+              "enemy_1524_bldkgt",
+              "killed",
+              "1"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_10",
+            "agendaCount": 1
+          },
+          {
+            "id": "13sreDailyActivity_17",
+            "sortId": 17,
+            "description": "3星通關NL-10，並且血騎士不吸收任何凝血之刃",
+            "missionName": "血騎士技藝研究",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_10",
+              "enemy_1186_bldbld",
+              "bldkgt_devour",
+              "0"
+            ],
+            "rewards": null,
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_10",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_18",
+            "sortId": 18,
+            "description": "3星通關NL-EX-1，並且至少使用城市霓虹6次",
+            "missionName": "不夜城計畫",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "3",
+              "act13side_ex01",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "6"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 10
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex01",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_19",
+            "sortId": 19,
+            "description": "3星通關NL-EX-2，並且不使用城市霓虹",
+            "missionName": "節電倡議",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_ex02",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 10
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex02",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_20",
+            "sortId": 20,
+            "description": "3星通關NL-EX-3，並且至多使用1次騎士之徽",
+            "missionName": "受限榮耀",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_ex03",
+              "trap_049_candle",
+              "born",
+              "1"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex03",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_21",
+            "sortId": 21,
+            "description": "3星通關NL-EX-4，並且至多使用1次騎士之徽",
+            "missionName": "自我檢討",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_ex04",
+              "trap_049_candle",
+              "born",
+              "1"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex04",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_22",
+            "sortId": 22,
+            "description": "3星通關NL-EX-5，並且夢魘追隨者不釋放恐懼凝集",
+            "missionName": "安神飲料推廣",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_ex05",
+              "enemy_1185_nmekgt_2",
+              "nmekgt_skill",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex05",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_23",
+            "sortId": 23,
+            "description": "3星通關NL-EX-6，並且夢魘追隨者不釋放恐懼凝集",
+            "missionName": "自我約束",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_ex06",
+              "enemy_1185_nmekgt_2",
+              "nmekgt_skill",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex06",
+            "agendaCount": 3
+          },
+          {
+            "id": "13sreDailyActivity_24",
+            "sortId": 24,
+            "description": "3星通關NL-EX-7，並且使用城市霓虹至少2次",
+            "missionName": "宣傳浪潮",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "3",
+              "act13side_ex07",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "2"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 20
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex07",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_25",
+            "sortId": 25,
+            "description": "3星通關NL-EX-8，並且血騎士不吸收任何凝血之刃",
+            "missionName": "挑戰冠軍",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_ex08",
+              "enemy_1186_bldbld",
+              "bldkgt_devour",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 20
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_ex08",
+            "agendaCount": 3
+          },
+          {
+            "id": "13sreDailyActivity_26",
+            "sortId": 26,
+            "description": "3星通關NL-S-1，並且擊敗至少3架鬥志昂揚無人機",
+            "missionName": "設立禁飛區",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "3",
+              "act13side_s01",
+              "enemy_1106_byokai",
+              "killed",
+              "3"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s01",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_27",
+            "sortId": 27,
+            "description": "3星通關NL-S-2，並且夢魘追隨者及拓拉不釋放恐懼凝集",
+            "missionName": "抗壓測試",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_s02",
+              "enemy_1185_nmekgt_2^enemy_1185_nmekgt_3",
+              "nmekgt_skill",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s02",
+            "agendaCount": 3
+          },
+          {
+            "id": "13sreDailyActivity_28",
+            "sortId": 28,
+            "description": "3星通關NL-S-3，並且不使用城市霓虹",
+            "missionName": "隱秘行動訓練",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_s03",
+              "trap_048_neonlamp",
+              "neonlamp_use",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 20
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s03",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_29",
+            "sortId": 29,
+            "description": "3星通關NL-S-4，並且血騎士不吸收任何凝血之刃",
+            "missionName": "追查血騎士",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_s04",
+              "enemy_1186_bldbld",
+              "bldkgt_devour",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 20
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s04",
+            "agendaCount": 3
+          },
+          {
+            "id": "13sreDailyActivity_30",
+            "sortId": 30,
+            "description": "3星通關NL-S-5，並且至多被擊破1個障礙物",
+            "missionName": "基地維護",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_s05",
+              "trap_001_crate",
+              "killed",
+              "1"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 25
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s05",
+            "agendaCount": 3
+          },
+          {
+            "id": "13sreDailyActivity_31",
+            "sortId": 31,
+            "description": "3星通關NL-S-1，並且不擊敗任何鬥志昂揚無人機",
+            "missionName": "確保航道通暢",
+            "template": "CompleteStageCondition",
+            "templateType": "9",
+            "param": [
+              "9",
+              "3",
+              "act13side_s01",
+              "enemy_1106_byokai",
+              "killed",
+              "0"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s01",
+            "agendaCount": 3
+          },
+          {
+            "id": "13sreDailyActivity_32",
+            "sortId": 32,
+            "description": "2星或以上通關NL-S-2，並且擊敗“最後的怯薛”拓拉",
+            "missionName": "追查逐魘騎士",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_s02",
+              "enemy_1185_nmekgt_3",
+              "killed",
+              "1"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 15
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s02",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_33",
+            "sortId": 33,
+            "description": "2星或以上通關NL-S-3，並且擊敗燭騎士薇薇安娜",
+            "missionName": "追查燭騎士",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_s03",
+              "enemy_1184_cadkgt_3",
+              "killed",
+              "1"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 20
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s03",
+            "agendaCount": 2
+          },
+          {
+            "id": "13sreDailyActivity_34",
+            "sortId": 34,
+            "description": "3星通關NL-S-4，並且部署非助戰的野鬃上陣",
+            "missionName": "身份偽裝",
+            "template": "CompleteStageCondition",
+            "templateType": "13",
+            "param": [
+              "13",
+              "3",
+              "act13side_s04",
+              "char_496_wildmn",
+              "1"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 20
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s04",
+            "agendaCount": 3
+          },
+          {
+            "id": "13sreDailyActivity_35",
+            "sortId": 35,
+            "description": "2星或以上通關NL-S-5，並且擊敗青金，莫尼克及青金，羅伊",
+            "missionName": "內部監查",
+            "template": "CompleteStageCondition",
+            "templateType": "8",
+            "param": [
+              "8",
+              "2",
+              "act13side_s05",
+              "enemy_1182_flasrt_3^enemy_1183_mlasrt_3",
+              "killed",
+              "2"
+            ],
+            "rewards": [
+              {
+                "type": "ACTIVITY_ITEM",
+                "id": "act13side_token_model_rep_1",
+                "count": 25
+              }
+            ],
+            "orgPool": null,
+            "rewardPool": null,
+            "jumpStageId": "act13side_s05",
+            "agendaCount": 2
+          }
+        ],
+        "dailyRewardGroupDataMap": {
+          "r_1_1": {
+            "groupId": "r_1_1",
+            "rewards": [
+              {
+                "id": "30013",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_2": {
+            "groupId": "r_1_2",
+            "rewards": [
+              {
+                "id": "30023",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_3": {
+            "groupId": "r_1_3",
+            "rewards": [
+              {
+                "id": "30033",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_4": {
+            "groupId": "r_1_4",
+            "rewards": [
+              {
+                "id": "30043",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_5": {
+            "groupId": "r_1_5",
+            "rewards": [
+              {
+                "id": "30053",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_6": {
+            "groupId": "r_1_6",
+            "rewards": [
+              {
+                "id": "30063",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_7": {
+            "groupId": "r_1_7",
+            "rewards": [
+              {
+                "id": "30073",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_8": {
+            "groupId": "r_1_8",
+            "rewards": [
+              {
+                "id": "30083",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_9": {
+            "groupId": "r_1_9",
+            "rewards": [
+              {
+                "id": "30093",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_10": {
+            "groupId": "r_1_10",
+            "rewards": [
+              {
+                "id": "30103",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_11": {
+            "groupId": "r_1_11",
+            "rewards": [
+              {
+                "id": "31013",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_12": {
+            "groupId": "r_1_12",
+            "rewards": [
+              {
+                "id": "31023",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_13": {
+            "groupId": "r_1_13",
+            "rewards": [
+              {
+                "id": "31033",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_14": {
+            "groupId": "r_1_14",
+            "rewards": [
+              {
+                "id": "31043",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_1_15": {
+            "groupId": "r_1_15",
+            "rewards": [
+              {
+                "id": "31053",
+                "count": 1,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_1": {
+            "groupId": "r_2_1",
+            "rewards": [
+              {
+                "id": "30013",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_2": {
+            "groupId": "r_2_2",
+            "rewards": [
+              {
+                "id": "30023",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_3": {
+            "groupId": "r_2_3",
+            "rewards": [
+              {
+                "id": "30033",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_4": {
+            "groupId": "r_2_4",
+            "rewards": [
+              {
+                "id": "30043",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_5": {
+            "groupId": "r_2_5",
+            "rewards": [
+              {
+                "id": "30053",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_6": {
+            "groupId": "r_2_6",
+            "rewards": [
+              {
+                "id": "30063",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_7": {
+            "groupId": "r_2_7",
+            "rewards": [
+              {
+                "id": "30073",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_8": {
+            "groupId": "r_2_8",
+            "rewards": [
+              {
+                "id": "30083",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_9": {
+            "groupId": "r_2_9",
+            "rewards": [
+              {
+                "id": "30093",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_10": {
+            "groupId": "r_2_10",
+            "rewards": [
+              {
+                "id": "30103",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_11": {
+            "groupId": "r_2_11",
+            "rewards": [
+              {
+                "id": "31013",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_12": {
+            "groupId": "r_2_12",
+            "rewards": [
+              {
+                "id": "31023",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_13": {
+            "groupId": "r_2_13",
+            "rewards": [
+              {
+                "id": "31033",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_14": {
+            "groupId": "r_2_14",
+            "rewards": [
+              {
+                "id": "31043",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_2_15": {
+            "groupId": "r_2_15",
+            "rewards": [
+              {
+                "id": "31053",
+                "count": 2,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_1": {
+            "groupId": "r_3_1",
+            "rewards": [
+              {
+                "id": "30013",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_2": {
+            "groupId": "r_3_2",
+            "rewards": [
+              {
+                "id": "30023",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_3": {
+            "groupId": "r_3_3",
+            "rewards": [
+              {
+                "id": "30033",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_4": {
+            "groupId": "r_3_4",
+            "rewards": [
+              {
+                "id": "30043",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_5": {
+            "groupId": "r_3_5",
+            "rewards": [
+              {
+                "id": "30053",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_6": {
+            "groupId": "r_3_6",
+            "rewards": [
+              {
+                "id": "30063",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_7": {
+            "groupId": "r_3_7",
+            "rewards": [
+              {
+                "id": "30073",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_8": {
+            "groupId": "r_3_8",
+            "rewards": [
+              {
+                "id": "30083",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_9": {
+            "groupId": "r_3_9",
+            "rewards": [
+              {
+                "id": "30093",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_10": {
+            "groupId": "r_3_10",
+            "rewards": [
+              {
+                "id": "30103",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_11": {
+            "groupId": "r_3_11",
+            "rewards": [
+              {
+                "id": "31013",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_12": {
+            "groupId": "r_3_12",
+            "rewards": [
+              {
+                "id": "31023",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_13": {
+            "groupId": "r_3_13",
+            "rewards": [
+              {
+                "id": "31033",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_14": {
+            "groupId": "r_3_14",
+            "rewards": [
+              {
+                "id": "31043",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          },
+          "r_3_15": {
+            "groupId": "r_3_15",
+            "rewards": [
+              {
+                "id": "31053",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ]
+          }
+        },
+        "archiveItemUnlockData": {
+          "music_act13side_0": {
+            "itemId": "music_act13side_0",
+            "itemType": "MUSIC",
+            "unlockCondition": "NONE",
+            "param1": null,
+            "param2": null
+          },
+          "music_act13side_1": {
+            "itemId": "music_act13side_1",
+            "itemType": "MUSIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_tr01",
+            "param2": "PASS"
+          },
+          "music_act13side_2": {
+            "itemId": "music_act13side_2",
+            "itemType": "MUSIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_01",
+            "param2": "PASS"
+          },
+          "music_act13side_3": {
+            "itemId": "music_act13side_3",
+            "itemType": "MUSIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_10",
+            "param2": "PASS"
+          },
+          "act13side_news_1": {
+            "itemId": "act13side_news_1",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "C"
+          },
+          "act13side_news_2": {
+            "itemId": "act13side_news_2",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "C"
+          },
+          "act13side_news_3": {
+            "itemId": "act13side_news_3",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "C"
+          },
+          "act13side_news_4": {
+            "itemId": "act13side_news_4",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "C"
+          },
+          "act13side_news_5": {
+            "itemId": "act13side_news_5",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "C"
+          },
+          "act13side_news_6": {
+            "itemId": "act13side_news_6",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "C"
+          },
+          "act13side_news_7": {
+            "itemId": "act13side_news_7",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "B"
+          },
+          "act13side_news_8": {
+            "itemId": "act13side_news_8",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "armorless",
+            "param2": "C"
+          },
+          "act13side_news_9": {
+            "itemId": "act13side_news_9",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "B"
+          },
+          "act13side_news_10": {
+            "itemId": "act13side_news_10",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "B"
+          },
+          "act13side_news_11": {
+            "itemId": "act13side_news_11",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "B"
+          },
+          "act13side_news_12": {
+            "itemId": "act13side_news_12",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "A"
+          },
+          "act13side_news_13": {
+            "itemId": "act13side_news_13",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "A"
+          },
+          "act13side_news_14": {
+            "itemId": "act13side_news_14",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "armorless",
+            "param2": "C"
+          },
+          "act13side_news_15": {
+            "itemId": "act13side_news_15",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "A"
+          },
+          "act13side_news_16": {
+            "itemId": "act13side_news_16",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "A"
+          },
+          "act13side_news_17": {
+            "itemId": "act13side_news_17",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "A"
+          },
+          "act13side_news_18": {
+            "itemId": "act13side_news_18",
+            "itemType": "NEWS",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "A"
+          },
+          "act13side_pic_0": {
+            "itemId": "act13side_pic_0",
+            "itemType": "PIC",
+            "unlockCondition": "NONE",
+            "param1": null,
+            "param2": null
+          },
+          "act13side_pic_1": {
+            "itemId": "act13side_pic_1",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_04",
+            "param2": "PASS"
+          },
+          "act13side_pic_2": {
+            "itemId": "act13side_pic_2",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_st02",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_3": {
+            "itemId": "act13side_pic_3",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_st02",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_4": {
+            "itemId": "act13side_pic_4",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_st02",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_5": {
+            "itemId": "act13side_pic_5",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_st02",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_6": {
+            "itemId": "act13side_pic_6",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_05",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_7": {
+            "itemId": "act13side_pic_7",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_06",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_8": {
+            "itemId": "act13side_pic_8",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_06",
+            "param2": "PASS"
+          },
+          "act13side_pic_9": {
+            "itemId": "act13side_pic_9",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_st03",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_10": {
+            "itemId": "act13side_pic_10",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_st03",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_12": {
+            "itemId": "act13side_pic_12",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_08",
+            "param2": "PASS"
+          },
+          "act13side_pic_11": {
+            "itemId": "act13side_pic_11",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_09",
+            "param2": "PLAYED"
+          },
+          "act13side_pic_13": {
+            "itemId": "act13side_pic_13",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_10",
+            "param2": "PASS"
+          },
+          "act13side_pic_14": {
+            "itemId": "act13side_pic_14",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_10",
+            "param2": "PASS"
+          },
+          "act13side_pic_15": {
+            "itemId": "act13side_pic_15",
+            "itemType": "PIC",
+            "unlockCondition": "STAGE",
+            "param1": "act13side_10",
+            "param2": "PASS"
+          },
+          "act13side_avg_1": {
+            "itemId": "act13side_avg_1",
+            "itemType": "AVG",
+            "unlockCondition": "PRESTIGE",
+            "param1": "armorless",
+            "param2": "S"
+          },
+          "act13side_avg_2": {
+            "itemId": "act13side_avg_2",
+            "itemType": "AVG",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "S"
+          },
+          "act13side_avg_3": {
+            "itemId": "act13side_avg_3",
+            "itemType": "AVG",
+            "unlockCondition": "PRESTIGE",
+            "param1": "kazimierz",
+            "param2": "S"
+          },
+          "act13side_file_1": {
+            "itemId": "act13side_file_1",
+            "itemType": "STORY",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "B"
+          },
+          "act13side_file_2": {
+            "itemId": "act13side_file_2",
+            "itemType": "STORY",
+            "unlockCondition": "PRESTIGE",
+            "param1": "commerce",
+            "param2": "A"
+          },
+          "act13side_file_3": {
+            "itemId": "act13side_file_3",
+            "itemType": "STORY",
+            "unlockCondition": "PRESTIGE",
+            "param1": "armorless",
+            "param2": "B"
+          },
+          "act13side_file_4": {
+            "itemId": "act13side_file_4",
+            "itemType": "STORY",
+            "unlockCondition": "PRESTIGE",
+            "param1": "armorless",
+            "param2": "A"
+          }
+        },
+        "hiddenAreaData": {
+          "act13side_hidden01": {
+            "name": "無胄盟特殊區塊",
+            "desc": "无",
+            "preposedStage": [
+              {
+                "stageId": "act13side_s01",
+                "unlockRank": 2
+              },
+              {
+                "stageId": "act13side_s02",
+                "unlockRank": 2
+              }
+            ],
+            "preposedTime": 1685431800
+          }
+        },
+        "zoneAddtionDataMap": {
+          "act13sre_zone1": {
+            "unlockText": "尚未解鎖",
+            "zoneClass": "NORMAL"
+          },
+          "act13sre_zone2": {
+            "unlockText": "完成[大騎士領]後解鎖",
+            "zoneClass": "HIGHLEVEL"
+          },
+          "act13sre_zone3": {
+            "unlockText": "尚未解鎖",
+            "zoneClass": "SUB"
+          }
+        }
+      },
       "act13side": {
         "constData": {
           "prestigeDescList": [
@@ -67572,6 +71492,40 @@
       }
     },
     "MINISTORY": {
+      "act13mini": {
+        "tokenItemId": "act13mini_token_can",
+        "zoneDescList": {
+          "act13mini_zone1": {
+            "zoneId": "act13mini_zone1",
+            "unlockText": "完成主線關卡1-10解鎖"
+          }
+        },
+        "favorUpList": {},
+        "extraDropZoneList": [
+          "main_0",
+          "main_1",
+          "main_2",
+          "main_3",
+          "main_4",
+          "main_5",
+          "main_6",
+          "main_7",
+          "main_8",
+          "main_9",
+          "main_10",
+          "weekly_1",
+          "weekly_2",
+          "weekly_3",
+          "weekly_4",
+          "weekly_5",
+          "weekly_6",
+          "weekly_7",
+          "weekly_8",
+          "weekly_9",
+          "weekly_10",
+          "act13mini_zone1"
+        ]
+      },
       "act12mini": {
         "tokenItemId": "act12mini_token_component",
         "zoneDescList": {
@@ -68869,6 +72823,12 @@
     "BOSS_RUSH": {}
   },
   "activityItems": {
+    "act13sre": [
+      "act13side_token_model_rep_1"
+    ],
+    "act13mini": [
+      "act13mini_token_can"
+    ],
     "act12mini": [
       "act12mini_token_component"
     ],
@@ -69157,6 +73117,10 @@
     "act11d0": [
       1617262200,
       1618430399
+    ],
+    "act13mini": [
+      1686641400,
+      1687204799
     ],
     "act12mini": [
       1684216800,
@@ -71351,6 +75315,36 @@
         }
       ],
       "startTs": 1684216800
+    },
+    {
+      "id": "dis_mini_13",
+      "type": "ACTIVITY",
+      "funcId": "act13mini",
+      "endTs": 1687204799,
+      "sortId": 30,
+      "itemId": "act13mini_token_can",
+      "timeNodes": [
+        {
+          "title": "<好久不見>活動已開放",
+          "ts": 1686641400
+        }
+      ],
+      "startTs": 1686641400
+    },
+    {
+      "id": "dis_side_13_sre",
+      "type": "ACTIVITY",
+      "funcId": "act13sre",
+      "endTs": 1686254399,
+      "sortId": 31,
+      "itemId": "act13side_token_model_rep_1",
+      "timeNodes": [
+        {
+          "title": "<長夜臨光·復刻>活動已開放",
+          "ts": 1685431800
+        }
+      ],
+      "startTs": 1685431800
     }
   ],
   "actFunData": {

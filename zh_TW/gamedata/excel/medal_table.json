@@ -1438,6 +1438,26 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_tower_complete_03",
+      "medalName": "格里布安全認證章",
+      "medalType": "towerMedal",
+      "slotId": 3,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassTower",
+      "unlockParam": [
+        "tower_n_03",
+        "0"
+      ],
+      "getMethod": "完成【格里布採礦平台】",
+      "description": "格里布採礦平台保全任務圓滿結束後由委託方頒發的獎章。\n在羅德島的努力下，該採礦平臺已經順利復工。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1685563200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_growth_evolve1_01",
       "medalName": "幹員晉升獎章·I",
       "medalType": "growthMedal",
@@ -5067,6 +5087,66 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_story_moeshd_1",
+      "medalName": "“生意場”",
+      "medalType": "storyMedal",
+      "slotId": 138,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_201_moeshd",
+        "story_moeshd_set_1"
+      ],
+      "getMethod": "解鎖幹員可頌的幹員密錄《生意場》",
+      "description": "有時候你難免像個陀螺，忙得團團轉，停下來時卻發現自己仍在原地。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1685431800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_kirara_1",
+      "medalName": "“隱藏結局”",
+      "medalType": "storyMedal",
+      "slotId": 139,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_478_kirara",
+        "story_kirara_set_1"
+      ],
+      "getMethod": "解鎖幹員綺良的幹員密錄《隱藏結局》",
+      "description": "她誤打誤撞地觸發了隱藏結局，又把這個結局隱藏起來。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1685431800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_kirara_2",
+      "medalName": "“無傷通關”",
+      "medalType": "storyMedal",
+      "slotId": 140,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_478_kirara",
+        "story_kirara_set_2"
+      ],
+      "getMethod": "解鎖幹員綺良的幹員密錄《無傷通關》",
+      "description": "挑戰的機會只有一次，那就盡全力，做到最好。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1685431800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_rogue_1_01",
       "medalName": "“孤鑽之虹”",
       "medalType": "rogueMedal",
@@ -8148,7 +8228,7 @@
       "rarity": 2,
       "template": "MissionCompleteSome",
       "unlockParam": [
-        "13sideActivity_1;13sideActivity_2;13sideActivity_3;13sideActivity_4;13sideActivity_5;13sideActivity_6;13sideActivity_7;13sideActivity_8;13sideActivity_9;13sideActivity_10;13sideActivity_11;13sideActivity_12;13sideActivity_13;13sideActivity_14;13sideActivity_15;13sideActivity_16;13sideActivity_17;13sideActivity_18;13sideActivity_19;13sideActivity_20;13sideActivity_21;13sideActivity_22;13sideActivity_23;13sideActivity_24;13sideActivity_25;13sideActivity_26;13sideActivity_27;13sideActivity_28;13sideActivity_29;13sideActivity_30;13sideActivity_31;13sideActivity_32;13sideActivity_33;13sideActivity_34;13sideActivity_35;13sideActivity_36",
+        "13sreActivity_1;13sreActivity_2;13sreActivity_3;13sreActivity_4;13sreActivity_5;13sreActivity_6;13sreActivity_7;13sreActivity_8;13sreActivity_9;13sreActivity_10;13sreActivity_11;13sreActivity_12;13sreActivity_13;13sreActivity_14;13sreActivity_15;13sreActivity_16;13sreActivity_17;13sreActivity_18;13sreActivity_19;13sreActivity_20;13sreActivity_21;13sreActivity_22;13sreActivity_23;13sreActivity_24;13sreActivity_25;13sreActivity_26;13sreActivity_27;13sreActivity_28;13sreActivity_29;13sreActivity_30;13sreActivity_31;13sreActivity_32;13sreActivity_33;13sreActivity_34;13sreActivity_35;13sreActivity_36",
         "36"
       ],
       "getMethod": "長夜臨光活動期間，在[博士的辦公桌]中完成所有陣營的全部長期事務",
@@ -8179,7 +8259,7 @@
       "rarity": 0,
       "template": "ActivityCostAgenda",
       "unlockParam": [
-        "act13side",
+        "act13sre",
         "20"
       ],
       "getMethod": "長夜臨光活動期間，在[博士的辦公桌]中累計消耗20次議程提案完成每日事務",
@@ -8210,7 +8290,7 @@
       "rarity": 2,
       "template": "ActivityReachPrestigeLevel",
       "unlockParam": [
-        "act13side",
+        "act13sre",
         "1",
         "S"
       ],
@@ -8242,11 +8322,11 @@
       "rarity": 0,
       "template": "ActivityCoinCost",
       "unlockParam": [
-        "act13side",
-        "act13side_token_model",
-        "4000"
+        "act13sre",
+        "act13side_token_model_rep_1",
+        "2400"
       ],
-      "getMethod": "長夜臨光活動期間，在[商業展銷]中消耗4000騎士領紀念模型",
+      "getMethod": "長夜臨光活動期間，在[商業展銷]中消耗2400騎士領紀念模型",
       "description": "您在卡西米爾商業展銷會中盡情消費。\n這裡的商品不僅免稅，還有許多在展會期間有特殊折扣。對於購買者來說這很有吸引力，而各大企業也很開心有這麼個機會盡情傾銷商品。",
       "advancedMedal": null,
       "originMedal": null,
@@ -13448,6 +13528,33 @@
       "isHidden": true
     },
     {
+      "medalId": "medal_hidden_tower_03",
+      "medalName": "“格里布燻鱗沙拉”",
+      "medalType": "hiddenMedal",
+      "slotId": 6,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassTower",
+      "unlockParam": [
+        "tower_n_03",
+        "1"
+      ],
+      "getMethod": "委託方許諾，如果格里布採礦平台保全工作沒有出現失誤，將會為羅德島準備特別的答謝晚宴。",
+      "description": "以委託方羅斯托夫實業在答謝宴上準備的菜點為印象製成的獎章。\n精心燻製的好菜只為今日待客，還有解膩的紅茶，以及佐餐的豪言笑語。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1685563200,
+      "expireTimes": [
+        {
+          "start": -1,
+          "end": 1685563200,
+          "type": "INIT"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": true
+    },
+    {
       "medalId": "medal_hidden_story_lolxh_1",
       "medalName": "“夜遊船”",
       "medalType": "hiddenMedal",
@@ -13469,6 +13576,64 @@
           "start": -1,
           "end": 1686641400,
           "type": "INIT"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": true
+    },
+    {
+      "medalId": "medal_hidden_13mini_01",
+      "medalName": "“沒錯，我要帶它回家！”",
+      "medalType": "hiddenMedal",
+      "slotId": 8,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "UnlockStoryGroup",
+      "unlockParam": [
+        "act13mini"
+      ],
+      "getMethod": "解鎖好久不見的全部故事",
+      "description": "你們相遇的那一天一定很特殊，所以每日每夜都要在你腦海裡播一遍。\n只是因為那一天，你遇見了它，它遇見了你，從此你有了它，它有了家。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1686641400,
+      "expireTimes": [
+        {
+          "start": -1,
+          "end": 1686641400,
+          "type": "INIT"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": true
+    },
+    {
+      "medalId": "medal_hidden_13mini_02",
+      "medalName": "“小黑”",
+      "medalType": "hiddenMedal",
+      "slotId": 9,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "GotCharsBeforeTime",
+      "unlockParam": [
+        "char_4067_lolxh",
+        "1687463999"
+      ],
+      "getMethod": "好久不見活動期間內，獲得幹員羅小黑",
+      "description": "你遇到了一個在陌生環境中感到緊張的孩子。\n猶豫半天，他終於拉住你伸出的手，從他手心傳來的溫度讓你不禁微笑。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1686641400,
+      "expireTimes": [
+        {
+          "start": -1,
+          "end": 1686641400,
+          "type": "INIT"
+        },
+        {
+          "start": 1687463999,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": [],
@@ -13944,7 +14109,7 @@
       "rarity": 3,
       "template": "ActivityReachPrestigeLevel",
       "unlockParam": [
-        "act13side",
+        "act13sre",
         "3",
         "S"
       ],

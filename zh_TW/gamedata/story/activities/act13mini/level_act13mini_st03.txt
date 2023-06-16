@@ -1,0 +1,1154 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_building_1",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$m_dia_street_intro", key="$m_dia_street_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+龍門上城區，上廠街，近衛局大樓
+正午時分
+近衛局，這個地方很特別，沒事的人不會來這裡，有事的人不想來這裡，但總有人，他們會沒事找事。
+[Dialog]
+[Character(name="char_015_lmg")]
+[name="近衛局成員"]（堅守崗位）
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_601_1#1$1",fadetime=0.5,block=true)]
+[Delay(time=1)]
+[name="？？？"]阿sir，你聽過十二年前鹹祥飯店的一起黑幫火拼案嗎？
+[Character(name="char_015_lmg")]
+[name="近衛局成員"]（沒有理會）
+[Character(name="avg_npc_601_1#1$1")]
+[name="？？？"]阿sir，那十年前的雨夜寶華街大佬被劫案呢？
+[Character(name="char_015_lmg")]
+[name="近衛局成員"]（默不作聲）
+[Character(name="avg_npc_601_1#1$1")]
+[name="？？？"]阿sir，那七年前的雙刀案呢？
+[Character(name="char_015_lmg")]
+[name="近衛局成員"]這位先生，你說的事情我不知道，也從未聽別人提起，請你不要干擾我，我還有執勤任務在身。
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]（扶額歎氣）
+[name="阿根"]唉，算了。
+[Dialog]
+[Character(fadetime=0.5)]
+[Delay(time=0.6)]
+[Character(name="char_empty", name2="char_015_lmg")]
+[delay(time=1)]
+[characteraction(name="left", type="move", xpos=-200, fadetime=0.3, block=true)]
+[delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[characteraction(name="left", type="move", xpos=200, fadetime=1, block=false)]
+[Character(name="avg_npc_598_1#1$1", name2="char_015_lmg",fadetime=0.7)]
+[delay(time=1.5)]
+[Character(name="avg_npc_598_1#1$1", name2="char_015_lmg",focus=1)]
+[name="阿根"]警察叔叔，我要報警！
+[Character(name="avg_npc_598_1#9$1", name2="char_015_lmg",focus=1)]
+[name="阿根"]你面前這個人，我剛剛看到他在不遠處的廣場偷竊別人的腳踏車！
+[Character(name="avg_npc_601_1#1$1")]
+[name="？？？"]什麼？我怎麼可能做這個！
+[name="？？？"]小鬼頭你胡說八道些什麼！！
+[Character(name="avg_npc_598_1#9$1", name2="char_015_lmg",focus=2)]
+[name="近衛局成員"]這位先生，倒不必這麼心虛。
+[Character(name="avg_npc_598_1#9$1", name2="char_015_lmg",focus=2)]
+[name="近衛局成員"]是不是你幹的，我們查過監控便有分曉，現在麻煩你進來一趟了。小朋友，請你也跟來做個筆錄吧。
+[Character(name="avg_npc_601_1#1$1")]
+[name="？？？"]呃......好。
+[Character(name="avg_npc_598_1#2$1", name2="char_015_lmg",focus=1)]
+[name="阿根"]（眨眼）好的，叔叔。
+[name="阿根"]（洛洛姐，計畫順利進行中。）
+[Dialog]
+[Character(name="avg_4040_rockr_1#12$1",fadetime=0.5,block=true)]
+[Delay(time=1)]
+[name="洛洛"]（收到，洛克二十七，開啟隱蔽模式。）
+[Dialog]
+[StopMusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_lmstreet_2",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$mist_intro", key="$mist_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)] 
+一天前
+[Dialog]
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]如果沒找錯，應該就在這裡了。
+[Dialog]
+[PlaySound(key="$doorknockquite", volume=1)]
+[Delay(time=1)] 
+[name="阿根"]您好，請問這裡是流浪動物救助站嗎？
+[Dialog]
+[Delay(time=1)] 
+[PlaySound(key="$doorknockquite", volume=1)]
+[Delay(time=1)] 
+[name="阿根"]您好？
+[Character(name="avg_npc_598_1#1$1",focus=-1)]
+[name="？？？"]滾，我沒空！
+[Character(name="avg_npc_598_1#9$1")]
+[name="阿根"]......我只是來打聽些事情的，並沒有惡意。
+[Character(name="avg_npc_598_1#9$1",focus=-1)]
+[name="？？？"]以為我不知道你們這群找過來的小屁孩打的什麼主意嗎？
+[name="？？？"]頭天興致來了就上老子這裡帶一隻回家去，第二天興致沒了再隨意往街上一扔。
+[Character(name="avg_npc_598_1#9$1")]
+[name="阿根"]老闆，你是不是誤會什麼了，我此次前來並非為了領養寵物，只是想向您打聽一隻走失的烏雲獸。
+[Character(name="avg_npc_598_1#9$1",focus=-1)]
+[name="？？？"]我說了，給老子滾！
+[name="？？？"]自己不看顧好，出事了就知道一窩蜂地擁到老子這裡找。
+[name="？？？"]滾，老子不是專門給你們這些沒責任心的小崽子擦屁股的。
+[name="？？？"]自己的屁股自己撅起來去擦！
+[name="？？？"]快給老子滾！
+[Character(name="avg_npc_598_1#10$1")]
+[name="阿根"]老闆，你能好好聽我解釋嗎！
+[Character(name="avg_npc_598_1#10$1",focus=-1)]
+[CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="？？？"]滾啊！！！
+[Character(name="avg_npc_598_1#8$1")]
+[name="阿根"]喂，你！老闆！
+[Dialog]
+[PlaySound(key="$d_avg_knockdoorfast", volume=0.7)]
+[PlaySound(key="$d_avg_knockdoorfast", volume=0.7,delay=0.8)]
+[Delay(time=3)] 
+[Character(name="avg_npc_598_1#7$1")]
+[name="阿根"]......什麼啊，什麼脾氣啊這是。
+[Dialog]
+[Character]
+[Delay(time=1)]
+[PlaySound(key="$dooropenquite", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#7$1", name2="char_empty")]
+[delay(time=0.51)]
+[characteraction(name="right", type="move", xpos=200, fadetime=0.3, block=true)]
+[delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[characteraction(name="right", type="move", xpos=-200, fadetime=1, block=false)]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_032",fadetime=0.7)]
+[delay(time=1.5)]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]小朋友，別敲了，他不會開門的。
+[name="鄰居"]這人脾氣就這樣，臭得很。
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]姐姐，你好，你......認識這裡邊的人嗎？
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]我就住在隔壁，但和他一年也說不上幾句話，這人脾氣不好，來歷也不乾不淨，是敘拉古來的黑幫，不長眼的才往他跟前湊呢。
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]他不是做動物救助的工作嗎？再壞也不會壞到哪去吧？
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]到底是小孩子，別人說什麼都信，他這院子大門一關，裡面在做什麼事別人哪能瞧見。
+[name="鄰居"]人心啊，隔層肚皮就不能信了，更何況隔道門呢。
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]姐姐，你是見到什麼了，才這樣說的嗎？
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]前幾日，有近衛局的人找過來了。
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]近衛......局？
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]欸，你是外來的吧，就是有警官上他這來了，說是這傢伙非法藏匿扣留警用循獸？
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]警用的啊，這......不是犯法的事嗎？
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]可不是，近衛局的循獸他都敢往屋子裡領，還有什麼他不敢。
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]那他收留這些動物的目的......
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]我常看見他帶動物回來，但很快就又送出去了，說不定......是賣到黑市的肉販子那裡去了。
+[Character(name="avg_npc_598_1#5$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]（這麼可疑？如果真是打著救助站的幌子做壞事，那可不能放過他。）
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_032",focus=1)]
+[name="阿根"]好，我知道了，謝謝姐姐。
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_032",focus=2)]
+[name="鄰居"]哎，那我回屋了，你也快回去吧，別在這裡守了。
+[Dialog]
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_032")]
+[delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[characteraction(name="right", type="move", xpos=200, fadetime=1.5,block=false)]
+[character(name="avg_npc_598_1#1$1",name2="char_empty",fadetime=0.5)]
+[delay(time=2.5)]
+[PlaySound(key="$doorclosequite", volume=1)]
+[Delay(time=1)]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_598_1#1$1")]
+[PlaySound(key="$d_avg_pick_lock", volume=1)]
+女人闔上門後，阿根並沒有急著離開，反而靠向門板，用手指輕輕搭上門鎖，瞬間鎖眼處被填進一道冰凌，搗鼓幾下後發出一聲輕響。
+阿根把門向內推出一條窄縫，輕手輕腳地擠了過去。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_offce",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)] 
+[Character(name="avg_npc_598_1#5$1")]
+[name="阿根"]沒籠子，沒圍欄，就只有一個食盆，裡面的水和糧食都是幾天前的了。
+[name="阿根"]那被救助的動物呢？都去了哪裡？
+[Character(name="avg_npc_598_1#10$1")]
+[name="阿根"]（難道真像剛才那個鄰居所說，被送去給肉販子了？）
+[Character(name="avg_npc_598_1#5$1")]
+[name="阿根"]可如果是這樣，那這裡為什麼會有這麼多的寵物糧......？
+[Dialog]
+[PlaySound(key="$d_avg_scroll", volume=1)]
+[Delay(time=1.5)]
+[Character(name="avg_npc_598_1#4$1")]
+[name="阿根"]這桌子上鋪的是......建築結構圖？
+[name="阿根"]近、衛、局、大、樓......嗯？有幾處還被紅筆劃出來了。
+[name="阿根"]拘留室、循獸舍......一門之隔，挨得很近......
+[Character(name="avg_npc_598_1#5$1")]
+[name="阿根"]（這傢伙到底要做什麼？難道是為了那隻循獸？）
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$doorclosequite", volume=0.7)]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_601_1#1$1",fadetime=1,block=true)]
+[Delay(time=2)]
+[CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="老闆"]喂，小鬼，你誰？你怎麼進來的？！
+[name="老闆"]奇了怪了，我明明是鎖好門的。
+[name="老闆"]門鎖怎麼是壞的？嘶......摸著怎麼這麼凍手啊！
+[name="老闆"]（回頭怒視阿根）
+[Character(name="avg_npc_598_1#10$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]不好意思了，老闆。
+[Character(name="avg_npc_598_1#10$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]是不是你弄的？！賠鎖錢，我上周剛換的！
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]啊？！
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]啊什麼？
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]（皺眉）啊......對不起？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]對了，方便問一下嗎，你在這張圖上計畫什麼呢？
+[Dialog]
+[PlaySound(key="$d_avg_scroll", volume=1)]
+[name="阿根"]（舉起桌上的圖紙）
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]臭小子亂動別人東西，找死啊！
+[Dialog]
+[Character(name="avg_npc_598_1#7$1",name2="avg_npc_601_1#1$1",focus=1)]
+[PlaySound(key="$d_avg_magic_5")]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="阿根"]小心一點。
+[Character(name="avg_npc_598_1#7$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]唔，這是——
+[Character(name="avg_npc_598_1#7$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]不要亂動了，老闆，不然這冰環會在你脖子上越收越緊的。
+[Character(name="avg_npc_598_1#7$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]小崽子你厲害！
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]你現在可以告訴我了嗎？你打算去近衛局裡做什麼？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]......近衛局的臭不要臉，隨便編個由頭就帶走我的循獸，怎麼，我不該想想辦法奪回來嗎？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]哦，我怎麼聽說是你先搶了近衛局的警用循獸呢？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]呸，我撿到它時，它就剩半條命，那時候近衛局的人又在哪裡？
+[name="老闆"]我們在一起這麼些年都好好的，他近衛局又憑什麼現在上門來搶！
+[Character(name="avg_npc_598_1#4$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]這麼說，是你當初救了它才把它養在身邊的......那你救助的其他動物在哪裡，為何在這裡一點蹤跡也不見？
+[Character(name="avg_npc_598_1#4$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]你看這地方是適合安置它們的地方嗎？我在邊緣地塊購置了一片廢棄的工廠用地，它們在那裡。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]你說我就信嗎？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=2)]
+[multiline(name="老闆")]愛信不信......
+[PlaySound(key="$d_avg_microwave")]
+[delay(time=1)]
+[multiline(name="老闆")]呃。
+[Character(name="avg_npc_598_1#7$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]什麼？！
+[name="阿根"]微波爐？！
+[Character(name="avg_npc_598_1#7$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]看什麼看，不就是熱個饅頭！
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]晚飯？
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]你管得倒多！
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]吃得飽嗎？
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]......跟你有什麼關係？！
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]囤了這麼多寵物糧，你自己就光啃饅頭？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]......那麼多張嘴吃飯，我不得省點！
+[Character(name="avg_npc_598_1#10$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]......
+[name="阿根"]得罪了。
+[Dialog]
+[PlaySound(key="$d_avg_magic_2")]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="阿根"]（放下施術的手）
+[Character(name="avg_npc_598_1#10$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]咳——
+[name="老闆"]（心有餘悸地摸著自己的脖子）
+[name="老闆"]小鬼......你會源石技藝，對嗎？
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]哈哈，你就當作是會吧。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]那......你這手開鎖的技藝，能用在別處嗎？
+[name="老闆"]你不是要打聽一隻烏雲獸的消息嗎？
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]嗯，去年丟的，老闆你這裡有見過嗎？
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]實話說，我是救助過幾隻，可我腦子不靈光，記不起具體的了，但什麼情況我都是留過檔的。
+[name="老闆"]你要是願意幫把手，我就帶你去翻翻。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]呃，老闆，你只是帶我去找找資料，但我卻要和你去闖近衛局的大門，這風險程度沒法放在一起比吧。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]哼，去不去隨你，我可沒強按著你答應。
+[name="老闆"]至於那隻烏雲獸，你上別處問去吧。
+[Character(name="avg_npc_598_1#10$1",name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]......
+[Dialog]
+[StopMusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="31_g2_luo_reception",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$m_dia_street_intro", key="$m_dia_street_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)] 
+羅德島駐龍門辦事處
+清晨
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_598_1#5$1", name2="avg_4040_rockr_1#12$1", fadetime=1,block=true)]
+[Delay(time=2)]
+[Character(name="avg_npc_598_1#5$1", name2="avg_4040_rockr_1#12$1",focus=2)]
+[name="洛洛"]阿根！
+[CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=20, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_npc_598_1#9$1", name2="avg_4040_rockr_1#12$1",focus=1)]
+[name="阿根"]欸！早啊，洛洛姐。
+[Character(name="avg_npc_598_1#9$1", name2="avg_4040_rockr_1#1$1",focus=2)]
+[name="洛洛"]你的臉色看著很糟，是我嚇到你了嗎？
+[Character(name="avg_npc_598_1#2$1", name2="avg_4040_rockr_1#1$1",focus=1)]
+[name="阿根"]哈哈，我光顧著琢磨事了，沒注意到你也在。
+[Character(name="avg_npc_598_1#2$1", name2="avg_4040_rockr_1#12$1",focus=2)]
+[name="洛洛"]你今天早上去了哪裡？昨天晚上小白很早就回來了，說你一個人去了貧民窟。怎麼樣，有什麼消息嗎？
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#12$1",focus=1)]
+[name="阿根"]洛洛姐......
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#1$1",focus=2)]
+[name="洛洛"]怎麼了？
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#1$1",focus=1)]
+[name="阿根"]我恐怕給自己挖了一個大坑。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="31_g2_luo_reception",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)] 
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#5$1",focus=2)]
+[name="洛洛"]所以......最後你答應他了？
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#5$1",focus=1)]
+[name="阿根"]算是吧，雖然我們發現帶走循獸是行不通的，但我還是得幫他進入近衛局。
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#5$1",focus=2)]
+[name="洛洛"]那他還去做什麼？
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#5$1",focus=1)]
+[name="阿根"]他說自己放心不下，要去親眼看看，要是那隻循獸在裡面過得不如意，他就是撞破頭也要把它帶出來。
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#10$1",focus=2)]
+[name="洛洛"]那也不可以！這種冒險的事情要去他自己一個人去，憑什麼還要拖上你！
+[Character(name="avg_npc_598_1#6$1", name2="avg_4040_rockr_1#10$1",focus=1)]
+[name="阿根"]為了找烏雲獸，目前也只能和他合作了，這周邊我都問過了，只有他在和流浪動物打交道。
+[Character(name="avg_npc_598_1#6$1", name2="avg_4040_rockr_1#10$1",focus=2)]
+[name="洛洛"]他竟然這樣要脅一個孩子。不行，我不可以讓你一個人去，誰知道那傢伙有什麼壞心。
+[Character(name="avg_npc_598_1#7$1", name2="avg_4040_rockr_1#10$1",focus=1)]
+[name="阿根"]洛洛姐，你們的工作要緊，這件事我還能應付過來。
+[name="阿根"]到時候要是真的出了什麼事，大不了全推給他，在近衛局面前，我的可信度應該還是比黑幫出身的他高出不少的。
+[Character(name="avg_npc_598_1#7$1", name2="avg_4040_rockr_1#1$1",focus=2)]
+[name="洛洛"]即使是這樣我也沒法安心，你也不要著急拒絕，我還是能夠擠出些時間陪你過去的。
+[Character(name="avg_npc_598_1#7$1", name2="avg_4040_rockr_1#1$1",focus=1)]
+[name="阿根"]可我之前聽這裡的幹員說，近衛局和你們關係親近，這樣的事洛洛姐你怎麼好出面，我畢竟是外人，真出事也好立刻撇清。
+[Character(name="avg_npc_598_1#7$1", name2="avg_4040_rockr_1#3$1",focus=2)]
+[name="洛洛"]阿根，你以為我會在意這些嗎？！
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#3$1",focus=1)]
+[name="阿根"]洛洛姐，你冷靜冷靜......
+[Character(name="avg_npc_598_1#10$1", name2="avg_4040_rockr_1#10$1",focus=2)]
+[name="洛洛"]不過......沒錯，我確實不能輕率行動。
+[Character(name="avg_npc_598_1#2$1", name2="avg_4040_rockr_1#10$1",focus=1)]
+[name="阿根"]嗯嗯，所以洛洛姐你就放心——
+[Character(name="avg_npc_598_1#2$1", name2="avg_4040_rockr_1#12$1",focus=2)]
+[name="洛洛"]但我的無人機可以和你一起去。
+[Character(name="avg_npc_598_1#9$1", name2="avg_4040_rockr_1#12$1",focus=1)]
+[name="阿根"]......這不還是會暴露你的身份嗎！
+[Character(name="avg_npc_598_1#9$1", name2="avg_4040_rockr_1#12$1",focus=2)]
+[name="洛洛"]臨走前可露希爾給了我一種全新的光線反射模組，可以讓無人機暫時從人們的視線中隱匿。
+[Character(name="avg_npc_598_1#1$1", name2="avg_4040_rockr_1#12$1",focus=1)]
+[name="阿根"]你聽起來好像很興奮......
+[Character(name="avg_npc_598_1#1$1", name2="avg_4040_rockr_1#12$1",focus=2)]
+[name="洛洛"]我還可以對槳葉的旋轉模式進行改進，最大程度減少飛行時的聲響。超靜音模式下即使在安靜的室內也不會被人察覺。
+[Character(name="avg_npc_598_1#4$1", name2="avg_4040_rockr_1#12$1",focus=1)]
+[name="阿根"]不是，你隨身就帶著工具嗎......哎，洛洛姐你真的要在這裡動手拆卸部件嗎？
+[Character(name="avg_npc_598_1#4$1", name2="avg_4040_rockr_1#1$1",focus=2)]
+[name="洛洛"]噓，先坐著，不要走！
+[name="洛洛"]等下，我馬上就好，這台無人機能幫你大忙，進入大樓後它會第一時間為你探明路線和人員動向。
+[name="洛洛"]還可以干擾攝影機隱藏你的行蹤。再說，要是那傢伙真的讓你覺得棘手，我也不能讓他占上風。
+[Character(name="avg_npc_598_1#2$1", name2="avg_4040_rockr_1#1$1",focus=1)]
+[name="阿根"]那就......謝謝洛洛姐了。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_building_1",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)] 
+龍門上城區，上廠街，近衛局大樓
+上午時分
+[Dialog]
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]呃，你不是說去買水嗎？為什麼帶了一包薯片回來？
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]拿去吃吧。
+[Character(name="avg_npc_598_1#4$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]你是給我買的？
+[Character(name="avg_npc_598_1#4$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]不然呢，我從來不吃這些東西。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]......謝謝你。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]趕緊吃，吃完我們就行動。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]你昨天說進大門你自有辦法，現在可以告訴我了嗎？
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]怎麼，你猜不到嗎？
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]你以前還真是黑幫啊。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]不像？
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]可太像了......那你怎麼退出了來開救助站呢？
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]那時幫派內鬥，我站錯派系被老大趕了出來，最潦倒的時候遇上了揚尼，我救了它，它也救了我。
+[name="老闆"]好歹最後我知道了，還是有東西需要我的。
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]它跟你很親？
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]那當然，剛救回來的時候它看到我就發抖，現在它看不到我才要害怕。
+[Character(name="avg_npc_598_1#4$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]真神奇，你一個黑幫成員竟然和警用循獸成了夥伴。
+[Character(name="avg_npc_598_1#4$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]“前”黑幫成員！
+[name="老闆"]哼，剛來龍門的時候，我也想不到會和一個小孩坐在近衛局門口吃薯片。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]所以你還要不要吃？我吃不掉了。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]給我來一片。
+[name="老闆"]所以說歲月如刀，每過一年就在身上片一刀。
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]......
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]我也是昏頭了，和你一個小鬼頭說這些幹嘛！你又不懂。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]好了，老闆，我們走吧，薯片吃完了。
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]......行，走吧。
+[Dialog]
+[StopMusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_cellroomA",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$escape_intro", key="$escape_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)] 
+龍門上城區，上廠街，近衛局拘留室
+下午時分
+[Dialog]
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]你認真的嗎？偷竊腳踏車？
+[Character(name="avg_npc_601_1#1$1",focus=-1)]
+[name="阿根"]挺好的，至少進入近衛局這個目標，我們順利達成了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]你是怎麼從筆錄處過來的？
+[Character(name="avg_npc_601_1#1$1",focus=-1)]
+[name="阿根"]我在做筆錄的時候搞了點小動靜，趁警官出去查看的時候我偷偷溜過來了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]有記得按我畫的路線走避開所有監控嗎？
+[Character(name="avg_npc_601_1#1$1",focus=-1)]
+[name="阿根"]放心，我有更安全的辦法，可以說這一路走過來，我在監控下是徹底“隱形”的。
+[name="阿根"]對了，我提醒過你吧，手記得不要放在門上，小心被凍掉皮。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]知道，快點吧！
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_indoor_3",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)] 
+[Character(name="avg_npc_598_1#1$1")]
+[PlaySound(key="$d_avg_magic_2")]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_crystal_shatter",volume=1)]
+[Delay(time=4)]
+[PlaySound(key="$d_gen_dooropen",volume=1)]
+[Delay(time=1)]
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_601_1#1$1",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[name="老闆"]循獸舍就在前面不遠處，速度快的話，我們可以在那群傢伙回來前返回拘留室。
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]我們約好了，只是看一眼對吧？
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]少廢話，知道，快跟上。
+[Dialog]
+[PlaySound(key="$rungeneral", volume=0.6)]
+[characteraction(name="middle", type="move", xpos=300, fadetime=1,block=false)]
+[Character(fadetime=0.5)]
+[delay(time=2)]
+[Character(name="avg_npc_598_1#1$1")]
+[delay(time=0.51)]
+[PlaySound(key="$rungeneral", volume=0.6)]
+[characteraction(name="middle", type="move", xpos=300, fadetime=1,block=false)]
+[Character(fadetime=0.5)]
+[delay(time=2)]
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Character]
+[Background(image="bg_indoor_3",screenadapt="showall")]
+[Delay(time=0.51)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Delay(time=0.51)] 
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]我看到了，在那裡。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]揚尼！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_pawfootstep_2", volume=0.6)]
+[Character(name="avg_npc_602_1#1$1",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[characteraction(name="middle", type="jump", xpos=0, power=40, times=3, fadetime=1,block=false)]
+[name="揚尼"]（激動地轉圈）嗚，嗷嗚嗷嗚。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]揚尼，看看你，我不在的時候有沒有想我？我可是天天都記掛著你呢。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_602_1#1$1")]
+[characteraction(name="middle", type="jump", xpos=0, power=40, times=3, fadetime=0.7,block=false)]
+[name="揚尼"]嗚嗚嗚——
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]好了好了，看見你在近衛局這裡過得好我就放心了。你看你這房間，比我的臥室都大，哈哈哈。
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗚嗚？
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]本來想著無論如何也要帶你回家，可現在一瞧，不跟著我，你反倒還長了些肉。
+[name="老闆"]這些年，你和我在一起受苦啦。
+[Dialog]
+[Character(name="avg_npc_602_1#1$1")]
+[PlaySound(key="$d_gen_doorclose", volume=0.6)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="揚尼"]（鼻子拱著圍欄，想要從間隙中擠出去）
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]嘿，看你胖的，夾在欄杆中間進退不得。
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗷嗚嗷嗚......
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]知道你不捨得我，但也沒法子啊。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="？？？"]阿根，得回去了，無人機偵測到有警員正從另一邊走近這裡。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]誰在說話？
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]......是隱形無人機。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]為什麼你會帶這種東西？！
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]現在不是解釋的時候，我們得走了，有人過來了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]再給點時間，我再說兩句話！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_drone", volume=1)]
+[Character(name="avg_npc_424_1#1$1",fadetime=1.5,block=true)]
+[delay(time=2.5)]
+[name="洛克二十七"]少廢話，快點給我抬屁股走人！你這傢伙被抓不被抓我才不管，要是阿根也因此背上罪名，我絕不原諒你！！
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]你要嚇死我嗎！
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]還不快走！要是被發現你真的想蹲監獄嗎？
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]要是我被發現那也一定是因為你聲音太大了！
+[name="老闆"]揚尼，我走了，以後......應該是沒什麼再見的機會了，你在這裡要乖，要好好吃飯，別惦念我了，會掉秤的。
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗚嗚！嗷嗚！
+[Dialog]
+[Character(name="avg_npc_602_1#1$1")]
+[PlaySound(key="$d_gen_doorclose", volume=0.6)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="揚尼"]（不停用鼻子撞擊欄杆）
+[name="揚尼"]嗚......
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]（擦眼淚）揚尼，不要再撞了！
+[Character(name="avg_npc_598_1#10$1")]
+[name="阿根"]洛洛姐......
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]嗯？
+[Character(name="avg_npc_598_1#10$1")]
+[name="阿根"]要不你的無人機先撤離吧，我留下來再給他爭取點時間。
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]阿根，你在想什麼？被發現了怎麼辦？
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]放心，我不會給你們帶來麻煩的。
+[Dialog]
+[PlaySound(key="$d_avg_clothmovement", volume=0.7)]
+[Delay(time=1.5)]
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]（扯衣服）
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]你幹什麼？
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]蒙臉啊。
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]有我在你還用得著這個？
+[Character(name="avg_npc_598_1#4$1")]
+[name="阿根"]（張嘴）
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]你要是再客氣我現在就離開。
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]（閉嘴）
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]喂，我們再拖十分鐘，你有什麼話就趕緊說！
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]......你們何苦這樣幫我。
+[Character(name="avg_npc_424_1#3$1")]
+[name="洛克二十七"]因為我知道，有些話現在不說，以後就永遠也沒機會再講了。
+[name="洛克二十七"]走吧，阿根。
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]嗯。
+[Dialog]
+[StopMusic(fadetime=0.5)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_indoor_3",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$calamity_intro", key="$calamity_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)] 
+[Character(name="char_015_lmg",fadetime=0.5)]
+[Delay(time=1)]
+[name="？？？"]......這裡的溫度，變低了。
+[name="？？？"]牆面在結冰......不好，是源石技藝！
+[name="？？？"]請求支援——
+[Dialog]
+[Character(name="char_015_lmg")]
+[PlaySound(key="$d_avg_crystal_shatter",volume=1)]
+[Blocker(a=0.2, r=1, g=1, b=1, fadetime=3, block=true)]
+[Delay(time=1)]
+還未觸碰到頭盔上的通訊按鈕，一道堅冰就鎖住了近衛局成員的雙臂。
+見一時掙脫不開，他發狠咬咬牙向牆撞去。可腳跟尚未離地，便感到一絲寒意攀上他的小腿，低頭再看時，冰層已經覆蓋到腰際了。
+[Dialog]
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]警官先生，我無意傷害你，我只是來找你借點東西。
+[name="阿根"]一是借用一下這個地方，二是借個幾分鐘的時間。
+[Character(name="char_015_lmg")]
+[name="？？？"]藏頭不露面，這就是你借東西的誠意嗎？
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]哈哈，真是不好意思。
+[Character(name="char_015_lmg")]
+[name="？？？"]既然要借，借來做什麼總要說清楚吧。
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]說是有人要敘舊，你肯信嗎？
+[Character(name="char_015_lmg")]
+[name="？？？"]敘舊去咖啡館不好嗎，來循獸舍能見什麼......
+[Dialog]
+[Delay(time=1)]
+[name="？？？"]嘶......
+[CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="？？？"]你這傢伙還敢跑來近衛局見梅團，誰給你的膽子，給我出來！
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]糟了，我不該多嘴的！
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7,focus=-1)]
+[name="洛克二十七"]（想不到這人腦子這麼快......阿根，怎麼辦？）
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]（沒事，這冰一時半會化不開，等我們走後不會給他留下證據的。）
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7,focus=-1)]
+[name="洛克二十七"]（那也得快點了，一會還會有更多人來。）
+[Character(name="char_015_lmg")]
+[name="？？？"]給我滾出來，偷偷摸摸的算什麼好漢！
+[name="？？？"]梅團這些年就養在你這種沒出息的人手裡嗎！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_601_1#1$1",fadetime=0.5,block=true)]
+[delay(time=1)]
+[name="老闆"]你這個混球——
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]（糟糕，他還真是一點都激不得啊。）
+[Dialog]
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]小鬼，放開他，我今天非得好好揍他一頓不可。
+[Character(name="char_015_lmg")]
+[name="？？？"]你居然還教唆未成年和你一起犯罪？！
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]哎......警官你誤會了。
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7,focus=-1)]
+[name="洛克二十七"]（阿根，我覺得，在這人面前我們還是保持沉默吧......）
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]小鬼，你放開他！
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]可......
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]放開！
+[Character(name="avg_npc_598_1#1$1",blackstart=0.2,blackend=0.7)]
+[name="阿根"]（唉，麻煩了......）
+[name="阿根"]不好意思，警官先生。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
+[PlaySound(key="$icespread",volume=1)]
+[delay(time=1)]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]你這個混蛋！
+[Dialog]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg")]
+[delay(time=0.51)]
+[characteraction(name="left", type="jump", xpos=100, power=0, times=1, fadetime=0.1, block=false)]
+[characteraction(name="right", type="jump", xpos=-100, power=0, times=1, fadetime=0.1, block=true)]
+[CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[PlaySound(key="$fightgeneral",volume=1)] 
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.05, block=true)]
+[characteraction(name="left", type="jump", xpos=-100, power=5, times=1, fadetime=1,block=true)]
+[characteraction(name="right", type="jump", xpos=100, power=5, times=1, fadetime=1,block=true)]
+[Dialog]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]這裡可是近衛局，你敢偷溜進這裡來看梅團。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]它不叫梅團，它叫揚尼，是我的寵物！
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]你錯了，它的名字是梅團，身份是近衛局一等功勳循獸，在切城事件中執行搜救、排爆、追蹤任務無數，它的主人絕無可能是你！
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]你放的什麼屁，不是老子還能是誰！你看它肯認你這個主人嗎？
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]我告訴你！梅團的主人是近衛局高級警司謝明！他的同伴，不是你這樣前科累累的敗類可以染指的！！
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]你放屁呃——我管他是誰！
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]老實點！
+[Dialog]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg")]
+[delay(time=0.51)]
+[characteraction(name="left", type="jump", xpos=100, power=0, times=1, fadetime=0.1, block=false)]
+[characteraction(name="right", type="jump", xpos=-100, power=0, times=1, fadetime=0.1, block=true)]
+[CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[PlaySound(key="$fightgeneral",volume=1)] 
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.05, block=true)]
+[characteraction(name="left", type="jump", xpos=-100, power=5, times=1, fadetime=1,block=true)]
+[characteraction(name="right", type="jump", xpos=100, power=5, times=1, fadetime=1,block=true)]
+[Dialog]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]把爪子給老子拿開！鬆開！
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]你先鬆開我的大腿。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]你怎麼不先把胳膊從我脖子上拿開！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_598_1#9$1",name2="avg_npc_424_1#1$1",fadetime=1,block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_424_1#1$1",focus=1)]
+[name="阿根"]你覺得他倆是在打架嗎？
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_424_1#1$1",focus=2)]
+[name="洛克二十七"]不像，像是在打鬧。
+[name="洛克二十七"]他們這樣在地上滾來滾去不會受傷吧？
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_424_1#1$1",focus=1)]
+[name="阿根"]不會，這裡會受傷的只有打架這個詞的含義。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_602_1#1$1",fadetime=0.5,block=true)]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_doorclose", volume=0.6)]
+咚——咚——
+轉過臉，阿根看見那隻循獸還在傻乎乎地撞欄杆，眼前兩個人在地上廝打的場面讓它極度不安，迫切地想要擺脫籠子的束縛。
+而它撞擊的力度也一次比一次兇狠，軟乎乎的鼻頭早已碰得鮮血淋漓。
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_424_1#1$1",focus=1)]
+[name="阿根"]......或許還有這隻著急的循獸。
+[Character(name="avg_npc_598_1#1$1", name2="avg_npc_424_1#1$1",focus=2)]
+[name="洛克二十七"]我覺得當務之急是先阻止它，而不是在地上糾纏的那兩個人。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="avg_npc_598_1#2$1",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[name="阿根"]嘿，小傢伙，你想出去嗎？
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]（胡亂蹭著阿根伸進來的手）
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]你是想讓那兩個傢伙不要再打了嗎？
+[name="阿根"]不用擔心，他們的武力值很低，都傷不了彼此的。
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗷......？
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]但也確實不能讓他們再繼續這樣打下去了......
+[Dialog]
+[PlaySound(key="$d_avg_clothmovement", volume=0.6)]
+[Delay(time=1.5)]
+[name="阿根"]（蹲下，手覆在門鎖上）
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]你其實早就想好選哪邊了，對嗎？
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[Character(name="avg_npc_602_1#1$1")]
+[characteraction(name="middle", type="jump", xpos=0, power=40, times=3, fadetime=0.7,block=false)]
+[name="揚尼"]嗷嗚嗷嗚！
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]只是他們都沒有問過你。
+[name="阿根"]那現在就是你去告訴他們的時候了。
+[name="阿根"]去吧。
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]（搖搖尾巴）
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$icespread",volume=1)]
+[delay(time=1)]
+籠門尚未完全打開，揚尼就從中擠出，向在地上扭打成一團的老闆和訓練員叫嚷。
+見二人不理會自己，揚尼情急下張嘴叼住了訓練員的腳踝。痛楚讓訓練員停下了動作，看向不住吠叫的循獸。
+[Dialog]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]梅團，你這是什麼意思......？
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]揚尼......
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]二位現在可以停手了嗎？
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]啊，你終於肯現身了，小朋友。
+[name="循獸訓練員"]你年紀小，被這傢伙裝模作樣哄騙幾句就輕信了，你回家去吧，我不怪你，這是我們兩個人的事，你不要插手。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]沒錯，小鬼你快滾，你想要的資料，去下城區九街四號的廢棄工廠找，我早知會過手下，他帶你去翻！
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]如果我要強行把你們分開，也不是做不到的哦。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_magic_4",volume=1)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[delay(time=1)]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]你這孩子幹嘛！
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]嘿，你說就說，你放什麼冰柱子！
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]......數一二三，一起鬆手。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]成，一、二、三。
+[Dialog]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg")]
+[PlaySound(key="$bodyfalldown1",volume=1)]
+[CameraShake(duration=1, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
+[delay(time=2)]
+[Dialog]
+[StopMusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_indoor_3",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)] 
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg")]
+[name="老闆&循獸訓練員"]呼——
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]咳咳，這兩天怎麼天天有人要勒我脖子。
+[Character(name="avg_npc_598_1#3$1")]
+[name="阿根"]哈哈......真巧啊。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]呵......你不是黑幫嗎？這花拳繡腿你是怎麼活到現在的？
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]你一個近衛局的，就這拳腳功夫你還好意思說我？
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]我是文職轉崗。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]黑幫......也不是沒有文職啊。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[name="循獸訓練員"]（翻白眼）
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]你們可以再分開點嗎，給我點地方。
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=1)]
+[name="老闆"]你非得擠到中間來坐嗎？
+[Dialog]
+[Character(name="avg_npc_601_1#1$1", name2="char_015_lmg",focus=2)]
+[delay(time=0.51)]
+[PlaySound(key="$d_avg_clothmovement", volume=0.7)]
+[characteraction(name="right", type="move", xpos=100, fadetime=1.5,block=false)]
+[character(name="avg_npc_601_1#1$1",name2="char_empty",focus=2,fadetime=0.7)]
+[delay(time=1.5)]
+[name="循獸訓練員"]（無奈向旁邊挪去）唉......
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗷嗚嗷嗚！
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]嘿嘿，你也要坐到我旁邊來啊。
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]梅團，你就非得跟著他，是不是？
+[name="循獸訓練員"]他到底哪裡好了？讓你住那樣破舊的地方，只會餵你吃便宜糧。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]......我是沒你們這那麼好的條件，我......已經盡最大的努力讓它吃飽睡暖了。
+[name="老闆"]這些年，我能吃七分飽，揚尼就能飽八分，我能穿七分暖，揚尼就能暖八分。
+[name="老闆"]我做不到十分，就只能再多做一分。
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]阿明還在的時候，天不亮就要起來去遛它。吃穿用度，無一不留心，都是市面上最好的東西。
+[name="循獸訓練員"]梅團，你還記不記得那個人？
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗷嗚......
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]他很愛你的，你還是幼崽的時候，他就在你身邊盡全力照顧你了。
+[name="循獸訓練員"]切爾諾伯格撞過來的時候，他帶著你出任務......這一去，你失蹤，他犧牲，連屍骨都找不全。
+[name="循獸訓練員"]他不在啦，你就忘了他嗎？
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]橫山大廈，是那裡嗎？
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]不錯......
+[name="循獸訓練員"]這地方我一輩子也忘不了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]它也沒忘，這傢伙隔三岔五便要去我撿到它的地方叫喚兩嗓子。
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]是嗎？既然記得清楚，怎麼還能做到繼續向前看呢？
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗚......
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]（抬手撫摸懷裡循獸鼻子上的傷口）
+[name="老闆"]小鬼，你怎麼不說話了......？
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]我只是累了。
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]......你這孩子真是一點也不可愛。
+[name="循獸訓練員"]梅團，你現在叫揚尼了，對嗎？
+[Character(name="avg_npc_602_1#1$1")]
+[name="揚尼"]嗷嗚......
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]你喜歡那個人是不是？那和他去吧，我不留著你了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]你什麼意思？
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]我好累啊，背了好些年，實在是太重了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]你就這麼放棄了嗎？
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]你聽清楚，它既然鐵了心要跟你走，那就全心全意對它。
+[name="循獸訓練員"]你那處破地方，我會常去，要是你對它怠慢了，我不會讓你好過。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]你說什麼屁話，我怎麼可能會苛待它！
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]閉嘴吧，我要通訊。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$transmission",volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]（你不攔他！）
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]噓——
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_transmissionget",volume=1)]
+[Delay(time=1)]
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]付仔，麻煩你去三樓幫我帶份文件。
+[name="循獸訓練員"]阿通，循獸舍的空調製冷好像出了點問題，麻煩你去報修了。
+......
+[Character(name="avg_npc_424_1#1$1")]
+[name="洛克二十七"]（阿根，我這裡偵測到，朝這裡走來的人都散開了。）
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]那我們先走吧，洛洛姐。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=1.5)]
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]揚尼，走吧，我們回家！
+[name="老闆"]喂，你怎麼跑回籠子裡了？
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]梅團......你？
+[name="循獸訓練員"]你是要留下嗎？
+[name="循獸訓練員"]唉......
+[name="循獸訓練員"]你這一臉饞相是不會變了，對嗎？
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+揚尼撅著圓滾滾的屁股搖了幾下，隨即便叼著一袋凍乾離開了籠子，屁顛屁顛地跑向了老闆。
+[Dialog]
+[StopMusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_building_1",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$m_dia_street_intro", key="$m_dia_street_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)] 
+近衛局大樓門口
+[Dialog]
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]我就送你們到這裡吧。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]好傢伙......這近衛局裡面的彎路可太多了，繞得我都暈。
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]我帶你走的路平常都沒有同事去，別不知好歹。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]哈哈，麻煩阿sir了。
+[Character(name="char_015_lmg")]
+[name="循獸訓練員"]哼——我又不是為你。
+[name="循獸訓練員"]梅團......不，揚尼，再見了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]有空......你記得常來看它。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=1.5)]
+[Dialog]
+[Character(name="avg_npc_598_1#2$1")]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=1.5)]
+[Character(name="char_015_lmg")]
+[Delay(time=1)]
+[name="循獸訓練員"]（長出一口氣）
+[name="循獸訓練員"]......阿明，你放心，我會常去看它的。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_20_G08",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)] 
+下城區九街四號
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]進來吧，這些年我收留過的動物資料都在這裡了。
+[Character(name="avg_npc_598_1#4$1")]
+[name="阿根"]好多......都堆到天花板了。
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]烏雲獸......我看看，我記得我專門做過分類。
+[PlaySound(key="$d_avg_cloakmovement", volume=1)]
+[name="老闆"]（努力翻找）
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]老闆，你小心！
+[Character(name="avg_npc_601_1#1$1")]
+[name="老闆"]找到了，你在下面接著。
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]好。
+[Dialog]
+[Character(name="avg_npc_601_1#1$1")]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_woodenladder", volume=0.5)]
+[Character(fadetime=1)]
+[Delay(time=2.5)]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]都在裡面了，讓我來看看......去年的記錄。
+[Dialog]
+[PlaySound(key="$d_avg_paper1", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]當時一共有四隻烏雲獸來過這裡......
+[Dialog]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_paper1", volume=1)]
+[Delay(time=1)]
+[name="老闆"]是這隻嗎？這隻當時捉到就交給附近的老婦人領走了，地方離這不遠。
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]不是，這隻耳朵有殘缺，我找的那隻耳朵沒有受傷。
+[Dialog]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_paper1", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]那是這隻？不對，這隻的失主已經找上門帶走了......
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]而且年齡也對不上，這隻嘴上都冒白毛了。
+[Dialog]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_paper1", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]哎，錯不了，應該就是這一隻了。看，長得一模一樣。
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]老闆，這隻胸口明顯有一撮棕黑色的毛啊。
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]哎，不好意思，我眼神不太行，看錯了。
+[Dialog]
+[PlaySound(key="$d_avg_paper1", volume=1)]
+[Delay(time=2)]
+[PlaySound(key="$d_avg_metalcollar", volume=0.7)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#9$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]哎？什麼東西？滾哪去了，桌子底下啥也看不清啊。
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]老闆，你先念著，我爬進去找。
+[Dialog]
+[PlaySound(key="$d_avg_clothmovement", volume=0.7)]
+[characteraction(name="left", type="move", ypos=-100, fadetime=1, block=true)]
+[Character(name="char_empty", name2="avg_npc_601_1#1$1",fadetime=0.5)]
+[Delay(time=1)]
+[Character(name="char_empty", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]行。烏雲獸，毛色全黑，無一根雜毛，周身各處都完好無損，七月二十八日早上從窗戶溜走，最後找到......
+[Character(name="char_empty", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]老闆，你接著念，我摸到了，好像是個帶銘牌的項圈。
+[stopmusic(fadetime=3)]
+[Character(name="char_empty", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]最後......找到一條斷了的項圈......和地面上大片的血跡，按照失血量判斷，應該已經......死去了。
+[Dialog]
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=1,fadetime=0.5)]
+[characteraction(name="left", type="move", ypos=100, fadetime=1, block=true)]
+[name="阿根"]......
+[name="阿根"]（舉高項圈在燈光下觀察）
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]銘牌上有寫東西嗎？
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]......寫了。
+[Character(name="avg_npc_598_1#7$1", name2="avg_npc_601_1#1$1",focus=2)]
+[name="老闆"]什麼？
+[Character(name="avg_npc_598_1#6$1", name2="avg_npc_601_1#1$1",focus=1)]
+[name="阿根"]六十七......
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Character]
+[Image]

@@ -11295,5 +11295,47 @@
     "isInvalidKilled": false,
     "overrideKillCntInfos": {},
     "hideInHandbook": false
+  },
+  "enemy_6007_mtslm": {
+    "enemyId": "enemy_6007_mtslm",
+    "enemyIndex": "DL7",
+    "enemyTags": [
+      "infection"
+    ],
+    "sortId": 629,
+    "name": "“漫遊小屋”",
+    "enemyRace": "感染生物",
+    "enemyLevel": "BOSS",
+    "description": "體型巨大的熒殼源石蟲，背上叢生的肉幔間棲息著數量眾多的幼體，因此爬行速度極慢。這類源石蟲常年生活在地底深處，無從得知它為何出現在此處。雖然並未攻擊人類，但它吞食著廢棄的礦料，體型日漸增大，嚴重干擾了清理進程。",
+    "attackType": "近戰",
+    "endure": "S",
+    "attack": "A+",
+    "defence": "A",
+    "resistance": "B",
+    "ability": "死亡時分裂<@eb.key>5個<熒殼源石蟲></>；周期性加入“螢光孢子”到<@eb.key>待部署區</>，如擁擠則加入到<@eb.key>休整區</>",
+    "isInvalidKilled": false,
+    "overrideKillCntInfos": {},
+    "hideInHandbook": false
+  },
+  "enemy_6008_mtslms": {
+    "enemyId": "enemy_6008_mtslms",
+    "enemyIndex": "DL8",
+    "enemyTags": [
+      "infection"
+    ],
+    "sortId": 630,
+    "name": "熒殼源石蟲",
+    "enemyRace": "感染生物",
+    "enemyLevel": "NORMAL",
+    "description": "原生的殼類軟體源石蟲，繁衍能力極強，殼上的螢光為可視的信息素。蛻殼之後，體型會在短時間內急劇增大。",
+    "attackType": "近戰",
+    "endure": "B",
+    "attack": "C",
+    "defence": "A",
+    "resistance": "C",
+    "ability": null,
+    "isInvalidKilled": false,
+    "overrideKillCntInfos": {},
+    "hideInHandbook": false
   }
 }

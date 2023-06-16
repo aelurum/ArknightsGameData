@@ -1,0 +1,786 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="31_g2_luo_reception",screenadapt="coverall")]
+[Delay(time=1)]
+[playMusic(intro="$warm_intro",key="$warm_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[delay(time=2)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#2$1",fadetime=0.8)]
+[Delay(time=2)]
+[name="小白"]敏敏姐，早上好。
+[Character(name="avg_npc_597_1#2$1",name2="char_016_medic",focus=2)]
+[name="醫療幹員"]早啊，小白，你今天——
+[Dialog]
+[Character(name="avg_npc_597_1#2$1",name2="char_016_medic",focus=3)]
+[PlaySound(key="$d_gen_transmissionget")]
+[Delay(time=1)]
+[name="傳呼頻道"]麻煩值班醫生來十一號病房，患者今早血液源石結晶密度驟升，肋間的體表源石迅速生長，出現劇烈疼痛，據判斷應該是急性發作。
+[Character(name="avg_npc_597_1#2$1",name2="char_016_medic",focus=2)]
+[name="醫療幹員"]準備急救藥品與設施，我馬上到。
+[Dialog]
+[PlaySound(key="$transmission")]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#5$1",name2="char_016_medic",focus=1)]
+[name="小白"]敏敏姐，我有什麼可以......？
+[Dialog]
+[playsound(key="$rungeneral", loop=true, channel="bgs",volume=0.6)]
+[Character(name="avg_npc_597_1#5$1",name2="char_016_medic")]
+[Character(name="avg_npc_597_1#5$1",name2="char_empty",fadetime=0.5)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[StopSound(channel="bgs", fadetime=0.5)]
+[Character(name="avg_npc_597_1#5$1",name2="char_empty",focus=3)]
+[name="醫療幹員"]小白，等我回來再說！
+[Character(name="avg_npc_597_1#1$1",name2="char_empty",focus=1)]
+[name="小白"]哦，好、好的。
+[Dialog]
+[Character]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_4040_rockr_1#12$1",fadetime=0.8)]
+[Delay(time=2)]
+[name="洛洛"]小白，早啊，早飯有吃過嗎？
+[Character(name="avg_npc_597_1#2$1",name2="avg_4040_rockr_1#12$1",focus=1)]
+[name="小白"]洛洛姐，我一早就去食堂了。
+[Character(name="avg_npc_012")]
+[name="後勤幹員"]洛洛姐，你現在有空嗎？辦事處的汙水處理器好像出了故障，方便來看下嗎？
+[Character(name="avg_npc_597_1#2$1",name2="avg_4040_rockr_1#5$1",focus=2)]
+[name="洛洛"]好的，沒問題，我正好帶著工具包，麻煩你帶路了。
+[Character(name="avg_npc_597_1#2$1",name2="avg_4040_rockr_1#5$1",focus=1)]
+[name="小白"]洛洛姐，我也可以跟你去......
+[Character(name="avg_npc_597_1#2$1",name2="avg_4040_rockr_1#12$1",focus=2)]
+[name="洛洛"]那就下午再見啦，小白。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[StopSound(channel="bgs", fadetime=1)]
+[Character(name="avg_npc_597_1#5$1",name2="char_empty",focus=1,fadetime=0.5)]
+[multiline(name="小白")]呃......看看我能幫到你些什麼......
+[Character(name="avg_npc_597_1#1$1",name2="char_empty",focus=1)]
+[multiline(name="小白")]嗎？
+[Dialog]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#9$1",name2="char_empty",focus=1)]
+[name="小白"]嗯......看來大家都很忙呢。
+[Dialog]
+[Character]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="char_358_lisa_1#1",fadetime=0.8)]
+[Delay(time=2)]
+[name="鈴蘭"]小白，早上好啊！
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]早呀鈴蘭，你這是打算出門嗎？
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]嗯，這幾天有幾位病人去世了，留下了些遺物，我帶出去做個簡單的告別，希望他們的亡魂能得到慰藉。
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]辦事處......每天都會有人離開嗎？
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]唉，雖然醫療幹員們都盡全力搶救了，但是難免會有不遂人願的情況。
+[Character(name="avg_npc_597_1#6$1",name2="char_358_lisa_1#4",focus=1)]
+[name="小白"]那葬禮上我能不能幫上你什麼忙？我也想為他們做點什麼......
+[Character(name="avg_npc_597_1#6$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]葬禮？不是的不是的，只是一個很小的儀式。
+[name="鈴蘭"]所以不用啦，小白，我一個人去就可以。
+[name="鈴蘭"]你留在這裡就很好了，我聽很多幹員說，自從你來到這裡，患者們多了很多笑容呢。
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]哈哈哈，真的嗎？
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]嗯，礦石病的治療過程枯燥又漫長，這幾天你陪在患者身邊聊天解悶，他們心裡都是很開心的。
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]那就太好了，其他的我也幫不到什麼了......
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]對於我們來說，交談時不帶著恐懼的目光，就已經足夠我們感激了。小白，你已經做得很好了。
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#4",focus=1)]
+[name="小白"]這難道不是應該做的嗎？你越是這樣說我越是覺得什麼都沒做......
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]呀，時候不早了，我得走了。
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]那你快去吧！
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]那就晚上見啦！
+[Character(name="avg_npc_597_1#3$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]再見！
+[dialog]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#3$1",name2="char_empty",fadetime=1)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#1$1",name2="char_empty",focus=1)]
+[name="小白"]（噘嘴）唔，又是沒幫上什麼忙的一天......
+[Character(name="avg_npc_597_1#7$1",name2="char_empty",focus=1)]
+[name="小白"]哥哥也真是，明明說好一起去幫小沅找烏雲獸，那天卻自己一個人去找線索，讓我先回來。
+[Character(name="avg_npc_597_1#9$1",name2="char_empty",focus=1)]
+[name="小白"]......是我主動答應別人的事，最後卻麻煩了哥哥。
+[name="小白"]那時候在荒地上也是，沒有一件事可以幫到哥哥，還淨讓他操心。
+[Character(name="avg_npc_597_1#1$1",name2="char_empty",focus=1)]
+[name="小白"]我還能做些什麼事呢？總不能一直依賴著哥哥呀。
+[Dialog]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#1$1",fadetime=0.5)]
+[characteraction(name="right", type="move", xpos=200, fadetime=0, block=false)]
+[characteraction(name="right", type="move", xpos=-200, fadetime=1.7, block=false)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#2$1",focus=2)]
+[name="阿根"]想什麼呢，小白？
+[Character(name="avg_npc_597_1#5$1",name2="avg_npc_598_1#2$1",focus=1)]
+[name="小白"]哥哥，你什麼時候回來的？你找到烏雲獸的消息了嗎？
+[Character(name="avg_npc_597_1#5$1",name2="avg_npc_598_1#6$1",focus=2)]
+[name="阿根"]唉，有消息，卻是壞消息，那隻烏雲獸已經......不在了。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#6$1",focus=1)]
+[name="小白"]怎麼會這樣......那小沅她知道了嗎？
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#10$1",focus=2)]
+[name="阿根"]嗯，我剛剛就是從她的病房過來的。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#10$1",focus=1)]
+[name="小白"]她一定很難過......怎麼辦啊，哥哥？
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#2$1",focus=2)]
+[name="阿根"]這就要看我們小白的了。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#2$1",focus=1)]
+[name="小白"]我？我能做什麼？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#2$1",focus=2)]
+[name="阿根"]我想小沅現在一定很需要你的陪伴，去讓她開心起來吧。
+[Character(name="avg_npc_597_1#6$1",name2="avg_npc_598_1#2$1",focus=1)]
+[name="小白"]我陪著小沅......就能讓她不那麼難過嗎？
+[Character(name="avg_npc_597_1#6$1",name2="avg_npc_598_1#3$1",focus=2)]
+[name="阿根"]如果是小白的話，我想一定可以。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_598_1#3$1",focus=1)]
+[name="小白"]好！我一定會在小沅身邊，陪她度過這段時間的！
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Character(name="avg_npc_045_nn_1#5")]
+[Background(image="bg_ri_1",screenadapt="coverall")] 
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[name="小沅"]六十七......嗚......
+[Character]
+[PlaySound(key="$doorknockquite", volume=1)]
+[name="小白"]小沅，我可以進來嗎？我給你帶了一些糖果。
+[Character(name="avg_npc_045_nn_1#5")]
+[name="小沅"]（快速擦乾眼角的淚痕）
+[name="小沅"]小白，門沒有鎖，你進來吧。
+[Dialog]
+[Character]
+[PlaySound(key="$dooropenquite")]
+[Character(name="avg_npc_597_1#1$1",fadetime=0.5)]
+[characteraction(name="middle", type="move", xpos=-150, fadetime=0, block=false)]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[characteraction(name="middle", type="move", xpos=150, fadetime=1, block=false)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]來玩個小遊戲吧，猜猜糖在哪隻手裡？
+[Character(name="avg_npc_045_nn_1#5")]
+[name="小沅"]我不知道......
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]猜一個，猜一個就好。
+[Character(name="avg_npc_045_nn_1#5")]
+[name="小沅"]右手？
+[Dialog]
+[Character(fadetime=0)]
+[Character(name="avg_npc_597_1#2$1")]
+[Blocker(a=0, fadetime=0.5, block=true)]
+[characteraction(name="middle", type="move", xpos=30, fadetime=0.5, block=true)]
+[Blocker(a=0, fadetime=0.5, block=true)]
+[characteraction(name="middle", type="move", xpos=-30, fadetime=0.5, block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#3$1")]
+[name="小白"]哈哈，猜對了，恭喜你獲得甜甜蜜蜜草莓糖一顆。不過為了獎勵你，我左手這顆香香軟軟蜜桃糖也送給你吧。
+[Character(name="avg_npc_045_nn_1#1")]
+[name="小沅"]撲哧。
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]我可以坐過來嗎？
+[Character(name="char_empty",name2="avg_npc_045_nn_1#1")]
+[characteraction(name="right", type="move", xpos=-200, fadetime=0, block=true)]
+[name="小沅"]嗯......
+[Dialog]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",fadetime=0.5)]
+[characteraction(name="left", type="move", xpos=-200, fadetime=0, block=true)]
+[characteraction(name="right", type="move", xpos=200, fadetime=1, block=true)]
+[characteraction(name="left", type="move", xpos=200, fadetime=1.5, block=true)]
+[Delay(time=2)]
+[PlaySound(key="$d_avg_clothmovement", volume=0.7)]
+[CameraShake(duration=0.5,xstrength=10,vibrato=10,randomness=90,fadeout=true,block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]我剛剛，看到哥哥從你這裡離開了。
+[name="小白"]小沅，你......還好嗎？
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]我......很感激阿根哥哥的，只是接受這個事實......還需要花點時間。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="小白"]（拉住小沅的手）
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="小白"]嗯，我會一直陪著你的，如果你想找人說話，儘管來找我！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]......謝謝你。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="小白"]（捏捏小沅的手指）
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]阿根哥哥......帶回來一條項圈，是我親手給六十七戴上的。
+[name="小沅"]上面......都被血浸透了，都不敢想它經歷了什麼，它走時一定受了很多苦。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="小白"]（握緊小沅的手）
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=2)]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+[name="小沅"]呼......你不要為我擔心，我答應過洛洛姐姐，不會因為過分悲痛傷害自己。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=1)]                  
+[name="小白"]我覺得小沅做得很好了。
+[name="小白"]那......你是不是下周就要跟著洛洛姐她們去羅德島本艦了？
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]嗯，行李我已經打包好了，就在床下。六十七不在了，這裡也沒什麼可留戀的，能離開也很好。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]小沅......
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]不如，我們為它舉行葬禮吧！
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#3",focus=2)]
+[name="小沅"]葬禮？！
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#3",focus=1)]
+[name="小白"]對，你離開前，我們為六十七辦一場葬禮，讓你和它好好道別吧。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]小白你不要開玩笑了。葬禮，那是有錢人才會做的事，我們這樣的人怎麼敢想。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="小白"]怎麼不敢想？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]這裡的感染者死掉了，都是沒有葬禮的......
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="小白"]......如果小沅你不敢想，那就讓我來想！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]啊......？
+[Character(name="avg_npc_597_1#8$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="小白"]不能和已經離開我們的生命好好告別可不行啊，六十七的葬禮，你就交給我來辦吧！
+[StopMusic(fadetime=2)]
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Background(image="31_g1_luo_park",screenadapt="coverall")] 
+[Delay(time=1)]
+[playMusic(intro="$farce_intro",key="$farce_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",fadetime=0.5)]
+[characteraction(name="left", type="move", xpos=-200, fadetime=0, block=false)]
+[characteraction(name="left", type="move", xpos=200, fadetime=2, block=false)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]叔叔，打擾了，請問這裡是逝世順心生命禮儀社嗎？
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]前台，怎麼有小孩子跑進來，快帶出去！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]我不是亂跑進來的！我是為了籌辦葬禮才到這裡來的！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]那你是要購買喪葬用品還是請團隊來操辦葬禮？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]我、我想請團隊！
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]那請問死者是？
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]是我朋友的寵物。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]哈哈哈哈哈，你這孩子逗我是不是，在龍門會給寵物辦葬禮的，只能說是錢多到沒處花了。
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]看你們笑得那麼起勁，到底哪裡可笑了！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]哈哈哈，哎呦，還是小朋友想法多。
+[name="禮儀社員工"]不妨直說給小妹妹你聽，我司自成立以來承接業務無數，請團隊操辦喪事的，非富即貴，其中甚至有夠資格埋在市中心墓地的大人物。
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]怎麼，普通人就請不動你們嗎？
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]小妹妹，在龍門碰著親友過世的，多是從我們這裡購置些花圈香燭，自發聚在廣場上悼念悼念也就算辦過葬禮了。
+[name="禮儀社員工"]而你小小一隻寵物也要找專業團隊辦一場葬禮，未免太過奢侈。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]奢侈？那是要很多錢嗎？
+[name="小白"]那算了......我沒有那麼多錢，我不要專業團隊了，你這裡有什麼東西能用在寵物的葬禮上，我買幾樣回去。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]都是給人用的啊......寵物用的還真沒有。你朋友的寵物是什麼動物啊，我看看能不能從人用的裡面找幾樣。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]是一隻烏雲獸，這是它的照片。
+[Dialog]
+[PlaySound(key="$d_avg_paper2")]
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[Delay(time=1)]
+[name="禮儀社員工"]（嗯？看著怎麼有幾分眼熟......咦，這不是袁大小姐的烏雲獸嗎？）
+[name="禮儀社員工"]小妹妹，敢問你的朋友叫什麼啊？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]我叫她小沅。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]（她竟然直呼袁大小姐為小袁？難道這女孩是袁大小姐的朋友？）
+[name="禮儀社員工"]（幾日前袁家的確來過一通電話，為一隻走失的烏雲獸諮詢過葬禮相關的業務。）
+[name="禮儀社員工"]（難道，她正是代表袁大小姐來的？）
+[name="禮儀社員工"]嗯咳，那個，小袁小姐的烏雲獸最後還是沒找回來嗎？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]是啊，小沅拜託好多人找了好久都沒找到，最後哥哥找到了烏雲獸的項圈，上面全是血，估計是已經死掉了。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]（唉，袁大小姐雇了那麼多人，快把龍門翻個底朝天還沒找到，那估計真是凶多吉少了。）
+[name="禮儀社員工"]那冒昧問問小妹妹你，小袁小姐近來心情還好嗎？
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]小沅她看著很堅強，但我還是能感覺到她很傷心。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]（嘖，老闆一直想巴結上袁家，他家小姐我可不能怠慢啊。）
+[name="禮儀社員工"]（我這今天怎麼就沒看出來呢，想著給寵物辦葬禮的，怎麼會是等閒人家的孩子啊......）
+[name="禮儀社員工"]那真是太不幸了，小妹妹，你放心，這喪事你就交給我們去辦吧，最後打造出的效果一定會讓小袁小姐滿意的！
+[Character(name="avg_npc_597_1#5$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]可是你不是說給寵物辦葬禮是一件很奢侈的事嗎？
+[Character(name="avg_npc_597_1#5$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]小妹妹，我剛剛說的話你可千萬別往心裡去，能夠想小袁小姐之想，痛小袁小姐之痛，是我們的榮幸。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]啊，那你的意思是？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]這次葬禮的費用，將由本店一力承擔，就是在葬禮後，希望小袁小姐可以為我們老闆美言幾句。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]如果你們能把葬禮辦好，小沅她看見了一定會誇你們的。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]那真是太榮幸了，哈哈哈，那小姐你貴姓？
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]我姓羅。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]羅小姐，小袁小姐能有您這樣的朋友，真是有福氣。
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]（臉紅）嘿嘿嘿，也沒有啦。
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]請您跟我來，容我向您介紹本公司的幾項金牌業務。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[character(fadetime=0)]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_223#1")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]第一項，精緻紙紮。您現在看到的作品都是由我們從尚蜀聘請的紙紮世家傳人傾力打造。
+[name="禮儀社員工"]囊括了逝者生活的方方面面，根據不同年齡、性別、性格都有相匹配的套餐。
+[Character(name="avg_npc_597_1#6$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]居然還有遊戲機和手柄......那烏雲獸是寵物，也會有適用的紙紮嗎？
+[Character(name="avg_npc_597_1#6$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]小袁小姐的寵物所需的紙紮將專門定製，包含紙窩、紙碗、紙爬架，以及紙罐頭和凍乾一組。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]......真的很全面啊。
+[PlaySound(key="$d_avg_paper1", volume=1)]
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]請您再看第二項，炫彩花圈。
+[Character(name="avg_npc_597_1#10$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]這花圈顏色真的很豐富啊......感覺眼睛要花了。
+[Character(name="avg_npc_597_1#10$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]沒錯，這花圈是由九九八十一種顏色的花材排布而成，排布方式參考了五行八卦之說。
+[name="禮儀社員工"]擺在葬禮上旺家旺族旺後嗣，興產興業興桃花，是喪葬用品的不二之選。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]呃，烏雲獸那麼小，應該用不到這麼大的吧。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]到時我們會同比複製一個更小的送過去，上面的挽聯會找龍門著名書法家謝德豪親筆書寫。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]那還真是麻煩你們了。
+[PlaySound(key="$d_avg_paper1", volume=1)]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]還有最後一項，是我們的王牌服務，客戶對此一致好評。
+[Character]
+[Dialog]
+[Delay(time=1)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="身著黑衣的員工方陣"]爸爸啊我的爸爸，您可千萬走好啊！！！
+[Character(name="avg_npc_597_1#5$1",name2="avg_npc_223#1",focus=1)]
+[Characteraction(name="left", type="jump",power=30, times=1, fadetime=0.3,block=false)]
+[name="小白"]（嚇得一個激靈）
+[name="小白"]這是什麼呀！
+[Character(name="avg_npc_597_1#5$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]喂，你們不要在這裡排練了，嚇到客戶了，沒看到嗎？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]呃，還好，我沒什麼事......
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]這是我們的氣氛組，專門在葬禮上營造悲痛的情緒，令到場的來賓獲得沉浸式喪親體驗，全心全意投入到現場的氛圍中。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]那你們......寵物葬禮的氣氛組要怎麼安排？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]快，給這位小姐示範一個，要烏雲獸版的。
+[Character]
+[PlaySound(key="$d_avg_clothmovement")]
+[name="身著黑衣的員工方陣"]（齊齊戴上烏雲獸耳髮箍）
+[CameraShake(duration=1, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="身著黑衣的員工方陣"]喵嗷啊喵喵喵嗷，喵喵咪咪喵嗚嗚嗚！！！
+[Character(name="avg_npc_597_1#10$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]我......今天算是見識到了。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Background(image="31_g2_luo_reception",screenadapt="coverall")] 
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",fadetime=1)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]羅小姐，你確定位址是在這裡嗎？
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]對啊，我們當時確認過很多遍了。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]你確定小袁小姐住在這裡嗎？
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]沒錯，就是這裡。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]那好，您的東西我已經讓工人搬到門口了，再次確認，您真不需要我們介紹的法師來主持葬禮嗎？他們都是有著豐富超度經驗的高僧。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]謝謝，但我們已經有人選了。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]可否方便透露下是......？
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]是我和小沅的朋友，她從東國來，因為從小長在神社裡，所以對各種儀式並不陌生。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]啊，原來是小袁小姐的朋友，是我孤陋寡聞了。
+[name="禮儀社員工"]（原來現在上流社會的葬禮流行請外來的和尚念經，那我們之後是不是也應該投其所好來制訂一套方案供他們選擇......）
+[name="禮儀社員工"]既然如此，羅小姐，我就不在此逗留了，公司還有事情，後續要是還有需要我們幫忙的，您招呼就行。
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]辛苦啦，真是謝謝你們了。
+[Dialog]
+[Character(name="avg_npc_597_1#3$1",name2="char_empty",fadetime=0.5)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#3$1",name2="char_empty",focus=-3)]
+[PlaySound(key="$doorknockquite")]
+[Delay(time=1)]
+[PlaySound(key="$dooropenquite")]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#2$1",name2="char_empty",focus=1)]
+[name="小白"]小沅，你怎麼在外面？直接進來就好了。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1")]
+[characteraction(name="right", type="move", xpos=150, fadetime=0, block=false)]
+[characteraction(name="right", type="move", xpos=-150, fadetime=1.5, block=false)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]小白，那個叔叔是？
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]是位好心人，本來我只是打算買一些東西回來自己佈置的，但是在我給他看過六十七的照片後，他突然主動提出要幫我們。
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]地上擺了這麼多東西，一定很貴吧，小白，你是不是花了很多錢？
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]沒有，那個好心的員工說費用由他們來出，還問了你怎麼樣，有沒有很傷心。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]真的很難得，我以為沒有什麼人願意幫我們這樣的人。
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]你快來看看，怎麼樣？沒想到他們居然只花了一天就趕製出來了。
+[Character(name="avg_npc_597_1#3$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]好看，像真的一樣，就是六十七還在的時候......都沒有用過這麼好的東西。
+[name="小沅"]早知道這樣，剛剛他還在的時候，我就該進來說些感謝的話。
+[name="小沅"]謝謝他，也謝謝你，小白，謝謝你為我做的事情，這些我想都不敢想的事情。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]我也要謝謝你呢。
+[Character(name="avg_npc_597_1#6$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]來到這裡以後，大家都忙忙碌碌的，可我好像什麼忙都幫不上。
+[name="小白"]我不會治病，不會法術，更不會修東西，我只能乾看著，看這裡的病人痛苦，悲傷，甚至......離去。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]所以，能幫上你的忙，我真的很開心，謝謝你願意相信我。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]（搖頭）你很好了。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]不說這些啦，我們差不多可以開始佈置葬禮了！
+[name="小白"]但是鈴蘭怎麼還沒回來，我還想請她幫忙主持一下呢。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]按往常說，她應該已經結束今天的儀式回來了。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]那我去找她吧，你在這裡等我一下！
+[Dialog]
+[playsound(key="$rungeneral", loop=true, channel="a")]
+[Character(name="char_empty",name2="avg_npc_045_nn_1#1",fadetime=0.5)]
+[Delay(time=1)]
+[StopSound(channel="a", fadetime=0.5)]
+[Character(name="char_empty",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]（歪頭看著小白跑遠的身影）
+[name="小沅"]要是我也能像小白一樣就好了......那麼直率，那麼勇敢。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Background(image="bg_lungmen_b",screenadapt="coverall")] 
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="avg_npc_223#1",fadetime=0.5)]
+[name="禮儀社員工"]老兄啊，你都不知道我剛剛招待了一個什麼樣的客戶，說出來你都不信——袁家的大小姐。
+[Dialog]
+[Character]
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]（欸，那位先生還沒有離開嗎？）
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]（要不要上去打個招呼？但是他在講電話，看起來很忙的樣子。）
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]（算了，等一下吧。）
+[Character(name="avg_npc_223#1")]
+[name="禮儀社員工"]小袁小姐，前些時候給老闆打過電話的那個，想起來了嗎？
+[name="禮儀社員工"]她說自己的烏雲獸上個月丟了，要是找不到就找我們辦場葬禮，今天她朋友就找來了。
+[Character(name="avg_npc_597_1#6$1")]
+[name="小白"]（不對啊，小沅的烏雲獸不是一年前丟的嗎？）
+[Character(name="avg_npc_223#1")]
+[name="禮儀社員工"]但她朋友給的地址有些奇怪，要我把東西送到一家叫羅德島的醫藥公司，而不是袁家。
+[name="禮儀社員工"]不過也不是說不通，袁家做了多年的化妝品生產，想再擴展做些醫藥生意也不奇怪。
+[Character(name="avg_npc_597_1#1$1")]
+[name="小白"]（“沅”家？沅不是姓，是名字啊......什麼化妝品，我沒有見過這裡的幹員們生產過呀。）
+[Character(name="avg_npc_223#1")]
+[name="禮儀社員工"]好了不說了，能攀上袁家這層關係，對公司對我自己，都是好事。
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]（為什麼他說的這些聽起來都不是在說小沅？）
+[Character(name="avg_npc_597_1#6$1")]
+[name="小白"]（難道是有什麼誤會嗎？）
+[Dialog]
+[Delay(time=1)]
+[StopMusic(fadetime=2)]
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]想不明白，我還是先去找鈴蘭吧。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.4)]
+[Background(image="bg_lungmenbridge",screenadapt="coverall")] 
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#9$1",fadetime=1)]
+[Delay(time=2)]
+[name="小白"]這就是感染者舉辦葬禮的地方啊......和早上見到的那個公園，差別也太大了吧。
+[Dialog]
+[Delay(time=1)]
+[name="小白"]這些照片是供人祭奠用的嗎？
+[Character(name="avg_npc_597_1#9$1")]
+[name="小白"]這上面的人，好多都還很年輕......
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]這不是......六十七？
+[Character(name="avg_npc_597_1#6$1")]
+[name="小白"]照片的另一半被蓋住了呢。
+[Dialog]
+[characteraction(name="middle", type="move", xpos=-20, fadetime=0.4, block=true)]
+[Blocker(a=0,fadetime=0.4, block=true)]
+[characteraction(name="middle", type="move", xpos=20, fadetime=0.3, block=true)]
+[name="小白"]（伸手撥開蓋在上面的照片）
+[Character(name="avg_npc_597_1#1$1")]
+[name="小白"]嗯，奇怪，這個抱著六十七的男人是誰？
+[Character(name="avg_npc_597_1#9$1")]
+[name="小白"]......怎麼回事？
+[Character(fadetime=1)]
+[Dialog]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
+[Subtitle(text="眾生一切，苦厄無終，複始輪轉，重入安樂。",x=300, y=370, alignment="center", size=24, width=700)]
+[Subtitle]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]是鈴蘭的誦經聲？！
+[Dialog]
+[playsound(key="$rungeneral", loop=true, channel="bgs")]
+[Character(name="avg_npc_597_1#5$1",name2="char_358_lisa_1#1")]
+[characteraction(name="left", type="move", xpos=-200, fadetime=0, block=false)]
+[characteraction(name="left", type="move", xpos=200, fadetime=1, block=false)]
+[StopSound(channel="bgs", fadetime=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#3$1",name2="char_358_lisa_1#4",focus=1)]
+[name="小白"]鈴蘭！
+[Character(name="avg_npc_597_1#3$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]小白，你怎麼過來了？
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]看你到現在也沒回去辦事處，所以過來找你。
+[Character(name="avg_npc_597_1#2$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]啊，原來不知不覺都到這個時候了，我光顧著祈禱，連太陽在天上換了位置都不知道。
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]這些照片裡的人都是最近去世的患者嗎？我都不知道原來有那麼多人。
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]不只是羅德島的病人，還有其他的感染者。他們沒有墓地，也沒有什麼錢來辦葬禮，所以便有親友把逝者的照片掛在這片空地供人弔唁。
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#4",focus=1)]
+[name="小白"]什麼都沒有，只有照片嗎？
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]有照片就已經很好了，有些人......連照片也沒有啊。
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#4",focus=1)]
+[name="小白"]這樣啊......
+[name="小白"]鈴蘭......你剛剛是在為所有去世的感染者祈禱嗎？
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]萬物皆有靈，死亡不是生命的終結，這些照片就這樣被留在這裡，我實在不忍心，所以多念幾遍經文，希望它們的主人都能離苦得樂。
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]這樣就可以了嗎？
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]我也不知道，可我也只能做這些事了......
+[Character(name="avg_npc_597_1#7$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]為什麼呢？難道得了礦石病，不單是不能好好活著，死了也不能被好好安葬嗎？
+[Character(name="avg_npc_597_1#6$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]我不明白。
+[Dialog]
+[Character(fadetime=0.5)]
+[Delay(time=1)]
+小白想起昨天去過的公園，乾淨平整的草地上擺放著蠟燭與鮮花，參加葬禮的人形形色色，表情肅穆，神色哀傷。
+但這一切都與此地無關。
+這裡風化的照片、銹蝕的鐵絲網、刺耳的噪音和彌漫在空氣中的嗆人味道無一不在告訴她——
+感染者離開時能帶走的，唯有生命本身。
+[Character(name="avg_npc_597_1#6$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]......發生什麼了嗎，小白？
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#1",focus=1)]
+[name="小白"]有人......
+[name="小白"]讓我見識到了一場很不一樣的葬禮。
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]不是感染者的，對嗎？
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#4",focus=1)]
+[name="小白"]嗯，很風光。
+[Character(name="avg_npc_597_1#1$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]是誰的？
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#4",focus=1)]
+[name="小白"]一隻......寵物的。
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#3",focus=2)]
+[name="鈴蘭"]寵物？！
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Background(image="31_g2_luo_reception",screenadapt="coverall")] 
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]所以你的朋友不是小袁小姐？！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]我不知道你說的人是誰，但你說的那個人肯定不是我的朋友小沅。
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=2)]
+[name="禮儀社員工"]那你為什麼不早說？！你這個小騙子！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_223#1",focus=1)]
+[name="小白"]難道不是你一開始就搞錯了嗎？我又沒有要騙你！
+[Character(name="avg_npc_223#1")]
+[name="禮儀社員工"]真是倒大楣了，老闆知道非得罵死我不可。
+[name="禮儀社員工"]都搬走，趕緊把這些都搬走，一個也別留。
+[Character]
+[CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=20, randomness=20, block=false)]
+[name="身著黑衣的員工方陣"]是！
+[Character(name="char_016_medic")]
+[name="醫療幹員"]這種時候也這麼整齊劃一啊？
+[Character(name="avg_npc_223#1")]
+[name="禮儀社員工"]你們懂什麼！這就是專業！
+[name="禮儀社員工"]走了走了，晦氣死了。
+[Dialog]
+[characteraction(name="middle", type="move", xpos=200, fadetime=1,block=true)]
+[Blocker(a=0, fadetime=0.3, block=true)]
+[Character(fadetime=0.3)]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_soldiersrun",volume=0.5)]
+[CameraShake(duration=3,xstrength=2,ystrength=3,vibrato=10,randomness=90,fadeout=true,block=true)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#1$1",name2="char_016_medic",fadetime=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_597_1#9$1",name2="char_016_medic",focus=1)]
+[name="小白"]敏敏姐，他回去不會讓我們賠償吧？
+[Character(name="avg_npc_597_1#9$1",name2="char_016_medic",focus=2)]
+[name="醫療幹員"]應該不會，龍門這地方，走人情托關係都是不能拿到明面上來的，他應該走的私帳，只能自己吃這個啞巴虧了。
+[Character(name="avg_npc_597_1#9$1",name2="char_016_medic",focus=1)]
+[name="小白"]說實話......我還有點過意不去。
+[Character(name="avg_npc_597_1#9$1",name2="char_016_medic",focus=2)]
+[name="醫療幹員"]有什麼過意不去的，這種看人下菜碟的傢伙就該吃吃這種虧。走，去找小沅吧，她說她在那片空地上等你。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Background(image="bg_lungmenbridge",screenadapt="coverall")] 
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#9$1",fadetime=1)]
+[Delay(time=2)]
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]小白，你來了！那傢伙沒有為難你吧。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]沒有，那是他那邊搞出的烏龍......
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]那就好，咱們不和他摻和到一起。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1",focus=1)]
+[name="小白"]只是，我得和你說一句對不起，是我答應你要幫六十七辦一場葬禮，現在東西都被他帶走了，什麼也沒留下。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1",focus=2)]
+[name="小沅"]沒留下最好，我也不想用。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1",focus=1)]
+[name="小白"]可......這些東西的確都很漂亮。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1",focus=2)]
+[name="小沅"]是的，很漂亮，也很體面，但看見它們我就難受。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_045_nn_1",focus=1)]
+[name="小白"]你不滿意那些用品嗎？
+[Character(name="avg_4040_rockr_1#1$1")]
+[name="洛洛"]我想小沅的意思是，那樣的體面是屬於那些高高在上的人的。小沅想擁有的，是感染者自己的體面。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_045_nn_1",focus=2)]
+[name="小沅"]嗯......是這樣的。
+[Character(name="avg_4040_rockr_1#1$1")]
+[name="洛洛"]要是假借別的身份才能得到尊嚴，那又有什麼意義呢......
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_045_nn_1",focus=2)]
+[name="小沅"]所以謝謝你告訴了我實情，小白。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1",focus=1)]
+[name="小白"]你不要謝我了，到了最後我還是什麼都沒能幫你們做成。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#9$1",name2="avg_4040_rockr_1#1$1",focus=2)]
+[characteraction(name="right", type="move", xpos=150, fadetime=0,block=true)]
+[characteraction(name="right", type="move", xpos=-150, fadetime=1.7,block=true)]
+[Delay(time=2)]
+[CameraShake(duration=0.5, xstrength=10, vibrato=5, randomness=90, fadeout=true, block=false)]
+[name="洛洛"]（摸摸小白的頭）
+[name="洛洛"]小白，不要這樣說。
+[name="洛洛"]每個人的生活中，能夠完成的事情只占很少一部分，但它並不能代表全部的你，而你為它花費的時間與心意也並不是全無意義。
+[Character(name="avg_npc_597_1#9$1",name2="avg_4040_rockr_1#12$1",focus=2)]
+[name="洛洛"]所以謝謝你，每次都願意熱心地幫我忙，雖然......你並不能幫我修好機器。
+[Character(name="avg_npc_597_1#9$1",name2="avg_4040_rockr_1#12$1",focus=1)]
+[name="小白"]這根本不是安慰吧......洛洛姐。
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#5",focus=2)]
+[name="鈴蘭"]哈哈哈，那我也得謝謝你，雖然你並不能治療礦石病，但你靠近我們時卻也從不在意它。
+[Character(name="avg_npc_597_1#9$1",name2="char_358_lisa_1#5",focus=1)]
+[name="小白"]哪有那麼好......
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1",focus=2)]
+[name="小沅"]（伸手）
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1",focus=1)]
+[name="小白"]這是做什麼？
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]我要接住你眼睛裡掉下來的金豆豆，可值錢啦。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="小白"]哥哥，你都不幫我說句話嗎？！
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#3$1",focus=2)]
+[name="阿根"]哈哈哈，他們說的都沒有錯啊。
+[CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#3$1",focus=1)]
+[name="小白"]哥哥！
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(fadetime=0)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(name="char_358_lisa_1#1",fadetime=1)]
+[Delay(time=1)]
+[name="鈴蘭"]萬事萬物，都是從相遇開始的，這是爸爸告訴我的。
+[name="鈴蘭"]而後媽媽又和我說，一切的終點，都是一次痛苦的離別。
+[name="鈴蘭"]於是我問他們，在相遇與離別之間的又是什麼？
+[name="鈴蘭"]他們回答我說，是一個又一個的奇跡。
+[name="鈴蘭"]所以我們齊聚在這裡，為那些勇敢走入我們生命的朋友，感謝他們在我們空白荒蕪的內心留下了名為理解、寬容、陪伴和支持的奇跡。
+[name="鈴蘭"]而這些足夠我們受用一生的奇跡，僅僅是因為——
+[name="鈴蘭"]我遇見了你，而你也遇見了我。
+[Dialog]
+[Character(fadetime=1)]
+[Delay(time=2)]
+[Character(name="avg_npc_045_nn_1",fadetime=0.5)]
+[name="小沅"]謝謝你，六十七。
+[Dialog]
+[Character(fadetime=2)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
+[Subtitle(text="傍晚的風夾雜著自黑夜中而來的慟哭與悲泣，被太陽暴曬過的野草和被水氣銹蝕的圍欄沙沙地應和，唱起一支憂傷的小曲。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一張烏雲獸的照片被女孩掛在破舊的鐵絲網上，同旁邊那些褪色發黃的照片在晚風裡絮絮低語，微弱不可聞。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="所有人沉默著，放任天色轉暗，默許黑夜奔襲而來。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="可夕陽不屈服，堅持用最後一片鮮活的紅色撕破昏暗的天空。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[StopMusic(fadetime=1)]
+[Subtitle(text="而寂靜，被一聲呼喚打破。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]       
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="？？？"]小白？！阿根？！
+[name="？？？"]......你們怎麼也在這裡？
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]（驚訝地回頭）
+[Character(name="avg_npc_598_1#4$1")]
+[name="阿根"]我沒看錯吧......
+[Dialog]
+[Character]
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_599_1#1$1",fadetime=1)]
+[Delay(time=2)]
+[Character(name="avg_npc_045_nn_1#3")]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="小沅"]六十七！
+[Dialog]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[stopmusic(fadetime=2)]
+[Character]

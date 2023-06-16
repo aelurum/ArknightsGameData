@@ -1,0 +1,4 @@
+[HEADER(is_skippable=true, is_autoable=false)] 活动13mini_sub1-1_b
+
+[PopupDialog(dialogHead="$avatar_lolxh")] 可惡，怎麼越來越多了......
+[PopupDialog(dialogHead="$avatar_dusk")] 你們這些小傢伙鬧夠了沒，還不回來。

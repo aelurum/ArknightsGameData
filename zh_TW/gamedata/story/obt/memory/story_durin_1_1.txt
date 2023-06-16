@@ -198,7 +198,7 @@
 [name="杜林"]快，快把這個大傢伙機械臂下面的蓋子打開，主控制箱大概就在那裡面。
 [Character(name="AVG_char_501_Durin_1",name2="char_379_sesa_1#3",focus=2)]
 [name="懾砂"]嘎，哦，哈？
-[Character(name="AVG_char_501_Durin_1",name2="char_379_sesa_1#3",focus=2)]
+[Character(name="AVG_char_501_Durin_1",name2="char_379_sesa_1#3",focus=1)]
 [name="杜林"]你會操作那個嗎？要不然，嗯......我覺得直接轟掉那裡也行。
 [name="杜林"]快快。別發呆，就是我剛剛打中的那個位置~
 [name="杜林"]再愣著一會又要吃炮彈囉？

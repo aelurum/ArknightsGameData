@@ -5417,7 +5417,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_moeshd_set_1",
+          "storySetName": "生意場",
+          "sortId": 1,
+          "storyGetTime": 1685431800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_moeshd_set_1_story_1",
+              "storySetId": "story_moeshd_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "買進賣出，過手皆為煙雲。",
+              "storyInfo": "info/obt/memory/story_moeshd_1_1",
+              "storyTxt": "obt/memory/story_moeshd_1_1"
+            }
+          ],
+          "charId": "char_201_moeshd"
+        }
+      ]
     },
     "char_118_yuki": {
       "charID": "char_118_yuki",
@@ -25112,7 +25146,74 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_kirara_set_1",
+          "storySetName": "隱藏結局",
+          "sortId": 1,
+          "storyGetTime": 1685431800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_kirara_set_1_story_1",
+              "storySetId": "story_kirara_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "“中間沒有任何波折。一切順利。”",
+              "storyInfo": "info/obt/memory/story_kirara_1_1",
+              "storyTxt": "obt/memory/story_kirara_1_1"
+            }
+          ],
+          "charId": "char_478_kirara"
+        },
+        {
+          "storySetId": "story_kirara_set_2",
+          "storySetName": "無傷通關",
+          "sortId": 2,
+          "storyGetTime": 1685431800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "60",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "200",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_kirara_set_2_story_1",
+              "storySetId": "story_kirara_set_2",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "“一切都在計劃之中！”",
+              "storyInfo": "info/obt/memory/story_kirara_2_1",
+              "storyTxt": "obt/memory/story_kirara_2_1"
+            }
+          ],
+          "charId": "char_478_kirara"
+        }
+      ]
     },
     "char_369_bena": {
       "charID": "char_369_bena",
@@ -31098,6 +31199,157 @@
       ],
       "handbookAvgList": []
     },
+    "char_4067_lolxh": {
+      "charID": "char_4067_lolxh",
+      "drawName": "九日九號",
+      "infoName": "Unknown",
+      "isLimited": true,
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】小黑\n【性別】男\n【戰鬥經驗】未知\n【出身地】未知\n【生日】11月1日\n【種族】菲林\n【身高】未知\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】優良 \n【戰場機動】優良 \n【生理耐受】標準 \n【戰術規劃】標準 \n【戰鬥技巧】優良 \n【源石技藝適應性】■■",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "羅小黑，經老鯉推薦而來的菲林小朋友，善良卻不軟弱，勇敢卻不魯莽。經過考核後，正式成為羅德島的近衛幹員。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n \n【體細胞與源石融合率】0%\n小黑沒有被源石感染的跡象。\n \n【血液源石結晶密度】未公開\n根據醫療部決議，不公開相關資料。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "雖然小黑年紀尚幼，卻有著遠超同齡人水準的戰鬥能力。隨他一起來到羅德島的，還有他的朋友小白與阿根，以及一隻名叫比丟的珍稀動物。三人初登島時，出於對陌生人和新環境的戒備，他們並不願全盤交托自己的經歷，但從他們不慎透露出的一些隻言片語中，可以簡單推斷出，小黑與他的朋友阿根有著極為特殊的能力，可以不依靠源石施放法術，而這種被他們稱為“御靈能力”的技藝目前尚未在任何泰拉官方資料中記錄過，故而吸引了很多好奇的幹員前來學習，但無一例外，都只能無功而返。\n從表現來看，小黑的御靈能力不僅可以改變金屬的物理性質，自由操控金屬物體高速移動，還可以透過感知金屬物體的位置來追蹤敵人和控制金屬振動發出噪音來進行干擾。除此外，他還擁有令人稱奇的遠距離傳送能力，可以在短時間內迅速轉移自身和其他幹員的位置。不論是從施術範圍還是強度來講，小黑的能力都實屬罕見，但他年紀還小，未曾接受過系統的教育，可以說，他還有巨大的潛力尚未發掘。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "只有在親近的人面前，小黑才會表現出他稚氣的一面，而在眾人面前，他常是一副寡言少語的樣子。小黑可愛的外表吸引了很多幹員，大家都想與他變得親近。但他在相處過程中表現出的不苟言笑也讓不少人產生了退卻的心思，但那並非拒絕你的訊號，只是他刻意想要展現給你的可靠形象。大多數情況下，那隻跳上你肩膀的小黑團子就足以說明，他已經開始接受你作為他的夥伴了。如果你的身邊沒有小黑團子，那就好好回想一下，剛剛的你是不是不經允許便摸了他的耳朵。\n多數時間裡小黑會和他的朋友小白阿根在一起，與安靜的小黑不同，活潑的小白與健談的阿根更易親近，和他們融洽相處也可以增進小黑對你的好感。除此外，在訓練室與他好好切磋一番也可以拉近你與小黑之間的距離，如果你還帶著一些好吃的零食，不妨分享給小黑，他會更加高興的。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "小黑偶爾會提及自己的師父——無限，談到無限時，他的語氣永遠充滿了崇敬與自豪，從他的話語中我們能感受到無限的一言一行都影響了懵懵懂懂的小黑，長久以來，和無限一樣成為神秘組織“會館”的執行者一直都是小黑的願望，為了這個目標，小黑付出的努力與心血難以想像。不過在遇到小白與阿根後，小黑對自己要做的事情有了更多的想法，渴望與朋友一起讀書和玩耍，去更遠的地方，見更多的面孔，針對這些思考，我們願意給予最大程度的支持來幫助他成長為自己希冀的樣子。\n【備註】\n雖然小黑本人對加入作戰小隊外出執行任務表現積極，即使遇到強力的敵人也全然不懼，但我們並不願讓他過多地參與戰鬥。小黑在戰鬥中表現出的態度越沉著，技巧越純熟，我們的內心就越忐忑，這個年紀正是孩子吸收知識的關鍵時期，無論如何，我們都不希望他的課堂是在戰場上。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在教授小黑的過程中，我意識到，儘管小黑對於源石與礦石病的認識並不全面，但談起備受歧視的感染者和因天災而流離失所的難民，他會由衷地為這些人正在經受的苦難感到悲傷與痛苦。但這樣的情緒似乎並不僅僅是因為孩童的善良天性，其中摻雜的或許還有源自他自身過往的強烈共鳴。\n在請示過上級後，我和其他教官達成共識，不去深究他曾經的經歷，也不刻意對小黑進行心理干預。經過評估，我們認為他如今的狀態已經非常理想，面對陌生人的善意和惡意，他都可以相對從容地應對且給出正確積極的回饋，而在與同伴的相處過程中，他表現出的責任心與正義感也讓我們覺得異常驚喜。\n——摘自《幹員訓練日誌》",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“獸親？”\n“......博士，其實那不是我的獸親。”小黑絞緊了自己的衣角，看起來似乎有些緊張。\n“嗯，不過博士是我信任的人，告訴你沒有關係的。”\n“其實那隻貓......就是我自己。”\n一件不可思議的事情就這樣發生在了你眼前，小黑的身體不斷地縮小，最終變幻為一隻小巧的黑貓蹲坐在地板上，睜著圓圓的眼睛抬頭望向你。\n“喵嗷！”\n本來你還有許多問題想要問他，但最終都沒有問出來，因為他輕輕蹭你褲腿的樣子讓你只想趕快摸摸他毛茸茸的小腦袋。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": [
+        {
+          "storySetId": "story_lolxh_set_1",
+          "storySetName": "夜遊船",
+          "sortId": 1,
+          "storyGetTime": 1686639600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_lolxh_set_1_story_1",
+              "storySetId": "story_lolxh_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "有些夜裡，睡意不能如約而至，所以思念代替了它的位置。",
+              "storyInfo": "info/obt/memory/story_lolxh_1_1",
+              "storyTxt": "obt/memory/story_lolxh_1_1"
+            }
+          ],
+          "charId": "char_4067_lolxh"
+        }
+      ]
+    },
     "char_4064_mlynar": {
       "charID": "char_4064_mlynar",
       "drawName": "竜崎いち",
@@ -34832,6 +35084,93 @@
       "zoneNameForShow": "切爾諾伯格",
       "picId": "story_loading4",
       "stageGetTime": 1684216800
+    },
+    "char_1014_nearl2": {
+      "charId": "char_1014_nearl2",
+      "stageId": "mem_nearl2_1",
+      "levelId": "Obt/Memory/level_memory_nearl2_1",
+      "zoneId": "storyMission",
+      "code": "mem_nearl2_1",
+      "name": "出鞘",
+      "loadingPicId": "loading_Kazimierz_Final",
+      "description": "臨光並不會將“耀騎士”的稱號作為自己的榮耀，但她也深知，“耀騎士”這個稱呼，這個符號，已經激勵了眾多為自己理想而堅持奮鬥的人。所以，她願意以這份期待為榮，以這份認可為榮，仍舊站在她所行之路的最前方，衝破一切束縛。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "競技賽場",
+      "zoneNameForShow": "卡西米爾",
+      "picId": "story_loading_Kazimierz_Final",
+      "stageGetTime": 1685431800
+    },
+    "char_201_moeshd": {
+      "charId": "char_201_moeshd",
+      "stageId": "mem_moeshd_1",
+      "levelId": "Obt/Memory/level_memory_moeshd_1",
+      "zoneId": "storyMission",
+      "code": "mem_moeshd_1",
+      "name": "重重一擊",
+      "loadingPicId": "loading4",
+      "description": "見到可頌第一面時，大家總會因她嬌小身軀所蘊藏的巨大力量感到驚奇。寄送快遞時她不費吹灰之力便能獨自搬運十幾箱重物，身處戰場時她也能以一人之力抵擋眾多身形龐大的敵人。不過，和朋友相聚時，她抱住對方的力道卻總是很輕柔。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "摧毀後",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading4",
+      "stageGetTime": 1685431800
+    },
+    "char_478_kirara": {
+      "charId": "char_478_kirara",
+      "stageId": "mem_kirara_1",
+      "levelId": "Obt/Memory/level_memory_kirara_1",
+      "zoneId": "storyMission",
+      "code": "mem_kirara_1",
+      "name": "最佳拍檔",
+      "loadingPicId": "loading_Wolumonde",
+      "description": "綺良確實喜歡獨處，但這並不意味著她在戰場上也是孤身一人。與戰友保持適當的距離，就不必再擔心自己無暇對付的敵人，她可以放心地把自己的能力發揮到極致。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "黃昏街道",
+      "zoneNameForShow": "沃倫姆德",
+      "picId": "story_loading_Wolumonde",
+      "stageGetTime": 1685431800
     }
   },
   "handbookStageTime": [
@@ -35055,6 +35394,14 @@
         "char_422_aurora",
         "char_388_mint",
         "char_452_bstalk"
+      ]
+    },
+    {
+      "timestamp": 1685431800,
+      "charSet": [
+        "char_1014_nearl2",
+        "char_201_moeshd",
+        "char_478_kirara"
       ]
     }
   ]

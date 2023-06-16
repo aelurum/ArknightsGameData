@@ -9666,6 +9666,34 @@
           ]
         }
       ]
+    },
+    "char_4067_lolxh": {
+      "charId": "char_4067_lolxh",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_proc_cost[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_lolxh[000]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   "buffs": {
@@ -11660,6 +11688,30 @@
       "buffCategory": "FUNCTION",
       "roomType": "WORKSHOP",
       "description": "進駐加工站加工<@cc.kw>任意類材料</>時，副產品的產出機率提升<@cc.vup>70%</>"
+    },
+    "workshop_proc_cost[000]": {
+      "buffId": "workshop_proc_cost[000]",
+      "buffName": "御靈之力·金",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_lolxh",
+      "sortId": 7112,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "進駐加工站加工原始心情消耗為<@cc.kw>8</>的<@cc.kw>任意類材料</>時，副產品的產出機率提升<@cc.vup>50%</>"
+    },
+    "workshop_formula_lolxh[000]": {
+      "buffId": "workshop_formula_lolxh[000]",
+      "buffName": "化貓",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_cost_lolxh",
+      "sortId": 7112,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "進駐加工站加工<@cc.kw>任意類材料</>時，心情消耗為<@cc.kw>4</>以上的配方全部除以<@cc.vup>4</>心情消耗"
     },
     "workshop_formula_bonus1[000]": {
       "buffId": "workshop_formula_bonus1[000]",

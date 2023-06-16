@@ -4120,6 +4120,104 @@
         "onPeriod": 0
       }
     },
+    "char_4067_lolxh#1": {
+      "skinId": "char_4067_lolxh#1",
+      "charId": "char_4067_lolxh",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4067_lolxh_1",
+      "dynIllustId": null,
+      "avatarId": "char_4067_lolxh",
+      "portraitId": "char_4067_lolxh_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#91472b",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Luo Xiaohei",
+        "drawerName": "九日九號",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4067_lolxh#2": {
+      "skinId": "char_4067_lolxh#2",
+      "charId": "char_4067_lolxh",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4067_lolxh_2",
+      "dynIllustId": null,
+      "avatarId": "char_4067_lolxh_2",
+      "portraitId": "char_4067_lolxh_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": "char_4067_lolxh#1",
+      "voiceType": "ILLUST",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#b94829",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Luo Xiaohei",
+        "drawerName": "九日九號",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_237_gravel#1": {
       "skinId": "char_237_gravel#1",
       "charId": "char_237_gravel",
@@ -26650,6 +26748,46 @@
         "onPeriod": 0
       }
     },
+    "trap_085_paras#1": {
+      "skinId": "trap_085_paras#1",
+      "charId": "trap_085_paras",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_085_paras_1",
+      "dynIllustId": null,
+      "avatarId": "trap_085_paras",
+      "portraitId": "trap_085_paras_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_230_savage#1": {
       "skinId": "char_230_savage#1",
       "charId": "char_230_savage",
@@ -29338,6 +29476,54 @@
         "getTime": 1684216800,
         "onYear": 2,
         "onPeriod": 19
+      }
+    },
+    "char_496_wildmn@epoque#16": {
+      "skinId": "char_496_wildmn@epoque#16",
+      "charId": "char_496_wildmn",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_496_wildmn_epoque#16",
+      "dynIllustId": null,
+      "avatarId": "char_496_wildmn_epoque#16",
+      "portraitId": "char_496_wildmn_epoque#16",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_496_wildmn_epoque#16",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_496_wildmn_epoque#16"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "正義締造者",
+        "colorList": [
+          "#54574f",
+          "#dc696e",
+          "#769ea0",
+          "#54574f",
+          "#343434",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Wild Mane",
+        "drawerName": "NoriZC",
+        "skinGroupId": "2022#epoque#3",
+        "skinGroupName": "時代/XVI",
+        "skinGroupSortIndex": 24,
+        "content": "<color name=#ffffff>EPOQUE系列新款/正義締造者。野鬃在修理“正義騎士號”時的著裝，面料透氣舒適，耐磨經髒，搭配的異色飾品於細節處體現設計感。</color>",
+        "dialog": "EPOQUE系列新款/正義締造者。野鬃在修理“正義騎士號”時的著裝，面料透氣舒適，耐磨經髒，搭配的異色飾品於細節處體現設計感。",
+        "usage": "野鬃的私服之一。",
+        "description": "無論是對改造後的“正義騎士號”，還是對未來的紅松騎士團，她都充滿信心。",
+        "obtainApproach": "採購中心",
+        "sortId": 40,
+        "displayTagId": null,
+        "getTime": 1685431800,
+        "onYear": 2,
+        "onPeriod": 20
       }
     },
     "char_120_hibisc@nian#1": {
@@ -36736,6 +36922,102 @@
         "onPeriod": 10
       }
     },
+    "char_358_lisa@lxh#1": {
+      "skinId": "char_358_lisa@lxh#1",
+      "charId": "char_358_lisa",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_358_lisa_lxh#1",
+      "dynIllustId": null,
+      "avatarId": "char_358_lisa_lxh#1",
+      "portraitId": "char_358_lisa_lxh#1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_358_lisa_lxh#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_358_lisa_lxh#1"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "春之頌",
+        "colorList": [
+          "#667d43",
+          "#fff4bd",
+          "#dbcda2",
+          "#5b5d54",
+          "#9cad4f",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Suzuran",
+        "drawerName": "將",
+        "skinGroupId": "2022#lxh",
+        "skinGroupName": "羅小黑戰記",
+        "skinGroupSortIndex": 75,
+        "content": "<color name=#ffffff>《羅小黑戰記》合作服裝/春之頌。泰拉中部常見的鄉村服飾，簡約大方，耐磨耐髒，更加適應出行、郊遊等日常場合。</color>",
+        "dialog": "《羅小黑戰記》合作服裝/春之頌。泰拉中部常見的鄉村服飾，簡約大方，耐磨耐髒，更加適應出行、郊遊等日常場合。",
+        "usage": "鈴蘭的私服之一。",
+        "description": "樹葉篩下陽光，她和新認識的朋友徜徉林間，笑靨如花朵般明媚。",
+        "obtainApproach": "採購中心",
+        "sortId": 188,
+        "displayTagId": "聯動獲得",
+        "getTime": 1686641400,
+        "onYear": 2,
+        "onPeriod": 21
+      }
+    },
+    "char_4040_rockr@lxh#1": {
+      "skinId": "char_4040_rockr@lxh#1",
+      "charId": "char_4040_rockr",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4040_rockr_lxh#1",
+      "dynIllustId": null,
+      "avatarId": "char_4040_rockr_lxh#1",
+      "portraitId": "char_4040_rockr_lxh#1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_4040_rockr_lxh#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_4040_rockr_lxh#1"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "歡唱之前",
+        "colorList": [
+          "#a8506f",
+          "#2b265a",
+          "#fbc6dc",
+          "#5b5e70",
+          "#b24959",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Rockrock",
+        "drawerName": "Cenm0",
+        "skinGroupId": "2022#lxh",
+        "skinGroupName": "羅小黑戰記",
+        "skinGroupSortIndex": 75,
+        "content": "<color name=#ffffff>《羅小黑戰記》合作服裝/歡唱之前。衣料的亮面材質與鮮豔用色盡顯活力，貼身內搭與大號外套的搭配兼具舒適度與時尚感。</color>",
+        "dialog": "《羅小黑戰記》合作服裝/歡唱之前。衣料的亮面材質與鮮豔用色盡顯活力，貼身內搭與大號外套的搭配兼具舒適度與時尚感。",
+        "usage": "洛洛的私服之一。",
+        "description": "在給新朋友挑禮物這件事上，洛洛熱情無限，但接下來的歡迎活動是——帶小黑連唱十二首歌？這倒是讓她有些為難。",
+        "obtainApproach": "採購中心",
+        "sortId": 189,
+        "displayTagId": "聯動獲得",
+        "getTime": 1686641400,
+        "onYear": 2,
+        "onPeriod": 21
+      }
+    },
     "char_332_archet@shining#1": {
       "skinId": "char_332_archet@shining#1",
       "charId": "char_332_archet",
@@ -37321,6 +37603,10 @@
     "char_271_spikes": {
       "0": "char_271_spikes#1",
       "2": "char_271_spikes#2"
+    },
+    "char_4067_lolxh": {
+      "0": "char_4067_lolxh#1",
+      "2": "char_4067_lolxh#2"
     },
     "char_237_gravel": {
       "0": "char_237_gravel#1",
@@ -38384,6 +38670,9 @@
     "trap_078_rmtarms": {
       "0": "trap_078_rmtarms#1"
     },
+    "trap_085_paras": {
+      "0": "trap_085_paras#1"
+    },
     "char_230_savage": {
       "0": "char_230_savage#1",
       "2": "char_230_savage#2"
@@ -38440,6 +38729,7 @@
     "epoque": {
       "brandId": "epoque",
       "groupList": [
+        "2022#epoque#3",
         "2022#epoque#2",
         "2022#epoque",
         "2021#epoque#5",
@@ -38467,7 +38757,7 @@
       "brandName": "時代",
       "brandCapitalName": "EPOQUE",
       "description": "你的時代，你的過去，你的未來\n時代企劃源自於服裝設計師們的無心之舉，在幾個世紀中逐漸變成了設計師間約定俗成的傳統。這種非盈利、純感性、靜下心來為客戶設計衣裝的方式，將是每個時代中堅守的宗旨。",
-      "sortId": 23
+      "sortId": 24
     },
     "nian": {
       "brandId": "nian",
@@ -38711,6 +39001,7 @@
       "brandId": "crossover",
       "groupList": [
         "2021#it",
+        "2022#lxh",
         "2021#rainbow6",
         "2020#wwf"
       ],

@@ -490,7 +490,7 @@
 [name="行俠仗義第一人"]   ......
 [Character(name="char_225_haak_1#1",name2="char_243_waaifu_1#4",focus=1)]
 [name="地下怪醫"]   嗯？幹嘛突然要拉著我們倆？槐琥姐，你表情有點僵硬哎。
-[Character(name="char_225_haak_1#1",name2="char_243_waaifu_1#4",focus=1)]
+[Character(name="char_225_haak_1#1",name2="char_243_waaifu_1#4",focus=2)]
 [name="行俠仗義第一人"]   壯膽。
 [Character(name="char_015_lmg")]
 [name="近衛局成員"]   你們——普通市民，應該去指定城區避難，不該在這裡逗留！

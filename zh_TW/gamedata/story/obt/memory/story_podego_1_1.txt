@@ -434,7 +434,7 @@
 [Character(name="char_007_closre_1#5",name2="avg_181_flower_1#5$1",focus=2)]
 [name="調香師"]什麼呀？
 [Character(name="char_007_closre_1#5",name2="avg_181_flower_1#5$1",focus=1)]
-[name="可露希爾"]擴建療養庭院的施工許可哦。阿米婭醫生已經簽過字了。
+[name="可露希尔"]扩建疗养庭院的施工许可哦。阿米娅已经签过字了。
 [name="可露希爾"]將部分儲能設備轉移到其他艦區，這樣療養庭院的面積可以擴大不少。下周工程部會進行評估，沒有問題的話就可以施工啦。
 [Character(name="char_007_closre_1#5",name2="avg_181_flower_1#5$1",focus=2)]
 [name="調香師"]怎麼這麼突然？

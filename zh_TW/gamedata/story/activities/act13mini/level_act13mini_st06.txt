@@ -1,0 +1,826 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0, block=true)]
+[stopmusic]
+[Dialog]
+[Background(image="bg_canteen",screenadapt="coverall")]
+[Delay(time=1)]
+[playMusic(intro="$warm_intro",key="$warm_loop", volume=0.4)]
+[Delay(time=1)]
+[Blocker(a=0.8, r=0, g=0, b=0, fadetime=2, block=true)]
+[Subtitle(text="比丟的一天", x=300, y=370, alignment="center",size=24, width=700)]
+[Subtitle]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
+[PlaySound(key="$d_avg_classicbiu_1")]
+[Character(name="avg_npc_604_1#2$1")]
+[characteraction(name="middle", type="move", xpos=-300,ypos=50, fadetime=0, block=false)]
+[characteraction(name="middle", type="move", xpos=800,fadetime=1.5,block=false)]
+[Blocker(a=0, fadetime=0.8, block=true)]
+[Character(fadetime=0.3)]
+[name="比丟"]Biu！
+[CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="食堂阿姨"]我的食材呢？
+[name="食堂阿姨"]我剛做好的菜呢？
+[name="食堂阿姨"]小刻是不是被放進來了？！
+[Character(name="char_196_sunbr_1#1")]
+[name="古米"]那個那個那個東西怎麼瞬間變了好幾個顏色？
+[Character(name="char_355_ethan_1")]
+[name="伊桑"]哦？他們從哪裡找到的這個小玩意兒？和我蠻像的。
+[name="伊桑"]醫療部的，你們要對它好點啊。
+[Dialog]
+[Delay(time=1)]
+[name="伊桑"]等等，你們不會還要我也去配合檢查吧？
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Background(image="bg_rhodesroom",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_classicbiu_1")]
+[Character(name="avg_npc_604_1#2$1")]
+[characteraction(name="middle", type="move", xpos=300,ypos=50, fadetime=0, block=false)]
+[characteraction(name="middle", type="move", xpos=-800,fadetime=1.5,block=false)]
+[Blocker(a=0, fadetime=0.8, block=true)]
+[Character(fadetime=0.3)]
+[name="比丟"]Biu！
+[Character]
+[CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="玩耍的孩子"]玩具一下子就不見了？
+[name="蹺課的孩子"]嗚啊！肯定是堅雷教官發現我蹺課來抓我了，怎麼辦！
+[name="冷靜的孩子"]慌什麼，你就說是自己追查離奇消失的玩具一路來到這裡，即將發現羅德島隱藏在最深處的秘密......
+[Dialog]
+[Character(name="char_349_chiave#4",fadetime=0.5)]
+[PlaySound(key="$d_gen_walk_n",volume=0.7)]
+[Blocker(a=0, fadetime=0.5, block=true)]
+[Delay(time=1)]
+[name="賈維"]真的嗎？
+[name="賈維"]還有這種事？
+[name="賈維"]加我一個。
+[Character]
+[name="冷靜的孩子"]？
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Character(name="avg_npc_604_1#2$1")]
+[characteraction(name="middle", type="move", ypos=540, fadetime=0, block=true)]
+[Background(image="bg_corridor",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_604_1#2$1")]
+[characteraction(name="middle", type="move", ypos=-60, fadetime=0.6, block=true)]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_biu_2")]
+[characteraction(name="middle", type="move", ypos=-480,fadetime=0.5,block=false)]
+[name="比丟"]Biu！
+[Character(fadetime=0)]
+[Character(name="avg_npc_012")]
+[name="工程部幹員"]——？
+[CameraShake(duration=0.2, xstrength=10, ystrength=10, vibrato=20, randomness=90, fadeout=true, block=false)]
+[name="工程部幹員"]什麼東西？你要幹什麼？！
+[CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
+[name="工程部幹員"]那是剛做出來的零件，不能吃——！
+[Dialog]
+[Character(name="char_empty",name2="avg_npc_604_1#1$1")]
+[characteraction(name="right", type="move", xpos=-150, fadetime=0, block=true)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_biu_1")]
+[Character(name="avg_npc_596_1#5$1",name2="avg_npc_604_1#1$1",fadetime=0.2)]
+[Characteraction(name="left", type="jump", xpos=150, power=10,times=1, fadetime=0.6, block=true)]
+[delay(time=1)]
+[Character(name="avg_npc_596_1#5$1",name2="avg_npc_604_1#4$1")]
+[characteraction(name="right", type="move", xpos=-150, fadetime=0, block=true)]
+[characteraction(name="right", type="move", xpos=300, fadetime=0.8, block=true)]
+[characteraction(name="left", type="move", xpos=300, fadetime=0.8, block=true)]
+[Blocker(a=0, fadetime=0.5, block=true)]
+[Character(fadetime=0.3)]
+[delay(time=1)]
+[Character(name="avg_npc_012")]
+[name="工程部幹員"]喔——是Miss.Christine嗎？
+[name="工程部幹員"]呼，幫大忙了，待會要去謝謝傀影幹員了。看著不好相處，原來是個熱心腸的人啊。
+[name="工程部幹員"]向女士致敬！
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(fadetime=0)]
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_604_1#5$1")]
+[characteraction(name="left", type="move", xpos=150, fadetime=0, block=true)]
+[characteraction(name="right", type="move", xpos=-150, fadetime=0, block=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_604_1#5$1",focus=2)]
+[PlaySound(key="$d_avg_classicbiu_2")]
+[name="比丟"]Biu......！
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_604_1#5$1",focus=1)]
+[name="小黑"]抓住了！
+[Character(fadetime=0)]
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_598_1#1$1",focus=1)]
+[name="小白"]比丟，你怎麼這麼不聽話呀？
+[name="小白"]再這樣亂跑的話，你會受傷的！
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_598_1#9$1",focus=2)]
+[name="阿根"]唔，你這是什麼顏色啊？
+[Character(name="avg_npc_604_1#2$1")]
+[name="比丟"]Biu~
+[Character(name="avg_npc_597_1#7$1",name2="avg_npc_598_1#10$1",focus=2)]
+[name="阿根"]感覺它剛才吃了不少東西啊。
+[name="阿根"]小黑，你是在哪裡找到比丟的？
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]就是走廊盡頭的那間屋子。
+[name="小黑"]它之前還去了玩具屋和餐廳，吃了飯菜還有玩具，但並不是那裡的人餵它的，是它自己直接就吃掉了。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#10$1",focus=1)]
+[name="小白"]啊......我們得去給人家道歉才行呢。
+[Character(name="avg_npc_597_1#9$1",name2="avg_npc_598_1#2$1",focus=2)]
+[name="阿根"]是呢，接下來可要好好看好比丟呀。
+[Character(name="avg_npc_597_1#2$1",name2="avg_npc_598_1#2$1",focus=1)]
+[name="小白"]會的！那我們走吧~
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=0.7)]
+[Character(name="avg_npc_597_1#6$1",name2="avg_npc_598_1#1$1",fadetime=1)]
+[delay(time=2)]
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#1$1",focus=1)]
+[name="小白"]哥哥，所以比丟不僅沒有造成什麼大的損失，剛才還幫他們抓到了一個蹺課的幹員？
+[name="小白"]還有那邊那個紅色的凶凶的人，他們剛在一起討論挖掘什麼東西，現在他要一個人出發了啊......哦，他看過來了！
+[Character]
+[name="蹺課的孩子"]嗚嗚嗚堅雷教官我錯了！我再也不敢了！
+[Character(name="char_349_chiave#1")]
+[name="賈維"]放心吧兄弟！我一定會完成任務的——！
+[Character(name="avg_npc_597_1#10$1",name2="avg_npc_598_1#1$1",focus=1)]
+[name="小白"]......好感人。
+[Character(name="avg_npc_597_1#10$1",name2="avg_npc_598_1#6$1",focus=2)]
+[name="阿根"]......
+[Character(name="avg_npc_597_1#10$1",name2="avg_npc_598_1#1$1",focus=2)]
+[name="阿根"]比丟，你挺厲害的啊。
+[name="阿根"]所以，我們不用賠償了，只是要幫他們出幾次外勤任務。
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#1$1",focus=1)]
+[name="小白"]那比丟是不是就不能跟著我們了？
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#2$1",focus=2)]
+[name="阿根"]嗯，不過他們給我們提供了籠子，可以暫時讓比丟待在裡面。
+[StopMusic(fadetime=2)]
+[Character(name="avg_npc_597_1#1$1",name2="avg_npc_598_1#5$1",focus=2)]
+[name="阿根"]不過接下來要找一個能幫我們照顧比丟的人才行......
+[Dialog]
+[Character(fadetime=0.5)]
+[Delay(time=2)]
+[PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
+[Character(name="char_376_therex_1",fadetime=0.5)]
+[Characteraction(name="middle", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Delay(time=1)]
+[CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="Thermal-EX"]唔噢，唔唔唔噢！
+[name="Thermal-EX"]這次更新，最天才的可露希爾小姐為我增加了許多新功能！
+[name="Thermal-EX"]我感到我的熱情即將突破原有的極限，達到一個更加閃亮的狀態！
+[Character(name="avg_286_cast3_1$1",fadetime=0)]
+[name="Castle-3"]從更新後的記憶體來看，我們的儲存空間容量提升了35.7%，可以下載並安裝更多的工程類文件。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]我更新了更多戰場應急處理手段，還有一部分語言模組，可以更方便地幫助幹員們了。
+[name="Lancet-2"]誤刪文件找回這個功能也很好呢，我找回了幾年前被刪除的博士呼嚕聲錄音，要我放給你們聽聽看嗎？很有趣的。
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]哇！
+[Character(name="avg_lolxh_4067_1#4$1")]
+[name="小黑"]它們是什麼？
+[Character(name="avg_npc_598_1#4$1")]
+[name="阿根"]機器人在對話？
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]嗷這位從來沒有見過面的女士和兩位先生！你們是在感歎我完美的外形嗎？
+[name="Thermal-EX"]我就知道沒人能逃得過我炙熱外表的誘惑！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]檢測到陌生人員，請問是否需要羅德島的幫助？
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]如果你們身體有些不舒服，我可以幫助你們。
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]啊！真的能對話！
+[Character(name="avg_npc_597_1#3$1")]
+[name="小白"]你們好~我們是剛來這裡的人，這裡有一隻小寵物需要幫忙照顧，你們能幫我們找到合適的人選嗎？
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]照顧寵物？
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]完全沒有問題！此次更新內容附帶了956本寵物養育指南，全方位覆蓋各類動植物養育標準，保證能用我們火熱的核心溫暖任何一個生命！
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]我也可以在它身體不舒服的時候提供幫助呢。
+[name="Lancet-2"]我很有照顧幹員們的經驗。
+[Character(name="avg_npc_597_1#3$1")]
+[name="小白"]哇！真的嗎？好厲害啊！
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]當然！不只是厲害，而是更更更厲害！可露希爾小姐創造出的我能為你解決所有的問題！
+[Character(name="avg_lolxh_4067_1#5$1",name2="avg_npc_597_1#3$1",focus=1)]
+[name="小黑"]（小聲）它們是不是妖精？
+[Character(name="avg_lolxh_4067_1#5$1",name2="avg_npc_597_1#2$1",focus=2)]
+[name="小白"]是智慧型機器人啦，小黑。而且比我們那裡的看起來要先進很多，雖然沒有做成和人很像的外表，但真的是感覺在和一個人對話。
+[name="小白"]這裡的科技好厲害啊。
+[name="小白"]而且它說這裡有很多寵物養育知識，我感覺交給它們應該不會有什麼問題，哥哥，小黑，你們覺得呢？
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="小黑"]嗯......應該沒問題。
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]現在要再立刻找一個人幫忙也不容易......那就拜託你們了。
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]黑咻，你留在這裡。
+[Character(name="avg_lolxh_4067_1#2$1",focus=3)]
+[name="黑咻"]嘿~咻！
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]喔噢噢噢噢！！可愛的小黑團子！跳到了我的外殼上！！
+[Character(name="avg_npc_597_1#3$1")]
+[name="小白"]哈哈哈哈，那就拜託你們啦！
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]啊還有，千萬不要給比丟吃金屬和生物哦，會很危險的！
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]有黑咻在的話，可以把它放出籠子。
+[name="小白"]不過現在它還是很激動呢，請把它再多關一會吧。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]明白了，請在我這裡登記下你們和它的姓名，我將作為任務資訊上傳至終端。
+[Character(name="avg_npc_597_1#3$1")]
+[name="小白"]謝謝你們啦！
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[Background(image="bg_room_2",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(name="avg_npc_604_1#5$1",fadetime=0.3)]
+[characteraction(name="middle", type="jump", xpos=100, power=100,ypos=100, times=1, fadetime=1, block=true)]
+[Blocker(a=0, fadetime=0.6, block=true)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=5, vibrato=5, randomness=90, fadeout=true, block=false)]
+[Character(fadetime=0.3)]
+[Blocker(a=0, fadetime=0.6, block=true)]
+[Character(name="avg_npc_604_1#5$1",fadetime=0.3)]
+[characteraction(name="middle", type="jump", xpos=100, power=100,ypos=100, times=1, fadetime=1, block=true)]
+[Blocker(a=0, fadetime=0.6, block=true)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=5, vibrato=5, randomness=90, fadeout=true, block=false)]
+[Character(fadetime=0.3)]
+[Blocker(a=0, fadetime=0.6, block=true)]
+[Character(name="avg_npc_604_1#5$1",fadetime=0.3)]
+[name="比丟"]Biu！Biu！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]從動作分析來看，它應該是想要出去玩？
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]快讓它到我寬厚的背上來！我將載著它走遍羅德島的任何一個角落！
+[PlaySound(key="$d_avg_biu_1")]
+[Character(name="avg_npc_604_1#7$1")]
+[name="比丟"]Biu？
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]它是不是身體不舒服，一直在扒著籠子？
+[name="Lancet-2"]哎呀，它怎麼不會說話呀？
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]我正在查詢最新的語言模組。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]我之前好像刪除過一些語言資料，我找回一下......
+[name="Lancet-2"]*哥倫比亞俚語*，*維多利亞粗口*，*炎國方言*......！！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]根據我的分析，這好像是之前某一次你不小心被錄入的泰拉各地粗口集錦？工程部還為此給你準備了一個小外掛程式。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]非常抱歉......我已經把它們再次刪掉了。
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]不行，不行，時間已經不等人了，我已經無法按捺住我核心中噴湧的熱情了！快把籠子放在我的背上，我們出發吧！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]稍等，根據《你知道嗎？養寵物的100個小問題》中提到的，寵物在到達一個新環境會出現不同程度的“應激反應”。
+[name="Castle-3"]這是由它們不確定新環境是否安全導致的，所以，我們要確保為比丟營造一個絕對安全的環境。
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]收到！開始偵察周邊環境——！
+[PlaySound(key="$radar",volume=0.7)]
+[name="Thermal-EX"]偵察——偵察——！
+[Dialog]
+[Delay(time=2)]
+[name="Thermal-EX"]失敗！並沒有安裝相應功能！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]我來吧。
+[Dialog]
+[PlaySound(key="$d_avg_machine_revolve",volume=0.6)]
+[Delay(time=2)]
+[name="Castle-3"]——走廊，確認安全。
+[name="Castle-3"]比丟，請你不用擔心。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]它在發抖？
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]這有可能就是“應激”的體現。
+[Dialog]
+[Character(fadetime=0)]
+[Character(name="avg_npc_604_1#5$1",fadetime=0.3)]
+[characteraction(name="middle", type="jump", xpos=100, power=100,ypos=100, times=1, fadetime=1, block=true)]
+[Blocker(a=0, fadetime=0.6, block=true)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=5, vibrato=5, randomness=90, fadeout=true, block=false)]
+[Character(fadetime=0.3)]
+[Blocker(a=0, fadetime=0.6, block=true)]
+[Character(name="avg_npc_604_1#5$1",fadetime=0.3)]
+[name="比丟"]Biu！（我要出去玩！）
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]哎呀，怎麼辦？
+[name="Lancet-2"]快讓我給它做一次身體檢查。
+[Dialog]
+[Character(name="avg_npc_604_1#5$1")]
+[Characteraction(name="middle", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=-3, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[name="比丟"]Biu！（我要出去玩！）
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]資料正常，我們走吧。
+[CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]噢噢噢噢哦哦哦！！衝啊！！
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[character(fadetime=0)]
+[Background(image="bg_corridor",screenadapt="coverall")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(name="avg_npc_604_1#1$1")]
+[name="比丟"]Biu~
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]你是想出去玩嗎？
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]還不能放它出來，那幾位幹員說它現在還有些激動，會很危險。
+[name="Castle-3"]我需要掃描每一間屋子，確保環境對它無害。
+[PlaySound(key="$d_avg_classicbiu_2")]
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]啾......
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]不要氣餒，小傢伙！在這漫長又揪心的等待時間，讓我來為你講解這裡的一切！
+[name="Thermal-EX"]我們現在在羅德島的休息區，前面偶爾會有一些幹員在擺攤售賣，你可以在這裡挑選到自己喜歡的東西！
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]比丟應該不需要這些吧？
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]啾......
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]工作室怎麼樣？我已經等不及要帶它進去玩了！
+[Dialog]
+[character(fadetime=0)]
+[Character(name="avg_npc_604_1#2$1")]
+[characteraction(name="middle", type="jump", xpos=30, power=7, times=2, fadetime=0.5, block=true)]
+[Blocker(a=0, fadetime=0.6, block=true)]
+[characteraction(name="middle", type="jump", xpos=-30, power=7, times=2, fadetime=0.5, block=true)]
+[name="比丟"]Biu！Biu！（想去！想去！）
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]工程車間掃描完畢，內含大量金屬，十分危險，不可以進入。
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]啾......
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]我繼續掃描接下來的運輸間。
+[Character]
+[Dialog]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n",volume=0.7)]
+[Delay(time=1)]
+[name="路過的幹員"]呀，這是什麼呀？
+[name="好奇的幹員"]聽古米說，是個很能吃的小傢伙呢！我這裡有一些薯塊，你要吃吃嗎？
+[dialog]
+[Character(name="avg_npc_604_1#2$1")]
+[characteraction(name="middle", type="jump", xpos=-50, power=7, times=2, fadetime=0.8, block=true)]
+[Delay(time=1)]
+[name="比丟"]Biu~！
+[Character]
+[name="好奇的幹員"]呀~好可愛！
+[name="路過的幹員"]給，快來吃，姐姐這裡還有更多的哦！
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]非常抱歉！幾位幹員，它的主人叮囑我們不可以讓它亂吃東西，會很危險！
+[Character]
+[name="路過的幹員"]啊，這樣啊。
+[name="好奇的幹員"]不好意思......
+[Dialog]
+[PlaySound(key="$d_gen_walk_n",volume=0.7)]
+[Delay(time=2)]
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]運輸間怎麼樣？我體內的炙熱已經要衝破極限了！
+[Character(name="avg_npc_604_1#3$1")]
+[name="比丟"]Biu！Biu！（想去！想去！）
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]運輸間掃描完畢，內含大量運輸履帶，十分危險，不可進入。
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]Biu......
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(fadetime=0)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="avg_286_cast3_1$1",fadetime=0.5)]
+[Delay(time=1)]
+[name="Castle-3"]......掃描完畢，十分危險，不可進入。
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]Biu......
+[Dialog]
+[Character(name="avg_286_cast3_1$1")]
+[Delay(time=1)]
+[name="Castle-3"]......掃描完畢，十分危險，不可進入。
+[name="Castle-3"]比丟，你可以活動的環境只有這條走廊的五米範圍內，往前和往後都十分危險。
+[name="Castle-3"]在你恢復冷靜狀態前，為了確保你的安全，我們會讓你繼續待在籠子裡。
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]Biu......
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]比丟怎麼看起來更不舒服了，是不是很害怕外面？
+[character(fadetime=0)]
+[Character(name="avg_npc_604_1#4$1")]
+[characteraction(name="middle", type="jump", power=10, times=3, fadetime=0.6, block=true)]
+[name="比丟"]Biu！Biu！（不是！不是！）
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]聽到你說這句話後它確實有了更多的反應，而且很激動，看來是對了。
+[name="Castle-3"]那我們回去吧，掃描結果中，這幾間屋子裡都充滿了大量的金屬和活物，也並沒有木頭，對它來說很危險。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]這是我消毒過的精製木材，比丟，根據《養寵物聽我的准沒錯》上面說的，兩個半小時投餵一次是最佳的頻率。
+[name="Lancet-2"]給，這是你現在可以吃的。
+[Character(name="avg_npc_604_1#5$1")]
+[name="比丟"]Biu！Biu！（太少了！）
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]這些是經過精密計算的數量，下一次餵食是兩個半小時以後哦。
+[name="Lancet-2"]比丟，根據《如何讓你的寵物愛上你》裡面說的，主人需要時時關心寵物的心理和生理狀態。
+[name="Lancet-2"]距離上次檢查已經過去一個小時了，我要再給你做一次檢查，確保你在我們的照料下很健康，接下來每一個小時，我都會檢查一次。
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]......
+[Character(name="avg_npc_604_1#5$1")]
+[PlaySound(key="$d_avg_biu_2")]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="比丟"]Biu！！（哇呀！啃壞你們！）
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]Biu......（不行，小白說我不能這樣......）
+[PlaySound(key="$d_avg_classicbiu_2")]
+[Character(name="avg_npc_604_1#6$1")]
+[name="比丟"]Biu......（嗚......）
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]來，比丟，把肚皮翻過來，讓我檢查一下你的心跳......
+[Dialog]
+[StopMusic(fadetime=3)]
+[Character(name="avg_npc_604_1#5$1")]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
+[Subtitle(text="比丟完蛋的一天", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle]
+[dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[character(fadetime=0)]
+[PlayMusic(intro="$holiday_intro", key="$holiday_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]根據我剛才觀察到的，這個小黑團子剛才打開了比丟的籠子，比丟躥到了走廊的角落。
+[name="Castle-3"]我的設計並不允許我彎下腰查看，我不知道它躲到了哪裡。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]不過我能聽到，我們一旦靠近那裡，它就會馬上跑走......
+[name="Lancet-2"]它好像在躲著我們。
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]比丟，抱歉！是我過於火熱讓你覺得傷心了嗎！
+[name="Thermal-EX"]我還沒有學會降低我的熱情，但如果你不喜歡，我也會為你控制我自己的！
+[name="Thermal-EX"]這就是我的職責！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]根據我的檢測，比丟還是縮在了箱子下面沒有動。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]黑咻還在這裡，說明比丟還是安全的，只是它也離我們很遠就是了。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]我剛才又完成了一次自檢，程式運行沒有出錯，每一步都是按照書籍中的內容執行的。
+[name="Castle-3"]我不理解究竟為什麼會出現現在的情況。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]或許，我們還是需要尋求一些其他幹員的幫助。
+[name="Lancet-2"]但是，明明每一步都沒有出錯，我們也是按照書上在做，平時和幹員們相處也沒有問題......
+[name="Lancet-2"]這次究竟是怎麼回事呢？
+[Dialog]
+[Character]
+[PlaySound(key="$d_gen_walk_n",volume=0.7)]
+[Character(name="avg_4040_rockr_1#5$1",fadetime=0.5)]
+[Delay(time=2)]
+[name="洛洛"]比丟？比丟？比丟在嗎？
+[Character(name="avg_4040_rockr_1#11$1")]
+[name="洛洛"]Lancet-2，我剛交完任務，他們說比丟在你們這裡，但是好像沒看到它呢。
+[Character(name="char_376_therex_1")]
+[CameraShake(duration=0.5, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
+[name="Thermal-EX"]嗷！洛洛幹員，你好！
+[name="Thermal-EX"]雖然現在很想讓你感受到我炙熱的核心，但是我們需要你的幫助！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]洛洛幹員，我們這裡出了一點問題。
+[name="Castle-3"]洛洛幹員之前和比丟相處時，阿根先生他們是怎麼照顧比丟的？
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]我們嚴格按照寵物指南來做，但是現在出了一些問題......
+[Character(name="avg_4040_rockr_1#5$1")]
+[name="洛洛"]他們是怎麼照顧比丟的啊......
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[character(fadetime=0)]
+[CameraEffect(effect="Grayscale", fadetime=0, keep=true, initamount=0, amount=0.7, block=true)]
+[Background(image="31_g2_luo_reception",screenadapt="coverall")] 
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]天哪，比丟，你剛剛吃了什麼？
+[Character(name="avg_npc_604_1#3$1")]
+[name="比丟"]Biu~！
+[Dialog]
+[Character(fadetime=0.5)]
+[Characteraction(name="middle", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="middle", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.6, block=true)]
+[Character(name="avg_npc_604_1#1$1",fadetime=0.3)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#4$1")]
+[name="阿根"]變成黑色的了，上面還有紅色和白色的點點？
+[Character(name="avg_npc_597_1#5$1")]
+[name="小白"]噫！
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(fadetime=0)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[CameraShake(duration=0.5, xstrength=20, ystrength=6, vibrato=10, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_npc_604_1#3$1",fadetime=0.5)]
+[name="比丟"]Biu~！
+[Character(name="avg_4040_rockr_1#5$1")]
+[name="洛洛"]呃，它剛才好像一瞬間吃掉了我自己做的梳子。
+[Character(name="avg_npc_597_1#9$1")]
+[name="小白"]啊，抱歉！
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]這倒沒關係，我還有木料，可以再做很多個。
+[Character(name="avg_4040_rockr_1#11$1")]
+[name="洛洛"]只是，它是吃木頭的嗎？
+[Character(name="avg_npc_597_1#3$1")]
+[name="小白"]嗯！比丟最喜歡吃木頭啦，我爺爺家被它吃出過大窟窿呢！
+[Character(name="avg_4040_rockr_1#7$1")]
+[name="洛洛"]......你這麼開心地說這句話嗎？
+[Character(name="avg_npc_597_1#3$1")]
+[name="小白"]嘿嘿。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[character(fadetime=0)]
+[Background(image="bg_corridor",screenadapt="coverall")] 
+[Character(name="avg_4040_rockr_1#12$1",name2="avg_npc_604_1#3$1",fadetime=0)]
+[characteraction(name="right", type="move", xpos=410, fadetime=0,block=true)]
+[Delay(time=1)]
+[CameraEffect(effect="Grayscale", fadetime=0, amount=0, block=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(name="avg_4040_rockr_1#12$1",name2="avg_npc_604_1#3$1")]
+[name="洛洛"]就看它想吃什麼就給它吃什麼。
+[name="洛洛"]我帶去的很多原材料最後都給它吃了，本來還想著做個什麼的。
+[Dialog]
+[Delay(time=1)]
+[Character(name="avg_4040_rockr_1#12$1",name2="avg_npc_604_1#3$1",focus=2)]
+[Characteraction(name="right", type="jump", xpos=-200, power=20,times=1, fadetime=0.7, block=true)]
+[name="比丟"]Biu——！
+[Dialog]
+[Character(name="avg_4040_rockr_1#12$1",name2="avg_npc_604_1#3$1")]
+[Characteraction(name="right", type="move", xpos=-300, fadetime=1.5, block=true)]
+[Delay(time=2)]
+[Character(name="avg_4040_rockr_1#6$1",name2="avg_npc_604_1#3$1",focus=1)]
+[name="洛洛"]哎呀，你在這裡呀。
+[multiline(name="洛洛")] 讓我摸摸你的肚子——
+[multiline(name="洛洛")] 餓扁了呀。
+[Character(name="avg_4040_rockr_1#6$1",name2="avg_npc_604_1#3$1",focus=1)]
+[name="洛洛"]給，我剩的最後兩塊木頭......
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]還沒到時間不能餵——
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]洛洛幹員你的機器還沒掃描——
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]要消毒才行——
+[CameraShake(duration=0.5, xstrength=5, ystrength=20, vibrato=10, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_4040_rockr_1#6$1",name2="avg_npc_604_1#3$1",focus=2)]
+[name="比丟"]咕咚。
+[PlaySound(key="$d_avg_biu_2")]
+[name="比丟"]Biu~！
+[Dialog]
+[Character(name="avg_4040_rockr_1#6$1",name2="char_empty",fadetime=0.5,focus=2)]
+[Characteraction(name="right", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="right", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="right", type="jump", xpos=5,power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.05, block=true)]
+[Characteraction(name="right", type="jump", xpos=-5, power=0,times=1, fadetime=0.05, block=true)]
+[Blocker(a=0,fadetime=0.6, block=true)]
+[Character(name="avg_4040_rockr_1#6$1",name2="avg_npc_604_1#1$1",focus=2)]
+[Delay(time=1)]
+[Character(name="avg_4040_rockr_1#12$1",name2="avg_npc_604_1#1$1",focus=1)]
+[name="洛洛"]唔，這回的毛色發黃，看來我木材除濕還是沒做到位，謝謝你啦，比丟。
+[name="洛洛"]黑咻也在這裡呀。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]沒有經過掃描，也沒有到餵食時間，洛洛幹員的行為和書上寫的內容相反。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]但是比丟主動跑出來了，看起來也很開心。
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]洛洛幹員，非常感謝你！你讓我因為無法解決問題而冷卻的核心重新燃燒起來了！
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]嗯，就像這樣就可以了。
+[name="洛洛"]讓它四處跑跑，想吃什麼就給它吃，只要有黑咻在，其他人抱抱它也是可以的。
+[name="洛洛"]放鬆點。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]是讓我們放寬設定的意思嗎......？我試試。
+[name="Lancet-2"]......比丟，看，我這裡有木頭，你要吃嗎？
+[Character(name="avg_npc_604_1#2$1")]
+[name="比丟"]啾~！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]就這樣直接餵嗎？
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]嗯，你看它肚子扁扁的，現在很餓，可以餵一些，它吃飽了就會睡一會的。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]帶去新環境呢？
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]有黑咻在。
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]其他人也可以餵嗎？
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]只要不是金屬和活物，就可以啊。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]我明白了，謝謝洛洛幹員。
+[Character(name="avg_4040_rockr_1#6$1")]
+[name="洛洛"]嗯，那我就先走啦。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]再見，洛洛幹員。
+[name="Castle-3"]Lancet-2，我覺得我們可以刪掉一些書。
+[name="Castle-3"]或者是刪掉全部的書。
+[name="Castle-3"]洛洛幹員說的和書裡面不一樣，可是比丟更適應也更習慣她說的那種方式。
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]是的，沒錯！我們要用自己火熱的核心來貼近比丟！
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]就留下一本吧，《基礎寵物習性》，我還是需要一些寵物醫療知識作為儲備的。
+[name="Lancet-2"]畢竟我原先的照顧對象是各位幹員。
+[name="Lancet-2"]好嗎，比丟？
+[PlaySound(key="$d_avg_biu_2")]
+[Character(name="avg_npc_604_1#2$1")]
+[name="比丟"]Biu~！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]那，你想去哪裡玩呢？
+[Character(name="avg_npc_604_1#3$1")]
+[name="比丟"]Biu~！
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]去哪裡玩都行！
+[name="Thermal-EX"]Thermal-EX火熱的陪伴將會永遠在你身邊！
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]走吧，它出發了，我們跟在它後面就好啦。
+[Character(name="avg_npc_604_1#3$1")]
+[name="比丟"]Biu~
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[character(fadetime=0)]
+[Background(image="bg_0_rhodes3",xScale=1.1, yScale=1.1,x=50)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(name="avg_npc_604_1#3$1",fadetime=1)]
+[characteraction(name="middle", type="jump", xpos=-50,power=100,ypos=100, times=0.8, fadetime=1, block=true)]
+[Delay(time=1)]
+[name="比丟"]Biu~！
+[character(fadetime=0)]
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]哦哦哦哦哦！看這夕陽！
+[name="Thermal-EX"]它讓我的核心感受到了一股異樣的炙熱！
+[name="Thermal-EX"]還有比丟的吃相，風捲殘雲，好啊，酣暢淋漓！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]Thermal-EX，你安裝了炎國詞語庫嗎？
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]是最最強無敵的博士之前為我安裝的！博士覺得我可以用這些詞來更好地描述我的想法！
+[name="Thermal-EX"]他們有一個詞可以來形容比丟，我覺得十分貼切！
+[multiline(name="Thermal-EX",delay=0.15)]“珠圓玉潤”！
+[PlaySound(key="$d_avg_biu_1")]
+[Character(name="avg_npc_604_1#7$1")]
+[name="比丟"]Biu~！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]......
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]......
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]根據阿根先生離開時的說明，他們的任務結束時間就快到了。
+[name="Castle-3"]怪不得比丟想要跑出來。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]比丟，剛才在餐廳選的食物，你喜歡吃嗎？
+[Character(name="avg_npc_604_1#2$1")]
+[name="比丟"]Biu！
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]但是食堂阿姨有些傷心呢，你沒有選她們做的菜，而是吃了一筐筷子。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]還好炎國和東國的幹員人數並不多，食堂有很多多餘的筷子可以讓你吃。
+[Character(name="avg_npc_604_1#3$1")]
+[name="比丟"]Biu~！
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]看，比丟很喜歡！
+[Character(fadetime=0)]
+[Dialog]
+[Character(name="avg_npc_604_1#2$1",name2="char_376_therex_1",fadetime=0.5)]
+[characteraction(name="left", type="move", xpos=-200, fadetime=0, block=true)]
+[characteraction(name="right", type="move", xpos=-100, fadetime=0, block=true)]
+[Delay(time=1)]
+[characteraction(name="left", type="jump", xpos=100, power=15, times=2, fadetime=1, block=true)]
+[Delay(time=1)]
+[characteraction(name="left", type="jump", xpos=100, power=15, times=2, fadetime=1, block=true)]
+[Delay(time=2)]
+[Character(name="avg_npc_604_1#2$1",name2="char_376_therex_1",focus=2)]
+[name="Thermal-EX"]哦哦哦哦哦哦！
+[CameraShake(duration=1, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_npc_604_1#2$1",name2="char_376_therex_1",focus=2)]
+[name="Thermal-EX"]哦哦哦哦哦哦！！
+[name="Thermal-EX"]它第一次靠近我了！它喜歡我！我的熱量，我的核心，我要控制不住這份炙熱——
+[PlaySound(key="$d_avg_overheat", volume=0.6)]
+[multiline(name="Thermal-EX",delay=0.1)]呃——炙熱......炙......熱......！
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]——
+[PlaySound(key="$tokenset")]
+[Delay(time=1)]
+[name="Lancet-2"]還好我有安裝急速冷卻模組，看來對你也很有用。雖然平時是給幹員們快速止痛用的。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]要是比丟也安裝了語言模組就好了。
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]我的程式判斷這是一項違法的行為。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]啊，我是說，它要是能和我們交流就好了。
+[name="Castle-3"]照顧一個不會說話的小東西，比我程式中預計的要難上很多。
+[name="Castle-3"]好在這次任務並沒有失敗。
+[Dialog]
+[Character(name="avg_286_cast3_1$1",name2="avg_npc_604_1#2$1",fadetime=0.5)]
+[characteraction(name="left", type="move", xpos=200, fadetime=0, block=true)]
+[characteraction(name="right", type="move", xpos=200, fadetime=0, block=true)]
+[Delay(time=1)]
+[characteraction(name="right", type="jump", xpos=-80, power=15, times=2, fadetime=1, block=true)]
+[Delay(time=1)]
+[characteraction(name="right", type="jump", xpos=-80, power=15, times=2, fadetime=1, block=true)]
+[Delay(time=2)]
+[Character(name="avg_286_cast3_1$1",name2="avg_npc_604_1#2$1",focus=1)]
+[name="Castle-3"]唔，謝謝你，比丟。雖然我沒有情緒設定，但我的核心剛才發出了唱兒歌的指令，需要我為你播放嗎？
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]啊......我感到我的運轉速度突然慢了下來，好像是什麼零件出了問題，這是為什麼呢？
+[Dialog]
+[Character(name="avg_npc_604_1#2$1",name2="char_285_medic2_1",fadetime=0.5)]
+[characteraction(name="left", type="move", xpos=-150, fadetime=0, block=true)]
+[characteraction(name="right", type="move", xpos=-200, fadetime=0, block=true)]
+[Delay(time=1)]
+[characteraction(name="left", type="jump", xpos=100, ypos=30,power=80, times=1, fadetime=1, block=true)]
+[Delay(time=2)]
+[Character(name="avg_npc_604_1#2$1",name2="char_285_medic2_1",focus=2)]
+[name="Lancet-2"]唔，又恢復正常了。
+[Character(name="avg_npc_604_1#2$1",name2="char_285_medic2_1",focus=1)]
+[name="比丟"]Biu！Biu！
+[Character(name="avg_npc_604_1#2$1",name2="char_285_medic2_1",focus=2)]
+[name="Lancet-2"]來，到我的身上來吧，我們爬上前面這個山坡，就能看到回本艦的車隊啦。
+[name="Lancet-2"]唔，你是想讓我載著你呢，還是想自己跑上去呢？
+[Dialog]
+[Character(name="avg_npc_604_1#2$1",name2="char_285_medic2_1",focus=1)]
+[characteraction(name="left", type="jump", xpos=100, ypos=70,power=60, times=1, fadetime=0.6, block=true)]
+[Blocker(a=0,fadetime=0.6, block=true)]
+[characteraction(name="left", type="jump", xpos=150, ypos=130,power=80, times=1, fadetime=0.7, block=true)]
+[name="比丟"]Biu！
+[Character(name="avg_npc_604_1#2$1",name2="char_285_medic2_1",focus=2)]
+[name="Lancet-2"]你要自己上去呀？
+[Character]
+[Dialog]
+比丟在樹枝、灌木、岩石之間歡快地跳來跳去，跑向不遠處山丘的最高點。
+夕陽照在它的身上，也照在幾輛機械車的身上。
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]Lancet-2，Thermal-EX，你們會唱歌嗎？
+[name="Castle-3"]我的程式調出了我之前學會的一首歌。
+[Dialog]
+[delay(time=1)]
+[name="Castle-3"]“♪我的父母希望我當律師♪”
+[name="Castle-3"]“♪我的爺爺奶奶希望我早日成家♪”
+[name="Castle-3"]“♪可是我只想拿起我的畫筆♪”
+[name="Castle-3"]“♪畫下面前這片晚霞♪”
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]Castle-3，比丟會畫晚霞嗎？
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]我的程式無法對這個問題做出回答。
+[name="Castle-3"]但我檢測到它現在很開心，因為它正在夕陽下跑來跑去。
+[Character(name="avg_npc_604_1#2$1")]
+[name="比丟"]Biu！Biu！
+[Character(name="avg_286_cast3_1$1")]
+[name="Castle-3"]畢竟這是它喜歡的事情。
+[name="Castle-3"]“♪雖然那都很好，但我獨獨鍾愛這片晚霞♪”
+[Character(name="char_376_therex_1")]
+[name="Thermal-EX"]哦哦，我看到了！回本艦的車隊反射出了耀眼的金光！
+[name="Thermal-EX"]來吧，讓我們一起去迎接他們，讓他們感受到我的熱量吧！
+[Character(name="char_285_medic2_1")]
+[name="Lancet-2"]稍等，我正在更新一項內容。
+[Dialog]
+[Delay(time=1)]
+[name="Lancet-2"]好了，更新完成，我們出發吧。
+[PlaySound(key="$d_avg_classicbiu_1")]
+[Character(name="avg_npc_604_1#2$1")]
+[name="比丟"]Biu！
+[Dialog]
+[characteraction(name="middle", type="jump", xpos=300, power=10, times=5, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(fadetime=0.5)]
+[backgroundTween(xFrom=50, xTo=0, xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=1.1, yScaleTo=1.1, duration=15, block=false)]
+比丟跑了起來，幾輛機械車跟在它的後面，在荒野上拉出長長的塵土。
+可露希爾的機器人監測終端上閃過一條資料。
+“不用那麼擔心，我們先享受當下。”
+[Dialog]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
+[Subtitle(text="比丟完美的一天", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[Dialog]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[stopmusic(fadetime=2)]
+[Character]

@@ -66,7 +66,7 @@
 [Character(name="char_325_bison_1#2")]
 [name="拜松"]   那是把銃槍！？但您要怎麼扣扳機......
 [Character(name="char_105_emper")]
-[name="大帝"]   啊哈！見識不小嘛，小少爺，讓我們的槍械專家來介紹一下！
+[name="大帝"]   啊哈！見識不小嘛，小少爺，讓我們的銃械專家來介紹一下！
 [Character(name="char_105_emper",name2="char_103_angel_1#8",focus=2)]
 [name="能天使"]   總計四十二層運輸紙板，工業膠水無縫黏貼，高品質橡皮筋驅動，嗯，真是一把不錯的銃槍。
 [Character(name="char_325_bison_1#2")]

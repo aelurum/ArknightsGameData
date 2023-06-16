@@ -1,0 +1,851 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[stopmusic]
+[Dialog]
+[Delay(time=1)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Background(image="bg_rooftop_2",screenadapt="showall")]
+[Delay(time=1)]
+[playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]  
+白日裡下了一整天的雨，到晚上雖然雨停了，但空氣仍然有些濕潤。
+團團陰雲聚在天空，像堵無情的牆，瑩瑩月光灑不下來，盞盞燈光照不上去。
+[Dialog]
+[PlaySound(key="$d_avg_catfootstep", volume=1)]
+[Delay(time=1.5)]
+[PlaySound(key="$d_avg_classicmiaow_2", volume=1)]
+[Character(name="avg_npc_596_1#4$1",fadetime=1,block=true)]
+[Delay(time=2)]
+[multiline(name="小黑")]這天氣討厭死了，
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_npc_596_1#4$1")]
+[multiline(name="小黑")]阿嚏——
+[name="小黑"]本來想上來打個盹，這下可好，天台上到處都是水。
+[Dialog]
+[PlaySound(key="$d_avg_catsmell", volume=1)]
+[Delay(time=1.5)]
+[Character(name="avg_npc_596_1#3$1")]
+[name="小黑"]（嗅嗅）嗯？這有個箱子裡面還沒濕。
+[Dialog]
+[PlaySound(key="$d_avg_cardboard", volume=1)]
+[Character(name="avg_npc_596_1#1$1")]
+[name="小黑"]（鑽入箱中）
+[Dialog]
+[Delay(time=1)]
+[Character(name="avg_npc_596_1#2$1")]
+[name="小黑"]啊哈......這天氣倒頭睡一覺也是不錯。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="樓下廣告"]今日生鮮大特惠，買一送一別錯過，龍門市區最低價，只為回饋廣大顧客！
+[Dialog]
+[Character(name="avg_npc_596_1#5$1")]
+[name="小黑"]（向左翻身）嘶——
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="樓下鄰居"]和你講過多少次了！吃完飯不要磨蹭，趕緊去寫作業！哎呦老天爺，誰家佩洛是你這樣的慢性子！
+[Dialog]
+[Character(name="avg_npc_596_1#5$1")]
+[name="小黑"]（向右翻身）嘖——
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="樓下電視"]近期天氣潮濕，請市民們關注消防安全，空氣濕度大容易導致家庭電氣發生火災事故，大家務必注意安全用電和定期檢查家中電器！
+[Dialog]
+[PlaySound(key="$bodyfalldown3", volume=0.6)]
+[CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=true)]
+[Delay(time=0.7)]
+[PlaySound(key="$d_avg_classicmiaow_1", volume=1)]
+[Character(name="avg_npc_596_1#5$1")]
+[name="小黑"]（猛然坐起）吵死了！這個人話說得這麼快，誰能聽清啊！
+[name="小黑"]......
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_cardboard", volume=1)]
+[Delay(time=1)]
+他躺回箱中，頭頂是濃雲密佈的夜空，耳朵裡擠攘著各式各樣的聲音，但其中並沒有他期盼聽到的內容。
+[Dialog]
+[Character(name="avg_npc_596_1#4$1")]
+[name="小黑"]小白......阿根......你們現在在哪呢？
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="？？？"]小黑？你在天台上嗎？吃晚飯了！今天剛下過雨，在上面待著會著涼的，快下來吧！
+[Dialog]
+[PlaySound(key="$d_avg_humanchange", volume=1)]
+[Delay(time=0.6)]
+[Character(name="avg_lolxh_4067_1#1$1",fadetime=1,block=true)]
+[Delay(time=1)]
+[name="小黑"]（胡亂擦擦眼睛）
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]知道啦！我馬上就下來！
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_rhodesroom",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]   
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_226_hmau_1#1$1")]
+[characteraction(name="left", type="move", xpos=-150, fadetime=0, block=false)]
+[characteraction(name="left", type="move", xpos=150, fadetime=1.5, block=false)]
+[Delay(time=2)]
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_226_hmau_1#1$1",focus=1)]
+[name="小黑"]吽哥，我來幫你拿碗筷了，今天幾個人來吃飯？
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_226_hmau_1#1$1",focus=2)]
+[name="吽"]不用了，碗筷槐琥已經端過去了。
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_226_hmau_1#1$1",focus=1)]
+[name="小黑"]那還有什麼我可以幫忙的嗎？
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_226_hmau_1#5$1",focus=2)]
+[name="吽"]嗯......？
+[name="吽"]你這孩子身上怎麼潮乎乎的！
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_226_hmau_1#6$1",focus=2)]
+[name="吽"]小黑，你又上天台了是不是？難怪剛剛一直找不到你。阿，快幫小黑拿條乾淨毛巾來！這孩子頭髮都是濕的。
+[Character(name="char_225_haak_1#1")]
+[name="阿"]喂，小鬼，接著，不用謝了！
+[Dialog]
+[Character(name="avg_lolxh_4067_1#6$1")]
+[Blocker(a=0, fadetime=0.5, block=true)]
+[PlaySound(key="$d_avg_clothmovement", volume=1)]
+[characteraction(name="middle", type="move", xpos=-15, fadetime=0.2, block=true)]
+[Blocker(a=0, fadetime=0.2, block=true)]
+[characteraction(name="middle", type="move", xpos=15, fadetime=0.2, block=true)]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#5$1")]
+[name="小黑"]哼，我才沒有要謝你呢！
+[Character(name="avg_226_hmau_1#10$1")]
+[name="吽"]好了好了，別吵了，趕緊擦乾淨頭髮來吃飯吧，小黑。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[name="槐琥"]小黑，快過來！這一大塊排骨給你放在飯碗裡啦，你這個年紀的小菲林，正是長身體的時候，營養可不能耽誤啦。
+[Dialog]
+[PlaySound(key="$doorknockquite", volume=1)]
+[delay(time=0.51)]
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]哎，槐琥姐，我去開門，一會就來。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[characteraction(name="middle", type="move", xpos=-250, fadetime=2.5, block=true)]
+[Delay(time=2)]
+[Character(fadetime=0.5)]
+[PlaySound(key="$dooropenquite", volume=1)]
+[delay(time=1)]
+[Dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[Character(name="avg_322_lmlee_1#4$1",fadetime=1,block=true)]
+[Delay(time=1.5)]
+[name="老鯉"]哎呦，是小黑啊。
+[Character(name="avg_322_lmlee_1#10$1")]
+[name="老鯉"]哈哈，在走廊裡我就聞到味道了，今天有粉蒸排骨對不對？
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]嗯，吽哥今天一早去市場排隊了。
+[Character(name="avg_243_waaifu_1#4$1")]
+[name="槐琥"]哼，鯉叔你鼻子很靈嘛，不巧了，我鼻子也很靈，說，你背後拎的瓶子是什麼！
+[Character(name="char_225_haak_1#2")]
+[name="阿"]沒錯，老實交代，交瓶不殺。
+[Character(name="avg_322_lmlee_1#1$1")]
+[name="老鯉"]唉，辦完事回來路過孫家的酒鋪，那老孫頭非得送四兩黃酒來答謝我，我又拗不過他，只好收下了不是。
+[name="老鯉"]說清楚了，這可不是我自己要買的。
+[Character(name="avg_226_hmau_1#10$1")]
+[name="吽"]那可真是謝謝孫老闆，正好今天做菜我家裡酒用完了，這酒送得可太及時了。小黑，來幫我把這瓶黃酒收到灶台底下的櫃子裡。
+[Character(name="avg_lolxh_4067_1#2$1")]
+[name="小黑"]好的，吽哥。
+[Character(name="avg_322_lmlee_1#5$1")]
+[name="老鯉"]嘿，原來你這老實頭才是最壞的，我還一口沒喝呢！還有你這小毛頭，跟著瞎起哄什麼？
+[Character(name="avg_243_waaifu_1#3$1")]
+[name="槐琥"]哈哈哈，小黑幹得好！
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_rhodesroom",screenadapt="showall")]
+[Delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]  
+[Character(name="avg_322_lmlee_1#10$1")]
+[name="老鯉"]嘶，你這孩子看著小小一隻，吃起飯來倒是幹勁十足，不錯，我喜歡，認真吃飯的總沒有壞孩子。
+[Dialog]
+[PlaySound(key="$d_avg_dishes", volume=1)]
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]（埋頭吃飯）
+[Character(name="avg_322_lmlee_1#1$1")]
+[name="老鯉"]對了，小黑啊......
+[Dialog]
+[Character]
+[Delay(time=0.51)] 
+[PlaySound(key="$d_avg_glassclink", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]（放下碗）
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_322_lmlee_1#1$1",focus=1)]
+[name="小黑"]鯉先生，有消息了嗎？！
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_322_lmlee_1#5$1",focus=2)]
+[name="老鯉"]呃，你托我打聽的事，目前還是沒有什麼眉目......
+[Character(name="avg_lolxh_4067_1#10$1",name2="avg_322_lmlee_1#5$1",focus=1)]
+[name="小黑"]噢，這樣嗎......
+[Character(name="avg_226_hmau_1#11$1")]
+[name="吽"]（小聲）老闆，你怎麼在飯桌上提這事！
+[Character(name="avg_lolxh_4067_1#10$1",name2="avg_322_lmlee_1#1$1",focus=2)]
+[name="老鯉"]唉，其實我是另有件小事想請小黑你出個力，不知道小黑你可否賞臉幫幫忙啊？
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_322_lmlee_1#1$1",focus=1)]
+[name="小黑"]鯉先生你說，我聽著呢！
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_322_lmlee_1#1$1",focus=2)]
+[name="老鯉"]是這樣的，袁家的大小姐丟了隻寵物，轉來送去的，把這事遞到我手頭了，幾番探查下來，說是有人在南坪灣的美食街瞧見過。
+[name="老鯉"]但我最近嘛，纏身的事太多，實在是忙不過來，就想拜託你幫我走一趟去看看，不知你願不願意啊？
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_322_lmlee_1#1$1",focus=1)]
+[name="小黑"]沒問題，包在我身上。
+[Character(name="avg_lolxh_4067_1#2$1",name2="avg_322_lmlee_1#10$1",focus=2)]
+[name="老鯉"]好，這是它的照片，你收好了。
+[Dialog]
+[PlaySound(key="$d_avg_paper2", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#4$1",name2="avg_322_lmlee_1#10$1",focus=1)]
+[name="小黑"]這、這是什麼動物啊？我以前都沒有見過......
+[Character(name="avg_lolxh_4067_1#4$1",name2="avg_322_lmlee_1#1$1",focus=2)]
+[name="老鯉"]沒見過嗎？那倒是奇了......
+[Character(name="avg_lolxh_4067_1#4$1",name2="avg_322_lmlee_1#10$1",focus=2)]
+[name="老鯉"]這東西是雲獸，這裡的人，有錢的沒錢的，都喜歡養一隻。
+[Character(name="avg_226_hmau_1#1$1")]
+[name="吽"]來，小黑，我也看看，全黑的......居然是烏雲獸，這毛色可不多見。
+[Character(name="avg_lolxh_4067_1#8$1")]
+[name="小黑"]烏雲獸？
+[Character(name="avg_226_hmau_1#1$1")]
+[name="吽"]這是大炎特有的叫法，因為養雲獸的人多，就又按著顏色往下分了幾類。
+[name="吽"]白色的，叫雪雲獸，紅色的，叫彤雲獸，還有些花色的，叫法也另有講究。
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]唔，原來是這樣，我明白了。
+[Character(name="avg_322_lmlee_1#1$1")]
+[name="老鯉"]小黑啊，你剛說沒見過，是你的家鄉沒人養這種寵物嗎？
+[Character(name="avg_lolxh_4067_1#7$1")]
+[name="小黑"]不是！我見過的，就、就是一時著急忘了。
+[Character(name="avg_322_lmlee_1#1$1")]
+[name="老鯉"]哦——
+[Character(name="avg_lolxh_4067_1#1$1")]
+[name="小黑"]鯉先生，吽哥，我吃完了，我先去睡了。
+[Dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=2)]
+[Character(name="avg_322_lmlee_1#10$1")]
+[name="老鯉"]哎，你這孩子跑這麼快幹什麼，明天記得早起，我帶你去南坪灣的美食街。
+[Character(name="avg_322_lmlee_1#10$1",focus=-1)]
+[name="小黑"]知道啦！
+[Dialog]
+[Character]
+[Delay(time=1)] 
+[Character(name="avg_322_lmlee_1#1$1",name2="avg_226_hmau_1#11$1",focus=1)]
+[name="老鯉"]嘿，吽你板著張臉做什麼？！
+[Character(name="avg_322_lmlee_1#1$1",name2="avg_226_hmau_1#11$1",focus=2)]
+[name="吽"]老闆你......怎麼能把我們分內的工作委託給客人去做呢？
+[Character(name="avg_322_lmlee_1#1$1",name2="avg_226_hmau_1#11$1",focus=1)]
+[name="老鯉"]哎，多個人多份力氣。
+[Dialog]
+[Character(name="avg_322_lmlee_1#1$1",name2="avg_226_hmau_1#8$1",focus=2)]
+[CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=20, randomness=90, fadeout=true, block=false)]
+[PlaySound(key="$gavel1", volume=0.7)]
+[Delay(time=1)]
+[name="吽"]老闆！
+[Character(name="avg_322_lmlee_1#1$1",name2="avg_226_hmau_1#8$1",focus=1)]
+[name="老鯉"]得，我這老闆是愈發沒面子了。
+[name="老鯉"]我問你，今天這小孩是不是又上天台去了？
+[Character(name="avg_322_lmlee_1#1$1",name2="avg_226_hmau_1#5$1",focus=2)]
+[name="吽"]......沒錯，老闆你怎麼知道？
+[Character(name="avg_322_lmlee_1#10$1",name2="avg_226_hmau_1#5$1",focus=1)]
+[name="老鯉"]剛一進你這屋我就從他身上聞到一股子潮氣，屋裡又不下雨。
+[name="老鯉"]雖然相處時間不長，倒也看得出來，這孩子一有心事便避去天台不願見人。想來一是思念親友，心裡不痛快。
+[name="老鯉"]二來嘛，大概是天天待在你家無所事事，面子上掛不住，渾身不對勁。
+[Character(name="avg_322_lmlee_1#10$1",name2="avg_226_hmau_1#11$1",focus=2)]
+[name="吽"]還是個孩子，哪用他忙活做事。
+[Character(name="avg_322_lmlee_1#10$1",name2="avg_226_hmau_1#11$1",focus=1)]
+[name="老鯉"]呵呵，是孩子，也不是孩子。吽，你和他交過手沒？
+[Character(name="avg_322_lmlee_1#10$1",name2="avg_226_hmau_1#5$1",focus=2)]
+[name="吽"]怎麼，這孩子有功夫傍身？！
+[Character(name="avg_322_lmlee_1#10$1",name2="avg_226_hmau_1#5$1",focus=1)]
+[name="老鯉"]嗯，而且不遜於成人。那天我遇見這小孩時，他戒備心重，和我過了幾招，招招剛勁生猛。
+[Character(name="avg_322_lmlee_1#10$1",name2="avg_226_hmau_1#5$1",focus=2)]
+[name="吽"]那也是罕見，什麼樣的地方會教出這樣的孩子？
+[Character(name="avg_322_lmlee_1#10$1",name2="avg_226_hmau_1#5$1",focus=1)]
+[name="老鯉"]呵，問得好，我也想知道。
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_lungmen_station",screenadapt="showall")]
+[delay(time=1)]
+[playMusic(intro="$nightoflongmen_intro", key="$nightoflongmen_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[playsound(key="$radio", volume=1)]
+[name="廣播"]各位旅客大家好，請在一米線外等待，排隊通行，不要擁擠，現在是夜間兩點四十五分，龍門歡迎您的到來。
+[Dialog]
+[delay(time=1)]
+[Character(name="avg_4040_rockr_1#5$1",name2="char_358_lisa_1#1",fadetime=1,block=true)]
+[delay(time=1.5)]
+[Character(name="avg_4040_rockr_1#5$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]這就是龍門嗎？這麼深的夜裡還亮著這麼多的燈，好美，不枉我們跑了那麼遠來這裡。
+[Character(name="avg_4040_rockr_1#5$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]洛洛姐姐，你也是第一次來嗎？
+[Character(name="avg_4040_rockr_1#5$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]是的，在這裡感受到的，是種完全和家鄉不一樣的風貌。
+[Character(name="avg_4040_rockr_1#5$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]有什麼特別的地方嗎？
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]感覺這裡很......年輕，很有活力。
+[name="洛洛"]真是難以想像，看周圍來來往往過關的人這麼多，就好像......好像幾年前那場浩劫什麼影響也沒留下。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]我想，城市和人一樣，也是有自癒能力的。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]是啊，蓬勃發展的城市，即使是遭受重創，也很快會有更新鮮的血液補充進來。
+[Character(name="avg_4040_rockr_1#11$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]只是不知道，表面上不留疤痕了，內裡的創傷呢？
+[Character(name="avg_4040_rockr_1#11$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]我想......總會好的，人的記性很差的。
+[Character(name="avg_4040_rockr_1#11$1",name2="char_358_lisa_1#4",focus=1)]
+[name="洛洛"]唉......那都是騙人的，記憶不會說消失就消失的，只是事情過去，人們就不願再提了。
+[Character(name="avg_4040_rockr_1#11$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]嗯，我明白，大人們總有說不出來的東西，都是悶在肚子裡慢慢消化的。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#4",focus=1)]
+[name="洛洛"]你......懂的有些太多了。
+[Dialog]
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#4",focus=-1)]
+[name="？？？"]洛洛姐，等等我們呀！
+[name="？？？"]（哥哥，這裡真的好神奇，我從來沒有見過可以移動的城市呢。）
+[name="？？？"]（哈哈，是呀，我也沒想過自己有一天會看到像動物一樣四處遷徙的城市啊。）
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#4",focus=1)]
+[name="洛洛"]小白！阿根！你們去哪裡了？馬上就到我們了，給你們辦的證件都帶好了嗎？
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",fadetime=1,block=true)]
+[delay(time=1.5)]
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]不好意思，讓你們久等了，剛剛小白說要上廁所，我們找了好久才找對地方。
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_classicbiu_1", volume=1)]
+[Character(name="avg_npc_604_1#2$1",fadetime=1,block=true)]
+[delay(time=1)]
+[name="比丟"]Biu！
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=2)]
+[name="小白"]這裡人太多啦，剛剛還遇到一個——
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]先不說這些了，我們快去排隊吧。
+[Character(name="avg_4040_rockr_1#5$1",name2="char_358_lisa_1#4",focus=1)]
+[name="洛洛"]遇到了什麼？
+[Character(name="avg_4040_rockr_1#5$1",name2="char_358_lisa_1#4",focus=2)]
+[name="鈴蘭"]不會是遇上危險了吧？！
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]沒有的事，大家不必擔心。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#4",focus=1)]
+[name="洛洛"]阿根，你是個性格沉穩的孩子，源石技藝也很厲害，這些都足夠保護你自己和小白。確實，我們也不用為你擔心。
+[name="洛洛"]可如果你連遇到危險也不願告訴我們，只會讓我們更加為你擔憂啊。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]本來洛洛姐你願意捎我們這一程，我們就很感激了。
+[name="阿根"]何況當時多虧你出手搭救我和小白，我就算是再有本事，也沒辦法帶著小白從那群兇猛的“銓獸”嘴下逃脫。
+[Character(name="avg_4040_rockr_1#1$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]“銓”獸？
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#3$1",focus=2)]
+[name="小白"]哥哥，你又大舌頭啦，那個是念“鉗獸”的呀。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#3$1",focus=1)]
+[name="阿根"]哈哈，鬧笑話了不是。這一路上本就已經給你們添了很多麻煩，實在不好意思再多讓你們擔心了。
+[Character(name="avg_4040_rockr_1#1$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]那你們來到龍門以後有住的地方嗎？
+[Character(name="avg_npc_598_1#10$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]嗯......目前還沒有。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]我就猜到你們很難找到地方了，先來羅德島的辦事處住一段時間吧。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]那就......只好再麻煩你們了。如果有什麼能幫上忙的，請儘管說。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]哎呀，真是的，一路上我們在一起相處都這麼久了，你怎麼還是對我們這樣客氣。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#1",focus=2)]
+[name="鈴蘭"]對啊，阿根哥哥，何況我們這次來並沒有很繁重的任務，主要是負責轉移護送一些龍門當地的病患去本艦接受治療。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#1",focus=1)]
+[name="洛洛"]你們想不到吧，雖然鈴蘭年紀很小，但她入職時間比我早，是很能幹的前輩哦。
+[Character(name="avg_npc_598_1#4$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]四處奔波只為救死扶傷，羅德島真是個了不起的地方啊。
+[Character(name="avg_npc_598_1#4$1",name2="avg_npc_597_1#5$1",focus=2)]
+[name="小白"]是啊，雖然很怕去醫院打針，但是我也知道醫院裡的醫生和護士們總是很辛苦。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#5",focus=2)]
+[name="鈴蘭"]我們也不僅僅是做這些啦，還有一些其他......嗯？已經排到我們了。沒事，等到了辦事處，你們自然就知道了。
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#5",focus=1)]
+[name="洛洛"]嗯，小白，阿根，我們走吧。
+[Dialog]
+[Character(name="avg_4040_rockr_1#12$1",name2="char_358_lisa_1#5")]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=1.5)]
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1")]
+[Delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=3.5)]
+[PlaySound(key="$d_gen_soldiersrun", volume=1)]
+[character(name="char_015_lmg",name2="char_015_lmg",fadetime=1,block=true)]
+[Delay(time=3)]
+[Character(name="avg_npc_177",name2="avg_npc_201",focus=1)]
+[name="維多利亞商人"]咦，怎麼近衛局的人突然來了這麼多？
+[Character(name="avg_npc_177",name2="avg_npc_201",focus=2)]
+[name="玻利瓦爾遊客"]剛剛過來時你沒看到嗎？有個偷渡的通緝犯被人用源石技藝凍在了欄杆上。
+[Character(name="avg_npc_177",name2="avg_npc_201",focus=1)]
+[name="維多利亞商人"]什麼？！開玩笑吧！
+[Character(name="avg_npc_177",name2="avg_npc_201",focus=2)]
+[name="玻利瓦爾遊客"]喂，把下巴收收吧，該你過關了，還不快去。
+[Character(name="avg_npc_177",name2="avg_npc_201",focus=1)]
+[name="維多利亞商人"]啊？哦......好，好。嘖，真是稀奇。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="31_g2_luo_reception",screenadapt="showall")]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#5$1",fadetime=0.5,block=true)]
+[delay(time=1)]
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#5$1",focus=2)]
+[name="小白"]哥哥，這就是洛洛姐她們工作的地方嗎？那個叔叔石頭長在心口，一定很痛吧......
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#5$1",focus=1)]
+[name="阿根"]小白，不要盯著人家的患處看，這樣不禮貌。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#1$1",focus=2)]
+[name="小白"]啊！不好意思，大叔，我不是故意的。
+[Dialog]
+[Character]
+[name="病患"]哈哈，小朋友，沒關係，異樣的眼神我們見過很多，知道你沒帶惡意的。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#1$1",focus=1)]
+[name="阿根"]大叔，麻煩問下，您知道要去哪裡找洛洛幹員嗎？
+[Dialog]
+[Character]
+[name="病患"]哎，就在前面不遠處小沅的病房裡，你繼續朝前走然後向左轉個彎就到了。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#1$1",focus=1)]
+[name="阿根"]謝謝大叔了。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=2)]
+[name="小白"]大叔再見，希望你能早日康復。
+[Dialog]
+[Character]
+[name="病患"]啊，康復？！哈哈哈哈，謝謝你了，小朋友，承你吉言吧......
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#10$1",focus=2)]
+[name="小白"]（哥哥，我是不是說錯了什麼，那個大叔好像笑得很勉強？）
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#10$1",focus=1)]
+[name="阿根"]（搖頭）我們還是先去找洛洛姐她們吧。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_ri_1",screenadapt="showall")]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_045_nn_1#5")]
+[name="？？？"]姐姐，我不去本艦，我還好得很，你讓我留在這裡吧，求求你了。
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]小沅，乖，聽話，辦事處的醫療資源已經不足以應對你目前的病症了，轉到本艦才能夠更好地控制你的病情。
+[Character(name="char_358_lisa_1#1")]
+[name="鈴蘭"]小沅妹妹，本艦有很多和你一樣年紀的小病患，你去了那裡能認識到很多新朋友的。
+[Character(name="avg_npc_045_nn_1#5")]
+[name="小沅"]我......我等我的六十七回來，我和它一起走，嗚嗚......
+[Character(name="avg_4040_rockr_1#1$1")]
+[name="洛洛"]六十七是？
+[Character(name="avg_npc_045_nn_1#1")]
+[name="小沅"]六十七跑丟了，我不能一個人離開，我、我想再等等它。
+[Character(name="avg_4040_rockr_1#1$1")]
+[name="洛洛"]阿平，我們這裡曾經走失過病患嗎？！
+[Character(name="avg_npc_012")]
+[name="辦事處幹員"]不是的，洛洛姐，六十七是她的寵物，去年丟了，小沅她一直放不下，一直在找。
+[Character(name="avg_npc_045_nn_1#5")]
+[name="小沅"]姐姐，你就讓我留在這裡吧，求求你了，你再給我點時間，我一定能找著它的，嗚嗚嗚。
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]唉，小沅，你先不要哭，把眼淚擦乾淨。
+[Character(name="avg_npc_012")]
+[name="辦事處幹員"]我們當時也派人去找了，但偌大一個龍門，找一隻寵物談何容易，再加上人手總是吃緊，也就沒再堅持了。
+[Character(name="avg_4040_rockr_1#7$1")]
+[name="洛洛"]這可怎麼辦？強行把她帶回去肯定是不行的。
+[Character(name="avg_npc_045_nn_1#5")]
+[name="小沅"]（嚎啕大哭）
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="小沅"]不要，我不要離開，你不要帶我走！
+[Character(name="char_358_lisa_1#4")]
+[name="鈴蘭"]要不然，洛洛姐姐，我們再幫忙找一找吧？
+[Character(name="avg_4040_rockr_1#1$1")]
+[name="洛洛"]可是，這裡也沒有多餘的人手啊......還有其他計畫去本艦治療的病患需要轉移。
+[name="洛洛"]而且下周我們必須按時返程，不然很多人的治療時機就耽誤了。
+[Character(name="char_358_lisa_1#3")]
+[name="鈴蘭"]怎麼辦......我們實在是沒有其他的辦法了......
+[Dialog]
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#1$1",focus=2)]
+[name="小白"]哥哥，我們能幫忙去找嗎？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#1$1",focus=1)]
+[name="阿根"]我沒有什麼把握，畢竟我們並不熟悉這個地方。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#9$1",focus=2)]
+[name="小白"]噢......
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#9$1",focus=1)]
+[name="阿根"]你很想幫忙嗎？
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#9$1",focus=2)]
+[name="小白"]我只是想......洛洛姐姐幫了我們那麼多，我也想幫上她的忙。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#9$1",focus=1)]
+[name="阿根"]嗯，是該輪到我們為她們做些什麼了，那我們就去爭取一下吧。
+[Dialog]
+[Character]
+[delay(time=0.51)]
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]洛洛姐，不知道能不能讓我和小白幫忙去找呢？
+[Character(name="avg_4040_rockr_1#5$1")]
+[name="洛洛"]你們......
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]洛洛姐，讓我們試試吧。
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]哥哥很厲害的，洛洛姐你放心。
+[Dialog]
+[Character]
+[delay(time=0.51)]
+[PlaySound(key="$doorknockquite", volume=1)]
+[delay(time=1)]
+[name="後勤幹員"]請問洛洛小姐在嗎？診室中的影像設備出了點故障，可以麻煩你等會過來看一下嗎？
+[Character(name="avg_4040_rockr_1#1$1")]
+[name="洛洛"]稍等，我馬上就過去！
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]......那好吧，一旦遇到什麼困難，要及時告知我。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=1)]
+[name="阿根"]嗯，一定會的。
+[Dialog]
+[Character]
+[delay(time=0.51)]
+[Character(name="char_empty", name2="avg_npc_045_nn_1#5")]
+[delay(time=0.51)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[characteraction(name="left", type="move", xpos=-200, fadetime=0.3, block=true)]
+[delay(time=0.51)]
+[characteraction(name="left", type="move", xpos=200, fadetime=1.5, block=false)]
+[Character(name="avg_npc_598_1#2$1", name2="avg_npc_045_nn_1#5",fadetime=1.2)]
+[delay(time=1.5)]
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="阿根"]小沅，你好，我叫阿根，這是我妹妹小白。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]（不住地抽噎）
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="阿根"]小沅，先冷靜下來，好好聽我說。
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]別太難過啦......我們會幫你的！
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_045_nn_1#5",focus=2)]
+[name="小沅"]......對不起......我、我是不是很任性，大家那麼忙，還幫我找了那麼久，我不應該還麻煩你們......
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]怎麼會呢，我們都不捨得和朋友分開呀......
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_045_nn_1#5",focus=1)]
+[name="阿根"]嗯，所以我們會盡力幫你的。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]真、真的嗎！這個是它的照片，它很可愛很乖的，肯定是在哪個地方躲著......
+[Dialog]
+[PlaySound(key="$d_avg_paper2", volume=1)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="阿根"]照片我們收好了，我們一定會盡全力幫你找它，但是你要知道，結果......不一定會如你所願。
+[Character(name="avg_4040_rockr_1#1$1")]
+[name="洛洛"]沒錯，小沅，相遇離別在所難免，無論如何，你都要勇敢面對，千萬不要因此而傷害自己，好嗎？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_045_nn_1#1",focus=2)]
+[name="小沅"]（啜泣）嗯，最後一次，就試最後一次，如果還是找不到，我......就不找了，我就乖乖......跟著洛洛姐姐去本艦。
+[Character(name="avg_npc_598_1#3$1",name2="avg_npc_045_nn_1#1",focus=1)]
+[name="阿根"]好，明天我就和小白一起出去四處問問。
+[Character(name="avg_4040_rockr_1#12$1")]
+[name="洛洛"]麻煩你們了，今天就好好休息吧，我先離開了。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=1.5)]
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character]
+[Background(image="bg_lungmen_b",screenadapt="showall")]
+[delay(time=1)]
+[playMusic(intro="$m_dia_street_intro", key="$m_dia_street_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(name="avg_lolxh_4067_1#9$1",name2="avg_npc_599_1#1$1",fadetime=0.5,block=true)]
+[delay(time=1)]
+[Character(name="avg_lolxh_4067_1#9$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]你老實一點。
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_lolxh_4067_1#9$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="？？？"]咪嗷！
+[Character(name="avg_lolxh_4067_1#9$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]別再亂動了！
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[Character(name="avg_lolxh_4067_1#9$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="？？？"]嘶哈！
+[Dialog]
+[Character]
+[Delay(time=0.51)]
+[PlaySound(key="$transmission", volume=0.9)]
+[delay(time=1.5)]
+[PlaySound(key="$d_gen_transmissionget", volume=0.9)]
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]（接起）
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="？？？"]咪嗚——
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]鯉先生，是我，小黑。我已經抓到這隻烏雲獸了，一會就回事務所。
+[Character(name="avg_lolxh_4067_1#4$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]啊？
+[name="小黑"]那位小姐她已經找到自己的寵物了？
+[Character(name="avg_lolxh_4067_1#7$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]可......嗯，好吧，我馬上就回去。
+[Dialog]
+[PlaySound(key="$transmission", volume=0.9)]
+[delay(time=1.5)]
+[Character(name="avg_lolxh_4067_1#8$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]奇怪了，那你又是哪裡來的？明明和照片上一模一樣啊......
+[Dialog]
+[PlaySound(key="$d_avg_cloakmovement", volume=0.7)]
+[CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=10, randomness=90, fadeout=true, block=false)]
+[delay(time=1.5)]
+被拎起後頸的烏雲獸不適地亂動起來，張牙舞爪試圖逃開小黑的控制，但同時也讓自己嶙峋的肋骨暴露在小黑的眼前。
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]你一定很久沒有好好吃過東西了吧，嗯......先帶你回去吃頓飽飯吧。
+[Dialog]
+[Character(name="avg_lolxh_4067_1#1$1",name2="avg_npc_599_1#1$1")]
+[delay(time=0.51)]
+[Dialog]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[Character(fadetime=1)]
+[Delay(time=1.5)]
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_lungmen_b",screenadapt="showall")]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#1$1",focus=2)]
+[name="小白"]這條街好熱鬧啊，我們先從這裡開始找嗎？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#1$1",focus=1)]
+[name="阿根"]嗯，美食街附近應該會有不少流浪的小動物，這裡吃的多，很容易獲取食物。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#10$1",focus=2)]
+[name="小白"]可是動物能吃人類的食物嗎？
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#10$1",focus=1)]
+[name="阿根"]不適合，但它們也不知道啊，能不餓肚子就很好了。
+[Character(name="avg_npc_598_1#1$1",name2="avg_npc_597_1#9$1",focus=2)]
+[name="小白"]......希望小黑在這邊不會餓肚子。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#9$1",focus=1)]
+[name="阿根"]不會的，他一定能照顧好自己的。
+[name="阿根"]不要胡思亂想了，出來這麼早，你一定也餓了，入關後洛洛姐塞給我好些這裡的錢，我們先去找點東西吃吧。
+[Character(name="avg_npc_598_1#2$1",name2="avg_npc_597_1#2$1",focus=2)]
+[name="小白"]嗯......
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character]
+[Background(image="bg_lungmen_b",screenadapt="showall")]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]老闆，外帶兩杯豆漿，麻煩了，謝謝。
+[Character(name="avg_npc_598_1#2$1",focus=-1)]
+[name="攤販A"]哎，您接好。
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]老闆，這地方應該有很多流浪動物吧。
+[Character(name="avg_npc_598_1#1$1",focus=-1)]
+[name="攤販A"]哎，不錯，天天在街上竄來跑去的，髒兮兮的，煩死人了。
+[Character(name="avg_npc_598_1#1$1")]
+[name="阿根"]那老闆你最近有沒有見過一隻黑色的雲獸？
+[Character(name="avg_npc_598_1#1$1",focus=-1)]
+[name="攤販A"]不記得，一天忙到晚誰有心思管這些玩意兒。
+[name="攤販B"]就是，誰知道那些小東西身上帶的細菌寄生蟲有多少，不打死就算我們好心了。
+[Character(name="avg_npc_597_1#9$1")]
+[name="小白"]（抓緊阿根的衣角）打死......
+[Character(name="avg_npc_597_1#9$1",focus=-1)]
+[name="攤販A"]你這人怎麼回事，孩子面前你也說這種話！
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]沒事，走吧，小白，我們去問問別人吧。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Character]
+[Background(image="bg_lungmen_b",screenadapt="showall")]
+[delay(time=0.51)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Delay(time=0.51)]
+[name="攤販C"]鮮榨果汁限時優惠，八折出售，心動不如行動！
+[Dialog]
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]老闆，打擾了，請問最近有見過一隻黑色的雲獸嗎？
+[Character(name="avg_npc_598_1#2$1",focus=-1)]
+[name="攤販C"]沒見過沒見過，小夥子你要是不買，就不要站在這裡影響我生意了。
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]不好意思，請問果汁多少錢？
+[Character(name="avg_npc_598_1#2$1",focus=-1)]
+[name="攤販C"]一百二十龍門幣一瓶。
+[Character(name="avg_npc_598_1#10$1")]
+[name="阿根"]呃......有點貴啊。
+[Character(name="avg_npc_597_1#1$1")]
+[name="小白"]哥哥，算了吧，我們去下一家問問。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Character]
+[Background(image="bg_lungmen_b",screenadapt="showall")]
+[delay(time=0.51)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Delay(time=0.51)]
+[name="攤販D"]包子，現包的包子！各種餡料應有盡有！
+[Dialog]
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]您好，請問您有見過一隻烏雲獸嗎？
+[Character(name="avg_npc_597_1#2$1",focus=-1)]
+[name="攤販D"]小妹妹，我沒見過啊，你去別處問問吧。
+[Character(name="avg_npc_597_1#1$1")]
+[name="小白"]唉......不好意思打擾了。
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]小白，別沮喪，我們再去問問。
+[Character(name="avg_npc_598_1#2$1",focus=-1)]
+[name="攤販D"]小夥子，貧民窟附近有個救助站，經營的人常從這條街帶流浪動物回去，要不你去那裡看看吧。
+[Character(name="avg_npc_597_1#2$1")]
+[name="小白"]真的嗎？太好了！
+[Character(name="avg_npc_597_1#2$1",focus=-1)]
+[name="攤販D"]說來也怪，這人最近好久都沒有再見過了......
+[Character(name="avg_npc_598_1#2$1")]
+[name="阿根"]老闆，包子怎麼賣？麻煩你拿兩個鮮肉包子！
+[Character(name="avg_npc_598_1#2$1",focus=-1)]
+[name="攤販D"]哈哈，一共七龍門幣，多謝惠顧了。
+[Dialog]
+[character(fadetime=0.5)]
+[stopmusic(fadetime=1)]
+[delay(time=0.8)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[BackgroundTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=1.15, yScaleTo=1.15, duration=2, block=false,screenadapt="coverall")]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[Image(image="31_luo_i1",screenadapt="coverall", fadetime=0)]
+[ImageTween(xFrom=0, yFrom=0, xTo=270, yTo=0, xScaleFrom=1, yScaleFrom=1, xScaleTo=1.6, yScaleTo=1.6, duration=0.1, block=true)]
+[delay(time=1)]
+[playMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Delay(time=1)]
+[name="阿根"]欸，你的包子怎麼只吃了麵皮？
+[name="小白"]我想剩下些看看路上會不會有小動物在找吃的。
+[name="阿根"]哈哈哈，是這樣啊，那我再去多買一個包子好了，你把你手上的包子吃完吧。
+[name="小白"]不了，哥哥，我們省著點花吧，之後找六十七肯定還要用的。
+[name="阿根"]那好吧。
+[name="小白"]如果能多剩一些，到時候再見面還可以給小黑多買點吃的！也不知道他現在有沒有吃飽。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Image(image="31_luo_i1",screenadapt="coverall", fadetime=0)]
+[ImageTween(xFrom=0, yFrom=0, xTo=-350, yTo=0, xScaleFrom=1, yScaleFrom=1, xScaleTo=1.6, yScaleTo=1.6, duration=0.1, block=true)]
+[delay(time=0.7)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Delay(time=0.51)]
+[name="小黑"]阿嚏——奇怪，怎麼會打噴嚏......
+[Dialog]
+[PlaySound(key="$d_avg_clothmovement", volume=0.7)]
+[delay(time=1.5)]
+[name="？？？"]（胡亂掙扎）
+[name="小黑"]好了，我們走吧，為了捉你，我今天連早飯都沒來得及吃呢。
+[Dialog]
+[PlaySound(key="$d_gen_walk_n")]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=1, g=1, b=1, fadetime=2, block=true)]
+[Image(image="31_luo_i1",screenadapt="coverall", fadetime=0)]
+[delay(time=1)]
+[ImageTween(xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=1, yScaleTo=1, duration=8, block=false)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[name="阿根"]也許小黑比我們好運，這時候在哪個地方吃好吃的呢！
+[name="小黑"]快到中午了，吽哥應該做好午飯了。
+[name="小白"]那可太好啦！
+[name="小白"]真想快點找到小黑啊。
+[name="小黑"]也不知道小白和阿根在哪裡呢......
+[name="阿根"]他一定也在找我們呢。
+[name="小黑"]什麼時候才能再見面啊......
+[name="小白"]嗯！希望，我們能早點相見！
+[name="小黑"]不想這麼多了！我們一定還會再見的！
+[Dialog]
+[stopmusic(fadetime=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[Image]
+[Background(image="bg_rooftop_2",screenadapt="showall")]
+[delay(time=1)]
+[playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Character(name="char_empty",name2="avg_npc_599_1#1$1",fadetime=0.5,block=true)]
+[delay(time=1)]
+[characteraction(name="right", type="jump", xpos=100, times=3,power=5,fadetime=1, block=true)]
+[name="烏雲獸"]（左右張望）
+[Dialog]
+[characteraction(name="right", type="jump", xpos=-100, times=3,power=5,fadetime=1, block=true)]
+[name="烏雲獸"]（四處尋覓）
+[Dialog]
+[Delay(time=0.51)]
+[PlaySound(key="$d_avg_doubtmiaow", volume=1)]
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",fadetime=1,block=true)]
+[delay(time=1)]
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]你在找什麼？
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=2)]
+[CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="烏雲獸"]咪嗷！！
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]別害怕，我是帶你回來的那個人，這只是我的另一種形態。
+[name="小黑"]你要是在找離開的路，側邊有消防樓梯可以下去。
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="烏雲獸"]（不安地甩甩尾巴）咪......
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]也是奇怪，明明來自不同的世界，你的意思我卻大致都能明白。
+[name="小黑"]為什麼要走，留在這裡不好嗎？鯉先生雖然嘴上說頭疼，但看得出來，他還是願意收留你的。
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="烏雲獸"]（搖頭）咪咪。
+[Character(name="avg_npc_596_1#6$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]外面吃不飽飯，還有人追著打，那為什麼還總想著到外面去呢？
+[Character(name="avg_npc_596_1#6$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="烏雲獸"]咪......咪......
+[Character(name="avg_npc_596_1#3$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]原來......你也在找人啊。
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]過來呀，我不會傷害你的。
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="烏雲獸"]（趴下）
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]那個人，我幫你一起找吧。
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="烏雲獸"]（抬頭）
+[Character(name="avg_npc_596_1#1$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]......來到這裡後，我一直不敢告訴其他人，我其實不屬於這個世界。
+[name="小黑"]在原來生活的地方，我有很好的師父，很好的朋友。
+[name="小黑"]兩個月前我們在森林裡追逐兩隻異獸，啊，就是你們這裡的源石蟲，不知道為什麼會出現在那裡。
+[name="小黑"]阿根說，我們分頭去追，我獨自追著那隻源石蟲在林子裡面跑了很久，可一回頭卻看到來時的路消失了。
+[name="小黑"]然後我便一腳踩空，在一片白光中不停往下掉......
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]再睜開眼，我就到這個地方來了。
+[name="小黑"]我不知道小白和阿根是不是也來到了這裡，我想見他們，卻又不想在這個世界見到他們。
+[Character(name="avg_npc_596_1#2$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="烏雲獸"]（抖抖耳朵）咪？
+[Character(name="avg_npc_596_1#1$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]這裡太危險了，我和阿根也許還可以保護自己，但小白呢......這裡還有會讓人長出可怕石頭的傳染病......我希望他們都能留在安全的地方。
+[Dialog]
+[Character(name="avg_npc_596_1#1$1",name2="avg_npc_599_1#1$1",focus=2)]
+[characteraction(name="right", type="move", xpos=-100, fadetime=1.5, block=true)]
+[delay(time=1)]
+[name="烏雲獸"]（伸出爪子想搭在小黑的背上）
+[Character(name="avg_npc_596_1#1$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]你是在安慰我嗎？
+[Character(name="avg_npc_596_1#1$1",name2="avg_npc_599_1#1$1",focus=2)]
+[name="烏雲獸"]咪！
+[Character(name="avg_npc_596_1#1$1",name2="avg_npc_599_1#1$1",focus=1)]
+[name="小黑"]......謝謝。
+[Dialog]
+[stopmusic(fadetime=3)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
+[Character]
+[Image]

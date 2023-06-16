@@ -2079,6 +2079,36 @@
       "gachaRuleType": "NORMAL"
     },
     {
+      "gachaPoolId": "NORM_TC_19_2_1",
+      "gachaIndex": 6,
+      "openTime": 1685995200,
+      "endTime": 1687204799,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於6月20日 03:59",
+      "gachaPoolDetail": "-",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "NORMAL"
+    },
+    {
+      "gachaPoolId": "NORM_TC_19_3_1",
+      "gachaIndex": 5,
+      "openTime": 1687204800,
+      "endTime": 1688414399,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於7月4日 03:59",
+      "gachaPoolDetail": "-",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "NORMAL"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 1,
       "openTime": 1622100600,
@@ -3849,6 +3879,20 @@
       "startTime": 1684785600,
       "endTime": 1685995199,
       "spriteId": "picNorm_tc_19_1_2"
+    },
+    {
+      "poolId": "NORM_TC_19_2_1",
+      "index": 7,
+      "startTime": 1685995200,
+      "endTime": 1687204799,
+      "spriteId": "picNorm_tc_19_2_1"
+    },
+    {
+      "poolId": "NORM_TC_19_3_1",
+      "index": 6,
+      "startTime": 1687204800,
+      "endTime": 1688414399,
+      "spriteId": "picNorm_tc_19_3_1"
     },
     {
       "poolId": "LIMITED_TC_19_4_1",

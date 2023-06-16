@@ -6369,6 +6369,96 @@
       }
     },
     {
+      "tagId": "tag_231",
+      "displayType": "block_1",
+      "tagName": "時代/XVI",
+      "itemTag": "DEADLINE",
+      "orderNum": 1,
+      "startDatetime": 1685431800,
+      "endDatetime": 1686599999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag231_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_231",
+        "text": "悄悄告訴你，野鬃那個工作用圍裙根據價格有不同款式，聽說用的圍裙越貴，就越能製作出令自己滿意的作品哦。"
+      }
+    },
+    {
+      "tagId": "tag_232",
+      "displayType": "block_1",
+      "tagName": "巫異盛宴/II",
+      "itemTag": "DEADLINE",
+      "orderNum": 2,
+      "startDatetime": 1685431800,
+      "endDatetime": 1686599999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag232_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_232",
+        "text": "下次我也要玩這個劇本，我要當商人！"
+      }
+    },
+    {
+      "tagId": "tag_233",
+      "displayType": "block_1",
+      "tagName": "卡西米爾直播間",
+      "itemTag": "DEADLINE",
+      "orderNum": 6,
+      "startDatetime": 1685431800,
+      "endDatetime": 1686599999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag233_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": "kazimierz_2021",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_233",
+        "text": "羅德島可沒那麼多賽事需要轉播呀，為什麼引進全套直播間？對方支付了贊助費？哦那就沒問題了，完全沒問題。"
+      }
+    },
+    {
       "tagId": "tag_238",
       "displayType": "block_1",
       "tagName": "2022音律聯覺紀念禮包",
@@ -10417,6 +10507,50 @@
     {
       "items": [
         {
+          "spriteId": "shop_wildmn_epoque#16",
+          "startTime": 1685431800,
+          "endTime": 1686599999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_496_wildmn@epoque#16",
+          "skinId": "char_496_wildmn@epoque#16",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_blemsh_witch#2_r1",
+          "startTime": 1685431800,
+          "endTime": 1686599999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_423_blemsh@witch#2_r1",
+          "skinId": "char_423_blemsh@witch#2",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_vodfox_witch#2_r1",
+          "startTime": 1685431800,
+          "endTime": 1686599999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_254_vodfox@witch#2_r1",
+          "skinId": "char_254_vodfox@witch#2",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_snsant_witch#2_r1",
+          "startTime": 1685431800,
+          "endTime": 1686599999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_383_snsant@witch#2_r1",
+          "skinId": "char_383_snsant@witch#2",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "spriteId": "shop_camp_2022",
           "startTime": 1684216800,
           "endTime": 1685390399,
@@ -10469,6 +10603,19 @@
     {
       "items": [
         {
+          "spriteId": "shop_kazimierz_2021_r1",
+          "startTime": 1685431800,
+          "endTime": 1686599999,
+          "cmd": "FURNSHOP",
+          "param1": "kazimierz_2021",
+          "skinId": "",
+          "furniId": "kazimierz_2021"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "spriteId": "shop_Once_58",
           "startTime": 1666929600,
           "endTime": 1669319999,
@@ -10483,8 +10630,8 @@
       "items": [
         {
           "spriteId": "shop_Once_83",
-          "startTime": 1683104400,
-          "endTime": 1685131199,
+          "startTime": 1677034800,
+          "endTime": 1679428799,
           "cmd": "GIFTPACKAGE",
           "param1": "GP_Once_83",
           "skinId": "",
