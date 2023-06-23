@@ -10703,6 +10703,1161 @@
       "uniEquipGetTime": 1681371000,
       "charEquipOrder": 2
     },
+    "uniequip_001_glady": {
+      "uniEquipId": "uniequip_001_glady",
+      "uniEquipName": "歌蕾蒂婭證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員歌蕾蒂婭擅長將敵人拖拽至身邊後進行攻擊\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使鉤索師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_474_glady",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_glady": {
+      "uniEquipId": "uniequip_002_glady",
+      "uniEquipName": "執政官手鏡",
+      "uniEquipIcon": "uniequip_002_glady",
+      "uniEquipDesc": "在聽到母親出門的聲響後，小歌蕾蒂婭從床上爬起，喊開檯燈，拿出了自己藏在枕頭下的小梳妝鏡。按照正常作息，她不應當在鐘錶數字全部歸零後仍保持清醒，但今晚，她需要看著自己，她需要抉擇。在其他阿戈爾人的視角裡，她是歌蕾蒂婭，一位科學院要員的女兒，各項青少年賽事的全冠王，家庭和睦，年少有成。但在梳妝鏡裡，歌蕾蒂婭看到了一個沒有情感的碳基機器人。她的生母，自她記事起就醉心於阿戈爾事務與科學院決策，家只是科學院休息室之外的一個居住點。她曾以為生母在需求她的成就，於是她不斷逼迫自己交出答卷，以成人的標準去要求年幼的自己。但她還是沒能從生母那裡獲得過任何回饋——沒有認可，沒有批評，什麼都沒有。她總把時間留給阿戈爾，沒有閒暇為女兒準備一分一秒。\n這場生育或許是個意外，這個家庭並沒有存在的必要。歌蕾蒂婭得出了這樣一個結論。\n那麼，她就需要自己去尋找一個能夠稱作“家”的地方，尋找可以被叫做“親人”的阿戈爾。\n她已決心，她會搜尋，她將行動。\n她要親耳聽聽，生母在民事法庭上會有怎樣的辯駁。\n歌蕾蒂婭收起梳妝鏡，關上燈，沉入睡眠。\n她的腦中在瘋狂計劃著。\n一夜未眠。\n......\n歌蕾蒂婭站在執政官府邸的巨大落地鏡前，審視著鏡中那個渺小的自己。再過幾個小時，她就要從府邸離開，躺上手術台，開始深海獵人的改造手術。或許手術結束以後，她就要作為一名軍事指揮官而非技術執政官履行職責，她得上戰場，成為一個雙手沾滿鮮血的怪物。這件事完全打破了她對於人生軌跡的構想與安排，甚至極有可能直接終止自己的生命。歌蕾蒂婭從不畏懼死亡與犧牲，但鏡中映出的華貴廳堂也確實提醒了她另外一件事——她仍留有許多遺憾。一些欲望、一些責任、還有一些承諾，成為深海獵人將導致這些事項再無完成的可能。如果手術能夠推遲，如果阿戈爾能夠儘早對她公開計畫的全貌......她第一次意識到，她並非如自己所想的那樣，將一切都牢牢控制在了手中。她將失去，且再也取不回來。\n歌蕾蒂婭又一次環視大廳，回到了自己的書房。\n幾個小時後，她出發前往深海獵人試驗基地，臨行前，她委託執政官府邸的智能管家為她保存兩份文件。\n一份是成為深海獵人後的發言稿。\n一份是遺書。\n......\n當歌蕾蒂婭被放逐到了不屬於阿戈爾的土地後，她真真正正地失去了一切。只剩下沾血的長槊，一套尚且說得過去的衣物，以及永無盡頭的乾燥與灼熱。而現在，她站在一個儲蓄淡水的坑窪前，望向自己的倒影，清洗著衣服上的污穢與血跡。\n泥沙沾上流水便會散去，衣服上那些凝結的血塊，卻怎麼也除不乾淨。她只能不停摩挲，看著這些固體接觸到透明流質，化作與血液相同的顏色從指縫間流出，最後滴落在土壤上。那是她自己的血？海嗣的血？還是同伴們的血？她無從分辨。忽然，歌蕾蒂婭注意到了什麼，她湊近坑窪，仔細檢查著自己的脖頸。\n一小塊鱗片。\n此時的歌蕾蒂婭不知為何想起了自己的生母，如果可以的話，她寧願再次承受她的漠視，也絕不允許這塊鱗片停留在自己的脖頸上。\n但它已然發生了。\n歌蕾蒂婭站起身，將自己浸滿淡水的髮絲甩至腦後。\n她確實能夠感受到，自己內心中有一些憤恨與不滿。這些情緒沒有必要表現出來，它們對當下這個情境沒有任何助益。\n她確實失去了一切，但她發現自己還有機會維護基本的體面與尊嚴，這也就意味著，她還能夠昂首向前。\n她不需要希望，她只專注於可能性、可行性與結果。\n她還可能返回阿戈爾。\n她還有機會找回失散的深海獵人。\n只要在機率上不為零，便仍應嘗試。\n那麼，開始實踐。\n歌蕾蒂婭擦乾長槊上的血跡，消失在“坑窪”旁。\n幾秒鐘後，音爆震起池水，徹底掩蓋了她的痕跡。",
+      "typeIcon": "hok-x",
+      "typeName1": "HOK",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_474_glady",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_glady_1",
+        "uniequip_002_glady_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_snsant": {
+      "uniEquipId": "uniequip_001_snsant",
+      "uniEquipName": "雪雉證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員雪雉擅長將敵人拖拽至身邊後進行攻擊\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使鉤索師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_383_snsant",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_snsant": {
+      "uniEquipId": "uniequip_002_snsant",
+      "uniEquipName": "雪雉的寶貝存錢罐",
+      "uniEquipIcon": "uniequip_002_snsant",
+      "uniEquipDesc": "雪雉存錢罐中的零錢盤點\n-數枚遊戲機廳的金屬代幣，來自龍門小販的找零。在雪雉第二天想去找他對質時，發現該奸商已經被龍門近衛局逮捕，攤位也已經被查封。\n-兩枚東國硬幣，在雪雉幫助嵯峨維修木魚後獲得。如果存到一定數量並有機會前往東國的話，應該還是可以兌換成通行更廣的貨幣的，姑且存下！\n-三枚卡西米爾赫勒銅幣，來自於瑕光的贈予。這幾枚老版的赫勒銅幣在卡西米爾早就停止了流通，瑕光在整修盔甲時偶然在夾層裡發現並作為紀念品送給了雪雉，說不定能派上用場。\n-一枚高盧銅里亞，已經生鏽，來自於一次舊高盧地區的考察任務。高盧還在的時候，差不多十枚銅里亞等值於一龍門幣。不過當年也沒人會做這麼小額的兌換生意吧。至於現在，或許會有收藏家感興趣？\n-幾張面值為三分的哥倫比亞金券。據潔西卡所說，哥倫比亞沒有發行過這個面值的貨幣，但也不一定是假的！說不定只是潔西卡不知道。\n-一枚刻著嘉維爾頭像的粗糙銅幣，來自特米米的派發。她說這是“嘉維爾意志”部族曾經鑄造的寶貴銅幣，但是嘉維爾本人不承認這件事。特米米保證，一定還會有人會認可它的價值。\n-一張已經過期的羅德島食堂甜品優惠券。雪雉用它來提醒自己，千萬不要忘記確認優惠券的有效期！",
+      "typeIcon": "hok-x",
+      "typeName1": "HOK",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_383_snsant",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_snsant_1",
+        "uniequip_002_snsant_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31034",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31044",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31054",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_slchan": {
+      "uniEquipId": "uniequip_001_slchan",
+      "uniEquipName": "崖心證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員崖心擅長將敵人拖拽至身邊後進行攻擊\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使鉤索師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_173_slchan",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_slchan": {
+      "uniEquipId": "uniequip_002_slchan",
+      "uniEquipName": "“凌絕頂”",
+      "uniEquipIcon": "uniequip_002_slchan",
+      "uniEquipDesc": "對於攀登者而言，“山峰”意味著什麼？\n一種高度？物理上的，精神上的，各種意義上的......你征服了這個高度，你觸摸了天空，你就證明了自己的價值。\n似乎正是如此，但又並非這麼簡單。\n起碼對於恩希亞小姐而言，並非這麼簡單。\n在謝拉格的時候，登山對她而言，與其說是在征服什麼，不如說是連接什麼。山腳下是她的哥哥，恩希歐迪斯大人，整個希瓦艾什家族，山上是她的姐姐，整個謝拉格的聖女。\n她此前已然攀上了聖山，無論是征服還是連接，她都成功了。\n而今天，恩希亞小姐在玻利瓦爾登山大賽中奪冠的消息傳了回來......\n這是她用生命奪取的榮譽，其中艱險超乎所有人的想像......\n主辦方的氣候監測設備出現故障，參賽者們在中途遭遇了突如其來的暴風雪和連環冰裂，絕大多數參賽者的前路被阻斷，主辦方宣佈比賽中止，並組織隊伍對尚未回到出發營地的參賽者展開營救。而恩希亞小姐的部分食物、通訊設備和防寒帳篷已經在避險過程中遺失，極端環境下，每多待一刻，便多一分危險，可她當時已經翻越了號稱泰拉險峰難度最高的一處冰壁，登頂有望。那麼，是應該趕緊原路退回，還是轉身繼續向上？\n......\n“山頂的風景棒極了！”據說這是恩希亞小姐甦醒後，對著醫護人員說的第一句話。\n主辦方宣佈比賽有效，將獎盃頒給了恩希亞小姐，她也是唯一的獲獎者。\n謝拉格之外的遙遠險峰，沒有耶拉岡德庇佑，恩希亞小姐只是一位陌生的參賽者。她成功將旗幟插在了最頂點，僅僅是為了未知的風光。\n......\n引用主辦方給恩希亞小姐的頒獎詞，作為今天特別節目的結尾：\n“她是真正的攀登者。”\n——崖心在玻利瓦爾登山大賽奪冠的消息傳回謝拉格，電台臨時進行了特別報導。以上片段摘自報導文本",
+      "typeIcon": "hok-x",
+      "typeName1": "HOK",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_173_slchan",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_slchan_1",
+        "uniequip_002_slchan_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31044",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30104",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30024",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_rope": {
+      "uniEquipId": "uniequip_001_rope",
+      "uniEquipName": "暗索證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員暗索擅長將敵人拖拽至身邊後進行攻擊\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使鉤索師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_236_rope",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_rope": {
+      "uniEquipId": "uniequip_002_rope",
+      "uniEquipName": "鐵皮首飾盒",
+      "uniEquipIcon": "uniequip_002_rope",
+      "uniEquipDesc": "“不要催我了，再等一下下。”\n打開鐵皮盒子，暗索點點下巴，艱難地在兩條項圈間做選擇。那條仿紋身的塑膠項圈是她通常的選擇，能讓脖子顯得修長，最重要的是，它很便宜，一點小錢就能買一打。\n“工錢、工錢可不能亂花，那可都是我辛辛苦苦一鉤一鉤鉤來的。”\n“暗索，十分鐘了，你還沒有選好嗎？”\n“再給我一點時間，拜託啦。”\n“我再多等你十分鐘哦，就十分鐘。”\n“知道啦！”\n“另外一條我也很喜歡啊，不，是超級喜歡......”\n盒子裡躺著一條做工精緻的皮質項圈，中間點綴著剔透的碎鑽，同旁邊廉價鮮豔的塑膠製品相比，它有些格格不入。\n幾個月前，同組幹員為了答謝暗索危急時刻的出手相助，將這條項圈作為禮物贈送給她。暗索很喜歡，這是她的鍾愛，卻從不是她的選擇。她曾徜徉在櫥窗前，任自己的倒影和玻璃後的展示台重疊，就像月亮會落在水面，這條項圈也會掛在她脖間。她眨眨眼，玻璃上的女孩也眨眨眼，這一刻，她們融為一體。\n但可惜，倒影從不永恆。\n“一定是我當時的目光太過豔羨，所以才會被她發現。”\n“太痛苦了，那些我想要卻得不到的好東西，現在我唯一能做的，就是偷偷想。”\n“嗚——我怎麼就上了這條賊船！”\n她將項圈湊在鼻前，閉上眼狠狠嗅著皮子的煙燻味，那是它在鞣製的過程中染上的焦油香氣。\n“啊，聞起來是財富的味道——不如今天就戴它好了，可是這個皮料這麼柔軟，磨損了怎麼辦？”\n暗索雙手捧著項圈，用臉頰輕輕蹭著皮面，享受那細膩緊密的質感。\n“好舒服，好喜歡，捨不得戴......”\n“十分鐘了哦，你再不出門我就不等你了！”\n暗索撇撇嘴，對門外的催促聲暗暗表示了自己的不滿。\n“來了啦！”\n“你到底在選什麼？”\n“女孩子出門嘛，鞋子衣服首飾都得好好挑選一番。”\n“我覺得和你平時穿的沒什麼兩樣。”\n“你說這種話我會生氣哦。”\n“......你為什麼不戴我送給你的那條項圈？你不喜歡嗎？”\n“當然沒有，那可是好東西，好東西永遠都得留給下一次。”\n“哼，不敢苟同。”",
+      "typeIcon": "hok-x",
+      "typeName1": "HOK",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_236_rope",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_rope_1",
+        "uniequip_002_rope_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30103",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31013",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30013",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_bgsnow": {
+      "uniEquipId": "uniequip_001_bgsnow",
+      "uniEquipName": "鴻雪證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員鴻雪擅長射擊近距離敵人造成精準物理殺傷\n根據外勤部門決議\n在外勤任務中劃分為狙擊幹員，行使重射手職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_4055_bgsnow",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_bgsnow": {
+      "uniEquipId": "uniequip_002_bgsnow",
+      "uniEquipName": "打字機色帶",
+      "uniEquipIcon": "uniequip_002_bgsnow",
+      "uniEquipDesc": "青色。\n人工湖的顏色。\n我不大喜歡玩水，但我會搬一把躺椅，坐在人工湖邊，一邊心不在焉地讀書，一邊觀察水中的歡鬧。\n杜林人的嬉戲是那麼和平，最激烈的爭鬥也不過就是互相潑水而已。\n當人類不必為了一塊黑麵包鬥到你死我活，他們的交流就會如同湖水般清澈而美麗。\n\n黃色。\n人造陽光的顏色。\n我常常擎一杯與陽光顏色相仿的蜜釀，站在熙熙攘攘的圓形廣場中間，享受略有些酷烈的驕陽。\n即便是人造之物，日光灑在身上，心情總還是會不由自主地雀躍起來。\n就算再也見不到雙月，我也寧願人造的溫暖能灑遍寒冷的雪原。\n\n品紅色。\n溫室鮮花的顏色。\n我在際崖城最常寫的是廣告詞，而爭奇鬥豔的鮮花總能給我靈感。\n廣告詞的寫作不必抒發什麼，但每次看到那些花朵，我心中還是會升騰起對純粹的美的讚歎。\n如果人人都能騰出時間養育一朵屬於自己的鮮花，他們是否就能把目光從權力與金錢上移開片刻？\n\n黑色。\n......泥土的顏色，大地的顏色。\n距離印刷品最遠，距離真實最近的顏色。\n我曾經逃離，又不得不面對的顏色。\n但也是墨水的顏色。\n時至今日，我只期盼，黑色的墨水能讓我把這片大地上的黑暗描摹出一二。",
+      "typeIcon": "arc-y",
+      "typeName1": "ARC",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_4055_bgsnow",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_bgsnow_1",
+        "uniequip_002_bgsnow_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_mizuki": {
+      "uniEquipId": "uniequip_001_mizuki",
+      "uniEquipName": "水月證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員水月擅長隱匿身形伏擊敵人\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使伏擊客職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_437_mizuki",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_mizuki": {
+      "uniEquipId": "uniequip_002_mizuki",
+      "uniEquipName": "使者之約",
+      "uniEquipIcon": "uniequip_002_mizuki",
+      "uniEquipDesc": "我本以為這個孩子早晚會泯然眾人。但當他的舌尖觸碰到使者的饋贈，當他將這一切納為己有，而不是被大群的聲音淹沒，成為一隻卑微的恐魚，事情就似乎變得有些不同了。\n我本該能阻止那場不幸的劫掠，但我沒有這麼做。我坐視了那幫匪徒的惡行，這種不作為讓我對自己感到不齒。哪怕是為了確保一名夠格的受驗者，為了探索人類的可能性。\n那孩子後來也一定察覺到了我本可以救下所有人，但聰明如他，並不需要開口向我索要問題的答案。是啊，他聰明好學，可他對知識既沒有敬畏之心，亦沒有將知識當作單純的工具。他彷彿一名置身事外的旁觀者，審視著自己所見證的一切事物，這或許就是他沒有在使者的血肉紐帶中迷失的原因。如果換作不同的出身，他或許會成為一名獨樹一幟的學者吧。\n起初這個孩子的身上似乎並沒有發生什麼變化，這甚至一度讓我對自己的研究感到懷疑，繼而決定延長對他的觀察期限。直到他終於找到了那群匪徒，並割下自己身上的血肉交予他們，詢問他們是否因饑餓困苦的生活而選擇了作惡，又是否能夠在確保富足溫飽的生活後選擇摒棄惡——\n我本以為這個孩子早晚會泯然眾人。但這一次，我或許能找到人類的希望。",
+      "typeIcon": "amb-x",
+      "typeName1": "AMB",
+      "typeName2": "X",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_437_mizuki",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_mizuki_1",
+        "uniequip_002_mizuki_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_mantic": {
+      "uniEquipId": "uniequip_001_mantic",
+      "uniEquipName": "獅蠍證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員獅蠍擅長隱匿身形伏擊敵人\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使伏擊客職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_215_mantic",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_mantic": {
+      "uniEquipId": "uniequip_002_mantic",
+      "uniEquipName": "訓練用尾部防護套裝",
+      "uniEquipIcon": "uniequip_002_mantic",
+      "uniEquipDesc": "一張貼在雜貨鋪倉庫門上的便條：\n對不起，今天我不得不提前半小時離開去找醫生。我的身體不太舒服，有幾處突然異常劇烈地疼痛，我想可能是之前被劃傷的地方沒有正常癒合。今天的貨物我已經清點完了，那些不喜歡我的人也沒有追到店裡來，請您放心。\n\n一張貼在小瓶劣質香水上的便條：\n謝謝你這段時間以來一直陪著我，總能找到我在哪裡。這是送給你的禮物，當然，它遠遠不足以向你表達我的感激，如果我還有什麼可以為你做的，請一定一定要告訴我。\n以及，我的病症大概還會繼續惡化吧......到了那個時候，要是這件小小的禮物能讓你偶爾想起我就好了。想不起來也沒關係的。\n\n一張掉在市集砂礫中的便條：\n您好，您需要有人幫忙整理貨物或者清掃沙塵嗎？別的工作也可以，我想換取一點食物。您可能沒注意到我在哪裡，但是請不要害怕，我會認真地做好任何事情的。\n\n一張壓在短刀底下的便條：\n任務已完成。\n\n一張貼在羅德島休息室公告板角落的便條，幾乎被旁邊五顏六色的貼紙遮蓋住：\n聚會上大家唱歌都很好聽，我覺得一點也不吵呀。不過，如果決定了下次要去隔音更好的地方聚會，可以在公告板上張貼一份通知嗎？\n謝謝給我推薦飲料的人，那種橙紅色酸甜味飲料我很喜歡。\n——獅蠍",
+      "typeIcon": "amb-x",
+      "typeName1": "AMB",
+      "typeName2": "X",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_215_mantic",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_mantic_1",
+        "uniequip_002_mantic_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31054",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30024",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_kirara": {
+      "uniEquipId": "uniequip_001_kirara",
+      "uniEquipName": "綺良證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員綺良擅長隱匿身形伏擊敵人\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使伏擊客職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_478_kirara",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_kirara": {
+      "uniEquipId": "uniequip_002_kirara",
+      "uniEquipName": "《鬧鬧生存挑戰3 連線版》",
+      "uniEquipIcon": "uniequip_002_kirara",
+      "uniEquipDesc": "感謝購入《鬧鬧生存挑戰3 連線版》。以下為遊戲簡介。\n\n■遊戲指南\n本遊戲是一款集競技與合作於一體的角色扮演遊戲。玩家需透過扮演並操縱不同的遊戲角色，提高自身的生存等級，並與其他玩家爭奪生存賽的冠軍。\n當然，在遊戲過程中許多時候也需要玩家的通力合作，請與好友共同享受本遊戲。\n\n■操作說明\n玩家操作選定的角色時，必須使用遊戲機配套的遙控手柄。\n多人遊玩，請準備複數手柄。\n\n■遊戲道具\n本遊戲中所有遊戲道具，都可以通過野外探索與手工製作兩種途徑獲得。\n獲得遊戲道具後，可以將其存儲在遊戲背包內，背包的容量有限，可以將暫時不需要的道具與你的遊戲好友進行交換，也可以選擇單方面的贈送。\n每收集一個道具，都可以解鎖對應的道具圖鑑，想要解鎖全圖鑑達成神秘成就，就和一起遊戲的玩家多多進行交換吧！\n\n■競技環節\n請不要忘記，我們的最終目標是獲得生存賽的勝利！\n在愉快的合作之後，爭鋒相對的競技環節也必不可少！玩家可以透過生存技能比拼，搶奪屬於其他玩家的生存資源，也可以透過野外埋伏、直接挑戰等操作，與其他玩家進行一場面對面的較量！\n生存等級越高的玩家，在比拼時就擁有越大的優勢！決出你們之中的生存賽冠軍吧！\n\n現在，玩家一定已經對本遊戲有所瞭解，快邀請你的好友一起，進入豐富多彩的遊戲世界，和朋友們盡情享受愉快的遊戲時間吧！",
+      "typeIcon": "amb-x",
+      "typeName1": "AMB",
+      "typeName2": "X",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_478_kirara",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_kirara_1",
+        "uniequip_002_kirara_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30014",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31024",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30034",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_ethan": {
+      "uniEquipId": "uniequip_001_ethan",
+      "uniEquipName": "伊桑證章",
+      "uniEquipIcon": "original",
+      "uniEquipDesc": "幹員伊桑擅長隱匿身形伏擊敵人\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使伏擊客職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_355_ethan",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_ethan": {
+      "uniEquipId": "uniequip_002_ethan",
+      "uniEquipName": "超級噴漆套裝",
+      "uniEquipIcon": "uniequip_002_ethan",
+      "uniEquipDesc": "“首先，是牆壁的選擇。太過隱蔽、太過整潔、有破損的牆面，都不適合，當然現在是在羅德島，儘量不要選擇艦橋和走廊，可露希爾會不高興的。\n其次，是噴漆的選擇。色彩是否鮮豔、有無異味，無非那麼幾個標準，更重要的，是遮蓋力和吸附性，要是剛沾到牆壁就流得到處都是，那你控漆的手段再高超也沒用嘛。\n第三，是字體的誇張變形......\n......\n最後，是塗鴉的內容。不要只想著宣洩，宣洩無濟於事，無論是以噴漆對著牆壁，還是以暴力對著人群。把東西弄髒談不上藝術，塗鴉根本不是這麼一回事。你可以表達一種態度，傳遞一些資訊......不要過激，也不要害怕。”\n——伊桑在羅德島塗鴉藝術課上的發言\n\n“那個會變色的薩弗拉破壞了我們當時的計劃。\n塗鴉在貧民窟太常見了，就跟皮膚病人身上長的癬一樣，到處都是，見怪不怪。所以我們在策劃那場貧民窟騷亂的時候，想到了用塗鴉來傳遞情報，光明正大，反而安全。那個薩弗拉平時常玩街頭藝術，也被我們選進了塗鴉情報隊伍。\n情報的交換很順利，十字路口理髮店外牆的塗鴉換了三版，我們也就確定好了行動的時間、地點和方式——一場爆炸，給這座麻木不仁的城市一點顏色。一切都很順利。最後一次情報傳遞，最後一次塗鴉，那個薩弗拉竟然在牆壁的角落用噴漆悄悄留了些‘有危險不要在這裡逗留’之類的蠢話，幸虧其他人發現得早，用黑漆蓋住了，把他抓了回來。除了接頭的人，也就只有那些在底層苟活的傢伙，才會認真看牆上這些花裡胡哨的玩意，他這是突然發了善心，要提醒他們，*龍門粗口*！\n後來的事你們都知道了，他趁著看守的兄弟不注意，利用變色的本事逃走了。但我們沒想到這個平時膽小得要死，遇到點什麼事就畏畏縮縮的薩弗拉，竟然敢主動去近衛局自首。\n......”\n——摘自龍門近衛局在某起暴動事件中對整合運動成員的審訊筆錄，因部分細節涉及到伊桑，後遞送羅德島",
+      "typeIcon": "amb-x",
+      "typeName1": "AMB",
+      "typeName2": "X",
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_355_ethan",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_ethan_1",
+        "uniequip_002_ethan_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31013",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31043",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30063",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 1
+    },
+    "uniequip_003_ghost2": {
+      "uniEquipId": "uniequip_003_ghost2",
+      "uniEquipName": "未竟之美",
+      "uniEquipIcon": "uniequip_003_ghost2",
+      "uniEquipDesc": "“與那些瘋長的肉塊廝殺，似乎已經成為了我們不可忽視的，乃至唯一的使命。”\n鐘錶滴答作響，巨艦遮蔽了穹頂的光芒，烏爾比安仰頭凝視那些閃爍著的指示燈，若有所思。\n“這不應當。”年輕的女性執政官在猶豫很久後才回應道。\n“確實不應當。當阿戈爾人睡醒時，他們所想的第一件事，從來不該是失去的東西......或是如何奪回那些失去的東西。”烏爾比安沉默了片刻，某種情感在他的沙啞的聲音中流淌，良久，他歎息一聲，“我們曾創造了多少壯美的事物。”\n“而為了生存而鬥爭，已經成為了新一代人唯一熟知的待辦事項。”\n“鬥爭，光榮的詞彙，這沒有錯。可是，我們卓越的創造力和對美好的追求，正在被人們遺忘......”\n二人同時看向遠方，穹頂之下，燈火通明。\n“......被迫遺忘。”烏爾比安補充道。\n歌蕾蒂婭瞥了一眼烏爾比安，在醞釀了片刻措辭後，她質疑道：“你不該是一個多愁善感的人。”\n“是的。”烏爾比安這一次沒有停頓，“我們該嚴肅地對待這個問題。我們的文明正在這場曠日持久的災難中發生著永久性的改變。”\n巨大的轟鳴聲打斷了欲言又止的歌蕾蒂婭。更多的巨艦進入港灣，新一輪的遷徙與重建，她不得不開始認真思考烏爾比安所說的話。對美的追求，對新事物的創造。在她出生之前，或者更早，幾百年前？幾千年前？阿戈爾人建立起這個宏偉文明的時候，想過如今的它，光芒會如此暗淡嗎？\n他們是否為今天做好了某些準備？\n歌蕾蒂婭的思緒只縹緲了一瞬。對她而言，過去並不重要。重要的是，她將要做什麼準備，她能夠做什麼。\n“一個新的深海獵人。”烏爾比安突兀地打破了沉默，“聽說，她曾對藝術事業頗感興趣。舞蹈，歌劇，她都有所涉獵。”\n“勞倫緹娜曾說過她對家鄉的雕塑藝術印象頗深。”\n“那她身上還留有阿戈爾人本應有的品質。”烏爾比安轉過身去，執政官在這個時節輕薄的衣衫，遮不住他因實驗而傷痕累累的身體，“她是個什麼樣的人？如果她真的是阿戈爾舊日生活的一個縮影，那麼被迫偏離正軌，一定令這樣的人滿腔憤恨。”\n“不。那些情感只是構成她樣貌的些微輔料。”\n歌蕾蒂婭難得展露了微笑，儘管她的微笑向來需要用肌肉與神經層面的細緻觀察來判斷。\n“她正在鬥爭中創造屬於她的美。如你所說那般，興致勃勃。”\n烏爾比安以一聲不置可否的輕哼取代回答，隨後便留歌蕾蒂婭一人在那些龐然大物的陰影裡品味寧靜。\n只有阿戈爾人前進的腳步聲迴蕩在大廳裡。",
+      "typeIcon": "pum-y",
+      "typeName1": "PUM",
+      "typeName2": "Y",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_1023_ghost2",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_ghost2_1",
+        "uniequip_003_ghost2_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 2
+    },
+    "uniequip_003_fartth": {
+      "uniEquipId": "uniequip_003_fartth",
+      "uniEquipName": "支持者來信",
+      "uniEquipIcon": "uniequip_003_fartth",
+      "uniEquipDesc": "敬愛的查絲汀娜小姐：\n\n我是查絲汀娜小姐的忠實追隨者！\n......非常抱歉，我實在不知道該怎麼寫這開頭的第一句話，廢掉的信紙已經快把紙簍塞滿，最終還是只能寫下這種沒有新意的開場白。\n\n這是我人生中頭一次給崇拜的對象寫信，您曾在記者採訪時說過，您會閱讀每一位支持者的來信，我完全相信您！\n我想要在這裡先祝賀您得到了“遠牙”這個稱號，真的非常帥氣！您和飛羽騎士的那場比賽我就在現場，最後您不靠支援就取勝的姿態打動了所有人，您拿到賽季第一是實至名歸！\n自從三年前頭一次看到查絲汀娜小姐的比賽，我就喜歡上了作為騎士的查絲汀娜小姐。您或許不記得，當時我坐在看台的前排，您的對手騎士出招失誤，險些傷到觀眾，是您不顧受傷攔下了危險。在您身後被您救下的人中，就有我和我的家人。\n從那時起，您就已經是我的憧憬對象，查絲汀娜小姐是真正的騎士，我無比確信這一點。那時我還是一名學生，只要我努力學習成績進步，家人就會獎勵我，帶我來看您的比賽，可以說，是您給了我不斷前進的動力。\n\n我多想像您一樣成為一名光榮的騎士！騎士的劍鋒絕不會指向手無寸鐵的人，我絕不相信查絲汀娜小姐會暴力襲擊其他騎士團的粉絲！\n我認識的“遠牙”騎士查絲汀娜，就算受傷也不會認輸，在賽場下也從不對其他騎士惡言相向。我，還有其他支持者都不會相信那些污蔑您的言辭，請您也不要在意那些不負責任的報紙上的報導，我們都期盼您能夠儘快回來！\n以及，聽到查絲汀娜小姐說想要組建自己的騎士團，我非常高興！您過去總是獨來獨往，有時看起來會有些孤獨，這讓我和其他追隨者都很擔憂......不論如何，不管您最終決定是要組建自己的騎士團，還是加入其他騎士團，或者繼續作為獨立騎士活動，只要是查絲汀娜小姐的決定，我們都會一直支援！\n希望您一切順利！\n\n您忠實的支持者",
+      "typeIcon": "dea-y",
+      "typeName1": "DEA",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_430_fartth",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_fartth_1",
+        "uniequip_003_fartth_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1687246200,
+      "charEquipOrder": 2
+    },
     "uniequip_001_provs": {
       "uniEquipId": "uniequip_001_provs",
       "uniEquipName": "但書證章",
@@ -14616,6 +15771,319 @@
       "uniEquipId": "uniequip_003_mgllan",
       "jumpStageId": "main_02-02"
     },
+    "uniequip_002_glady_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰歌蕾蒂婭並上場，且每次戰鬥至少釋放1次缺水的碎漩狂舞",
+      "paramList": [
+        "5",
+        "skchr_glady_3",
+        "1",
+        "char_474_glady"
+      ],
+      "uniEquipMissionId": "uniequip_002_glady_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_glady",
+      "jumpStageId": null
+    },
+    "uniequip_002_glady_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關插曲SV-EX-5；必須編入非助戰歌蕾蒂婭，且至少使1個富營養的收割者墜落地穴",
+      "paramList": [
+        "3",
+        "act18d3_ex05",
+        "char_474_glady",
+        "SIMPLE,enemy_1151_dslntc_2,fall_down",
+        "1"
+      ],
+      "uniEquipMissionId": "uniequip_002_glady_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_glady",
+      "jumpStageId": "act18d3_ex05"
+    },
+    "uniequip_002_slchan_1": {
+      "template": "EquipmentEventBattleMore",
+      "desc": "完成5次戰鬥；必須編入非助戰崖心，且每次戰鬥至少使2名敵人墜落地穴",
+      "paramList": [
+        "5",
+        "char_173_slchan",
+        "SIMPLE,*,fall_down",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_slchan_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_slchan",
+      "jumpStageId": null
+    },
+    "uniequip_002_slchan_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關別傳MN-4；必須編入非助戰崖心並上場，且不編入其他特種幹員",
+      "paramList": [
+        "3",
+        "act13d5_04",
+        "char_173_slchan",
+        "SPECIAL"
+      ],
+      "uniEquipMissionId": "uniequip_002_slchan_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_slchan",
+      "jumpStageId": "act13d5_04"
+    },
+    "uniequip_002_snsant_1": {
+      "template": "EquipmentEventBattleMore",
+      "desc": "完成5次戰鬥；必須編入非助戰雪雉，且每次戰鬥至少使2名敵人墜落地穴",
+      "paramList": [
+        "5",
+        "char_383_snsant",
+        "SIMPLE,*,fall_down",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_snsant_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_snsant",
+      "jumpStageId": null
+    },
+    "uniequip_002_snsant_2": {
+      "template": "EquipmentSkillCastStage",
+      "desc": "3星通關主題曲4-6；必須編入非助戰雪雉並上場，且至少使用2次伸縮式電捕網",
+      "paramList": [
+        "3",
+        "main_04-06",
+        "skchr_snsant_2",
+        "2",
+        "char_383_snsant"
+      ],
+      "uniEquipMissionId": "uniequip_002_snsant_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_snsant",
+      "jumpStageId": "main_04-06"
+    },
+    "uniequip_002_rope_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰暗索累計使用複式鉤爪10次",
+      "paramList": [
+        "char_236_rope",
+        "skchr_rope_2",
+        "10",
+        "char_236_rope"
+      ],
+      "uniEquipMissionId": "uniequip_002_rope_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_rope",
+      "jumpStageId": null
+    },
+    "uniequip_002_rope_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲3-3；必須編入非助戰暗索，且使弑君者墜落地穴",
+      "paramList": [
+        "3",
+        "main_03-03",
+        "char_236_rope",
+        "SIMPLE,enemy_1502_crowns,fall_down",
+        "1"
+      ],
+      "uniEquipMissionId": "uniequip_002_rope_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_rope",
+      "jumpStageId": "main_03-03"
+    },
+    "uniequip_002_mizuki_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "由非助戰水月累計造成150000點傷害",
+      "paramList": [
+        "char_437_mizuki",
+        "150000"
+      ],
+      "uniEquipMissionId": "uniequip_002_mizuki_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_mizuki",
+      "jumpStageId": null
+    },
+    "uniequip_002_mizuki_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲4-3；必須編入非助戰水月並上場，且使用水月殲滅至少2名薩卡茲狙擊手",
+      "paramList": [
+        "3",
+        "main_04-03",
+        "char_437_mizuki",
+        "DEATHDETAIL,char_437_mizuki,enemy_1012_dcross",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_mizuki_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_mizuki",
+      "jumpStageId": "main_04-03"
+    },
+    "uniequip_002_mantic_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰獅蠍並上場，且每次戰鬥至少釋放1次蓄力毒尾擊",
+      "paramList": [
+        "5",
+        "skchr_mantic_2",
+        "1",
+        "char_215_mantic"
+      ],
+      "uniEquipMissionId": "uniequip_002_mantic_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_mantic",
+      "jumpStageId": null
+    },
+    "uniequip_002_mantic_2": {
+      "template": "EquipmentSquadNum",
+      "desc": "3星通關主題曲1-9；必須編入非助戰獅蠍並上場，其他成員僅可編入1名幹員",
+      "paramList": [
+        "3",
+        "main_01-09",
+        "char_215_mantic",
+        "1"
+      ],
+      "uniEquipMissionId": "uniequip_002_mantic_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_mantic",
+      "jumpStageId": "main_01-09"
+    },
+    "uniequip_002_kirara_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰綺良累計使用錨點捕捉5次",
+      "paramList": [
+        "char_478_kirara",
+        "skchr_kirara_2",
+        "5",
+        "char_478_kirara"
+      ],
+      "uniEquipMissionId": "uniequip_002_kirara_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_kirara",
+      "jumpStageId": null
+    },
+    "uniequip_002_kirara_2": {
+      "template": "EquipmentCharKilledStage",
+      "desc": "3星通關主題曲3-1；必須編入非助戰綺良並上場，且使用綺良殲滅20個敵人",
+      "paramList": [
+        "3",
+        "main_03-01",
+        "char_478_kirara",
+        "20",
+        "char_478_kirara"
+      ],
+      "uniEquipMissionId": "uniequip_002_kirara_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_kirara",
+      "jumpStageId": "main_03-01"
+    },
+    "uniequip_002_ethan_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰伊桑累計使用十字懸掛5次",
+      "paramList": [
+        "char_355_ethan",
+        "skchr_ethan_2",
+        "5",
+        "char_355_ethan"
+      ],
+      "uniEquipMissionId": "uniequip_002_ethan_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_ethan",
+      "jumpStageId": null
+    },
+    "uniequip_002_ethan_2": {
+      "template": "EquipmentSquadNum",
+      "desc": "3星通關別傳TW-3；必須編入非助戰伊桑並上場，其他成員僅可編入4名幹員",
+      "paramList": [
+        "3",
+        "act11d0_03",
+        "char_355_ethan",
+        "4"
+      ],
+      "uniEquipMissionId": "uniequip_002_ethan_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_ethan",
+      "jumpStageId": "act11d0_03"
+    },
+    "uniequip_003_fartth_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰遠牙並上場，且每次戰鬥至少釋放2次光羽箭",
+      "paramList": [
+        "5",
+        "skchr_fartth_3",
+        "2",
+        "char_430_fartth"
+      ],
+      "uniEquipMissionId": "uniequip_003_fartth_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_fartth",
+      "jumpStageId": null
+    },
+    "uniequip_003_fartth_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲2-5；必須編入非助戰遠牙並上場，且使用遠牙殲滅至少2名高階術師",
+      "paramList": [
+        "3",
+        "main_02-05",
+        "char_430_fartth",
+        "DEATHDETAIL,char_430_fartth,enemy_1018_aoemag",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_003_fartth_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_fartth",
+      "jumpStageId": "main_02-05"
+    },
+    "uniequip_003_ghost2_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰歸溟幽靈鯊並上場，且每次戰鬥至少釋放1次生存的重壓",
+      "paramList": [
+        "5",
+        "skchr_ghost2_3",
+        "1",
+        "char_1023_ghost2"
+      ],
+      "uniEquipMissionId": "uniequip_003_ghost2_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_ghost2",
+      "jumpStageId": null
+    },
+    "uniequip_003_ghost2_2": {
+      "template": "EquipmentCharKilledStage",
+      "desc": "3星通關主題曲S4-1；必須編入非助戰歸溟幽靈鯊並上場，且使用歸溟幽靈鯊殲滅10個敵人",
+      "paramList": [
+        "3",
+        "sub_04-1-1",
+        "char_1023_ghost2",
+        "10",
+        "char_1023_ghost2"
+      ],
+      "uniEquipMissionId": "uniequip_003_ghost2_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_ghost2",
+      "jumpStageId": "sub_04-1-1"
+    },
+    "uniequip_002_bgsnow_1": {
+      "template": "EquipmentDeployTotal",
+      "desc": "戰鬥中累計部署非助戰鴻雪的“打字機”10次",
+      "paramList": [
+        "10",
+        "token_10026_bgsnow_subbow",
+        "char_4055_bgsnow"
+      ],
+      "uniEquipMissionId": "uniequip_002_bgsnow_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_bgsnow",
+      "jumpStageId": null
+    },
+    "uniequip_002_bgsnow_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲2-10；必須編入非助戰鴻雪並上場，且使用鴻雪或“打字機”殲滅碎骨",
+      "paramList": [
+        "3",
+        "main_02-10",
+        "char_4055_bgsnow",
+        "DEATHDETAIL,char_4055_bgsnow,enemy_1500_skulsr",
+        "1"
+      ],
+      "uniEquipMissionId": "uniequip_002_bgsnow_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_bgsnow",
+      "jumpStageId": "main_02-10"
+    },
     "uniequip_002_snakek_1": {
       "template": "EquipmentSkillCast",
       "desc": "戰鬥中非助戰蛇屠箱累計使用殼狀防禦8次",
@@ -15211,6 +16679,11 @@
       "subProfessionName": "咒癒師",
       "subProfessionCatagory": 57
     },
+    "agent": {
+      "subProfessionId": "agent",
+      "subProfessionName": "情報官",
+      "subProfessionCatagory": 58
+    },
     "shotprotector": {
       "subProfessionId": "shotprotector",
       "subProfessionName": "哨戒鐵衛",
@@ -15254,7 +16727,8 @@
     ],
     "char_430_fartth": [
       "uniequip_001_fartth",
-      "uniequip_002_fartth"
+      "uniequip_002_fartth",
+      "uniequip_003_fartth"
     ],
     "char_158_milu": [
       "uniequip_001_milu",
@@ -15480,7 +16954,8 @@
     ],
     "char_1023_ghost2": [
       "uniequip_001_ghost2",
-      "uniequip_002_ghost2"
+      "uniequip_002_ghost2",
+      "uniequip_003_ghost2"
     ],
     "char_369_bena": [
       "uniequip_001_bena",
@@ -15603,6 +17078,42 @@
     "char_135_halo": [
       "uniequip_001_halo",
       "uniequip_002_halo"
+    ],
+    "char_474_glady": [
+      "uniequip_001_glady",
+      "uniequip_002_glady"
+    ],
+    "char_383_snsant": [
+      "uniequip_001_snsant",
+      "uniequip_002_snsant"
+    ],
+    "char_173_slchan": [
+      "uniequip_001_slchan",
+      "uniequip_002_slchan"
+    ],
+    "char_236_rope": [
+      "uniequip_001_rope",
+      "uniequip_002_rope"
+    ],
+    "char_4055_bgsnow": [
+      "uniequip_001_bgsnow",
+      "uniequip_002_bgsnow"
+    ],
+    "char_437_mizuki": [
+      "uniequip_001_mizuki",
+      "uniequip_002_mizuki"
+    ],
+    "char_215_mantic": [
+      "uniequip_001_mantic",
+      "uniequip_002_mantic"
+    ],
+    "char_478_kirara": [
+      "uniequip_001_kirara",
+      "uniequip_002_kirara"
+    ],
+    "char_355_ethan": [
+      "uniequip_001_ethan",
+      "uniequip_002_ethan"
     ],
     "char_4032_provs": [
       "uniequip_001_provs",
@@ -16555,6 +18066,91 @@
         {
           "charId": "char_416_zumama",
           "equipId": "uniequip_003_zumama"
+        }
+      ]
+    },
+    {
+      "timeStamp": 1687246200,
+      "trackList": [
+        {
+          "charId": "char_474_glady",
+          "equipId": "uniequip_001_glady"
+        },
+        {
+          "charId": "char_474_glady",
+          "equipId": "uniequip_002_glady"
+        },
+        {
+          "charId": "char_383_snsant",
+          "equipId": "uniequip_001_snsant"
+        },
+        {
+          "charId": "char_383_snsant",
+          "equipId": "uniequip_002_snsant"
+        },
+        {
+          "charId": "char_173_slchan",
+          "equipId": "uniequip_001_slchan"
+        },
+        {
+          "charId": "char_173_slchan",
+          "equipId": "uniequip_002_slchan"
+        },
+        {
+          "charId": "char_236_rope",
+          "equipId": "uniequip_001_rope"
+        },
+        {
+          "charId": "char_236_rope",
+          "equipId": "uniequip_002_rope"
+        },
+        {
+          "charId": "char_4055_bgsnow",
+          "equipId": "uniequip_001_bgsnow"
+        },
+        {
+          "charId": "char_4055_bgsnow",
+          "equipId": "uniequip_002_bgsnow"
+        },
+        {
+          "charId": "char_437_mizuki",
+          "equipId": "uniequip_001_mizuki"
+        },
+        {
+          "charId": "char_437_mizuki",
+          "equipId": "uniequip_002_mizuki"
+        },
+        {
+          "charId": "char_215_mantic",
+          "equipId": "uniequip_001_mantic"
+        },
+        {
+          "charId": "char_215_mantic",
+          "equipId": "uniequip_002_mantic"
+        },
+        {
+          "charId": "char_478_kirara",
+          "equipId": "uniequip_001_kirara"
+        },
+        {
+          "charId": "char_478_kirara",
+          "equipId": "uniequip_002_kirara"
+        },
+        {
+          "charId": "char_355_ethan",
+          "equipId": "uniequip_001_ethan"
+        },
+        {
+          "charId": "char_355_ethan",
+          "equipId": "uniequip_002_ethan"
+        },
+        {
+          "charId": "char_1023_ghost2",
+          "equipId": "uniequip_003_ghost2"
+        },
+        {
+          "charId": "char_430_fartth",
+          "equipId": "uniequip_003_fartth"
         }
       ]
     }

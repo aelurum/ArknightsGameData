@@ -1398,6 +1398,25 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_camp_rotate_12",
+      "medalName": "巧克力大街行動獎章",
+      "medalType": "campMedal",
+      "slotId": 16,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CampaignsComplete",
+      "unlockParam": [
+        "camp_r_12"
+      ],
+      "getMethod": "完全通關剿滅作戰巧克力大街，並領取全部獎勵",
+      "description": "代表您完成拉特蘭巧克力大街剿滅委託或模擬戰的蝕刻章。\n因信仰而迷失，亦因它重歷長路，他們找尋的究竟是信仰，還是自己的本心？",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1688328000,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_tower_complete_01",
       "medalName": "鋼鐵蘿蔔安全認證章",
       "medalType": "towerMedal",
@@ -5007,6 +5026,126 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_story_gvial2_1",
+      "medalName": "“以酒精之名！”",
+      "medalType": "storyMedal",
+      "slotId": 124,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_1026_gvial2",
+        "story_gvial2_set_1"
+      ],
+      "getMethod": "解鎖幹員百煉嘉維爾的幹員密錄《以酒精之名！》",
+      "description": "老實說，她不太適合處理這些事務，但她也有她自己的方式。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687246200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_thorns_1",
+      "medalName": "“紀念日”",
+      "medalType": "storyMedal",
+      "slotId": 125,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_293_thorns",
+        "story_thorns_set_1"
+      ],
+      "getMethod": "解鎖幹員棘刺的幹員密錄《紀念日》",
+      "description": "我們雙手交握，我們互稱兄弟，一個新的時代將由我們攜手開啟。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687246200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_flint_1",
+      "medalName": "“合格的戰士”",
+      "medalType": "storyMedal",
+      "slotId": 126,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_415_flint",
+        "story_flint_set_1"
+      ],
+      "getMethod": "解鎖幹員燧石的幹員密錄《合格的戰士》",
+      "description": "一個合格的提亞卡烏戰士，拳腳迅猛，頭腦靈活。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687246200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_aprl_1",
+      "medalName": "“獵人的視線”",
+      "medalType": "storyMedal",
+      "slotId": 127,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_365_aprl",
+        "story_aprl_set_1"
+      ],
+      "getMethod": "解鎖幹員四月的幹員密錄《獵人的視線》",
+      "description": "她盯著野獸，人們審視著她。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687246200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_indigo_1",
+      "medalName": "“硬核飲品”",
+      "medalType": "storyMedal",
+      "slotId": 128,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_469_indigo",
+        "story_indigo_set_1"
+      ],
+      "getMethod": "解鎖幹員深靛的幹員密錄《硬核飲品》",
+      "description": "淡紫色的澄清液體，口感清爽，風味獨特，缺點是不太適合飲用。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687246200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_pinecn_1",
+      "medalName": "“展信好”",
+      "medalType": "storyMedal",
+      "slotId": 129,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_440_pinecn",
+        "story_pinecn_set_1"
+      ],
+      "getMethod": "解鎖幹員松果的幹員密錄《展信好》",
+      "description": "信中的歌聲，從過去一直流淌到現在。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687246200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_story_weedy_1",
       "medalName": "“同舟”",
       "medalType": "storyMedal",
@@ -5645,6 +5784,327 @@
       "originMedal": null,
       "displayTime": 1646712000,
       "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_1bossrush_01",
+      "medalName": "可露希爾小獎章",
+      "medalType": "activityMedal",
+      "slotId": 1,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "MissionCompleteSome",
+      "unlockParam": [
+        "1bossrushActivity_5;1bossrushActivity_6;1bossrushActivity_7",
+        "3"
+      ],
+      "getMethod": "解鎖遏制單元[模組複用]、[超級快閃記憶體]和[推斥管控]",
+      "description": "由“引航者試煉”開發者可露希爾親手製作的獎章。\n無論是虛擬或真實，身處險境，她永遠是您的助力。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687852800,
+      "expireTimes": [
+        {
+          "start": 1688673600,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_1bossrush_02",
+      "medalName": "恢宏試煉獎章",
+      "medalType": "activityMedal",
+      "slotId": 2,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageWithBossRush",
+      "unlockParam": [
+        "2",
+        "act1bossrush_ex04",
+        "1"
+      ],
+      "getMethod": "通關TN-4理念之爭的恢宏試煉",
+      "description": "以在羅德島甲板上迎接晨光的引航者為印象製作的獎章。\n一次試煉或許說明不了什麼，但您無懼任何敵人的魄力感染了所有人。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1687852800,
+      "expireTimes": [
+        {
+          "start": 1688673600,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_01",
+      "medalName": "“際崖城榮譽市民”",
+      "medalType": "activityMedal",
+      "slotId": 3,
+      "preMedalIdList": [
+        "medal_activity_20side_02",
+        "medal_activity_20side_03",
+        "medal_activity_20side_04",
+        "medal_activity_20side_05",
+        "medal_activity_20side_06",
+        "medal_activity_20side_07",
+        "medal_activity_20side_08",
+        "medal_activity_20side_09",
+        "medal_activity_20side_10"
+      ],
+      "rarity": 4,
+      "template": null,
+      "unlockParam": [],
+      "getMethod": null,
+      "description": "您對際崖城種種趣事的瞭解，已經不亞於土生土長的際崖城居民。\n“雖然你個子是高了點，但我們又不是沒有高個子市民，對吧？”",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_02",
+      "medalName": "“嶄新的畫布”",
+      "medalType": "activityMedal",
+      "slotId": 4,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "GotCharsBeforeTime",
+      "unlockParam": [
+        "char_4054_malist",
+        "1689623999"
+      ],
+      "getMethod": "理想城：長夏狂歡季活動期間，獲得幹員至簡",
+      "description": "您見到了一位被嘉維爾拖來的新幹員。\n他在設計之道上浸淫多年，但他真正的設計師生涯才剛剛開始不久。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_03",
+      "medalName": "奇談怪論獎章",
+      "medalType": "activityMedal",
+      "slotId": 5,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "ActivityCoinCost",
+      "unlockParam": [
+        "act20side",
+        "act20side_token_book",
+        "4000"
+      ],
+      "getMethod": "理想城：長夏狂歡季活動期間，在[跳跳鉗獸大市集]中消耗4000個《奇談怪論》複印本",
+      "description": "您險些讓海量的雜誌影本淹沒了跳跳鉗獸大市集。\n際崖城的代表們偷偷討論過是否要把際崖城的貨幣改成雜誌影本，萬幸他們當時都沒喝酒。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_04",
+      "medalName": "廣場新星獎章",
+      "medalType": "activityMedal",
+      "slotId": 6,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "MissionCompleteSome",
+      "unlockParam": [
+        "20sideActivity_1;20sideActivity_2;20sideActivity_3;20sideActivity_4;20sideActivity_5;20sideActivity_6;20sideActivity_7;20sideActivity_8;20sideActivity_9;20sideActivity_10;20sideActivity_11;20sideActivity_12;20sideActivity_13;20sideActivity_14;20sideActivity_15;20sideActivity_16;20sideActivity_17;20sideActivity_18;20sideActivity_19;20sideActivity_20;20sideActivity_21;20sideActivity_22;20sideActivity_23;20sideActivity_24;20sideActivity_25;20sideActivity_26;20sideActivity_27;20sideActivity_28;20sideActivity_29;20sideActivity_30;20sideActivity_31;20sideActivity_32;20sideActivity_33;20sideActivity_34;20sideActivity_35;20sideActivity_36;20sideActivity_37;20sideActivity_38;20sideActivity_39;20sideActivity_40;20sideActivity_41;20sideActivity_42;20sideActivity_43;20sideActivity_44;20sideActivity_45;20sideActivity_46;20sideActivity_47;20sideActivity_48;20sideActivity_49;20sideActivity_50;20sideActivity_51;20sideActivity_52;20sideActivity_53;20sideActivity_54;20sideActivity_55;20sideActivity_56;20sideActivity_57;20sideActivity_58;20sideActivity_59;20sideActivity_60;20sideActivity_61;20sideActivity_62;20sideActivity_63;20sideActivity_64",
+        "50"
+      ],
+      "getMethod": "完成[圓形廣場]中任意50個任務，並領取獎勵",
+      "description": "您完成了圓形廣場上的大部分任務。\n杜林人從未見過如此勤奮的人。如果不是即將撤離，他們甚至想把更多事情拜託給你。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_05",
+      "medalName": "自走車出擊獎章",
+      "medalType": "activityMedal",
+      "slotId": 7,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "GainCarAccessories",
+      "unlockParam": [
+        "durcar_gear_a_1_1;durcar_gear_a_1_2;durcar_gear_a_2_1;durcar_gear_a_2_2;durcar_gear_a_3_1;durcar_gear_a_3_2;durcar_gear_a_3_3;durcar_gear_b_1_1;durcar_gear_b_1_2;durcar_gear_b_2_1;durcar_gear_b_2_2;durcar_gear_b_3_1;durcar_gear_b_3_2;durcar_gear_c_1_1;durcar_gear_c_1_2;durcar_gear_c_2_1;durcar_gear_c_2_2;durcar_gear_c_3_1;durcar_gear_c_3_2;durcar_gear_c_3_3;durcar_soft_1_1;durcar_soft_1_2a;durcar_soft_1_2b;durcar_soft_1_2c;durcar_soft_2_1;durcar_soft_2_2a;durcar_soft_2_2b;durcar_soft_3_1;durcar_soft_3_2;durcar_soft_4_1;durcar_soft_4_2;durcar_soft_5_sp;durcar_soft_6_sp;durcar_soft_7_sp",
+        "20"
+      ],
+      "getMethod": "理想城：長夏狂歡季活動期間，累計收集20種自走車裝備",
+      "description": "您收集了不計其數的自走車裝備。\n您收集裝備的速度已經遠超新裝備推出的速度，如何滿足您日益增長的需求成了供應商的一大課題。",
+      "advancedMedal": "medal_activity_20side_055",
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_06",
+      "medalName": "地下旅途獎章",
+      "medalType": "activityMedal",
+      "slotId": 8,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act20side_01;act20side_02;act20side_03;act20side_04;act20side_05;act20side_06;act20side_07;act20side_08;act20side_09"
+      ],
+      "getMethod": "以3星評價完成[地底觀光]內的全部關卡（不包含教學關）",
+      "description": "您見證了一趟通往地下，最終又回歸地上的旅途。\n即便到了阿卡胡拉，狂歡想必也會持續下去，畢竟那裡好像也很熱。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_07",
+      "medalName": "文化交流獎章",
+      "medalType": "activityMedal",
+      "slotId": 9,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act20side_ex01;act20side_ex02;act20side_ex03;act20side_ex04;act20side_ex05;act20side_ex06;act20side_ex07;act20side_ex08"
+      ],
+      "getMethod": "以3星評價完成[文化衝擊]內的全部關卡",
+      "description": "您充分體驗了與地上迥異的杜林的文化。\n對地上人來說，這樣的生活其實不錯，不過決定投身其中的人並不多。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_08",
+      "medalName": "“杜林通”",
+      "medalType": "activityMedal",
+      "slotId": 10,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act20side_ex01#f#;act20side_ex02#f#;act20side_ex03#f#;act20side_ex04#f#;act20side_ex05#f#;act20side_ex06#f#;act20side_ex07#f#;act20side_ex08#f#"
+      ],
+      "getMethod": "完成[文化衝擊]中全部關卡的突襲模式",
+      "description": "您對際崖城杜林人的文化與生活習慣瞭若指掌。\n只是不要忘了，際崖城僅僅是杜林城邦中的一座而已。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_09",
+      "medalName": "“項目管理大師”",
+      "medalType": "activityMedal",
+      "slotId": 11,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act20side_s01#f#;act20side_s02#f#;act20side_s03#f#;act20side_s04#f#"
+      ],
+      "getMethod": "完成[升降梯整備]中全部關卡的突襲模式（不包含IC-MO-1）",
+      "description": "您確保升降梯安全地將際崖城的居民們帶上阿卡胡拉。\n運送一座城的居民，這可是個大工程。考慮到居民幾乎都是杜林人，工程難度就更大了。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_10",
+      "medalName": "“終極狂歡者”",
+      "medalType": "activityMedal",
+      "slotId": 12,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act20side_mo01"
+      ],
+      "getMethod": "以3星評價完成[升降梯整備]中IC-MO-1",
+      "description": "您站上了際崖城的狂歡之巔。\n您完成了在“自走車地獄障礙跑”中擊敗所有對手的壯舉，成為了際崖城的傳說之一。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
       "medalRewardGroup": []
     },
     {
@@ -14355,6 +14815,32 @@
         }
       ],
       "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_20side_055",
+      "medalName": "自走車出擊獎章",
+      "medalType": "activityMedal",
+      "slotId": 7,
+      "preMedalIdList": null,
+      "rarity": 3,
+      "template": "GainCarAccessories",
+      "unlockParam": [
+        "durcar_gear_a_1_1;durcar_gear_a_1_2;durcar_gear_a_2_1;durcar_gear_a_2_2;durcar_gear_a_3_1;durcar_gear_a_3_2;durcar_gear_a_3_3;durcar_gear_b_1_1;durcar_gear_b_1_2;durcar_gear_b_2_1;durcar_gear_b_2_2;durcar_gear_b_3_1;durcar_gear_b_3_2;durcar_gear_c_1_1;durcar_gear_c_1_2;durcar_gear_c_2_1;durcar_gear_c_2_2;durcar_gear_c_3_1;durcar_gear_c_3_2;durcar_gear_c_3_3;durcar_soft_1_1;durcar_soft_1_2a;durcar_soft_1_2b;durcar_soft_1_2c;durcar_soft_2_1;durcar_soft_2_2a;durcar_soft_2_2b;durcar_soft_3_1;durcar_soft_3_2;durcar_soft_4_1;durcar_soft_4_2;durcar_soft_5_sp;durcar_soft_6_sp;durcar_soft_7_sp",
+        "30"
+      ],
+      "getMethod": "理想城：長夏狂歡季活動期間，累計收集30種自走車裝備",
+      "description": null,
+      "advancedMedal": null,
+      "originMedal": "medal_activity_20side_05",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1689624000,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
     }
   ],
   "medalTypeData": {
@@ -15097,6 +15583,33 @@
           "sharedExpireTimes": [
             {
               "start": 1683057600,
+              "end": -1,
+              "type": "TEMP"
+            }
+          ]
+        },
+        {
+          "groupId": "medalGroupActivity20side",
+          "groupName": "理想城蝕刻章套組",
+          "groupDesc": "記錄著際崖城最後一段時光的蝕刻章套組。\n有些人的理想之城存在於過去，有些人的理想之城存在於未來。\n但對大多數際崖城居民來說，理想城就在自己腳下。",
+          "medalId": [
+            "medal_activity_20side_01",
+            "medal_activity_20side_02",
+            "medal_activity_20side_03",
+            "medal_activity_20side_04",
+            "medal_activity_20side_05",
+            "medal_activity_20side_06",
+            "medal_activity_20side_07",
+            "medal_activity_20side_08",
+            "medal_activity_20side_09",
+            "medal_activity_20side_10"
+          ],
+          "sortId": 26,
+          "groupBackColor": "453FBA",
+          "groupGetTime": 1687246200,
+          "sharedExpireTimes": [
+            {
+              "start": 1689624000,
               "end": -1,
               "type": "TEMP"
             }

@@ -43,6 +43,9 @@
             "char_4041_chnut",
             "char_1024_hbisc2",
             "char_1027_greyy2",
+            "char_1026_gvial2",
+            "char_497_ctable",
+            "char_4055_bgsnow",
             "char_003_kalts"
           ],
           "forceId": "rhodes",
@@ -615,6 +618,11 @@
               "direction": 2,
               "charId": "char_187_ccheal",
               "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_1026_gvial2",
+              "forceId": null
             }
           ],
           "haveOutLine": true
@@ -635,6 +643,11 @@
             {
               "direction": 1,
               "charId": "char_117_myrrh",
+              "forceId": null
+            },
+            {
+              "direction": 4,
+              "charId": "char_1026_gvial2",
               "forceId": null
             },
             {
@@ -978,6 +991,11 @@
               "forceId": null
             },
             {
+              "direction": 4,
+              "charId": "char_497_ctable",
+              "forceId": null
+            },
+            {
               "direction": 5,
               "charId": "char_311_mudrok",
               "forceId": null
@@ -1163,6 +1181,11 @@
               "forceId": null
             },
             {
+              "direction": 4,
+              "charId": "char_4055_bgsnow",
+              "forceId": null
+            },
+            {
               "direction": 5,
               "charId": "char_492_quercu",
               "forceId": null
@@ -1191,6 +1214,11 @@
             {
               "direction": 2,
               "charId": "char_2013_cerber",
+              "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_497_ctable",
               "forceId": null
             },
             {
@@ -2165,6 +2193,16 @@
               "direction": 2,
               "charId": "char_350_surtr",
               "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_4055_bgsnow",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_497_ctable",
+              "forceId": null
             }
           ],
           "haveOutLine": true
@@ -2190,6 +2228,11 @@
             {
               "direction": 2,
               "charId": "char_304_zebra",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_4055_bgsnow",
               "forceId": null
             }
           ],
@@ -2245,6 +2288,79 @@
             "y": -952.6279
           },
           "connectionList": [],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_1026_gvial2",
+          "scale": 1.0,
+          "pos": {
+            "x": 150.0,
+            "y": -952.6279
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_181_flower",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_187_ccheal",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_4055_bgsnow",
+          "scale": 1.0,
+          "pos": {
+            "x": -750.0,
+            "y": -779.422852
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_492_quercu",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_350_surtr",
+              "forceId": null
+            },
+            {
+              "direction": 2,
+              "charId": "char_4041_chnut",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_497_ctable",
+          "scale": 1.0,
+          "pos": {
+            "x": -1050.0,
+            "y": -779.422852
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_311_mudrok",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_2013_cerber",
+              "forceId": null
+            },
+            {
+              "direction": 2,
+              "charId": "char_492_quercu",
+              "forceId": null
+            }
+          ],
           "haveOutLine": true
         },
         {
@@ -2567,6 +2683,12 @@
           "lineType": 0,
           "char1": "char_253_greyy",
           "char2": "char_1027_greyy2"
+        },
+        {
+          "index": 33,
+          "lineType": 0,
+          "char1": "char_1026_gvial2",
+          "char2": "char_187_ccheal"
         },
         {
           "index": 37,
@@ -5812,7 +5934,8 @@
             "char_402_tuye",
             "char_379_sesa",
             "char_344_beewax",
-            "char_472_pasngr"
+            "char_472_pasngr",
+            "char_4054_malist"
           ],
           "forceId": "sargon",
           "pos": {
@@ -6193,6 +6316,11 @@
               "direction": 2,
               "charId": "char_416_zumama",
               "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_4054_malist",
+              "forceId": null
             }
           ],
           "haveOutLine": true
@@ -6213,6 +6341,11 @@
             {
               "direction": 1,
               "charId": "char_411_tomimi",
+              "forceId": null
+            },
+            {
+              "direction": 4,
+              "charId": "char_4054_malist",
               "forceId": null
             },
             {
@@ -6341,6 +6474,27 @@
             "y": -173.205078
           },
           "connectionList": [],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_4054_malist",
+          "scale": 1.0,
+          "pos": {
+            "x": 300.0,
+            "y": -519.615234
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_415_flint",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_416_zumama",
+              "forceId": null
+            }
+          ],
           "haveOutLine": true
         }
       ],

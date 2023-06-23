@@ -9604,6 +9604,131 @@
         }
       ]
     },
+    "char_1026_gvial2": {
+      "charId": "char_1026_gvial2",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd&profession2[020]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "train_spd&profession2[620]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "train_cost&profession[320]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_4055_bgsnow": {
+      "charId": "char_4055_bgsnow",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_spd&gold[100]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_line_durin[010]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_497_ctable": {
+      "charId": "char_497_ctable",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "meet_spd_notOwned[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "meet_spd_notOwned[010]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_4054_malist": {
+      "charId": "char_4054_malist",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "manu_constrLv[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd_bd[100]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "manu_prod_spd_bd[110]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
     "char_4064_mlynar": {
       "charId": "char_4064_mlynar",
       "maxManpower": 8640000,
@@ -10849,6 +10974,42 @@
       "roomType": "MANUFACTURE",
       "description": "進駐製造站時，宿舍內每有<@cc.kw>1</>名幹員則<$cc.bd_a1><@cc.rem>感知資訊</></><@cc.vup>+1</>，同時每<@cc.vup>1</>點<$cc.bd_a1><@cc.rem>感知資訊</></>轉化為<@cc.vup>1</>點<$cc.bd_A><@cc.rem>思維鏈環</></>"
     },
+    "manu_constrLv[000]": {
+      "buffId": "manu_constrLv[000]",
+      "buffName": "繪圖設計",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_constrLv",
+      "sortId": 3720,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "進駐製造站時，基建內每間設施每級<@cc.vup>+1</>個<@cc.kw><$cc.bd_malist>工程機器人</></>，上限<@cc.vup>64</>個"
+    },
+    "manu_prod_spd_bd[100]": {
+      "buffId": "manu_prod_spd_bd[100]",
+      "buffName": "機械輔助·α",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd_bd3",
+      "sortId": 3720,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "進駐製造站時，每<@cc.vup>16</>個<@cc.kw><$cc.bd_malist>工程機器人</></><@cc.vup>+5%</>生產力"
+    },
+    "manu_prod_spd_bd[110]": {
+      "buffId": "manu_prod_spd_bd[110]",
+      "buffName": "機械輔助·β",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd_bd4",
+      "sortId": 3720,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "進駐製造站時，每<@cc.vup>8</>個<@cc.kw><$cc.bd_malist>工程機器人</></><@cc.vup>+5%</>生產力"
+    },
     "manu_prod_spd_bd[000]": {
       "buffId": "manu_prod_spd_bd[000]",
       "buffName": "念力",
@@ -11209,6 +11370,18 @@
       "roomType": "TRADING",
       "description": "進駐貿易站時，訂單獲取效率<@cc.vup>+5%</>，每有<@cc.kw>2</>條<$cc.t.flow_gold><@cc.kw>赤金生產線</></>，則當前貿易站訂單獲取效率額外<@cc.vup>+15%</>"
     },
+    "trade_ord_spd&gold[100]": {
+      "buffId": "trade_ord_spd&gold[100]",
+      "buffName": "銷路宣發",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_flow_gs",
+      "sortId": 4043,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "進駐貿易站時，每有<@cc.kw>1</>條<$cc.t.flow_gold><@cc.kw>赤金生產線</></>，則當前貿易站訂單獲取效率<@cc.vup>+5%</>"
+    },
     "trade_ord_line_gold[000]": {
       "buffId": "trade_ord_line_gold[000]",
       "buffName": "訂單流視覺化·α",
@@ -11232,6 +11405,18 @@
       "buffCategory": "OUTPUT",
       "roomType": "TRADING",
       "description": "進駐貿易站時，訂單獲取效率<@cc.vup>+5%</>，每有<@cc.kw>2</>條<$cc.t.flow_gold><@cc.kw>赤金生產線</></>，則為當前貿易站額外提供<@cc.vup>2</>條<$cc.t.flow_gold><@cc.kw>赤金生產線</></>"
+    },
+    "trade_ord_line_durin[010]": {
+      "buffId": "trade_ord_line_durin[010]",
+      "buffName": "際崖居民",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_flow_durin",
+      "sortId": 4033,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "進駐貿易站時，基建內每<@cc.kw>1</>名<$cc.tag.durin><@cc.kw>杜林族</></>幹員（最多<@cc.kw>4</>名）為當前貿易站提供<@cc.kw>1</>條<$cc.t.flow_gold><@cc.kw>赤金生產線</></>"
     },
     "trade_ord_spd&limit[010]": {
       "buffId": "trade_ord_spd&limit[010]",
@@ -12949,6 +13134,18 @@
       "roomType": "TRAINING",
       "description": "進駐訓練室協助位時，<@cc.kw>近衛</>幹員的專精技能訓練速度<@cc.vup>+30%</>，如果本次訓練專精技能至<@cc.vup>3</>級，則訓練速度額外<@cc.vup>+45%</>"
     },
+    "train_spd&profession2[620]": {
+      "buffId": "train_spd&profession2[620]",
+      "buffName": "實戰指導",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train3_guard2",
+      "sortId": 9752,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "進駐訓練室協助位時，<@cc.kw>近衛</>幹員的專精技能訓練速度<@cc.vup>+30%</>，如果本次訓練專精技能至<@cc.vup>3</>級，則訓練速度額外<@cc.vup>+65%</>"
+    },
     "train_spd&profession2[640]": {
       "buffId": "train_spd&profession2[640]",
       "buffName": "伺機而動",
@@ -12996,6 +13193,18 @@
       "buffCategory": "FUNCTION",
       "roomType": "TRAINING",
       "description": "進駐訓練室協助<@cc.kw>狙擊</>幹員訓練專精技能至<@cc.vup>1</>級時，心情每小時消耗<@cc.vdown>+1</>"
+    },
+    "train_cost&profession[320]": {
+      "buffId": "train_cost&profession[320]",
+      "buffName": "過量訓練",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_gavial",
+      "sortId": 9752,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "進駐訓練室協助<@cc.kw>近衛</>幹員訓練專精技能至<@cc.vup>3</>級時，心情每小時消耗<@cc.vdown>+1</>"
     },
     "train_cost&profession[340]": {
       "buffId": "train_cost&profession[340]",
@@ -14196,6 +14405,30 @@
       "buffCategory": "FUNCTION",
       "roomType": "MEETING",
       "description": "進駐會客室時，線索蒐集速度提升<@cc.vup>25%</>"
+    },
+    "meet_spd_notOwned[000]": {
+      "buffId": "meet_spd_notOwned[000]",
+      "buffName": "不容遺漏·α",
+      "buffIcon": "meeting",
+      "skillIcon": "bskill_meet_spdNotOwned1",
+      "sortId": 6801,
+      "buffColor": "#dd653f",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "MEETING",
+      "description": "進駐會客室時，更容易獲得線索板上尚未擁有的線索"
+    },
+    "meet_spd_notOwned[010]": {
+      "buffId": "meet_spd_notOwned[010]",
+      "buffName": "不容遺漏·β",
+      "buffIcon": "meeting",
+      "skillIcon": "bskill_meet_spdNotOwned2",
+      "sortId": 6811,
+      "buffColor": "#dd653f",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "MEETING",
+      "description": "進駐會客室時，線索蒐集速度提升<@cc.vup>10%</>，且更容易獲得線索板上尚未擁有的線索"
     }
   },
   "workshopBonus": {
@@ -41524,6 +41757,499 @@
         "isOnly": 1,
         "quantity": 1
       },
+      "furni_idealCity_ceilingLamp_01": {
+        "id": "furni_idealCity_ceilingLamp_01",
+        "sortId": 960,
+        "name": "叮噹吊燈",
+        "iconId": "furni_idealCity_ceilingLamp_01",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_3",
+        "width": 2,
+        "depth": 2,
+        "height": 4,
+        "comfort": 60,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "懸掛著小風鈴的吊燈，叮叮噹噹，為美景配樂。\n通常會作為杜林人判斷喝醉與否的標準。“你說它是三個？拉倒吧！明明是五個，還是我親手裝上去的！”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_partition_01": {
+        "id": "furni_idealCity_partition_01",
+        "sortId": 961,
+        "name": "欄杆套件",
+        "iconId": "furni_idealCity_partition_01",
+        "type": "DECORATION",
+        "subType": "PARTITION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_1",
+        "width": 8,
+        "depth": 3,
+        "height": 9,
+        "comfort": 445,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "木製隔欄頂端種植著一些植物，藤蔓垂下來，吸引著路過的人跳起來伸手去抓。\n一些杜林人會和種植在這裡的蘑菇比身高。“嘿嘿嘿！我們之間只差了一釐米！”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_lifeBuoyRack_01": {
+        "id": "furni_idealCity_lifeBuoyRack_01",
+        "sortId": 962,
+        "name": "救生圈架",
+        "iconId": "furni_idealCity_lifeBuoyRack_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_1",
+        "width": 5,
+        "depth": 3,
+        "height": 4,
+        "comfort": 225,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "為玩水方便而放置的救生圈架，隨取隨用。\n拿的時候別太興奮，注意看一下大小，杜林人專用的救生圈只能卡在你的肩膀上。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_flag_01": {
+        "id": "furni_idealCity_flag_01",
+        "sortId": 963,
+        "name": "彩旗裝飾",
+        "iconId": "furni_idealCity_flag_01",
+        "type": "CEILING",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_3",
+        "width": 10,
+        "depth": 2,
+        "height": 4,
+        "comfort": 165,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "布製三角小旗，顏色取自各種漿果和植物，清新自然。\n杜林人原本打算按顏色順序規律給旗子染色，但在第三面的時候就選擇了放棄。“要追求自然，隨性的美！”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_ceiling_01": {
+        "id": "furni_idealCity_ceiling_01",
+        "sortId": 964,
+        "name": "布製吊頂",
+        "iconId": "furni_idealCity_ceiling_01",
+        "type": "CEILING",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_3",
+        "width": 12,
+        "depth": 6,
+        "height": 4,
+        "comfort": 290,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "流線型設計，起風時可以在上面觀察到風的形狀——只有鴻雪發現了這一點。\n在上次舉手表決之前，這裡的吊頂全部都是藍底紅花，至簡說自己的眼睛為此痛了至少三個月。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_fan_01": {
+        "id": "furni_idealCity_fan_01",
+        "sortId": 965,
+        "name": "“好聲音”風扇",
+        "iconId": "furni_idealCity_fan_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_2",
+        "width": 3,
+        "depth": 2,
+        "height": 5,
+        "comfort": 175,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "把嘴對著啟動的電扇說話唱歌，能獲得絕妙的聲音效果，結束玩水後可以來這裡一展歌喉。\n為它裝上話筒是下一項舉手表決的內容，請大家於聽到廣播的十分鐘後前往廣場進行全體會議！",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_sofa_S_01": {
+        "id": "furni_idealCity_sofa_S_01",
+        "sortId": 966,
+        "name": "最佳設計沙發（小）",
+        "iconId": "furni_idealCity_sofa_S_01",
+        "type": "SEATING",
+        "subType": "SOFA",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_2",
+        "width": 5,
+        "depth": 5,
+        "height": 3,
+        "comfort": 275,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "獲得了最高認可的沙發設計，至簡十分不服氣這項結果。\n據說至簡當時拿出了幾個版本的設計，但因為極致簡潔的外表被杜林人誤以為是沙發內芯，所以並沒有為它們投票。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_bench_01": {
+        "id": "furni_idealCity_bench_01",
+        "sortId": 967,
+        "name": "矮腳板凳",
+        "iconId": "furni_idealCity_bench_01",
+        "type": "SEATING",
+        "subType": "BENCH",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_1",
+        "width": 6,
+        "depth": 2,
+        "height": 2,
+        "comfort": 200,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "買家問這裡能坐幾個人，杜林人說五，豐蹄人說二，買家自己試了試，能坐下三個人。\n“這個故事說明，凡事都要親身體驗。”老爺爺闔上書，“所以喝了這桶麥酒，你就知道它才是最棒的！”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_pottedPlant_01": {
+        "id": "furni_idealCity_pottedPlant_01",
+        "sortId": 968,
+        "name": "石膏盆栽",
+        "iconId": "furni_idealCity_pottedPlant_01",
+        "type": "DECORATION",
+        "subType": "PLANT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_1",
+        "width": 4,
+        "depth": 6,
+        "height": 4,
+        "comfort": 285,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "錯落有致的高低設置，可以在種植植物的同時提供擺放飲品的檯面。\n上面是飲品，下面是蘑菇，入口時不要搞錯了對象。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_sandCastle_01": {
+        "id": "furni_idealCity_sandCastle_01",
+        "sortId": 969,
+        "name": "沙堡",
+        "iconId": "furni_idealCity_sandCastle_01",
+        "type": "DECORATION",
+        "subType": "ENTERTAINMENT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_4",
+        "width": 4,
+        "depth": 3,
+        "height": 3,
+        "comfort": 175,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "上一個來這裡玩耍的人留下的沙堡，能看出來，他玩得十分開心。\n沒有任何規定沙堡只能堆在沙坑裡，所以它經常會出現在任何意想不到的地方。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_sofa_L_01": {
+        "id": "furni_idealCity_sofa_L_01",
+        "sortId": 970,
+        "name": "最佳設計沙發（大）",
+        "iconId": "furni_idealCity_sofa_L_01",
+        "type": "SEATING",
+        "subType": "SOFA",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_2",
+        "width": 7,
+        "depth": 7,
+        "height": 3,
+        "comfort": 410,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "獲得了最高認可的沙發設計，至簡十分不服氣這個名稱。\n設計的妙思在於它可以作為充氣艇直接下水，帶上配套的水球，和你的同伴來一場水上大賽。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_surfboard_01": {
+        "id": "furni_idealCity_surfboard_01",
+        "sortId": 971,
+        "name": "爛醉衝浪板",
+        "iconId": "furni_idealCity_surfboard_01",
+        "type": "DECORATION",
+        "subType": "ENTERTAINMENT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_2",
+        "width": 4,
+        "depth": 2,
+        "height": 5,
+        "comfort": 210,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "隔板形狀設計靈感來自於杜林人喝醉後歪歪扭扭的身姿。\n掛著吊牌的兩面衝浪板屬於上一屆衝浪大賽的兩位冠軍，一位痛飲了果酒，一位痛飲了麥酒，二人同時到達終點，引發了一場混亂。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_pottedPlant2_01": {
+        "id": "furni_idealCity_pottedPlant2_01",
+        "sortId": 972,
+        "name": "透明盆栽",
+        "iconId": "furni_idealCity_pottedPlant2_01",
+        "type": "DECORATION",
+        "subType": "PLANT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_2",
+        "width": 6,
+        "depth": 4,
+        "height": 6,
+        "comfort": 340,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "設計師並沒有標明它的用處，你用它來幹什麼都行。\n杜林人之前在裡面飼養了一群跳跳鉗獸，看哪隻跳得最高。後來因為跳跳鉗獸紛紛躍出無法控制，這裡種上了靜止不動的植物。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_downlight_01": {
+        "id": "furni_idealCity_downlight_01",
+        "sortId": 973,
+        "name": "純白吸頂燈",
+        "iconId": "furni_idealCity_downlight_01",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_3",
+        "width": 2,
+        "depth": 1,
+        "height": 1,
+        "comfort": 35,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "杜林人在商店隨手買來的頂燈，兩兩一組，買一送一。\n唯一被至簡讚許過外形的設計。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 4,
+        "quantity": 4
+      },
+      "furni_idealCity_beach_01": {
+        "id": "furni_idealCity_beach_01",
+        "sortId": 974,
+        "name": "人造沙灘",
+        "iconId": "furni_idealCity_beach_01",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_4",
+        "width": 20,
+        "depth": 8,
+        "height": 1,
+        "comfort": 185,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "可供三到五人在其中玩耍的小型人工沙灘，沙子細膩，乾淨柔軟。\n雖然把如此數量的沙子搬進室內十分耗費人力物力，但天性壓過了理智，念頭在上一秒出現，行動在下一秒進行。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_wallpaper_01": {
+        "id": "furni_idealCity_wallpaper_01",
+        "sortId": 975,
+        "name": "全景顯示幕（大水坑）",
+        "iconId": "furni_idealCity_wallpaper_01",
+        "type": "WALLPAPER",
+        "subType": "NONE",
+        "location": "WALL",
+        "category": "WALL",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_4",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "得益於杜林高超的技術，保留了大滑梯與其他娛樂設施被炸毀前的景象。\n每次極境路過這裡，都會滔滔不絕地宣揚自己各項精湛的玩水技術，和水光之中的帥臉。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_idealCity_floor_01": {
+        "id": "furni_idealCity_floor_01",
+        "sortId": 976,
+        "name": "體驗屋地板",
+        "iconId": "furni_idealCity_floor_01",
+        "type": "FLOOR",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FLOOR",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_idealCity",
+        "groupId": "furni_set_idealCity_4",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "體驗屋的淺色地板，經過防滑及吸水處理，保證不會有人在上面摔倒。\n除非你已經醉到把天花板看成地板。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
       "furni_durin_ceilingLamp_01": {
         "id": "furni_durin_ceilingLamp_01",
         "sortId": 977,
@@ -44279,6 +45005,35 @@
         "isOnly": 1,
         "quantity": 0
       },
+      "furni_act27d0_prizeWheel_01": {
+        "id": "furni_act27d0_prizeWheel_01",
+        "sortId": 10059,
+        "name": "周年慶典轉盤",
+        "iconId": "furni_act27d0_prizeWheel_01",
+        "type": "DECORATION",
+        "subType": "ENTERTAINMENT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 3,
+        "depth": 2,
+        "height": 4,
+        "comfort": 90,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "為了紀念明日方舟開服三周年特別訂做的轉盤。指針落下的位置便是幸福，而你一定知道它將落在何處。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
       "furni_act30d0_fan_01": {
         "id": "furni_act30d0_fan_01",
         "sortId": 10060,
@@ -45758,6 +46513,35 @@
         "isOnly": 1,
         "quantity": 0
       },
+      "furni_dropS030_aTripToTheMoon_01": {
+        "id": "furni_dropS030_aTripToTheMoon_01",
+        "sortId": 11045,
+        "name": "飾牌《地外》",
+        "iconId": "furni_dropS030_aTripToTheMoon_01",
+        "type": "WALLDECO",
+        "subType": "PLAQUE",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "“只有想像能掙脫束縛，去往大地之上的地方。”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
       "furni_dropS031_spaceWar_01": {
         "id": "furni_dropS031_spaceWar_01",
         "sortId": 11046,
@@ -46851,6 +47635,35 @@
         "comfort": 105,
         "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
         "description": "完成炎國盤桓蜀道剿滅並提交報告後獲得的紀念品。蜀道的餘音似乎還在耳邊迴響。",
+        "obtainApproach": "剿滅委託獎勵",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_annihilation_s12_01": {
+        "id": "furni_annihilation_s12_01",
+        "sortId": 13010,
+        "name": "拉特蘭的回聲（巧克力大街）",
+        "iconId": "furni_annihilation_s12_01",
+        "type": "WALLDECO",
+        "subType": "ANNIHILATION",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 4,
+        "comfort": 105,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "完成拉特蘭巧克力大街剿滅並提交報告後獲得的紀念品。巧克力大街的餘音似乎還在耳邊迴響。",
         "obtainApproach": "剿滅委託獎勵",
         "processedProductId": "3401",
         "processedProductCount": 0,
@@ -56325,6 +57138,160 @@
           "furni_rhineLab_floor_01"
         ]
       },
+      "furni_set_idealCity": {
+        "id": "furni_set_idealCity",
+        "sortId": 57,
+        "name": "大水坑快活體驗屋",
+        "themeType": "EVENT",
+        "desc": "在至簡不情不願的描述下復現的大水坑觀光小屋。在嘉維爾監工之後，至簡的效率提升了一倍不止。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_idealCity_ceilingLamp_01",
+            "pos0": 3,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_partition_01",
+            "pos0": 0,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_lifeBuoyRack_01",
+            "pos0": 3,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_flag_01",
+            "pos0": 11,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_ceiling_01",
+            "pos0": 15,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_fan_01",
+            "pos0": 20,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_sofa_S_01",
+            "pos0": 15,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_bench_01",
+            "pos0": 4,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_pottedPlant_01",
+            "pos0": 9,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_sandCastle_01",
+            "pos0": 14,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_sofa_L_01",
+            "pos0": 21,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_surfboard_01",
+            "pos0": 30,
+            "pos1": 4,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_pottedPlant2_01",
+            "pos0": 28,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_downlight_01",
+            "pos0": 3,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_downlight_01",
+            "pos0": 10,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_downlight_01",
+            "pos0": 8,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_downlight_01",
+            "pos0": 13,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_beach_01",
+            "pos0": 13,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_idealCity_floor_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          }
+        ],
+        "groups": [
+          "furni_set_idealCity_1",
+          "furni_set_idealCity_2",
+          "furni_set_idealCity_3",
+          "furni_set_idealCity_4"
+        ],
+        "furnitures": [
+          "furni_idealCity_ceilingLamp_01",
+          "furni_idealCity_partition_01",
+          "furni_idealCity_lifeBuoyRack_01",
+          "furni_idealCity_flag_01",
+          "furni_idealCity_ceiling_01",
+          "furni_idealCity_fan_01",
+          "furni_idealCity_sofa_S_01",
+          "furni_idealCity_bench_01",
+          "furni_idealCity_pottedPlant_01",
+          "furni_idealCity_sandCastle_01",
+          "furni_idealCity_sofa_L_01",
+          "furni_idealCity_surfboard_01",
+          "furni_idealCity_pottedPlant2_01",
+          "furni_idealCity_downlight_01",
+          "furni_idealCity_beach_01",
+          "furni_idealCity_wallpaper_01",
+          "furni_idealCity_floor_01"
+        ]
+      },
       "furni_set_durin": {
         "id": "furni_set_durin",
         "sortId": 58,
@@ -59863,6 +60830,63 @@
           "furni_rhineLab_curtain_S_01"
         ]
       },
+      "furni_set_idealCity_1": {
+        "id": "furni_set_idealCity_1",
+        "sortId": 1,
+        "name": "漿果番茄酒",
+        "themeId": "furni_set_idealCity",
+        "comfort": 280,
+        "count": 4,
+        "furniture": [
+          "furni_idealCity_partition_01",
+          "furni_idealCity_lifeBuoyRack_01",
+          "furni_idealCity_pottedPlant_01",
+          "furni_idealCity_bench_01"
+        ]
+      },
+      "furni_set_idealCity_2": {
+        "id": "furni_set_idealCity_2",
+        "sortId": 2,
+        "name": "香甜甜果酒",
+        "themeId": "furni_set_idealCity",
+        "comfort": 340,
+        "count": 5,
+        "furniture": [
+          "furni_idealCity_sofa_L_01",
+          "furni_idealCity_sofa_S_01",
+          "furni_idealCity_fan_01",
+          "furni_idealCity_surfboard_01",
+          "furni_idealCity_pottedPlant2_01"
+        ]
+      },
+      "furni_set_idealCity_3": {
+        "id": "furni_set_idealCity_3",
+        "sortId": 3,
+        "name": "冰冰涼麥酒",
+        "themeId": "furni_set_idealCity",
+        "comfort": 150,
+        "count": 4,
+        "furniture": [
+          "furni_idealCity_ceiling_01",
+          "furni_idealCity_flag_01",
+          "furni_idealCity_ceilingLamp_01",
+          "furni_idealCity_downlight_01"
+        ]
+      },
+      "furni_set_idealCity_4": {
+        "id": "furni_set_idealCity_4",
+        "sortId": 4,
+        "name": "大水大沙坑",
+        "themeId": "furni_set_idealCity",
+        "comfort": 170,
+        "count": 4,
+        "furniture": [
+          "furni_idealCity_wallpaper_01",
+          "furni_idealCity_floor_01",
+          "furni_idealCity_beach_01",
+          "furni_idealCity_sandCastle_01"
+        ]
+      },
       "furni_set_durin_1": {
         "id": "furni_set_durin_1",
         "sortId": 1,
@@ -60427,6 +61451,18 @@
         },
         {
           "skinId": "char_476_blkngt@summer#8"
+        },
+        {
+          "skinId": "char_350_surtr@summer#9"
+        },
+        {
+          "skinId": "char_421_crow@summer#9"
+        },
+        {
+          "skinId": "char_401_elysm@summer#9"
+        },
+        {
+          "skinId": "char_484_robrta@summer#10"
         }
       ]
     },

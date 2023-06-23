@@ -403,6 +403,19 @@
       "lockedText": null,
       "canPreview": false
     },
+    "camp_zone_11": {
+      "zoneID": "camp_zone_11",
+      "zoneIndex": 0,
+      "type": "CAMPAIGN",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "tower_tr_01": {
       "zoneID": "tower_tr_01",
       "zoneIndex": 0,
@@ -552,6 +565,84 @@
       "type": "ACTIVITY",
       "zoneNameFirst": null,
       "zoneNameSecond": "假日旅程",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act20side_zone1": {
+      "zoneID": "act20side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "地底觀光",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act20side_zone2": {
+      "zoneID": "act20side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "文化衝擊",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act20side_zone3": {
+      "zoneID": "act20side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "升降梯整備",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act20side_zone4": {
+      "zoneID": "act20side_zone4",
+      "zoneIndex": 3,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "表演賽道",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act20side_zone5": {
+      "zoneID": "act20side_zone5",
+      "zoneIndex": 4,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "終極賽道",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act1bossrush_zone1": {
+      "zoneID": "act1bossrush_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "強敵當前",
       "zoneNameTitleCurrent": null,
       "zoneNameTitleUnCurrent": null,
       "zoneNameTitleEx": null,
@@ -2252,6 +2343,30 @@
     "act12mini_zone1": {
       "startTs": 1684216800,
       "endTs": 1684785599
+    },
+    "act20side_zone1": {
+      "startTs": 1687246200,
+      "endTs": 1689019199
+    },
+    "act20side_zone2": {
+      "startTs": 1687852800,
+      "endTs": 1689019199
+    },
+    "act20side_zone3": {
+      "startTs": 1688457600,
+      "endTs": 1689019199
+    },
+    "act20side_zone4": {
+      "startTs": 1687246200,
+      "endTs": 1689019199
+    },
+    "act20side_zone5": {
+      "startTs": 1687852800,
+      "endTs": 1689019199
+    },
+    "act1bossrush_zone1": {
+      "startTs": 1687852800,
+      "endTs": 1688414399
     },
     "act12sre_zone1": {
       "startTs": 1683187200,

@@ -7060,6 +7060,104 @@
         "onPeriod": 0
       }
     },
+    "char_497_ctable#1": {
+      "skinId": "char_497_ctable#1",
+      "charId": "char_497_ctable",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_497_ctable_1",
+      "dynIllustId": null,
+      "avatarId": "char_497_ctable",
+      "portraitId": "char_497_ctable_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#3d464f",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Cantabile",
+        "drawerName": "溫泉瓜",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_497_ctable#2": {
+      "skinId": "char_497_ctable#2",
+      "charId": "char_497_ctable",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_497_ctable_2",
+      "dynIllustId": null,
+      "avatarId": "char_497_ctable_2",
+      "portraitId": "char_497_ctable_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#324960",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Cantabile",
+        "drawerName": "溫泉瓜",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_308_swire#1": {
       "skinId": "char_308_swire#1",
       "charId": "char_308_swire",
@@ -11134,6 +11232,104 @@
         ],
         "modelName": "Rockrock",
         "drawerName": "Cenm0",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4054_malist#1": {
+      "skinId": "char_4054_malist#1",
+      "charId": "char_4054_malist",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4054_malist_1",
+      "dynIllustId": null,
+      "avatarId": "char_4054_malist",
+      "portraitId": "char_4054_malist_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#b7ada6",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Minimalist",
+        "drawerName": "〇亻",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4054_malist#2": {
+      "skinId": "char_4054_malist#2",
+      "charId": "char_4054_malist",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4054_malist_2",
+      "dynIllustId": null,
+      "avatarId": "char_4054_malist_2",
+      "portraitId": "char_4054_malist_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#494f79",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Minimalist",
+        "drawerName": "〇亻",
         "skinGroupId": "ILLUST_2",
         "skinGroupName": "默認服裝",
         "skinGroupSortIndex": -10,
@@ -17020,6 +17216,104 @@
         "onPeriod": 0
       }
     },
+    "char_4055_bgsnow#1": {
+      "skinId": "char_4055_bgsnow#1",
+      "charId": "char_4055_bgsnow",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4055_bgsnow_1",
+      "dynIllustId": null,
+      "avatarId": "char_4055_bgsnow",
+      "portraitId": "char_4055_bgsnow_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#7f0911",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Позёмка",
+        "drawerName": "Chuzenji",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4055_bgsnow#2": {
+      "skinId": "char_4055_bgsnow#2",
+      "charId": "char_4055_bgsnow",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4055_bgsnow_2",
+      "dynIllustId": null,
+      "avatarId": "char_4055_bgsnow_2",
+      "portraitId": "char_4055_bgsnow_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#bb575f",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Позёмка",
+        "drawerName": "Chuzenji",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_430_fartth#1": {
       "skinId": "char_430_fartth#1",
       "charId": "char_430_fartth",
@@ -22018,6 +22312,104 @@
         "onPeriod": 0
       }
     },
+    "char_1026_gvial2#1": {
+      "skinId": "char_1026_gvial2#1",
+      "charId": "char_1026_gvial2",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_1026_gvial2_1",
+      "dynIllustId": null,
+      "avatarId": "char_1026_gvial2",
+      "portraitId": "char_1026_gvial2_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#3a5320",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Gavial the Invincible",
+        "drawerName": "LLC",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "嘉維爾進入際崖城時穿著的服裝。\n專為戰鬥設計，隨身攜帶的醫療法杖終於回歸了其傳統用途。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_1026_gvial2#2": {
+      "skinId": "char_1026_gvial2#2",
+      "charId": "char_1026_gvial2",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_1026_gvial2_2",
+      "dynIllustId": "dyn_illust_char_1026_gvial2_2",
+      "avatarId": "char_1026_gvial2_2",
+      "portraitId": "char_1026_gvial2_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#517c2c",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Gavial the Invincible",
+        "drawerName": "LLC",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "天呐，她看起來就像個荒地人！\n但這才是真正的嘉維爾，充滿野性，戰無不勝。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_350_surtr#1": {
       "skinId": "char_350_surtr#1",
       "charId": "char_350_surtr",
@@ -23836,6 +24228,46 @@
       "dynIllustId": null,
       "avatarId": "token_10025_doroth_recttp",
       "portraitId": "token_10025_doroth_recttp_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "token_10026_bgsnow_subbow#1": {
+      "skinId": "token_10026_bgsnow_subbow#1",
+      "charId": "token_10026_bgsnow_subbow",
+      "tokenSkinMap": null,
+      "illustId": "illust_token_10026_bgsnow_subbow_1",
+      "dynIllustId": null,
+      "avatarId": "token_10026_bgsnow_subbow",
+      "portraitId": "token_10026_bgsnow_subbow_1",
       "dynPortraitId": null,
       "dynEntranceId": null,
       "buildingId": null,
@@ -26748,6 +27180,86 @@
         "onPeriod": 0
       }
     },
+    "trap_080_garage#1": {
+      "skinId": "trap_080_garage#1",
+      "charId": "trap_080_garage",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_080_garage_1",
+      "dynIllustId": null,
+      "avatarId": "trap_080_garage",
+      "portraitId": "trap_080_garage_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_081_turngear#1": {
+      "skinId": "trap_081_turngear#1",
+      "charId": "trap_081_turngear",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_081_turngear_1",
+      "dynIllustId": null,
+      "avatarId": "trap_081_turngear",
+      "portraitId": "trap_081_turngear_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "trap_085_paras#1": {
       "skinId": "trap_085_paras#1",
       "charId": "trap_085_paras",
@@ -26756,6 +27268,86 @@
       "dynIllustId": null,
       "avatarId": "trap_085_paras",
       "portraitId": "trap_085_paras_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_090_recodr#1": {
+      "skinId": "trap_090_recodr#1",
+      "charId": "trap_090_recodr",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_090_recodr_1",
+      "dynIllustId": null,
+      "avatarId": "trap_090_recodr",
+      "portraitId": "trap_090_recodr_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_091_brctrl#1": {
+      "skinId": "trap_091_brctrl#1",
+      "charId": "trap_091_brctrl",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_091_brctrl_1",
+      "dynIllustId": null,
+      "avatarId": "trap_091_brctrl",
+      "portraitId": "trap_091_brctrl_1",
       "dynPortraitId": null,
       "dynEntranceId": null,
       "buildingId": null,
@@ -32014,6 +32606,243 @@
         "getTime": 1681371000,
         "onYear": 2,
         "onPeriod": 17
+      }
+    },
+    "char_350_surtr@summer#9": {
+      "skinId": "char_350_surtr@summer#9",
+      "charId": "char_350_surtr",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_350_surtr_summer#9",
+      "dynIllustId": "dyn_illust_char_350_surtr_summer#9",
+      "avatarId": "char_350_surtr_summer#9",
+      "portraitId": "char_350_surtr_summer#9",
+      "dynPortraitId": "dyn_portrait_char_350_surtr_summer#9",
+      "dynEntranceId": null,
+      "buildingId": "char_350_surtr_summer#9",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_350_surtr_summer#9"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "繽紛奇境 CW03",
+        "colorList": [
+          "#34b2f5",
+          "#fffffc",
+          "#34b2f5",
+          "#79d0ff",
+          "#ff6349",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Surtr",
+        "drawerName": "Ask",
+        "skinGroupId": "2022#summer#2",
+        "skinGroupName": "珊瑚海岸/IX",
+        "skinGroupSortIndex": 42,
+        "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]繽紛奇境系列泳衣03款。清涼舒適的基礎剪裁與多樣化的裝飾性元素巧妙融合，是對夏天的獨特闡釋。</color>",
+        "dialog": "MARTHE [珊瑚海岸/CoralCoast]繽紛奇境系列泳衣03款。清涼舒適的基礎剪裁與多樣化的裝飾性元素巧妙融合，是對夏天的獨特闡釋。",
+        "usage": "史爾特爾的夏日裝扮之一。",
+        "description": "綻開色彩的花，輕摟天空的海，淺夢中斑斕的回憶，勾起她嘴角一抹彎弧。",
+        "obtainApproach": "採購中心",
+        "sortId": 91,
+        "displayTagId": null,
+        "getTime": 1687246200,
+        "onYear": 3,
+        "onPeriod": 1
+      }
+    },
+    "char_421_crow@summer#9": {
+      "skinId": "char_421_crow@summer#9",
+      "charId": "char_421_crow",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_421_crow_summer#9",
+      "dynIllustId": null,
+      "avatarId": "char_421_crow_summer#9",
+      "portraitId": "char_421_crow_summer#9",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_421_crow_summer#9",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_421_crow_summer#9"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "夏卉 FA210",
+        "colorList": [
+          "#40d0ff",
+          "#ffffff",
+          "#40d0ff",
+          "#95d4e9",
+          "#3d7864",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "La Pluma",
+        "drawerName": "LAL!ROLE",
+        "skinGroupId": "2022#summer#2",
+        "skinGroupName": "珊瑚海岸/IX",
+        "skinGroupSortIndex": 42,
+        "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣210款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。</color>",
+        "dialog": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣210款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
+        "usage": "羽毛筆的夏日裝扮之一。",
+        "description": "注意不要滑倒、注意下水前熱身、注意動作標準。輕飄飄的語氣遊蕩在空中，讓初學者也能在水池中浮游。",
+        "obtainApproach": "採購中心",
+        "sortId": 92,
+        "displayTagId": null,
+        "getTime": 1687246200,
+        "onYear": 3,
+        "onPeriod": 1
+      }
+    },
+    "char_401_elysm@summer#9": {
+      "skinId": "char_401_elysm@summer#9",
+      "charId": "char_401_elysm",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_401_elysm_summer#9",
+      "dynIllustId": null,
+      "avatarId": "char_401_elysm_summer#9",
+      "portraitId": "char_401_elysm_summer#9",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_401_elysm_summer#9",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_401_elysm_summer#9"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "燦陽朝露 SDm11",
+        "colorList": [
+          "#2c795f",
+          "#fffffc",
+          "#2c795f",
+          "#78bc96",
+          "#d4cc4d",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Elysium",
+        "drawerName": "Skade",
+        "skinGroupId": "2022#summer#2",
+        "skinGroupName": "珊瑚海岸/IX",
+        "skinGroupSortIndex": 42,
+        "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]燦陽朝露系列泳衣11男款。貼身、透氣、輕便，專為夏日而生。</color>",
+        "dialog": "MARTHE [珊瑚海岸/CoralCoast]燦陽朝露系列泳衣11男款。貼身、透氣、輕便，專為夏日而生。",
+        "usage": "極境的夏日裝扮之一。",
+        "description": "炎炎夏日，要是不能穿上展露身姿的好衣服，實在是太對不起這樣的大帥哥了。",
+        "obtainApproach": "採購中心",
+        "sortId": 93,
+        "displayTagId": null,
+        "getTime": 1687246200,
+        "onYear": 3,
+        "onPeriod": 1
+      }
+    },
+    "token_10018_robrta_mach_summer#10": {
+      "skinId": "token_10018_robrta_mach_summer#10",
+      "charId": "token_10018_robrta_mach",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10018_robrta_mach_summer#10",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10018_robrta_mach_summer#10"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_484_robrta@summer#10": {
+      "skinId": "char_484_robrta@summer#10",
+      "charId": "char_484_robrta",
+      "tokenSkinMap": [
+        {
+          "tokenId": "token_10018_robrta_mach",
+          "tokenSkinId": "token_10018_robrta_mach_summer#10"
+        }
+      ],
+      "illustId": "illust_char_484_robrta_summer#10",
+      "dynIllustId": null,
+      "avatarId": "char_484_robrta_summer#10",
+      "portraitId": "char_484_robrta_summer#10",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_484_robrta_summer#10",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_484_robrta_summer#10"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "夏卉 FA374",
+        "colorList": [
+          "#52f1ff",
+          "#ffffff",
+          "#52f1ff",
+          "#92d7e3",
+          "#f87447",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Roberta",
+        "drawerName": "IRIS_囈",
+        "skinGroupId": "2022#summer#3",
+        "skinGroupName": "珊瑚海岸/X",
+        "skinGroupSortIndex": 43,
+        "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣374款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。</color>",
+        "dialog": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣374款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
+        "usage": "羅比菈塔的夏日裝扮之一。",
+        "description": "浪花沖走化妝刷上的色彩，以及所有的壞心情。如果美麗需要修飾，那麼此刻整片大海都是她的點綴。",
+        "obtainApproach": "活動贈送",
+        "sortId": 94,
+        "displayTagId": "活動獲得",
+        "getTime": 1687852800,
+        "onYear": 3,
+        "onPeriod": 1
       }
     },
     "char_241_panda@marthe#1": {
@@ -37724,6 +38553,10 @@
       "0": "char_476_blkngt#1",
       "2": "char_476_blkngt#2"
     },
+    "char_497_ctable": {
+      "0": "char_497_ctable#1",
+      "2": "char_497_ctable#2"
+    },
     "char_308_swire": {
       "0": "char_308_swire#1",
       "2": "char_308_swire#2"
@@ -37893,6 +38726,10 @@
     "char_4040_rockr": {
       "0": "char_4040_rockr#1",
       "2": "char_4040_rockr#2"
+    },
+    "char_4054_malist": {
+      "0": "char_4054_malist#1",
+      "2": "char_4054_malist#2"
     },
     "char_242_otter": {
       "0": "char_242_otter#1",
@@ -38136,6 +38973,10 @@
       "0": "char_340_shwaz#1",
       "2": "char_340_shwaz#2"
     },
+    "char_4055_bgsnow": {
+      "0": "char_4055_bgsnow#1",
+      "2": "char_4055_bgsnow#2"
+    },
     "char_430_fartth": {
       "0": "char_430_fartth#1",
       "2": "char_430_fartth#2"
@@ -38340,6 +39181,10 @@
       "0": "char_017_huang#1",
       "2": "char_017_huang#2"
     },
+    "char_1026_gvial2": {
+      "0": "char_1026_gvial2#1",
+      "2": "char_1026_gvial2#2"
+    },
     "char_350_surtr": {
       "0": "char_350_surtr#1",
       "2": "char_350_surtr#2"
@@ -38453,6 +39298,9 @@
     },
     "token_10025_doroth_recttp": {
       "0": "token_10025_doroth_recttp#1"
+    },
+    "token_10026_bgsnow_subbow": {
+      "0": "token_10026_bgsnow_subbow#1"
     },
     "trap_001_crate": {
       "0": "trap_001_crate#1"
@@ -38670,8 +39518,20 @@
     "trap_078_rmtarms": {
       "0": "trap_078_rmtarms#1"
     },
+    "trap_080_garage": {
+      "0": "trap_080_garage#1"
+    },
+    "trap_081_turngear": {
+      "0": "trap_081_turngear#1"
+    },
     "trap_085_paras": {
       "0": "trap_085_paras#1"
+    },
+    "trap_090_recodr": {
+      "0": "trap_090_recodr#1"
+    },
+    "trap_091_brctrl": {
+      "0": "trap_091_brctrl#1"
     },
     "char_230_savage": {
       "0": "char_230_savage#1",
@@ -38797,6 +39657,8 @@
     "summer": {
       "brandId": "summer",
       "groupList": [
+        "2022#summer#3",
+        "2022#summer#2",
         "2022#summer",
         "2021#summer#3",
         "2021#summer#2",
@@ -38807,6 +39669,7 @@
         "2019#summer"
       ],
       "kvImgIdList": [
+        "kv_summer7",
         "kv_summer6",
         "kv_summer5",
         "kv_summer4",
@@ -38817,7 +39680,7 @@
       "brandName": "珊瑚海岸",
       "brandCapitalName": "CORAL COAST",
       "description": "展現真實的自我！\n珊瑚海岸是瑪爾特旗下子品牌，主要面向水上運動與夏日服裝領域，以時尚外形為夏日增添活力！繼承自瑪爾特精神理念，著重用戶需求與最前沿設計，每年都以最靚麗色彩點綴您的海岸。",
-      "sortId": 41
+      "sortId": 43
     },
     "marthe": {
       "brandId": "marthe",

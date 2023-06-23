@@ -991,7 +991,7 @@
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
   "voucherDiv": 5,
-  "recruitPoolVersion": 8,
+  "recruitPoolVersion": 9,
   "v006RecruitTimeStep1Refresh": 1577172600,
   "v006RecruitTimeStep2Check": 1577154600,
   "v006RecruitTimeStep2Flush": 1577649600,
@@ -1264,6 +1264,11 @@
       "termName": "烏薩斯特飲",
       "description": "由以下幹員的基建技能提供\nTACHANKA"
     },
+    "cc.bd_malist": {
+      "termId": "cc.bd_malist",
+      "termName": "工程機器人",
+      "description": "由以下幹員的基建技能提供\n至簡"
+    },
     "cc.bd_a1_a1": {
       "termId": "cc.bd_a1_a1",
       "termName": "記憶碎片",
@@ -1433,9 +1438,19 @@
       "termId": "cc.tag.knight",
       "termName": "騎士",
       "description": "包含以下幹員\n耀騎士臨光、臨光（互斥）、瑕光、鞭刃、焰尾、遠牙、灰毫、野鬃、正義騎士號、礫"
+    },
+    "cc.tag.durin": {
+      "termId": "cc.tag.durin",
+      "termName": "杜林族",
+      "description": "包含以下幹員\n至簡、桃金娘、褐果、杜林"
+    },
+    "cc.gvial": {
+      "termId": "cc.gvial",
+      "termName": "嘉維爾",
+      "description": "包含以下幹員\n百煉嘉維爾、嘉維爾"
     }
   },
   "storyReviewUnlockItemLackTip": "事相碎片數量不足，請前往採購憑證區或活動期間商店獲取",
-  "dataVersion": "29.3.0",
-  "resPrefVersion": "31d5d0"
+  "dataVersion": "29.4.0",
+  "resPrefVersion": "30d0d0"
 }

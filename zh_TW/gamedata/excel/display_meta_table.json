@@ -213,6 +213,16 @@
         "obtainApproach": "記錄修復獲得"
       },
       {
+        "avatarId": "avatar_activity_RI",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 15,
+        "avatarIdDesc": "【密林悍將歸來】記錄修復\n“密林悍將歸來”",
+        "avatarItemName": "“密林悍將歸來”",
+        "avatarItemDesc": "嘉維爾要回來了，森蚺心中五味雜陳。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "記錄修復獲得"
+      },
+      {
         "avatarId": "avatar_activity_BH",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 16,
@@ -411,6 +421,7 @@
           "avatar_activity_BN",
           "avatar_activity_TW",
           "avatar_activity_FA",
+          "avatar_activity_RI",
           "avatar_activity_BH"
         ]
       },
@@ -561,6 +572,20 @@
         "obtainApproach": "集成戰略獎勵",
         "unlockDesList": [
           "[集成戰略]傀影與猩紅孤鑽獎勵"
+        ]
+      },
+      {
+        "bgId": "bg_anniversary_1",
+        "bgType": "REGION",
+        "bgSortId": 9,
+        "bgStartTime": 1687246200,
+        "bgName": "慶典",
+        "bgMusicId": "music_bg_anniversary",
+        "bgDes": "絢爛的煙花在天際綻開，人們同時駐足，分享這一刻的喜悅。",
+        "bgUsage": "一張照片，一段回憶，凝聚了泰拉大地的某個瞬間。",
+        "obtainApproach": "周年慶典登入",
+        "unlockDesList": [
+          "周年慶典（6月20日 16:00:00 至 7月20日 3:59:59）期間登入"
         ]
       }
     ],

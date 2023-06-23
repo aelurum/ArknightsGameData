@@ -436,7 +436,7 @@
       "char_236_rope": {
         "charId": "char_236_rope",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_rope",
         "recruitType": "FREE"
       },
       "char_117_myrrh": {
@@ -532,7 +532,7 @@
       "char_355_ethan": {
         "charId": "char_355_ethan",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_ethan",
         "recruitType": "FREE"
       },
       "char_277_sqrrel": {
@@ -597,6 +597,12 @@
       },
       "char_476_blkngt": {
         "charId": "char_476_blkngt",
+        "canBeFree": true,
+        "uniEquipId": null,
+        "recruitType": "FREE"
+      },
+      "char_497_ctable": {
+        "charId": "char_497_ctable",
         "canBeFree": true,
         "uniEquipId": null,
         "recruitType": "FREE"
@@ -877,6 +883,12 @@
         "uniEquipId": null,
         "recruitType": "FREE"
       },
+      "char_4054_malist": {
+        "charId": "char_4054_malist",
+        "canBeFree": true,
+        "uniEquipId": null,
+        "recruitType": "FREE"
+      },
       "char_242_otter": {
         "charId": "char_242_otter",
         "canBeFree": true,
@@ -1096,13 +1108,13 @@
       "char_173_slchan": {
         "charId": "char_173_slchan",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_slchan",
         "recruitType": "FREE"
       },
       "char_383_snsant": {
         "charId": "char_383_snsant",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_snsant",
         "recruitType": "FREE"
       },
       "char_174_slbell": {
@@ -1174,13 +1186,13 @@
       "char_215_mantic": {
         "charId": "char_215_mantic",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_mantic",
         "recruitType": "FREE"
       },
       "char_478_kirara": {
         "charId": "char_478_kirara",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_kirara",
         "recruitType": "FREE"
       },
       "char_241_panda": {
@@ -1241,6 +1253,12 @@
         "charId": "char_340_shwaz",
         "canBeFree": true,
         "uniEquipId": "uniequip_002_shwaz",
+        "recruitType": "FREE"
+      },
+      "char_4055_bgsnow": {
+        "charId": "char_4055_bgsnow",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_bgsnow",
         "recruitType": "FREE"
       },
       "char_430_fartth": {
@@ -1426,7 +1444,7 @@
       "char_474_glady": {
         "charId": "char_474_glady",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_glady",
         "recruitType": "FREE"
       },
       "char_1023_ghost2": {
@@ -1438,7 +1456,7 @@
       "char_437_mizuki": {
         "charId": "char_437_mizuki",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_mizuki",
         "recruitType": "FREE"
       },
       "char_4048_doroth": {
@@ -1551,6 +1569,12 @@
       },
       "char_017_huang": {
         "charId": "char_017_huang",
+        "canBeFree": true,
+        "uniEquipId": null,
+        "recruitType": "FREE"
+      },
+      "char_1026_gvial2": {
+        "charId": "char_1026_gvial2",
         "canBeFree": true,
         "uniEquipId": null,
         "recruitType": "FREE"

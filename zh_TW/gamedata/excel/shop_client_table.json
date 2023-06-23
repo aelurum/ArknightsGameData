@@ -6159,6 +6159,366 @@
       }
     },
     {
+      "tagId": "tag_212",
+      "displayType": "block_1",
+      "tagName": "珊瑚海岸/IX",
+      "itemTag": "DEADLINE",
+      "orderNum": 1,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag212_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_212",
+        "text": "夏天來啦！別考慮太多，換件新衣服好不好？"
+      }
+    },
+    {
+      "tagId": "tag_213",
+      "displayType": "block_1",
+      "tagName": "珊瑚海岸/II",
+      "itemTag": "DEADLINE",
+      "orderNum": 2,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag213_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_213",
+        "text": "夏天來啦！別考慮太多，換件新衣服好不好？"
+      }
+    },
+    {
+      "tagId": "tag_214",
+      "displayType": "block_1",
+      "tagName": "珊瑚海岸/III",
+      "itemTag": "DEADLINE",
+      "orderNum": 3,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag214_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_214",
+        "text": "夏天來啦！別考慮太多，換件新衣服好不好？"
+      }
+    },
+    {
+      "tagId": "tag_215",
+      "displayType": "block_1",
+      "tagName": "珊瑚海岸/IV",
+      "itemTag": "DEADLINE",
+      "orderNum": 4,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag215_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_215",
+        "text": "夏天來啦！別考慮太多，換件新衣服好不好？"
+      }
+    },
+    {
+      "tagId": "tag_216",
+      "displayType": "block_1",
+      "tagName": "羅德島風尚回顧",
+      "itemTag": "DEADLINE",
+      "orderNum": 7,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag216_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_216",
+        "text": "好消息博士，在和其他服裝廠商進行談判後，我們終於有機會把各個品牌的衣服放到一起售賣啦！"
+      }
+    },
+    {
+      "tagId": "tag_217",
+      "displayType": "block_1",
+      "tagName": "大水坑快活體驗屋",
+      "itemTag": "DEADLINE",
+      "orderNum": 8,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag217_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": "idealCity_2022",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_217",
+        "text": "杜林建築還挺有意思的，我們把圖紙放大一下去找維多利亞或者卡西米爾人談，說不定能賺筆大的。"
+      }
+    },
+    {
+      "tagId": "tag_218",
+      "displayType": "block_1",
+      "tagName": "夏日狂歡組合包",
+      "itemTag": "DEADLINE",
+      "orderNum": 12,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag218_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_48",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_218",
+        "text": "地下大探險，物資大拍賣！和杜林人認識以後記得多提提我的名字，讓他們知道慷慨又無私的可露希爾想和他們做生意。拜託啦！"
+      }
+    },
+    {
+      "tagId": "tag_219",
+      "displayType": "block_1",
+      "tagName": "夏日觀光組合包",
+      "itemTag": "DEADLINE",
+      "orderNum": 13,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag219_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_49",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_219",
+        "text": "地下大探險，物資大拍賣！和杜林人認識以後記得多提提我的名字，讓他們知道慷慨又無私的可露希爾想和他們做生意。拜託啦！"
+      }
+    },
+    {
+      "tagId": "tag_220",
+      "displayType": "block_1",
+      "tagName": "夏日養成組合包",
+      "itemTag": "DEADLINE",
+      "orderNum": 14,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag220_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_50",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_220",
+        "text": "地下大探險，物資大拍賣！和杜林人認識以後記得多提提我的名字，讓他們知道慷慨又無私的可露希爾想和他們做生意。拜託啦！"
+      }
+    },
+    {
+      "tagId": "tag_221",
+      "displayType": "block_1",
+      "tagName": "森蚺的零件袋",
+      "itemTag": "DEADLINE",
+      "orderNum": 15,
+      "startDatetime": 1687246200,
+      "endDatetime": 1689019199,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag221_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_51",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_221",
+        "text": "地下大探險，物資大拍賣！和杜林人認識以後記得多提提我的名字，讓他們知道慷慨又無私的可露希爾想和他們做生意。拜託啦！"
+      }
+    },
+    {
+      "tagId": "tag_222",
+      "displayType": "block_1",
+      "tagName": "巨斧晶片禮包",
+      "itemTag": "DEADLINE",
+      "orderNum": 16,
+      "startDatetime": 1687246200,
+      "endDatetime": 1688414399,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag222_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_52",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_222",
+        "text": "考慮到幾位幹員對物資的特殊需求，採購部特別置辦了一些優惠物資。限時限量，過期不候哦！"
+      }
+    },
+    {
+      "tagId": "tag_223",
+      "displayType": "block_1",
+      "tagName": "筆尖晶片禮包",
+      "itemTag": "DEADLINE",
+      "orderNum": 17,
+      "startDatetime": 1687246200,
+      "endDatetime": 1688414399,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag223_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_53",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_223",
+        "text": "考慮到幾位幹員對物資的特殊需求，採購部特別置辦了一些優惠物資。限時限量，過期不候哦！"
+      }
+    },
+    {
       "tagId": "tag_224",
       "displayType": "block_1",
       "tagName": "前衛街機廳",
@@ -10450,6 +10810,134 @@
     {
       "items": [
         {
+          "spriteId": "shop_surtr_summer#9",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_350_surtr@summer#9",
+          "skinId": "char_350_surtr@summer#9",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_elysm_summer#9",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_401_elysm@summer#9",
+          "skinId": "char_401_elysm@summer#9",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_crow_summer#9",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_421_crow@summer#9",
+          "skinId": "char_421_crow@summer#9",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_svrash_summer#4_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_172_svrash@summer#4_r2",
+          "skinId": "char_172_svrash@summer#4",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_cerber_summer#4_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_2013_cerber@summer#4_r2",
+          "skinId": "char_2013_cerber@summer#4",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_skadi_summer#3_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_263_skadi@summer#3_r2",
+          "skinId": "char_263_skadi@summer#3",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_prove_summer#3_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_145_prove@summer#3_r2",
+          "skinId": "char_145_prove@summer#3",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_moeshd_summer#4_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_201_moeshd@summer#4_r2",
+          "skinId": "char_201_moeshd@summer#4",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_nearl_summer#2_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_148_nearl@summer#2_r2",
+          "skinId": "char_148_nearl@summer#2",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_rope_summer#2_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_236_rope@summer#2_r2",
+          "skinId": "char_236_rope@summer#2",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_platnm_summer#3_r2",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_204_platnm@summer#3_r2",
+          "skinId": "char_204_platnm@summer#3",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_idealCity_2022",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "FURNSHOP",
+          "param1": "idealCity_2022",
+          "skinId": "",
+          "furniId": "idealCity_2022"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "spriteId": "shop_arcadeHall_2022",
           "startTime": 1684216800,
           "endTime": 1685390399,
@@ -10457,6 +10945,64 @@
           "param1": "arcadeHall_2022",
           "skinId": "",
           "furniId": "arcadeHall_2022"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_Once_48",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_48",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_49",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_49",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_50",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_50",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_51",
+          "startTime": 1687246200,
+          "endTime": 1689019199,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_51",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_52",
+          "startTime": 1687246200,
+          "endTime": 1688414399,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_52",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_53",
+          "startTime": 1687246200,
+          "endTime": 1688414399,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_53",
+          "skinId": "",
+          "furniId": ""
         }
       ]
     },
