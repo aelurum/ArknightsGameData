@@ -20,6 +20,3 @@
 [Dialog(head="char_127_estell", delay=1)]那個......
 [Dialog(head="char_127_estell", delay=1)]嗯、嗯......！請你害怕我吧！
 [Dialog(head="char_411_tomimi", delay=0.5)]嗚啊！打起來了，嘉維爾真棒！
-
-
-

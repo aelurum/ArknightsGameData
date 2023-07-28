@@ -20,4 +20,3 @@
 [Dialog(head="char_411_tomimi", delay=0.5)]等等，艾絲黛爾姐！
 [Dialog(head="char_411_tomimi", delay=0.5)]嘉維爾，快攔一下！
 [Dialog(head="char_411_tomimi", delay=0.5)]嘉維爾被頂飛了！！
-

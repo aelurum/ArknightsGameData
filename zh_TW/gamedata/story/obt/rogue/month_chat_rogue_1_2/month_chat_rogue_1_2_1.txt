@@ -1,5 +1,4 @@
 [Title] MAIN_LOG_101_1
-//年长与新生
 [Div] Part.01
 [Dialog(head="char_485_pallas", delay=0)]在英雄神殿中，一直有這樣一個傳說。
 [Dialog(head="char_485_pallas", delay=0.5)]傳說真正虔誠、無畏、英勇的祭司，將獲得手握常青之藤的殊榮。其將一直守護為米諾斯而戰的戰士們，直到手中青藤枯萎......

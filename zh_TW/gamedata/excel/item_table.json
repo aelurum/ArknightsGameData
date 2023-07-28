@@ -709,6 +709,38 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "renamingCard_0_033": {
+      "itemId": "renamingCard_0_033",
+      "name": "ID資訊更新卡",
+      "description": "請不要揮霍系統寶貴的升級機會，切記切記。",
+      "rarity": 4,
+      "iconId": "renamingCard",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 20015,
+      "usage": "羅德島艦橋系統升級時使用的ID資訊更新卡，這一張是特地為博士您準備的。",
+      "obtainApproach": "採購中心、贈送",
+      "classifyType": "CONSUME",
+      "itemType": "RENAMING_CARD",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "renamingCard_30_033": {
+      "itemId": "renamingCard_30_033",
+      "name": "ID資訊更新卡",
+      "description": "請不要揮霍系統寶貴的升級機會，切記切記。",
+      "rarity": 4,
+      "iconId": "renamingCard",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 20016,
+      "usage": "羅德島艦橋系統升級時使用的ID資訊更新卡，這一張是特地為博士您準備的。",
+      "obtainApproach": "採購中心、贈送",
+      "classifyType": "CONSUME",
+      "itemType": "RENAMING_CARD",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "ap_supply_lt_100": {
       "itemId": "ap_supply_lt_100",
       "name": "緊急理智萃取液",
@@ -1662,6 +1694,22 @@
       "overrideBkg": null,
       "stackIconId": null,
       "sortId": 60020,
+      "usage": "裝有各種物資補給，包含多種隨機材料。",
+      "obtainApproach": "危機合約獎勵",
+      "classifyType": "CONSUME",
+      "itemType": "VOUCHER_MGACHA",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "randomMaterialRune_10": {
+      "itemId": "randomMaterialRune_10",
+      "name": "塵環行動物資補給",
+      "description": "來自危機合約的材料補給箱。給予努力治療著這片大地的人們的微小回報。----危機合約",
+      "rarity": 4,
+      "iconId": "randomMaterialRune_10",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 60021,
       "usage": "裝有各種物資補給，包含多種隨機材料。",
       "obtainApproach": "危機合約獎勵",
       "classifyType": "CONSUME",
@@ -10494,6 +10542,22 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "p_char_4066_highmo": {
+      "itemId": "p_char_4066_highmo",
+      "name": "海沫的信物",
+      "description": "一隻潔白的貝螺。在寂靜的夜晚將它捧起，靠在耳邊，似乎能聽到悠遠的離歌。",
+      "rarity": 4,
+      "iconId": "p_char_4066_highmo",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 700108,
+      "usage": "用於提升海沫的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "p_char_103_angel": {
       "itemId": "p_char_103_angel",
       "name": "能天使的信物",
@@ -13996,6 +14060,7 @@
       "sortId": -10000,
       "usage": "能夠自由出入商業聯合會的ID卡，意味著更多的權限將會向羅德島開放。",
       "obtainApproach": "活動達到聲望獲得",
+      "hideInItemGet": true,
       "classifyType": "NONE",
       "itemType": "MATERIAL",
       "stageDropList": [],
@@ -14046,7 +14111,6 @@
       "sortId": -10000,
       "usage": null,
       "obtainApproach": null,
-      "hideInItemGet": true,
       "classifyType": "NONE",
       "itemType": "MATERIAL",
       "stageDropList": [],
@@ -14719,6 +14783,7 @@
       "sortId": -10000,
       "usage": "用於對遏制單元進行數據迭代。",
       "obtainApproach": "活動關卡掉落",
+      "hideInItemGet": true,
       "classifyType": "NONE",
       "itemType": "ACTIVITY_ITEM",
       "stageDropList": [],
@@ -14786,7 +14851,6 @@
       "sortId": -10000,
       "usage": null,
       "obtainApproach": "活動任務獲得",
-      "hideInItemGet": true,
       "classifyType": "NONE",
       "itemType": "ACTIVITY_ITEM",
       "stageDropList": [],
@@ -14888,6 +14952,70 @@
           "occPer": "ALWAYS"
         }
       ],
+      "buildingProductList": []
+    },
+    "rogue_2_token_bp": {
+      "itemId": "rogue_2_token_bp",
+      "name": "生機細胞",
+      "description": null,
+      "rarity": 4,
+      "iconId": "rogue_2_token_bp",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": null,
+      "obtainApproach": "在集成戰略模式中獲得",
+      "classifyType": "NONE",
+      "itemType": "RL_COIN",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "rogue_2_token_grow": {
+      "itemId": "rogue_2_token_grow",
+      "name": "主觀想像",
+      "description": null,
+      "rarity": 4,
+      "iconId": "rogue_2_token_grow",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": null,
+      "obtainApproach": "在集成戰略模式中獲得",
+      "classifyType": "NONE",
+      "itemType": "RL_COIN",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "uni_set_outdoor_1": {
+      "itemId": "uni_set_outdoor_1",
+      "name": "海濱印象傢俱收藏包一",
+      "description": "水月和同伴們搭建起的夏日海邊印象房。或許這才是海洋應有的模樣。",
+      "rarity": 4,
+      "iconId": "uni_set_outdoor_1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "獲得“海濱印象”系列傢俱中屬於“冷飲派對”、“清涼核心”兩個套件組的傢俱。",
+      "obtainApproach": "在集成戰略模式中獲得",
+      "classifyType": "NONE",
+      "itemType": "UNI_COLLECTION",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "uni_set_outdoor_2": {
+      "itemId": "uni_set_outdoor_2",
+      "name": "海濱印象傢俱收藏包二",
+      "description": "水月和同伴們搭建起的夏日海邊印象房。或許這才是海洋應有的模樣。",
+      "rarity": 4,
+      "iconId": "uni_set_outdoor_2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "獲得“海濱印象”系列傢俱中屬於“夏日邊角料”、“沙灘裝飾”兩個套件組的傢俱。",
+      "obtainApproach": "在集成戰略模式中獲得",
+      "classifyType": "NONE",
+      "itemType": "UNI_COLLECTION",
+      "stageDropList": [],
       "buildingProductList": []
     },
     "uni_set_reception": {
@@ -15506,6 +15634,25 @@
     "furni_outdoor_tent_01": 1,
     "furni_outdoor_chair_01": 1,
     "furni_outdoor_wallpaper_01": 1,
+    "furni_court_ceilingLamp_01": 2,
+    "furni_court_ladder_01": 1,
+    "furni_court_carpet_01": 1,
+    "furni_court_column_01": 2,
+    "furni_court_hole_01": 1,
+    "furni_court_board_01": 1,
+    "furni_court_assistantChair_01": 2,
+    "furni_court_mainChair_01": 1,
+    "furni_court_table_01": 1,
+    "furni_court_enclosure_01": 2,
+    "furni_court_speaker_01": 1,
+    "furni_court_wallLamp_01": 1,
+    "furni_court_auditorium_01": 1,
+    "furni_court_ceiling_01": 2,
+    "furni_court_hanger_01": 1,
+    "furni_court_bookcase_01": 1,
+    "furni_court_wallpaper_01": 1,
+    "furni_court_floor_01": 1,
+    "furni_oct1st_deckChair_01": 1,
     "furni_animation_projector_01": 1,
     "furni_animation_trophy_01": 1,
     "furni_outdoor_floor_01": 1,
@@ -15642,6 +15789,7 @@
     "furni_contract_s7_01": 1,
     "furni_contract_s8_01": 1,
     "furni_contract_s9_01": 1,
+    "furni_contract_s10_01": 1,
     "furni_annihilation_s2_01": 1,
     "furni_annihilation_s4_01": 1,
     "furni_annihilation_s5_01": 1,
@@ -15681,6 +15829,7 @@
     "char_202_demkni@test#1": 1,
     "char_250_phatom@sale#4": 1,
     "char_211_adnach@sale#5": 1,
+    "char_210_stward@sale#6": 1,
     "char_103_angel@sale#8": 1,
     "char_208_melan@epoque#1": 1,
     "char_109_fmout@epoque#2": 1,
@@ -15771,6 +15920,7 @@
     "char_241_panda@marthe#1": 1,
     "char_115_headbr@marthe#2": 1,
     "char_129_bluep@marthe#3": 1,
+    "char_356_broca@marthe#4": 1,
     "char_236_rope@witch#1": 1,
     "char_179_cgbird@witch#1": 1,
     "char_171_bldsk@witch#1": 1,
@@ -15875,7 +16025,9 @@
     "renamingCard_0_023": 180,
     "renamingCard_30_023": 180,
     "renamingCard_0_027": 180,
-    "renamingCard_30_027": 180
+    "renamingCard_30_027": 180,
+    "renamingCard_0_033": 180,
+    "renamingCard_30_033": 180
   },
   "uniCollectionInfo": {
     "uni_set_pizza": {
@@ -16403,6 +16555,111 @@
         }
       ]
     },
+    "uni_set_outdoor_2": {
+      "uniCollectionItemId": "uni_set_outdoor_2",
+      "uniqueItem": [
+        {
+          "id": "furni_outdoor_ceilingLamp_01",
+          "count": 2,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_ceiling_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_cabinet_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_stoolKit_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_ceilingLight_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_bench_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_soundSystem_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_tent_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_wallpaper_01",
+          "count": 1,
+          "type": "FURN"
+        }
+      ]
+    },
+    "uni_set_outdoor_1": {
+      "uniCollectionItemId": "uni_set_outdoor_1",
+      "uniqueItem": [
+        {
+          "id": "furni_outdoor_barrel_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_bar_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_carpet_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_stool_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_freezer_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_bonfire_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_hangingNet_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_bar2_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_carpet2_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_outdoor_chair_01",
+          "count": 1,
+          "type": "FURN"
+        }
+      ]
+    },
     "uni_set_act10d5": {
       "uniCollectionItemId": "uni_set_act10d5",
       "uniqueItem": [
@@ -16565,5 +16822,6 @@
       "itemId": "voucher_full_tomimi",
       "ts": 1688457600
     }
-  }
+  },
+  "activityPotentialCharacters": {}
 }

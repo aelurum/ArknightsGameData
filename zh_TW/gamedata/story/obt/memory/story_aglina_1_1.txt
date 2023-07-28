@@ -95,7 +95,7 @@
 [name="可頌"]  別急別急，這種小錯誤，補送一下就好啦！
 [Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  那現在就出發吧。
-[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [name="可頌"]  誒，現在嗎？明天再送也可以吧？你不是說很晚了嗎？
 [Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  我曾經聽過一句話，“要改正錯誤的話，永遠只有現在是最合適的時機”。
@@ -128,7 +128,7 @@
 [name="可頌"]  優秀的前輩！哈哈，真該讓德克薩斯和老闆聽聽，最好能給我漲點薪資什麼的。
 [Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  想想那時候我剛來羅德島，總覺得自己什麼都做不好......幸好有可頌在。
-[Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [name="可頌"]  啊？我沒做什麼啊！在安潔莉娜丟了件，突然哭的時候遞紙巾算嗎？
 [Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  其實也不止是因為丟了件......
@@ -146,7 +146,7 @@
 [name="安潔莉娜"]  哎呀，是不是聽起來很貪心？想上前線，也不想放棄信使的工作。
 [name="安潔莉娜"]  當時的我，明明做什麼都不行，光是每天訓練都像是花光了所有力氣。
 [name="安潔莉娜"]  第二天就會發現羅德島又到了全新的地方，出去送信的時候，連路都不認識......
-[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [name="可頌"]  所以才會突然哭出來的嗎？
 [name="可頌"]  我那時候還真是遲鈍啊！
 [Character(name="char_291_aglina_1#2",name2="char_201_moeshd#2",focus=1)]
@@ -158,7 +158,7 @@
 [name="可頌"]  就像我，我也在為了能賺更多錢而每天努力啊！
 [Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  嗯，我一直在向可頌學習哦。
-[Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [name="可頌"]  啊？
 [Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  就是因為可頌從來不像我一樣，總是在想很多不必要的事情......
@@ -178,7 +178,7 @@
 [name="可頌"]  而你看起來是真心熱愛這份工作，總是在認真體會送信人和收信人的心情。
 [Character(name="char_291_aglina_1#5",name2="char_201_moeshd#3",focus=1)]
 [name="安潔莉娜"]  可頌說的，恰好是我成為信使的理由呢。
-[Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [name="可頌"]  誒？！
 [Character(name="char_291_aglina_1#3",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  我還記得那時候我剛剛離開家，在附近的舊街區躲了幾天，每天只有晚上才敢出來。
@@ -194,7 +194,7 @@
 [name="安潔莉娜"]  當時，正好有這樣的機會。雖然要學好多東西，好難，但是也很充實。
 [name="安潔莉娜"]  後來我想，一個人之所以能感到自己是真實存在的，相當一部分是由於來自他人的牽絆吧。
 [name="安潔莉娜"]  自從我離開了所有認識我的人，安潔莉娜這個人就似乎在一點一點消失。
-[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]//此处替换成懊恼
 [name="可頌"]  哎，聽起來就好難受。
 [Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  嗯，現在回想起來是這樣。

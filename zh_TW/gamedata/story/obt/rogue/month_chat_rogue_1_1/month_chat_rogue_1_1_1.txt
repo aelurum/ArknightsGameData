@@ -14,5 +14,3 @@
 [Dialog(head="char_290_vigna", delay=1)]我的話，應該會拿出吉他好好彈上一曲吧。
 [Dialog(head="char_290_vigna", delay=0.5)]正好，午休還有時間，就先給你們彈一段，活躍下氣氛。
 [Dialog(head="char_290_vigna", delay=0.5)]（吉他聲）
-
-

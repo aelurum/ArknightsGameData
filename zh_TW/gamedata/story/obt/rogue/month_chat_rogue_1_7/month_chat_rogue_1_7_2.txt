@@ -21,5 +21,3 @@
 [Dialog(head="char_338_iris", delay=0.5)]再看看顏色的話，難道說，是猩紅——什麼的？
 [Dialog(head="char_4025_aprot2", delay=0.5)]哼......
 [Dialog(head="char_4025_aprot2", delay=0.5)]您很聰明，愛麗絲小姐。
-
-

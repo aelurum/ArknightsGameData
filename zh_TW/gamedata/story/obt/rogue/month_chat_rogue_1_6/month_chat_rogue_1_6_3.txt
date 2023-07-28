@@ -18,4 +18,3 @@
 [Dialog(head="char_405_absin", delay=0.5)]......我也。
 [Dialog(head="char_188_helage", delay=1)]不必為甜蜜感到負罪，你們還是孩子。
 [Dialog(head="char_188_helage", delay=0.5)]烏薩斯的冬天是很長，也很寒冷，但我們是為了雪化的日子而忍耐冬天的。
-

@@ -233,6 +233,16 @@
         "obtainApproach": "記錄修復獲得"
       },
       {
+        "avatarId": "avatar_activity_RL2_1",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 19,
+        "avatarIdDesc": "【水月與深藍之樹】生態譜系\n“深藍印記”",
+        "avatarItemName": "“深藍印記”",
+        "avatarItemDesc": "於永恆中觀測明日",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "集成戰略獲得"
+      },
+      {
         "avatarId": "avatar_def_01",
         "avatarType": "DEFAULT",
         "avatarIdSort": 1,
@@ -422,7 +432,8 @@
           "avatar_activity_TW",
           "avatar_activity_FA",
           "avatar_activity_RI",
-          "avatar_activity_BH"
+          "avatar_activity_BH",
+          "avatar_activity_RL2_1"
         ]
       },
       "DEFAULT": {
@@ -585,7 +596,7 @@
         "bgUsage": "一張照片，一段回憶，凝聚了泰拉大地的某個瞬間。",
         "obtainApproach": "周年慶典登入",
         "unlockDesList": [
-          "周年慶典（6月20日 16:00:00 至 7月20日 3:59:59）期間登入"
+          "周年慶典、感謝慶典期間登入"
         ]
       }
     ],

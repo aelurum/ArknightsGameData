@@ -16,4 +16,3 @@
 [Dialog(head="char_338_iris", delay=0.5)]奶奶不在家，回來找貝娜她也說沒印象，只能在茶會的時候找維多利亞人問問了。
 [Dialog(head="char_338_iris", delay=0.5)]唔......好想知道這到底是什麼演出！
 [Dialog(head="char_208_melan", delay=0.5)]好奇心會害死菲林哦，還是當心些比較好......
-

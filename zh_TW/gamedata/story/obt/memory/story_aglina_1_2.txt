@@ -72,12 +72,12 @@
 [Character(name="char_201_moeshd",fadetime=1,block=true)]
 [delay(time=1)]
 [name="可頌"]  嗝——
-[Character(name="char_201_moeshd#4")]
+[Character(name="char_201_moeshd#4")]//此处替换成懊恼
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="可頌"]  不知不覺就吃了好多東西，完蛋，這個月錢又花光了！
 [Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  天都快亮了啊。
-[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [name="可頌"]  可不是，跑了一夜！肚子確實餓了。咦，你可是一點東西都沒吃啊！
 [name="可頌"]  是不是還想著艾米麗的事？
 [Character(name="char_291_aglina_1#4",name2="char_201_moeshd#2",focus=1)]
@@ -103,7 +103,7 @@
 [name="可頌"]  而且有醫療部門的大家在，別說五年十年，未來一定是光明的！
 [Character(name="char_291_aglina_1#3",name2="char_201_moeshd#2",focus=1)]
 [name="安潔莉娜"]  我......
-[Character(name="char_201_moeshd#2")]
+[Character(name="char_201_moeshd#2")]//此处替换成吃惊
 [name="可頌"]  咦，那是誰？
 [name="可頌"]  我好像看到了一條......不對，一、二、三......好多條毛茸茸的尾巴。
 [Dialog]
@@ -122,7 +122,7 @@
 [name="鈴蘭"]  我昨天做完了，就想趕緊拿來給安潔莉娜姐姐看，後來太晚了，我，我不敢讓凱爾希醫生發現我沒有按時睡覺......
 [Character(name="char_291_aglina_1",name2="char_358_lisa_1",focus=2)]
 [name="鈴蘭"]  但實在很想讓安潔莉娜姐姐馬上看到啊！
-[Character(name="char_358_lisa_1",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_358_lisa_1",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [name="可頌"]  所以你就把東西放在了宿舍門口？
 [Character(name="char_291_aglina_1",name2="char_358_lisa_1",focus=2)]
 [name="鈴蘭"]  嗯......嗯！
@@ -237,7 +237,7 @@
 [name="安潔莉娜"]  我稍微休息一下，等等去訓練。
 [name="安潔莉娜"]  下午還要繼續上課......
 [name="安潔莉娜"]  除了工作，學習也不能落下啦！
-[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]
+[Character(name="char_291_aglina_1",name2="char_201_moeshd#2",focus=2)]//此处替换成吃惊
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="可頌"]  啊？太誇張啦！你可別變成工作狂啊！
 [Character(name="char_291_aglina_1#5",name2="char_201_moeshd#2",focus=1)]

@@ -1,5 +1,4 @@
 [Title] MAIN_LOG_101_1
-//年长与新生
 [Div] Part.03
 [Dialog(head="char_485_pallas", delay=0.5)]永久的生命......
 [Dialog(head="char_003_kalts", delay=1)]“長生者之證”。這便是高盧人賦予它的名字。

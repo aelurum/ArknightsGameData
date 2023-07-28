@@ -8456,7 +8456,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_hpsts_set_1",
+          "storySetName": "鍛造",
+          "sortId": 1,
+          "storyGetTime": 1689233400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_hpsts_set_1_story_1",
+              "storySetId": "story_hpsts_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "修補的不僅僅是武器，還有武器對於使用者的意義。",
+              "storyInfo": "info/obt/memory/story_hpsts_1_1",
+              "storyTxt": "obt/memory/story_hpsts_1_1"
+            }
+          ],
+          "charId": "char_163_hpsts"
+        }
+      ]
     },
     "char_144_red": {
       "charID": "char_144_red",
@@ -9159,7 +9193,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_skfire_set_1",
+          "storySetName": "老同學",
+          "sortId": 1,
+          "storyGetTime": 1689233400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_skfire_set_1_story_1",
+              "storySetId": "story_skfire_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "士別三日，當刮目相看。",
+              "storyInfo": "info/obt/memory/story_skfire_1_1",
+              "storyTxt": "obt/memory/story_skfire_1_1"
+            }
+          ],
+          "charId": "char_166_skfire"
+        }
+      ]
     },
     "char_240_wyvern": {
       "charID": "char_240_wyvern",
@@ -11543,7 +11611,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_brownb_set_1",
+          "storySetName": "終場鈴聲",
+          "sortId": 1,
+          "storyGetTime": 1689233400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_brownb_set_1_story_1",
+              "storySetId": "story_brownb_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "擂台終局敲響的鐘聲，不過是在宣告下一場比賽的來臨。",
+              "storyInfo": "info/obt/memory/story_brownb_1_1",
+              "storyTxt": "obt/memory/story_brownb_1_1"
+            }
+          ],
+          "charId": "char_137_brownb"
+        }
+      ]
     },
     "char_164_nightm": {
       "charID": "char_164_nightm",
@@ -11753,7 +11855,7 @@
         {
           "stories": [
             {
-              "storyText": "格拉尼的騎兵槍\n生產地：維多利亞倫蒂尼姆市海布裡區皇家戴爾兵工廠\n產品編號：L-886\n總長度：1.58m/3.03m\n幹員格拉尼使用的輕騎槍，武器整體設計為折疊式，展開前可作為戰術短槍使用，展開後可作為標準輕騎長槍發動衝鋒。\n作為警用制式長槍，雖然威力不足以穿透重甲，但靈活運用的話會讓任何小視它的人付出慘重代價。\n相對於幹員格拉尼略為單薄和小巧的身體，這把長槍顯然過大了。從各種方面來說都屬於不太相趁的武器。\n但格拉尼本人相當喜愛這把長槍，並且為熟練操使它而付出了大量的努力。",
+              "storyText": "格拉尼的騎兵槍\n生產地：維多利亞倫蒂尼姆市海布里區皇家戴爾兵工廠\n產品編號：L-886\n總長度：1.58m/3.03m\n幹員格拉尼使用的輕騎槍，武器整體設計為折疊式，展開前可作為戰術短槍使用，展開後可作為標準輕騎長槍發動衝鋒。\n作為警用制式長槍，雖然威力不足以穿透重甲，但靈活運用的話會讓任何小視它的人付出慘重代價。\n相對於幹員格拉尼略為單薄和小巧的身體，這把長槍顯然過大了。從各種方面來說都屬於不太相趁的武器。\n但格拉尼本人相當喜愛這把長槍，並且為熟練操使它而付出了大量的努力。",
               "unLockType": 1,
               "unLockParam": "2;1",
               "unLockString": ""
@@ -14104,7 +14206,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_mgllan_set_1",
+          "storySetName": "生生不息",
+          "sortId": 1,
+          "storyGetTime": 1689233400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_mgllan_set_1_story_1",
+              "storySetId": "story_mgllan_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "唱著歌的老人埋下的種子，麥哲倫把它們種成大片的花。",
+              "storyInfo": "info/obt/memory/story_mgllan_1_1",
+              "storyTxt": "obt/memory/story_mgllan_1_1"
+            }
+          ],
+          "charId": "char_248_mgllan"
+        }
+      ]
     },
     "char_131_flameb": {
       "charID": "char_131_flameb",
@@ -15678,7 +15814,7 @@
         {
           "stories": [
             {
-              "storyText": "在經過凱爾希醫生的允許後，年作為小隊成員參與了部分作戰，雖然她的目的只是“緩解一下日常生活的無聊”，但她為隊友提供的幫助並不具備什麼玩樂的性質。\n沒人會把年的戰鬥方式看作一種玩樂。戰場上的她是強大的戰士。\n作為重裝幹員，年不著鎧甲，但沒人見過她受傷。\n對此，年解釋說是她攜帶的裝備立下了功勞。\n無論是厚重的盾牌，還是奇形怪狀的劍，年都能運用自如。年甚至能將自己的盾牌分散在整個戰場上，用現今尚無法解明的技巧，為隊友攔下各類衝擊。\n雖然術師幹員們無不認為年根本就和源石技藝完全不沾邊，但這對於她的隊友來說無關緊要。\n只要能起到作用，非後勤幹員是不會關心它的作用原理的。沒錯，就算年用巨劍把堅磐蟹劈開了也沒人關心。大概。\n\n一般情況下，工程幹員們不建議對年自己攜帶的裝備進行分析或逆向工程。\n“沒用的，我們又造不出，那種東西讓她自己玩玩就好了。”\n聽到這些話，年自稱略微有些喪氣。\n當然，羅德島三到六號車間連續開動三個月，實驗廢料多了一大批之類的事情，工程幹員們絕口不提。這也是有動力的一種體現吧。",
+              "storyText": "在經過凱爾希醫生的允許後，年作為小隊成員參與了部分作戰，雖然她的目的只是“緩解一下日常生活的無聊”，但她為隊友提供的幫助並不具備什麼玩樂的性質。\n沒人會把年的戰鬥方式看作一種玩樂。戰場上的她是強大的戰士。\n作為重裝幹員，年不著鎧甲，但沒人見過她受傷。\n對此，年解釋說是她攜帶的裝備立下了功勞。\n無論是厚重的盾牌，還是奇形怪狀的劍，年都能運用自如。年甚至能將自己的盾牌分散在整個戰場上，用現今尚無法解明的技巧，為隊友攔下各類衝擊。\n雖然術師幹員們無不認為年根本就和源石技藝完全不沾邊，但這對於她的隊友來說無關緊要。\n只要能起到作用，非後勤幹員是不會關心它的作用原理的。沒錯，就算年用巨劍把堅磐蟹劈開了也沒人關心。大概。\n\n一般情況下，工程幹員們不建議對年自己攜帶的裝備進行分析或逆向工程。\n“沒用的，我們又造不出，那種東西讓她自己玩玩就好了。”\n聽到這些話，年自稱略微有些喪氣。\n當然，羅德島三到六號工作室連續開動三個月，實驗廢料多了一大批之類的事情，工程幹員們絕口不提。這也是有動力的一種體現吧。",
               "unLockType": 2,
               "unLockParam": "150",
               "unLockString": ""
@@ -16996,7 +17132,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_bibeak_set_1",
+          "storySetName": "破殼",
+          "sortId": 1,
+          "storyGetTime": 1690437600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_bibeak_set_1_story_1",
+              "storySetId": "story_bibeak_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "如果不靠自己啄開那層殼，羽獸就不算真正地來到這世上，看到真正的藍天。",
+              "storyInfo": "info/obt/memory/story_bibeak_1_1",
+              "storyTxt": "obt/memory/story_bibeak_1_1"
+            }
+          ],
+          "charId": "char_252_bibeak"
+        }
+      ]
     },
     "char_159_peacok": {
       "charID": "char_159_peacok",
@@ -19226,7 +19396,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_beewax_set_1",
+          "storySetName": "黃沙歸途",
+          "sortId": 1,
+          "storyGetTime": 1690437600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_beewax_set_1_story_1",
+              "storySetId": "story_beewax_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "為生命尋找歸途，亦是為自己尋找去處。",
+              "storyInfo": "info/obt/memory/story_beewax_1_1",
+              "storyTxt": "obt/memory/story_beewax_1_1"
+            }
+          ],
+          "charId": "char_344_beewax"
+        }
+      ]
     },
     "char_336_folivo": {
       "charID": "char_336_folivo",
@@ -23204,7 +23408,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_tuye_set_1",
+          "storySetName": "沙漠之虹",
+          "sortId": 1,
+          "storyGetTime": 1690437600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_tuye_set_1_story_1",
+              "storySetId": "story_tuye_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "沙漠中沒有比水更珍貴的寶藏。",
+              "storyInfo": "info/obt/memory/story_tuye_1_1",
+              "storyTxt": "obt/memory/story_tuye_1_1"
+            }
+          ],
+          "charId": "char_402_tuye"
+        }
+      ]
     },
     "char_455_nothin": {
       "charID": "char_455_nothin",
@@ -25166,7 +25404,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_billro_set_1",
+          "storySetName": "保護者的本性",
+          "sortId": 1,
+          "storyGetTime": 1690437600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_billro_set_1_story_1",
+              "storySetId": "story_billro_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "姐姐有姐姐的行事手段，妹妹也有妹妹的應對方法。",
+              "storyInfo": "info/obt/memory/story_billro_1_1",
+              "storyTxt": "obt/memory/story_billro_1_1"
+            }
+          ],
+          "charId": "char_426_billro"
+        }
+      ]
     },
     "char_478_kirara": {
       "charID": "char_478_kirara",
@@ -32250,6 +32522,122 @@
       ],
       "handbookAvgList": []
     },
+    "char_4066_highmo": {
+      "charID": "char_4066_highmo",
+      "drawName": "Horin",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】海沫\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】伊比利亞\n【生日】8月23日\n【種族】阿戈爾\n【身高】156cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】優良\n【戰場機動】標準\n【生理耐受】卓越\n【戰術規劃】普通\n【戰鬥技巧】標準\n【源石技藝適應性】缺陷",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "海沫，在某次針對伊比利亞地區的行動中受到波及，作為傷患被帶回本艦施行救治。\n經考察並結合測試結果，批准其成為外勤幹員，於伊比利亞地區周邊支援各項任務。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員海沫沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.08u/L\n幹員海沫甚少接觸源石。\n\n就這些了，你還想知道什麼呢？手臂和武器上的海嗣增生組織？這個就超出我知識範疇了，我只是個連恐魚究竟是什麼都不知道的醫生，不如去請教懂行的生物學家試試？",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "我還記得，當海沫第一次出現在羅德島本艦的時候，我們有多手忙腳亂。\n當時在場的同事應該也都還印象深刻吧。那時阿戈爾的幾名獵人剛好前腳回了趟本艦報完信才走不久，鬱金香和水月他們就給我們送這麼個大禮來，凱爾希醫生也還在跟伊比利亞協談......\n雖說總不能放著傷患不管，但畢竟也得為其他人員的安全負責。要不是阿米婭出面使用她的能力擔保海沫跟那些駭人的生物並不一樣，我們可真不知道該怎麼處置才妥當啦。我還聽說，後來為她動手術處理傷口和增生組織的時候，在技術層面上也挺難為醫療部的？\n這都還不算完呢。術後，水月甚至提出我們是不是可以接納海沫成為幹員，讓她有機會重新體驗一下回到人群中的生活......別說把我們驚得下巴都快掉了，我打賭當時連阿米婭都一下沒能掩飾住驚訝，旁邊的鬱金香也輕咳了一聲，這場面可不多見。\n至於我？你看，後來給她安排和記錄測試結果的人正是我......不，我認為那不算是什麼值得去回憶跟討論的場面，尤其是測試她對仿生義體的破壞力那段。我建議真感興趣的話還是自己去查錄影，放過我吧。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "海沫並不避諱她的個人資訊，她很乾脆地配合了我們的背調工作。\n當提到雙親時，儘管她的語調仍舊保持著平淡而冷漠，我們還是能從其措辭與細微的表情中明顯地感受到她的情緒。\n和伊比利亞地區的許多阿戈爾人一樣，發生在她身上的悲劇無需過多說明。無論是在她的童年時期就因阿戈爾人的身份被審判庭以調查之名帶走，一去不回的父親；還是在短暫的餘生裡因悲傷而逐漸失聲，鬱鬱而終的母親；他們的離去都在她的生命中刻下了不可彌合的創傷。\n但意外的是，她的悔意與恨意似乎並不指向審判庭。海沫向我們控訴的，是鎮民為自保而作出指控她父親的偽證，是鄰里散播她母親的歌聲會蠱惑人心的謠言，是對這一切無能為力卻又始終無法釋懷的她自己。\n她將厭恨指向了人類的軟弱而非仇恨，也正因如此，才會在如今陷入自責和失落吧。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "當鎮民們試圖撬開門，帶走母親的遺體，叫囂著、咒駡著、聲稱這場旱災是她的詛咒，要用焚燒淨化餘毒時......\n那時還是午後，太陽還沒有落山。但透過窗戶，我發誓，我看見了星光。星光構成了一副高大而神聖的人類身軀，而那些或湛藍或皎潔的星星像是那位老人身上柔軟的關節，又像舞動的孢子，而光芒聯結成的線條就像他的血管。無數濕潤而富有生機的細小個體和諧地聚集在一起，勾勒出人體的線條和輪廓。\n當老人揮動起手臂，就像把人群啃去了一塊一樣。拂過之處不再有喧囂，也沒有傷痕或血跡。蠕動的星光們將暴力蠶食殆盡，徒留一片寧靜。\n當星光終於灑滿了整個小鎮的街道——這並沒有花太多時間——主教爺爺就這麼向我走來，他的身後蔓延著用星空與海洋共織成的活體地毯、或是披風、又或是別的什麼。\n寧靜，美好，燦爛。啊，原來這才是，人類本應該真正擁有的面目嗎......\n我想要，加入這片星光。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【散落的手記】\n孩子，你渴望從對自己的稱呼開始做出改變，我不否定這一想法。但我試著交付於你的這個名字卻並不是為了讓你盲目地追逐更高，更廣闊的一切。\n人類是渺小的，渺小到甚至很難看清，自己只是無數浪花中的一粒微沫。\n在人們的想像中，能在大城市自給自足的普通人所擁有的生活或許就已經足以代表所有人類。但在這個想像中，“人類”一詞並不包含感染者，不包含掙扎在生存線上的貧民，不包含荒野之上居無定所的流浪者，不包含被定義為邪異的薩卡茲，也不包含我們阿戈爾人。在這巨大而狹隘的理想圖景中，甚至並不包含人們賴以生存的土地與海洋，視作資源的動物與植物，只有人類自己和他們引以為傲的造物。\n而所有的不合理之處皆是基於人類的軟弱與貧瘠，不平等與不信任。只有在對進化的追求中，拋下一切怠惰與落後，粉碎所有隔閡與偏見，我們才能最終得見人類的價值。\n海沫啊，我多麼希望你能站得更高，去發現聯結起這一切的終極手段，與通往這種未來的多樣道路，而不僅僅是沉迷於任何一名先驅者的微光。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "海沫在一次返艦體檢時忽然注意到，她此次參與的任務行動軌跡在某張戰略規劃地圖上只是一根短短的線條。真要說起來，明明這也只是理所當然的事。\n而這一次略有不同的是，她突然發現無數像這樣的線條和密密麻麻的幹員代號，彷彿編織出了一張星空的繪卷，將點與點、人和人都連接在一起。\n為什麼類似的東西見過這麼多次，自己卻從來沒有為此留心過呢？呵，不知不覺間，你們已經逐漸在將人類賴以生存的家園，以更溫柔的方式重新編織。\n又或許，也可以是我們。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
     "char_511_asnipe": {
       "charID": "char_511_asnipe",
       "drawName": "Unknown",
@@ -32362,7 +32750,7 @@
         {
           "stories": [
             {
-              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為是礦石病感染者。\n\n【體細胞與源石融合率】16%\n體表尚無明顯結晶，但肩部可見大片感染痕跡。\n\n【血液源石結晶密度】0.28u/L\n作為礦石病研究人員，觸痕的具體病況將由她本人管理。僅高許可權人員在定期核查時可申請閱覽其病歷檔案。",
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為是礦石病感染者。\n\n【體細胞與源石融合率】16%\n體表尚無明顯結晶，但肩部可見大片感染痕跡。\n\n【血液源石結晶密度】0.28u/L\n作為礦石病研究人員，觸痕的具體病況將由她本人管理。僅高權限人員在定期核查時可申請閱覽其病歷檔案。",
               "unLockType": 0,
               "unLockParam": "",
               "unLockString": ""
@@ -32511,6 +32899,74 @@
           "stories": [
             {
               "storyText": "維多利亞人，軍隊背景出身，優秀的術師導師。\n術髓主要負責外勤攻堅任務，同時也肩負著為羅德島搜尋與培養新血液的重任。\n由於祖輩世代為高盧軍官，術髓得以在家人支持下進入擁有高盧背景的西爾軍事學院學習，曾經盼望著依靠自己對於源石技藝與軍事理論的理解出人頭地，為高盧復興貢獻自己的力量，但最終因在任務中感染礦石病，被驅逐出維多利亞的軍隊系統。\n在家庭的耳濡目染下，術髓曾是堅定的高盧復國主義者，在與薩卡茲雇傭兵協同作戰時瞭解到薩卡茲一族的苦難，由於高盧覆滅許久，術髓對同樣失去家園的薩卡茲戰友抱有同情。但直到她本人成為感染者後，才真正理解了薩卡茲處處為人排斥的原因——他們不僅是無家可歸的流浪民族，而且，是感染者。術髓剛剛因為成為感染者而失去了奮鬥十幾年所獲得的一切社會地位，她對於這種巨大的落差感到悲觀與憤恨。她在從前的薩卡茲雇傭兵同伴的推薦下加入巴別塔，並非為了崇高的理想，一方面，她抱著對維多利亞復仇的狹隘心態，另一方面，鑑於家人明確表態與術髓斷絕關係，她也確實無家可歸了。\n在加入巴別塔的這幾年中，特蕾西婭像親友一般待她，讓她擁有了一個新的“家庭”，一幫“兄弟姐妹”。也正是在這個時候，她心中那些關於種族與民族的片面想法逐漸消失了。只有全泰拉的人團結到一起，礦石病問題才能得到解決——她堅信著這一信條。因此，即使是在巴別塔覆滅後，她也並未離開，而是由此加入羅德島，成為最初的幹員之一，為實現這看似不切實際的理想奮鬥。\n術髓不使用某種固定的源石技藝，透過天賦與學習，她已通曉幾乎所有幹員的源石技藝施放形式。在執行任務時，透過對於戰場的預判，她將自由組合源石技藝進行施放，同時，她會適當引導術師幹員的源石技藝，使其變得更具殺傷力。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_513_apionr": {
+      "charID": "char_513_apionr",
+      "drawName": "Unknown",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】鬱金香\n【性別】女\n【戰鬥經驗】十二年\n【出身地】伊比利亞\n【生日】11月8日\n【種族】斐迪亞\n【身高】177cm\n【礦石病感染情況】參照醫學檢測報告，確認為感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】卓越\n【生理耐受】優良\n【戰術規劃】標準\n【戰鬥技巧】卓越\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "鬱金香，羅德島伊比利亞事務負責人。因伊比利亞情況特殊，所以仍以個人身份從事當地感染者拯救與治療相關活動。\n從生死之間磨煉出的劍客，擅長應對來自海洋的威脅，總是身先士卒，率先切入戰場，以迅捷劍制敵，為其他幹員掃清前路。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為是礦石病感染者。\n\n【體細胞與源石融合率】12%\n左腿有明顯感染痕跡與結晶。\n\n【血液源石結晶密度】0.18u/L\n伊比利亞的醫療條件較為惡劣，因此鬱金香回羅德島述職時允許酌情為她配備超出需求的醫療物資。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "鬱金香是海盜的後裔，在大靜謐前，海盜們搶奪國王的船隻，在伊比利亞沿岸劫掠，其中的一部分人則劫富濟貧，在海岸人民口口相傳中留下了俠盜的美名。大靜謐之後，隨著海洋被海嗣佔據，伊比利亞便再也沒有了海盜。只是，即使如今海盜早已銷聲匿跡，那些陳年故事卻仍在他們的後裔中流傳，因此，鬱金香的童年充滿了對先祖馳騁海洋的嚮往。與之相比，教士們的授課就變得無趣且乏味了，然而，鬱金香確實從中學到了許多，她由此開始看書識字，也瞭解到了諸多當地審判庭治下的悲慘真相。\n從那時開始，鬱金香就堅定地認為審判庭是踐踏他人自由的惡，她帶著自己的小團體四處遊走，劫富濟貧，阻撓審判庭的統治，以此彰顯自己的正義。但由於實力過於懸殊，她和她的朋友最後還是被審判官抓獲。\n在被押解回頌聖棱堡的路上，他們一行人被恐魚襲擊，鬱金香與同伴被臨時赦免，加入了對抗恐魚的行列。即使生還希望渺茫，她仍為求生存奮力搏殺，直到天災降臨。\n一場天災殺死了除她以外的所有活物，也將她變成了感染者，自那以後，所有人都在排斥鬱金香，她第一次發現，伊比利亞的感染者是那麼的孤獨與無助。從此，她便以鬱金香為名，一直以自己那份微薄的力量拯救伊比利亞的感染者。\n凱爾希在伊比利亞探查阿戈爾情況時知曉了鬱金香的事蹟，便以物資作為交換與鬱金香建立了穩定的資訊交流管道。羅德島建立後，凱爾希邀請鬱金香成為羅德島在伊比利亞的事務負責人。在確認了羅德島確實是一家以救助感染者為宗旨的公司後，她答應了。",
               "unLockType": 0,
               "unLockParam": "",
               "unLockString": ""
@@ -32742,6 +33198,32 @@
       "displayNumber": "RE07",
       "nationId": "rhodes",
       "groupId": "elite",
+      "teamId": null,
+      "resType": "CHAR",
+      "npcShowAudioInfoFlag": true,
+      "unlockDict": {
+        "OUTLINE": {
+          "unLockType": 3,
+          "unLockParam": "main_03-08",
+          "unLockString": null
+        },
+        "ALLEXIST": {
+          "unLockType": 3,
+          "unLockParam": "main_03-08",
+          "unLockString": null
+        }
+      }
+    },
+    "char_513_apionr": {
+      "npcId": "char_513_apionr",
+      "name": "鬱金香",
+      "appellation": "Tulip",
+      "profession": "NONE",
+      "illust": "Chuzenji",
+      "cv": "待填寫",
+      "displayNumber": "R066",
+      "nationId": "rhodes",
+      "groupId": null,
       "teamId": null,
       "resType": "CHAR",
       "npcShowAudioInfoFlag": true,
@@ -34514,7 +34996,7 @@
       "code": "mem_blemsh_1",
       "name": "陷陣之志",
       "loadingPicId": "loading_Kazimierz_Final",
-      "description": "雖然幹員瑕光和姐姐臨光都被歸類到了重裝幹員之中。但接受過前競技騎士佐菲亞的親手調教，又經歷過騎士競賽磨練的瑕光，在作戰方式上，相較一般的重裝幹員明顯具有更強的進攻性。\n不過，犧牲自己，照亮他人的治療方式倒是與其姐如出一轍。\n有她在的陣地，往往只需要確保她的安全，就可以穩住整個陣地的狀況。",
+      "description": "雖然幹員瑕光和姐姐臨光都被歸類到了重裝幹員之中。但接受過前競技騎士佐菲婭的親手調教，又經歷過騎士競賽磨練的瑕光，在作戰方式上，相較一般的重裝幹員明顯具有更強的進攻性。\n不過，犧牲自己，照亮他人的治療方式倒是與其姐如出一轍。\n有她在的陣地，往往只需要確保她的安全，就可以穩住整個陣地的狀況。",
       "unlockParam": [
         {
           "unlockType": 1,
@@ -35695,6 +36177,122 @@
       "picId": "story_loading4",
       "stageGetTime": 1687246200
     },
+    "char_248_mgllan": {
+      "charId": "char_248_mgllan",
+      "stageId": "mem_mgllan_1",
+      "levelId": "Obt/Memory/level_memory_mgllan_1",
+      "zoneId": "storyMission",
+      "code": "mem_mgllan_1",
+      "name": "取之不盡，用之不竭",
+      "loadingPicId": "loading_LM_frost",
+      "description": "科技是科研者的武器，不要小看站在你面前的小姑娘，她可不是孤軍作戰。\n她的身後有著由智慧凝結出的得力幫手，每一項功能都來源自一次親身經歷過的險境，足以幫助她在前行的路上走得更遠。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "冰雪地帶",
+      "zoneNameForShow": "龍門",
+      "picId": "story_loading_LM_frost",
+      "stageGetTime": 1689233400
+    },
+    "char_163_hpsts": {
+      "charId": "char_163_hpsts",
+      "stageId": "mem_hpsts_1",
+      "levelId": "Obt/Memory/level_memory_hpsts_1",
+      "zoneId": "storyMission",
+      "code": "mem_hpsts_1",
+      "name": "扼守",
+      "loadingPicId": "loading_DM",
+      "description": "鍛造者少言，但手中之力不少。她所造的武器能保障使用者的安全，她本人也會站在最前面，抵擋住來自敵人的攻擊與炮火。\n在戰場上，再多的話語也不及一個堅定的後背讓人更有安全感。請相信她的能力，並在她身後為她所做的努力獻上你的力量。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "荒野",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading_DM",
+      "stageGetTime": 1689233400
+    },
+    "char_166_skfire": {
+      "charId": "char_166_skfire",
+      "stageId": "mem_skfire_1",
+      "levelId": "Obt/Memory/level_memory_skfire_1",
+      "zoneId": "storyMission",
+      "code": "mem_skfire_1",
+      "name": "焮天鑠地",
+      "loadingPicId": "loading_VC_hillock2",
+      "description": "天火自傲於自己的能力，沒有什麼能逃過由她操控的烈焰，一切只在她的想或者不想。但這並不代表她是一個恣意妄為的人，在一次又一次地發現總有太多火焰也無法焚燒殆盡的東西後，天火決定停下來思考，自己要做的究竟是什麼。而後她發現了比火焰更能燒盡髒汙的東西——她的智慧。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "小丘郡廣場",
+      "zoneNameForShow": "維多利亞",
+      "picId": "story_loading_VC_hillock2",
+      "stageGetTime": 1689233400
+    },
+    "char_137_brownb": {
+      "charId": "char_137_brownb",
+      "stageId": "mem_brownb_1",
+      "levelId": "Obt/Memory/level_memory_brownb_1",
+      "zoneId": "storyMission",
+      "code": "mem_brownb_1",
+      "name": "車輪戰",
+      "loadingPicId": "loading4",
+      "description": "遠離拳台走上戰場，獵蜂強悍的雙拳藏起了她的不適，輪番上陣的敵人和四處襲來的劍影難免讓她疲於應對，但深刻在骨髓中的執拗總是令她選擇堅守陣線，永不退縮。請在一切結束後，為她遞上一條冰濕的毛巾，相信她疲憊的面龐會為此展露笑顏。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "摧毀後",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading4",
+      "stageGetTime": 1689233400
+    },
     "char_115_headbr": {
       "charId": "char_115_headbr",
       "stageId": "mem_headbr_1",
@@ -35984,6 +36582,122 @@
       "zoneNameForShow": "沃倫姆德",
       "picId": "story_loading_Wolumonde",
       "stageGetTime": 1685431800
+    },
+    "char_426_billro": {
+      "charId": "char_426_billro",
+      "stageId": "mem_billro_1",
+      "levelId": "Obt/Memory/level_memory_billro_1",
+      "zoneId": "storyMission",
+      "code": "mem_billro_1",
+      "name": "收割",
+      "loadingPicId": "loading_LM_night",
+      "description": "積蓄力量的同時，卡涅利安也在關注敵人的動態。敵方部隊在集結？打算利用人數優勢進攻？\n來得正好。卡涅利安不會放過任何一個被她盯上的敵人，既然敢來，那就全都留下吧。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "屋頂",
+      "zoneNameForShow": "龍門",
+      "picId": "story_loading_LM_night",
+      "stageGetTime": 1690437600
+    },
+    "char_252_bibeak": {
+      "charId": "char_252_bibeak",
+      "stageId": "mem_bibeak_1",
+      "levelId": "Obt/Memory/level_memory_bibeak_1",
+      "zoneId": "storyMission",
+      "code": "mem_bibeak_1",
+      "name": "一擊必勝",
+      "loadingPicId": "loading_VC_hillock2",
+      "description": "劍術老師曾告誡柏喙，在慌亂時更要堅決，將注意力完全放在劍尖和敵人身上，乘敵人薄弱之時果斷出擊。柏喙又覺得自己喜歡的縫紉和劍術有相似的地方，劍法和針法都同樣需要專注，對其中之一的思考，可以加深自己對另一者的理解。她的一招招劍法猶如細密的針腳，似乎要織就通往勝利大道的鮮豔地毯。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "小丘郡廣場",
+      "zoneNameForShow": "維多利亞",
+      "picId": "story_loading_VC_hillock2",
+      "stageGetTime": 1690437600
+    },
+    "char_402_tuye": {
+      "charId": "char_402_tuye",
+      "stageId": "mem_tuye_1",
+      "levelId": "Obt/Memory/level_memory_tuye_1",
+      "zoneId": "storyMission",
+      "code": "mem_tuye_1",
+      "name": "傘下蔭蔽",
+      "loadingPicId": "loading_OOD_02",
+      "description": "因為出色的應急能力，圖耶忙碌的身影總是會出現在情勢最為兇險的前線，雖然受傷了難免會被她挖苦幾句，但少有幹員對此表示不滿。因為殺機四伏的戰場上，是她那把高高舉起的雨傘，為幹員們在烈日和血光之間開闢了一片通向勝利的陰涼地。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "沙漠街市",
+      "zoneNameForShow": "薩爾貢",
+      "picId": "story_loading_OOD_02",
+      "stageGetTime": 1690437600
+    },
+    "char_344_beewax": {
+      "charId": "char_344_beewax",
+      "stageId": "mem_beewax_1",
+      "levelId": "Obt/Memory/level_memory_beewax_1",
+      "zoneId": "storyMission",
+      "code": "mem_beewax_1",
+      "name": "沙礁之上",
+      "loadingPicId": "loading_Bolivar_sea",
+      "description": "在熟悉的沙地作戰，蜜蠟往往能夠超常發揮，靠自己純熟的源石技藝擊退強敵。但有時她也會被派至完全陌生的環境，不過，在短暫的慌張過後，她馬上就能鎮定下來。畢竟就算離開那片金色沙原，依然會有神靈的眷顧庇佑她。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "無人沙灘",
+      "zoneNameForShow": "多索雷斯",
+      "picId": "story_loading_Bolivar_sea",
+      "stageGetTime": 1690437600
     }
   },
   "handbookStageTime": [
@@ -36225,6 +36939,24 @@
         "char_365_aprl",
         "char_469_indigo",
         "char_440_pinecn"
+      ]
+    },
+    {
+      "timestamp": 1689233400,
+      "charSet": [
+        "char_248_mgllan",
+        "char_163_hpsts",
+        "char_166_skfire",
+        "char_137_brownb"
+      ]
+    },
+    {
+      "timestamp": 1690437600,
+      "charSet": [
+        "char_426_billro",
+        "char_252_bibeak",
+        "char_402_tuye",
+        "char_344_beewax"
       ]
     }
   ]

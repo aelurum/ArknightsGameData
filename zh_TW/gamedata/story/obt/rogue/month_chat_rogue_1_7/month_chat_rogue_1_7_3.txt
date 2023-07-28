@@ -23,5 +23,3 @@
 [Dialog(head="char_338_iris", delay=0.5)]能麻煩您幫我們換一杯熱的嗎，暮落先生？
 [Dialog(head="char_4025_aprot2", delay=0.5)]（微笑聲）
 [Dialog(head="char_4025_aprot2", delay=0.5)]樂意效勞。
-
-

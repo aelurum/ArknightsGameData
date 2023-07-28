@@ -17,4 +17,3 @@
 [Dialog(head="char_188_helage", delay=1)]那很好。那說明，曾經你和診所的孩子們都生活在安全的環境中。
 [Dialog(head="char_115_headbr", delay=0.5)]啊，老爺子——赫拉格將軍。
 [Dialog(head="char_115_headbr", delay=0.5)]那裡“曾經”是很安全......但是現在那裡什麼都沒有了。別提了。
-

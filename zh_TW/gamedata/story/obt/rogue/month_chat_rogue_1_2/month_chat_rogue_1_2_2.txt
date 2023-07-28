@@ -1,5 +1,4 @@
 [Title] MAIN_LOG_101_1
-//年长与新生
 [Div] Part.02
 [Dialog(head="char_003_kalts", delay=0)]一段枯枝。
 [Dialog(head="char_003_kalts", delay=0.5)]從枯萎至極處抽出新芽，再自枝葉最盛處腐敗枯朽。
@@ -14,4 +13,3 @@
 [Dialog(head="char_485_pallas", delay=0.5)]這又是為何？
 [Dialog(head="char_003_kalts", delay=0.5)]這個問題我可以回答。
 [Dialog(head="char_003_kalts", delay=1)]傳言中說，獲得這根樹枝，便可重獲新生，獲得永久的生命。
-

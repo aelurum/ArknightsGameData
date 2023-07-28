@@ -373,7 +373,7 @@
 [name="空爆"]不妙，還是被抓到了。
 [name="空爆"]我還以為能蒙混過關呢，拉茲你的眼睛還是那麼尖。
 [character(name="char_282_catap_1",name2="avg_npc_217",focus=2)]
-[name="巡逻骑士"]
+[name="巡邏騎士"]
 [character(name="char_282_catap_1",name2="avg_npc_217",focus=1)]
 [name="空爆"]
 [character(name="char_282_catap_1",name2="avg_npc_217",focus=2)]

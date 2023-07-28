@@ -31,5 +31,3 @@
 [Dialog(head="char_183_skgoat", delay=0.5)]......嗯，沒有錯。
 [Dialog(head="char_183_skgoat", delay=0.5)]好了各位，任務報告已經填寫完成了，我去提交，你們走的時候記得關燈。
 [Dialog(head="char_183_skgoat", delay=2)]......人呢？
-
-

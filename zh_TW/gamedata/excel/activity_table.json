@@ -1,5 +1,18 @@
 {
   "basicInfo": {
+    "act30sign": {
+      "id": "act30sign",
+      "type": "CHECKIN_ONLY",
+      "name": "寒風驅暑限時登入活動",
+      "startTime": 1690437600,
+      "endTime": 1691265599,
+      "rewardEndTime": 1691265599,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
     "act13sre": {
       "id": "act13sre",
       "type": "TYPE_ACT13SIDE",
@@ -1433,6 +1446,13 @@
     }
   },
   "homeActConfig": {
+    "act30sign": {
+      "actId": "act30sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "5d93ee",
+      "actTopBarText": "寒風驅暑簽到活動"
+    },
     "act17sign": {
       "actId": "act17sign",
       "isPopupAfterCheckin": false,
@@ -37037,6 +37057,144 @@
       }
     },
     "CHECKIN_ONLY": {
+      "act30sign": {
+        "checkInList": {
+          "0": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "3302",
+                "count": 10,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 1,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "1": {
+            "itemList": [
+              {
+                "id": "mod_update_token_1",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 2,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "2": {
+            "itemList": [
+              {
+                "id": "furni_oct1st_deckChair_01",
+                "count": 1,
+                "type": "FURN"
+              },
+              {
+                "id": "7001",
+                "count": 5,
+                "type": "TKT_RECRUIT"
+              }
+            ],
+            "order": 3,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "3": {
+            "itemList": [
+              {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3401",
+                "count": 300,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 4,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "4": {
+            "itemList": [
+              {
+                "id": "char_210_stward@sale#6",
+                "count": 1,
+                "type": "CHAR_SKIN"
+              },
+              {
+                "id": "3003",
+                "count": 15,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 5,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 1,
+            "isDynItem": false
+          },
+          "5": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "2004",
+                "count": 10,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 6,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "6": {
+            "itemList": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 7,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          }
+        },
+        "apSupplyOutOfDateDict": {}
+      },
       "act17sign": {
         "checkInList": {
           "0": {
@@ -74439,6 +74597,7 @@
         }
       }
     },
+    "TYPE_ACT21SIDE": {},
     "LOGIN_ONLY": {
       "act10login": {
         "description": "<color value=#898989>該物品過期時間</color>\n<color value=#54d600>2023/07/04 03:59</color>",
@@ -78564,7 +78723,8 @@
           ]
         }
       }
-    }
+    },
+    "FLOAT_PARADE": {}
   },
   "activityItems": {
     "act13sre": [
@@ -81070,14 +81230,33 @@
         },
         {
           "title": "\"文化衝擊\"內關卡已開放",
-          "ts": 1687852800
+          "ts": 1687851000
         },
         {
           "title": "“升降梯整備”內關卡已開放",
-          "ts": 1688457600
+          "ts": 1688455800
         }
       ],
       "startTs": 1687246200
+    },
+    {
+      "id": "dis_rune_10",
+      "type": "CRISIS",
+      "funcId": "rune_season_10_1",
+      "endTs": 1690401599,
+      "sortId": 28,
+      "itemId": "CRISIS_SHOP_COIN",
+      "timeNodes": [
+        {
+          "title": "危機合約<塵環行動>活動已開放",
+          "ts": 1689233400
+        },
+        {
+          "title": "新增常駐可選合約與挑戰任務",
+          "ts": 1689796800
+        }
+      ],
+      "startTs": 1689233400
     },
     {
       "id": "dis_mini_12",
@@ -81123,6 +81302,21 @@
         }
       ],
       "startTs": 1685431800
+    },
+    {
+      "id": "dis_rogue_2",
+      "type": "ROGUELIKE",
+      "funcId": "rogue_2_entry_display_1",
+      "endTs": 1691611199,
+      "sortId": 32,
+      "itemId": null,
+      "timeNodes": [
+        {
+          "title": "集成戰略<水月與深藍之樹>主題已開放",
+          "ts": 1690437600
+        }
+      ],
+      "startTs": 1690437600
     }
   ],
   "actFunData": {
@@ -85437,6 +85631,28 @@
         "act20side_sp02"
       ],
       "carFrameDefaultColor": "B4D440"
+    }
+  },
+  "siracusaData": {
+    "areaDataMap": {},
+    "pointDataMap": {},
+    "charCardMap": {},
+    "taskRingMap": {},
+    "taskInfoMap": {},
+    "battleTaskMap": {},
+    "avgTaskMap": {},
+    "itemInfoMap": {},
+    "itemCardInfoMap": {},
+    "navigationInfoMap": {},
+    "optionInfoMap": {},
+    "stagePointList": [],
+    "storyBriefInfoDataMap": {},
+    "operaInfoMap": {},
+    "operaCommentInfoMap": {},
+    "constData": {
+      "operaDailyNum": 0,
+      "operaAllUnlockTime": 0,
+      "defaultFocusArea": null
     }
   },
   "kvSwitchData": {

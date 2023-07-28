@@ -19,4 +19,3 @@
 [Dialog(head="char_260_durnar", delay=0.5)]沒，沒什麼，我們繼續前進吧。
 [Dialog(head="char_260_durnar", delay=0.5)]對了小刻，你撿的那把錘子呢？
 [Dialog(head="char_2013_cerber", delay=0.5)]唔，小刻覺得還是不太順手，剛剛扔掉啦。
-

@@ -1,5 +1,4 @@
 [HEADER(is_skippable=false, is_autoable=false, is_tutorial=true)] 主线01-11关卡内剧情b
-
 [PopupDialog(dialogHead="$avatar_adnach", animStyle="NoWait")] 小心，就是這傢伙帶著整合運動把其他偵察小隊都......我先吸引她的火力！
 [Delay(time=4)]
 [PopupDialog(dialogHead="$avatar_ansel", animStyle="NoWait")] 安德切爾，別這麼做！那裡太危險了！

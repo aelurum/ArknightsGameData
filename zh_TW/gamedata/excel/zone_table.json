@@ -507,6 +507,19 @@
       "lockedText": null,
       "canPreview": false
     },
+    "rogue_2": {
+      "zoneID": "rogue_2",
+      "zoneIndex": 2,
+      "type": "ROGUELIKE",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "act13sre_zone1": {
       "zoneID": "act13sre_zone1",
       "zoneIndex": 0,

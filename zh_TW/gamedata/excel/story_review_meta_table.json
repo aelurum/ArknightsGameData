@@ -1003,6 +1003,456 @@
         "subType": "rogue_1_ending_4",
         "picDescription": "一篇精雕細琢的稿件終於出爐，劇作家將之交付給了劇團長。\n而就是這樣一張薄薄的紙，將在今後毀滅無數人的生活。",
         "kvId": null
+      },
+      "pic_rogue_2_1": {
+        "id": "pic_rogue_2_1",
+        "desc": "天涯絕壁",
+        "assetPath": "pic_rogue_2_1",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "陸地至此戛然而止，再往前便是海洋的領地。",
+        "kvId": null
+      },
+      "pic_rogue_2_3": {
+        "id": "pic_rogue_2_3",
+        "desc": "呼喚",
+        "assetPath": "pic_rogue_2_3",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "人類耳中聽聞的歌聲描繪著生存的渴望，但恐魚只是在呼喚同伴吞食，好讓自己在這命終之時仍能為大群做貢獻。",
+        "kvId": null
+      },
+      "pic_rogue_2_4": {
+        "id": "pic_rogue_2_4",
+        "desc": "割捨",
+        "assetPath": "pic_rogue_2_4",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "阿戈爾這一單詞同時代表了海民的種族與國家。然而對於某些阿戈爾來說，國家這層意義已經近乎從這一單詞中消失了。",
+        "kvId": null
+      },
+      "pic_rogue_2_5": {
+        "id": "pic_rogue_2_5",
+        "desc": "未知機械",
+        "assetPath": "pic_rogue_2_5",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "你知道這台終端的操作方式？那就很有意思了......",
+        "kvId": null
+      },
+      "pic_rogue_2_6": {
+        "id": "pic_rogue_2_6",
+        "desc": "意志的延續",
+        "assetPath": "pic_rogue_2_6",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "於審判官而言，死亡與絕望並非信念的終點。",
+        "kvId": null
+      },
+      "pic_rogue_2_7": {
+        "id": "pic_rogue_2_7",
+        "desc": "光榮前夜",
+        "assetPath": "pic_rogue_2_7",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "這位審判官在掩飾自己的身份，但看得出來，她很高興能作為一名審判官、一個伊比利亞人、一位幹員，與你見上最後一面。",
+        "kvId": null
+      },
+      "pic_rogue_2_8": {
+        "id": "pic_rogue_2_8",
+        "desc": "文明的盡頭",
+        "assetPath": "pic_rogue_2_8",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "沒有人類來承載，文明便就此步入自己的墳場安然下葬。",
+        "kvId": null
+      },
+      "pic_rogue_2_9": {
+        "id": "pic_rogue_2_9",
+        "desc": "感同身受",
+        "assetPath": "pic_rogue_2_9",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "即使擁有海嗣的軀殼，你仍舊只能以人類的思維思考並行動。那麼，你也仍是人類，不屬於大群。",
+        "kvId": null
+      },
+      "pic_rogue_2_10": {
+        "id": "pic_rogue_2_10",
+        "desc": "分解或修復",
+        "assetPath": "pic_rogue_2_10",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "大群只是在重整陸地，人類卻因此喪失了棲息地。所以我們陷入恐懼，久久不能自拔。",
+        "kvId": null
+      },
+      "pic_rogue_2_11": {
+        "id": "pic_rogue_2_11",
+        "desc": "開殼",
+        "assetPath": "pic_rogue_2_11",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "這是人類的生存手段，也是少數幾種能夠讓人類盡情宣洩復仇情感的行動。",
+        "kvId": null
+      },
+      "pic_rogue_2_12": {
+        "id": "pic_rogue_2_12",
+        "desc": "願景",
+        "assetPath": "pic_rogue_2_12",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "一種可能性，一種對於未來猜想的實踐，只要存在過，就有機會再現。",
+        "kvId": null
+      },
+      "pic_rogue_2_13": {
+        "id": "pic_rogue_2_13",
+        "desc": "聖像",
+        "assetPath": "pic_rogue_2_13",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "傾倒、破碎、沾滿污漬，可只要它還存在著，伊比利亞人就自認還有希望。這就是偶像的作用，透過它，伊比利亞人將信念與力量凝聚到一起，照亮整片海岸。",
+        "kvId": null
+      },
+      "pic_rogue_2_14": {
+        "id": "pic_rogue_2_14",
+        "desc": "信者的模樣",
+        "assetPath": "pic_rogue_2_14",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "信仰能夠改變，也可以異化。端看受信者所信仰的，究竟是什麼。",
+        "kvId": null
+      },
+      "pic_rogue_2_15": {
+        "id": "pic_rogue_2_15",
+        "desc": "諸王博物館",
+        "assetPath": "pic_rogue_2_15",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "伊比利亞的先祖們曾被遺忘，如今又將被再度遺忘。關於他們的真相會變得更加破碎。而當伊比利亞人無法訴說自己的由來時，他們還能稱呼自己為“伊比利亞”人嗎？",
+        "kvId": null
+      },
+      "pic_rogue_2_16": {
+        "id": "pic_rogue_2_16",
+        "desc": "惹人厭老闆",
+        "assetPath": "pic_rogue_2_16",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "鴨爵總是有一種獨特的魅力，讓你覺得他很欠揍，當他開口說話時，你就會再也忍不下去，滿腦子裡只想著狠狠踹他屁股。",
+        "kvId": null
+      },
+      "pic_rogue_2_17": {
+        "id": "pic_rogue_2_17",
+        "desc": "盡職保鏢",
+        "assetPath": "pic_rogue_2_17",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "給老闆的敵人一拳頭，不用考慮原因，不用顧慮後果。這就是高普尼克的工作。",
+        "kvId": null
+      },
+      "pic_rogue_2_18": {
+        "id": "pic_rogue_2_18",
+        "desc": "獸主與僕從",
+        "assetPath": "pic_rogue_2_18",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "這麼說或許不太準確，但如果以世俗的關係來定義，他們應該是老闆與雇員。",
+        "kvId": null
+      },
+      "pic_rogue_2_19": {
+        "id": "pic_rogue_2_19",
+        "desc": "民用科技",
+        "assetPath": "pic_rogue_2_19",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "阿戈爾社會的物資與精神豐富程度確實大大出乎泰拉人的意料。",
+        "kvId": null
+      },
+      "pic_rogue_2_20": {
+        "id": "pic_rogue_2_20",
+        "desc": "過時禮物",
+        "assetPath": "pic_rogue_2_20",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "禮舊情意重。",
+        "kvId": null
+      },
+      "pic_rogue_2_21": {
+        "id": "pic_rogue_2_21",
+        "desc": "變廢為寶",
+        "assetPath": "pic_rogue_2_21",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "人賦予物品價值，時代則定義價值。你囊中的無用棄物，在別人手中或許便能成為珍寶。",
+        "kvId": null
+      },
+      "pic_rogue_2_22": {
+        "id": "pic_rogue_2_22",
+        "desc": "無望堅守",
+        "assetPath": "pic_rogue_2_22",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "觀潮者等待重回海洋時的最大阻力竟仍來自海洋，這不得不說是一種諷刺。",
+        "kvId": null
+      },
+      "pic_rogue_2_23": {
+        "id": "pic_rogue_2_23",
+        "desc": "騎士真容",
+        "assetPath": "pic_rogue_2_23",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "他的生物性早已改變，用以填充鋼鐵軀殼的是癲狂與固執。即使揭開面罩，也不會顯現出人類的容貌。",
+        "kvId": null
+      },
+      "pic_rogue_2_24": {
+        "id": "pic_rogue_2_24",
+        "desc": "抗爭",
+        "assetPath": "pic_rogue_2_24",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "對於理智的人而言，沒有戰勝海洋的手段；對於感性的人而言，遮天海浪足以摧垮心靈；對於騎士而言，過程與結果皆無意義，只要海洋存在，他就要殺死海洋。",
+        "kvId": null
+      },
+      "pic_rogue_2_25": {
+        "id": "pic_rogue_2_25",
+        "desc": "風雨已至",
+        "assetPath": "pic_rogue_2_25",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "陰謀已經鑄就，逝者無法挽回。但在這電閃雷鳴的末日景象下，你仍有能做的事。你的選擇，將決定泰拉的命運。",
+        "kvId": null
+      },
+      "pic_rogue_2_26": {
+        "id": "pic_rogue_2_26",
+        "desc": "深藍實驗室",
+        "assetPath": "pic_rogue_2_26",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "海嗣種群的起源；已逝海神的心臟；改變未來的希望。",
+        "kvId": null
+      },
+      "pic_rogue_2_27": {
+        "id": "pic_rogue_2_27",
+        "desc": "落定",
+        "assetPath": "pic_rogue_2_27",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "或曾懊悔，或有遺憾，或仍憤怒。屬於他們的鬥爭畫上了句號，無需更多紛擾，寢園已設，敬請安眠。",
+        "kvId": null
+      },
+      "pic_rogue_2_28": {
+        "id": "pic_rogue_2_28",
+        "desc": "遺落石碑",
+        "assetPath": "pic_rogue_2_28",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "不僅是景觀裝置，不僅用於計算，不僅模仿未來。",
+        "kvId": null
+      },
+      "pic_rogue_2_29": {
+        "id": "pic_rogue_2_29",
+        "desc": "醫師的堅持",
+        "assetPath": "pic_rogue_2_29",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "他雖拯救人類性命，但更渴望復興文明。",
+        "kvId": null
+      },
+      "pic_rogue_2_30": {
+        "id": "pic_rogue_2_30",
+        "desc": "衛兵的原則",
+        "assetPath": "pic_rogue_2_30",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "他只希望保一方平安，不允許任何危害出現。",
+        "kvId": null
+      },
+      "pic_rogue_2_31": {
+        "id": "pic_rogue_2_31",
+        "desc": "循循善誘",
+        "assetPath": "pic_rogue_2_31",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "若不是你滿心想著看看寶箱裡的秘密而非把注意力留在這位薩卡茲舞娘身上，你們或許也不必兵戎相見。",
+        "kvId": null
+      },
+      "pic_rogue_2_32": {
+        "id": "pic_rogue_2_32",
+        "desc": "懦弱跟班",
+        "assetPath": "pic_rogue_2_32",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "流淚小子有個當偵探的舅舅，為了能夠成為像舅舅那樣勇敢的人，他開始出門給自己找事做。",
+        "kvId": null
+      },
+      "pic_rogue_2_33": {
+        "id": "pic_rogue_2_33",
+        "desc": "歸鄉",
+        "assetPath": "pic_rogue_2_33",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "在記憶之中，繞過這個轉角，家門便在眼前。可當你真正轉過去後，才發現那後面仍是一條長長的窄路，在路的盡頭，還有一個似曾相識的轉角。",
+        "kvId": null
+      },
+      "pic_rogue_2_34": {
+        "id": "pic_rogue_2_34",
+        "desc": "生命多樣性",
+        "assetPath": "pic_rogue_2_34",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "對於海嗣而言，適應後天環境比傳承親代基因更為重要，當整個族群都以這一目標進化時，物種不確定性便會在一個階段中被不斷放大，直至迎來進化奇點，誕生完美生物。",
+        "kvId": null
+      },
+      "pic_rogue_2_35": {
+        "id": "pic_rogue_2_35",
+        "desc": "晦暗燈塔",
+        "assetPath": "pic_rogue_2_35",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "在黑暗中發出光亮雖能為人提供一個前進的方向，但也會引來潛藏於黑暗中的野獸。光芒照耀的一切道路，都將會成為他們的獵場。",
+        "kvId": null
+      },
+      "pic_rogue_2_36": {
+        "id": "pic_rogue_2_36",
+        "desc": "浸水酒館",
+        "assetPath": "pic_rogue_2_36",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "只要有人聚集的地方便總會有這樣的場地。一些人在此喝些麻痺神經的飲品虛度光陰、另一些則以這人聲鼎沸的地方作掩護收集或交流情報。",
+        "kvId": null
+      },
+      "pic_rogue_2_37": {
+        "id": "pic_rogue_2_37",
+        "desc": "蒸蒸日上",
+        "assetPath": "pic_rogue_2_37",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "雖然這家酒廠的老闆進了監獄，但生意反而做得比以前更好了，真奇怪。",
+        "kvId": null
+      },
+      "pic_rogue_2_38": {
+        "id": "pic_rogue_2_38",
+        "desc": "獵人的延伸",
+        "assetPath": "pic_rogue_2_38",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "武器是獵人軀體的延伸，其生命與使命的構成元件，也是他們曾經存在過的象徵。",
+        "kvId": null
+      },
+      "pic_rogue_2_39": {
+        "id": "pic_rogue_2_39",
+        "desc": "海角孤石",
+        "assetPath": "pic_rogue_2_39",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "海浪將堅石磨成沙粒，而陸地無動於衷。",
+        "kvId": null
+      },
+      "pic_rogue_2_40": {
+        "id": "pic_rogue_2_40",
+        "desc": "天災顯現",
+        "assetPath": "pic_rogue_2_40",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "看著天災撕碎恐魚，你腦中浮現了源石征服海嗣的可能性。可到那時，人類真的還能夠繼續生存嗎？",
+        "kvId": null
+      },
+      "pic_rogue_2_41": {
+        "id": "pic_rogue_2_41",
+        "desc": "使命之人",
+        "assetPath": "pic_rogue_2_41",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "他因這個國家的宿命選擇尋求長生，所以他將與伊比利亞這個名字共同死去。",
+        "kvId": null
+      },
+      "pic_rogue_2_42": {
+        "id": "pic_rogue_2_42",
+        "desc": "曙光",
+        "assetPath": "pic_rogue_2_42",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "當每個人都甘願為美好願景奉獻時，前方的黑暗也就沒有那麼可怖了。無私、團結，人類的力量正在於此。",
+        "kvId": null
+      },
+      "pic_rogue_2_43": {
+        "id": "pic_rogue_2_43",
+        "desc": "藏寶地",
+        "assetPath": "pic_rogue_2_43",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "多年以後，當新生的伊比利亞孩童向父輩索求童話時，大人們會為他們講述一個，如黃金般璀璨的故事。",
+        "kvId": null
+      },
+      "pic_rogue_2_45": {
+        "id": "pic_rogue_2_45",
+        "desc": "人員調配",
+        "assetPath": "pic_rogue_2_45",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "後勤是所有軍事行動至關重要的一環，而且必須投入人力。對於指揮人員來說，在發號施令之前，還是需要多想幾步。",
+        "kvId": null
+      },
+      "pic_rogue_2_46": {
+        "id": "pic_rogue_2_46",
+        "desc": "臨海安全屋",
+        "assetPath": "pic_rogue_2_46",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "羅德島在伊比利亞各地搭建的安全屋。雖然略顯簡陋，但基礎功能一應俱全，保證羅德島幹員能夠在此緊急避險並補充物資。",
+        "kvId": null
+      },
+      "pic_rogue_2_47": {
+        "id": "pic_rogue_2_47",
+        "desc": "加密通訊：鬱金香",
+        "assetPath": "pic_rogue_2_47",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "鬱金香與你的通訊內容無非就是各種各樣的任務委託。這對於你來說或許是工作，但在她眼中，這都是實打實的生存問題。",
+        "kvId": null
+      },
+      "pic_rogue_2_48": {
+        "id": "pic_rogue_2_48",
+        "desc": "篝火晚會",
+        "assetPath": "pic_rogue_2_48",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_2_ending_1",
+        "picDescription": "好吧，從規模上來說算不上是什麼晚會。但邊吃邊聊，對今後有個不算太壞的期盼，也還挺不錯的。",
+        "kvId": null
+      },
+      "pic_rogue_2_49": {
+        "id": "pic_rogue_2_49",
+        "desc": "英雄殉身",
+        "assetPath": "pic_rogue_2_49",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_2_ending_2",
+        "picDescription": "解脫壓迫、束縛與死亡的一躍。",
+        "kvId": null
+      },
+      "pic_rogue_2_50": {
+        "id": "pic_rogue_2_50",
+        "desc": "獻身",
+        "assetPath": "pic_rogue_2_50",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_2_ending_3",
+        "picDescription": "水月並沒有逝去，但當你下一次見到祂時，你也不會再稱呼祂為水月了。",
+        "kvId": null
+      },
+      "pic_rogue_2_51": {
+        "id": "pic_rogue_2_51",
+        "desc": "再會",
+        "assetPath": "pic_rogue_2_51",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_2_ending_3",
+        "picDescription": "從未言說的約定每一年都會被履行。可人性的遺留啊，你還能掙扎多久呢？",
+        "kvId": null
+      },
+      "pic_rogue_2_53": {
+        "id": "pic_rogue_2_53",
+        "desc": "溫暖的火",
+        "assetPath": "pic_rogue_1_1",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "木柴在火爐中發出響聲，光亮混雜著暖意驅退黑暗與潮濕，危險暫時遠離了隊伍。願此時的安寧，陪伴我們走向遠方。",
+        "kvId": null
       }
     },
     "audios": {
@@ -1095,6 +1545,61 @@
         "id": "music_rogue_1_9",
         "desc": "music_rogue_1_9",
         "name": "行文之韻"
+      },
+      "music_rogue_2_1": {
+        "id": "music_rogue_2_1",
+        "desc": "music_rogue_2_1",
+        "name": "深藍之樹"
+      },
+      "music_rogue_2_2": {
+        "id": "music_rogue_2_2",
+        "desc": "music_rogue_2_2",
+        "name": "倒置樹影"
+      },
+      "music_rogue_2_3": {
+        "id": "music_rogue_2_3",
+        "desc": "music_rogue_2_3",
+        "name": "族群歌謠"
+      },
+      "music_rogue_2_4": {
+        "id": "music_rogue_2_4",
+        "desc": "music_rogue_2_4",
+        "name": "離群悲歌"
+      },
+      "music_rogue_2_5": {
+        "id": "music_rogue_2_5",
+        "desc": "music_rogue_2_5",
+        "name": "傾聽"
+      },
+      "music_rogue_2_6": {
+        "id": "music_rogue_2_6",
+        "desc": "music_rogue_2_6",
+        "name": "共振"
+      },
+      "music_rogue_2_7": {
+        "id": "music_rogue_2_7",
+        "desc": "music_rogue_2_7",
+        "name": "大群之殤"
+      },
+      "music_rogue_2_8": {
+        "id": "music_rogue_2_8",
+        "desc": "music_rogue_2_8",
+        "name": "旅者//征服者"
+      },
+      "music_rogue_2_9": {
+        "id": "music_rogue_2_9",
+        "desc": "music_rogue_2_9",
+        "name": "沉溺淺洋"
+      },
+      "music_rogue_2_10": {
+        "id": "music_rogue_2_10",
+        "desc": "music_rogue_2_10",
+        "name": "跌墜海淵"
+      },
+      "music_rogue_2_11": {
+        "id": "music_rogue_2_11",
+        "desc": "music_rogue_2_11",
+        "name": "正當交易"
       }
     },
     "avgs": {
@@ -4521,8 +5026,257 @@
         }
       },
       "rogue_2": {
+        "music": {
+          "musics": {
+            "music_rogue_2_1": {
+              "musicId": "music_rogue_2_1",
+              "musicSortId": 1
+            },
+            "music_rogue_2_2": {
+              "musicId": "music_rogue_2_2",
+              "musicSortId": 2
+            },
+            "music_rogue_2_3": {
+              "musicId": "music_rogue_2_3",
+              "musicSortId": 3
+            },
+            "music_rogue_2_4": {
+              "musicId": "music_rogue_2_4",
+              "musicSortId": 4
+            },
+            "music_rogue_2_5": {
+              "musicId": "music_rogue_2_5",
+              "musicSortId": 5
+            },
+            "music_rogue_2_6": {
+              "musicId": "music_rogue_2_6",
+              "musicSortId": 6
+            },
+            "music_rogue_2_7": {
+              "musicId": "music_rogue_2_7",
+              "musicSortId": 7
+            },
+            "music_rogue_2_8": {
+              "musicId": "music_rogue_2_8",
+              "musicSortId": 8
+            },
+            "music_rogue_2_9": {
+              "musicId": "music_rogue_2_9",
+              "musicSortId": 9
+            },
+            "music_rogue_2_10": {
+              "musicId": "music_rogue_2_10",
+              "musicSortId": 10
+            },
+            "music_rogue_2_11": {
+              "musicId": "music_rogue_2_11",
+              "musicSortId": 11
+            }
+          }
+        },
         "pic": {
-          "pics": {}
+          "pics": {
+            "pic_rogue_2_1": {
+              "picId": "pic_rogue_2_1",
+              "picSortId": 1
+            },
+            "pic_rogue_2_3": {
+              "picId": "pic_rogue_2_3",
+              "picSortId": 3
+            },
+            "pic_rogue_2_4": {
+              "picId": "pic_rogue_2_4",
+              "picSortId": 4
+            },
+            "pic_rogue_2_5": {
+              "picId": "pic_rogue_2_5",
+              "picSortId": 5
+            },
+            "pic_rogue_2_6": {
+              "picId": "pic_rogue_2_6",
+              "picSortId": 6
+            },
+            "pic_rogue_2_7": {
+              "picId": "pic_rogue_2_7",
+              "picSortId": 7
+            },
+            "pic_rogue_2_8": {
+              "picId": "pic_rogue_2_8",
+              "picSortId": 8
+            },
+            "pic_rogue_2_9": {
+              "picId": "pic_rogue_2_9",
+              "picSortId": 9
+            },
+            "pic_rogue_2_10": {
+              "picId": "pic_rogue_2_10",
+              "picSortId": 10
+            },
+            "pic_rogue_2_11": {
+              "picId": "pic_rogue_2_11",
+              "picSortId": 11
+            },
+            "pic_rogue_2_12": {
+              "picId": "pic_rogue_2_12",
+              "picSortId": 12
+            },
+            "pic_rogue_2_13": {
+              "picId": "pic_rogue_2_13",
+              "picSortId": 13
+            },
+            "pic_rogue_2_14": {
+              "picId": "pic_rogue_2_14",
+              "picSortId": 14
+            },
+            "pic_rogue_2_15": {
+              "picId": "pic_rogue_2_15",
+              "picSortId": 15
+            },
+            "pic_rogue_2_16": {
+              "picId": "pic_rogue_2_16",
+              "picSortId": 16
+            },
+            "pic_rogue_2_17": {
+              "picId": "pic_rogue_2_17",
+              "picSortId": 17
+            },
+            "pic_rogue_2_18": {
+              "picId": "pic_rogue_2_18",
+              "picSortId": 18
+            },
+            "pic_rogue_2_19": {
+              "picId": "pic_rogue_2_19",
+              "picSortId": 19
+            },
+            "pic_rogue_2_20": {
+              "picId": "pic_rogue_2_20",
+              "picSortId": 20
+            },
+            "pic_rogue_2_21": {
+              "picId": "pic_rogue_2_21",
+              "picSortId": 21
+            },
+            "pic_rogue_2_22": {
+              "picId": "pic_rogue_2_22",
+              "picSortId": 22
+            },
+            "pic_rogue_2_23": {
+              "picId": "pic_rogue_2_23",
+              "picSortId": 23
+            },
+            "pic_rogue_2_24": {
+              "picId": "pic_rogue_2_24",
+              "picSortId": 24
+            },
+            "pic_rogue_2_25": {
+              "picId": "pic_rogue_2_25",
+              "picSortId": 25
+            },
+            "pic_rogue_2_26": {
+              "picId": "pic_rogue_2_26",
+              "picSortId": 26
+            },
+            "pic_rogue_2_27": {
+              "picId": "pic_rogue_2_27",
+              "picSortId": 27
+            },
+            "pic_rogue_2_28": {
+              "picId": "pic_rogue_2_28",
+              "picSortId": 28
+            },
+            "pic_rogue_2_29": {
+              "picId": "pic_rogue_2_29",
+              "picSortId": 29
+            },
+            "pic_rogue_2_30": {
+              "picId": "pic_rogue_2_30",
+              "picSortId": 30
+            },
+            "pic_rogue_2_31": {
+              "picId": "pic_rogue_2_31",
+              "picSortId": 31
+            },
+            "pic_rogue_2_32": {
+              "picId": "pic_rogue_2_32",
+              "picSortId": 32
+            },
+            "pic_rogue_2_33": {
+              "picId": "pic_rogue_2_33",
+              "picSortId": 33
+            },
+            "pic_rogue_2_34": {
+              "picId": "pic_rogue_2_34",
+              "picSortId": 34
+            },
+            "pic_rogue_2_35": {
+              "picId": "pic_rogue_2_35",
+              "picSortId": 35
+            },
+            "pic_rogue_2_36": {
+              "picId": "pic_rogue_2_36",
+              "picSortId": 36
+            },
+            "pic_rogue_2_37": {
+              "picId": "pic_rogue_2_37",
+              "picSortId": 37
+            },
+            "pic_rogue_2_38": {
+              "picId": "pic_rogue_2_38",
+              "picSortId": 38
+            },
+            "pic_rogue_2_39": {
+              "picId": "pic_rogue_2_39",
+              "picSortId": 39
+            },
+            "pic_rogue_2_40": {
+              "picId": "pic_rogue_2_40",
+              "picSortId": 40
+            },
+            "pic_rogue_2_41": {
+              "picId": "pic_rogue_2_41",
+              "picSortId": 41
+            },
+            "pic_rogue_2_42": {
+              "picId": "pic_rogue_2_42",
+              "picSortId": 42
+            },
+            "pic_rogue_2_43": {
+              "picId": "pic_rogue_2_43",
+              "picSortId": 43
+            },
+            "pic_rogue_2_45": {
+              "picId": "pic_rogue_2_45",
+              "picSortId": 45
+            },
+            "pic_rogue_2_46": {
+              "picId": "pic_rogue_2_46",
+              "picSortId": 46
+            },
+            "pic_rogue_2_47": {
+              "picId": "pic_rogue_2_47",
+              "picSortId": 47
+            },
+            "pic_rogue_2_48": {
+              "picId": "pic_rogue_2_48",
+              "picSortId": 48
+            },
+            "pic_rogue_2_49": {
+              "picId": "pic_rogue_2_49",
+              "picSortId": 49
+            },
+            "pic_rogue_2_50": {
+              "picId": "pic_rogue_2_50",
+              "picSortId": 50
+            },
+            "pic_rogue_2_51": {
+              "picId": "pic_rogue_2_51",
+              "picSortId": 51
+            },
+            "pic_rogue_2_53": {
+              "picId": "pic_rogue_2_53",
+              "picSortId": 2
+            }
+          }
         },
         "avg": {
           "avgs": {}

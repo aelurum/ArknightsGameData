@@ -1,5 +1,4 @@
 [HEADER(is_skippable=false, is_autoable=false, is_tutorial=true)] 大帝关卡内剧情a
-
 [PopupDialog(dialogHead="$avatar_emperor", animStyle="NoWait")] 是我的低調讓你坐地起價
 [Delay(time=2)]
 [PopupDialog(dialogHead="$avatar_emperor", animStyle="NoWait")] 好好想想誰才是饒舌贏家

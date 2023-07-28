@@ -895,6 +895,7 @@
   "mainlineToughDesc": "更有挑戰的遊玩體驗環境\n三星首通獎勵含有至純源石\n會包含額外的高難關卡",
   "mainlineEasyDesc": "更輕鬆的通關環境\n三星首通獎勵僅有對應養成類材料\n\n<color=#c6c6c6>劇情體驗環境只能繼續解鎖下一章節的對應劇情體驗環境</color>",
   "mainlineNormalDesc": "常規的遊玩體驗環境\n三星首通獎勵含有至純源石",
+  "rejectSpCharMission": 1693123200,
   "addedRewardDisplayZone": "main_9",
   "richTextStyles": {
     "mission.levelname": "<color=#FFDE00>{0}</color>",
@@ -1066,7 +1067,7 @@
   "isRoguelikeTopicFuncEnabled": true,
   "isRoguelikeAvgAchieveFuncEnabled": true,
   "voucherSkinRedeem": 1,
-  "voucherSkinDesc": "當某位幹員的<color=#ffa633>首個</color>異格上線時，若曾使用<color=#ffa633>源石</color>購買過該幹員的時裝，則在該幹員的<color=#ffa633>首個</color>異格幹員上線後返還道具<color=#33b5ff>【時裝自選憑證】</color>*1。\n\n若有以下情況，則在異格幹員上線後<color=#ffa633>不進行返還</color>：\n1.在某位幹員的首個異格幹員上線前，使用【時裝自選憑證】兌換了原幹員的時裝。\n2.在某位幹員的首個異格幹員上線後，使用源石購買了原幹員的時裝。\n3.在某位幹員的首個異格幹員上線後，使用【時裝自選憑證】兌換了原幹員的時裝。\n\n【時裝自選憑證】僅可以兌換當期時裝商店中售賣的時裝，若已購買了時裝商店中所有的服裝或時裝商店中無時裝售賣時，則【時裝自選憑證】<color=#ffa633>無法使用</color>。\n\n此外，若今後有<color=#ffa633>不可使用</color>【時裝自選憑證】兌換的時裝出現時，屆時會告知博士，敬請注意。",
+  "voucherSkinDesc": "【時裝自選憑證】僅可以兌換當期時裝商店中售賣的時裝，且<color=#ffa633>不可兌換</color>含有動態形象的時裝。若已購買了時裝商店中所有的服裝或時裝商店中無時裝售賣時，則【時裝自選憑證】<color=#ffa633>無法使用</color>。\n\n此外，若今後有其他<color=#ffa633>不可使用</color>【時裝自選憑證】兌換的時裝出現時，屆時會告知博士，敬請注意。",
   "charmEquipCount": 5,
   "termDescriptionDict": {
     "ba.sluggish": {
@@ -1437,7 +1438,7 @@
     "cc.tag.knight": {
       "termId": "cc.tag.knight",
       "termName": "騎士",
-      "description": "包含以下幹員\n耀騎士臨光、臨光（互斥）、瑕光、鞭刃、焰尾、遠牙、灰毫、野鬃、正義騎士號、礫"
+      "description": "包含以下幹員\n耀騎士臨光、臨光、瑕光、鞭刃、焰尾、遠牙、灰毫、野鬃、正義騎士號、礫"
     },
     "cc.tag.durin": {
       "termId": "cc.tag.durin",
@@ -1451,6 +1452,6 @@
     }
   },
   "storyReviewUnlockItemLackTip": "事相碎片數量不足，請前往採購憑證區或活動期間商店獲取",
-  "dataVersion": "29.4.0",
-  "resPrefVersion": "30d0d0"
+  "dataVersion": "30.1.0",
+  "resPrefVersion": "32d0d0"
 }

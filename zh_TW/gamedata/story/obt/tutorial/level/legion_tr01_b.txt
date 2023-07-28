@@ -1,7 +1,5 @@
 [HEADER(is_tutorial=true)] 爬塔教学关卡01_b
-
 [Battle.Pause]
-
 [PopupDialog(dialogHead="$avatar_milu")] 呼叫杜賓教官，前方出現重裝敵人。
 [Battle.Pause(pause=false)]
 [Delay(time=3)]
@@ -13,11 +11,9 @@
           animStyle="Click", focusStyle="HighlightRect", black="$f_tut_black",searchBtnInChildren=true, \
           protectTime=0.5, dialogHead="$avatar_doberm")] \
 博士，點擊這裡呼叫支援。
-
 [InputBlocker(blockInput=true)]
 [PopupDialog(dialogHead="$avatar_gnosis")] 博士，杜賓教官，靈知前來支援。
 [InputBlocker(blockInput=false)]
-
 [Tutorial(waitForSignal="put_down", dialogHead="$avatar_gnosis", animStyle="Drag", \
           startX=-150, startY=60, startAnchor="BottomRight", endX=-185, endY=-40)] \
 建議讓我來<@tu.kw>接力</>守林人。
@@ -36,5 +32,4 @@
           protectTime=0.5, dialogHead="$avatar_gnosis")] \
 沒錯。作為輔助幹員，我在部署後可立即帶來一些調用憑證。
 [PopupDialog(dialogHead="$avatar_gnosis")] 博士，開始戰鬥吧。
-
 [Blocker(fadetime=0.3, block=true, a=0)]

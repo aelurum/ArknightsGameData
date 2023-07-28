@@ -6,7 +6,6 @@
 [Background(image="bg_desert_1",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
-
 在一切的盡頭，是一片空曠的原野，蒙塵的大地被彌漫著灰色濃霧的天空籠罩，這裡沒有密林，沒有吵嚷的荒地人，這裡什麼都沒有。
 她凝視著無盡的原野，沉浸在這絕對靜謐的虛無之中，之前的冒險與勞頓此刻已經毫無意義。她來到了終點，旅途的終點。
 [Dialog]
@@ -33,6 +32,3 @@
 在此之前，她就這樣開心的笑著。
 [Dialog]
 [Blocker(fadetime=3,block=true)]
-
-
-

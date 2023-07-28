@@ -96,11 +96,6 @@
 [Character(name="avg_npc_082")]
 [name="感染者糾察隊"]  你！
 [Character(name="avg_npc_078#4")]
-[name="塔露拉"] 你們不是害怕感染者造成什麼危害。不。你這輩子連有威脅的感染者都沒見過幾個。
-[name="塔露拉"] 你們只是想利用我們的命，只是想玩弄我們的性命！
-[Character(name="avg_npc_094")]
-[name="感染者"] 啊......！
-[Character(name="avg_npc_078#4")]
 [name="塔露拉"] 兄弟，在他們以前的暴行裡，他們有因為誰態度好就放過誰嗎，有因為別人做得對就讓他們活嗎？
 [Character(name="avg_npc_078#5")]
 [name="塔露拉"] 不對！他們以前讓你們活著，只是因為你們還有油水可榨！

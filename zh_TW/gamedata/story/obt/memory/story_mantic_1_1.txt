@@ -338,7 +338,7 @@
 [Character(name="avg_215_mantic_1#6$1")]
 [name="驚慌的曼提柯女孩"]（......真的？）
 [name="驚慌的曼提柯女孩"]（他們不會讓我去送死？）
-[name="惊慌的曼提柯女孩"]
+[name="驚慌的曼提柯女孩"]
 [Character(name="avg_215_mantic_1#4$1")]
 [name="驚慌的曼提柯女孩"]（清嗓子）......你、你們好。
 [Character]

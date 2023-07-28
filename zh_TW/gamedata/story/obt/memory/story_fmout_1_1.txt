@@ -111,7 +111,7 @@
 [delay(time=1)]
 [Character(name="char_empty", name2="char_201_moeshd#4", focus=2)]
 [name="可頌"]  嗯？
-[Character(name="char_empty", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_empty", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  對了！
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="可頌"]  遠山老師，請稍等！
@@ -143,7 +143,7 @@
 [name="遠山"]  但是我需要你一個承諾。
 [name="遠山"]  你要向我承諾——
 [name="遠山"]  上課的時候不可以給孩子們推銷東西。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=2)]//此处替换成吃惊
 [name="可頌"]  ？！
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=1)]
 [name="遠山"]  即使是零食，也不行。
@@ -159,7 +159,7 @@
 [name="可頌"]  如果反悔的話？
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  誰知道呢？
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成懊恼
 [name="可頌"]  唔......
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  意下如何？
@@ -167,7 +167,7 @@
 [name="可頌"]  好！
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  你的代價，我收下了。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  不用契約書......之類的東西嗎？
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  嗯？
@@ -179,7 +179,7 @@
 [name="遠山"]  考慮到一會還要上課，我們就用簡單點的占法。
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="遠山"]  （取出塔羅）
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  哇，這，這工藝？！
 [name="可頌"]  感覺每一張都能賣個好價錢。
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
@@ -238,7 +238,7 @@
 [name="可頌"]  我不太懂，正逆有什麼關係嘛？
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  簡單來說，逆位牌表明你現在受到了阻礙。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  啊？！
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  放輕鬆，所謂阻礙，並不是一件全然的壞事。
@@ -279,7 +279,7 @@
 [name="可頌"]  那這個，這個牌，簡單來說，是不是就是不太好啊。
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  是過程不會太輕鬆。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="可頌"]  那我會不會就——遠山——救救我！
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
@@ -291,7 +291,7 @@
 [name="可頌"]  （顫抖著翻牌）
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  權杖一，正位。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  會，會是什麼呢......
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  你抓住了機會，準備從中再次獲得自己於生命中的優勢。
@@ -300,7 +300,7 @@
 [name="可頌"]  聽上去像是好事。
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  以前我為自己占卜的時候也曾翻到過它。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  唉——你們也會為自己占卜的嗎？
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  在某個靈光閃現的時刻，占卜師完全可以窺探一下自己的道路。
@@ -315,7 +315,7 @@
 [name="遠山"]  就像可頌你選擇以自己的力量做買賣。所有決策，任何選擇，都是多年商業經驗的結晶，不是嗎？
 [name="遠山"]  他人能給出的只是建議，決定權永遠在自己手中——就像現在這樣。
 [name="遠山"]  即使三張牌都是最壞的結果，你真就會改變決策嗎？
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=2)]//此处替换成懊恼
 [name="可頌"]  錢都花了......
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  所以你只是來求個安慰，希望我能說出一個聽上去舒服的結果。
@@ -335,7 +335,7 @@
 [name="遠山"]  你會經歷冒險，但旅途似乎並不會平靜。
 [name="遠山"]  至於結果，我們可以期待最後一張牌所揭示的答案。
 [name="遠山"]  盡頭說不定連一張龍門幣都沒有。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  感覺越來越危險了......
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  我只是說了一種較壞的可能性。
@@ -401,7 +401,7 @@
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=2)]
 [name="可頌"]  有一點吧......
 [name="可頌"]  但，撐一撐應該能過去。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#4", focus=2)]//此处替换成吃惊
 [name="可頌"]  這個，牌裡有說我投資必失敗嗎？
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  沒有，再者塔羅也從不會出現言之鑿鑿的未來。
@@ -443,7 +443,7 @@
 [name="遠山"]  呼。
 [name="遠山"]  （翻開塔羅牌）
 [name="遠山"]  聖杯十......逆位......
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  這個是不好的意思嗎？
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [name="遠山"]  ......
@@ -452,7 +452,7 @@
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
 [name="遠山"]  等等別碰牌！
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [name="可頌"]  哦好......
 [name="可頌"]  ......
 [name="可頌"]  對不起啊遠山。
@@ -490,7 +490,7 @@
 [name="遠山"]  請隨意......
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
 [name="可頌"]  嗚嗚一定要讓我回本啊啊啊啊。
-[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]
+[Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=2)]//此处替换成吃惊
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="可頌"]  啊！
 [Character(name="char_109_fmout_1", name2="char_201_moeshd#2", focus=1)]

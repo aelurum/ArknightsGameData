@@ -6,7 +6,6 @@
 [Background(image="bg_black",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.4)]
-
 刻俄柏的臉上傳來溫熱的觸感，似乎有什麼東西在舔舐著她。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -18,4 +17,3 @@
 她感覺到冥冥之中有一種力量在呼喚著她，於是，她邁開了腳步。
 [Dialog]
 [Blocker(fadetime=3,block=true)]
-

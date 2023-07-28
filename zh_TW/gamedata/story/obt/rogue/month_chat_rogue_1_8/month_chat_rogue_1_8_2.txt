@@ -18,5 +18,3 @@
 [Dialog(head="char_426_billro", delay=0.5)]（呼吸聲）
 [Dialog(head="char_183_skgoat", delay=0.5)]......你們怎麼不說話？
 [Dialog(head="char_426_billro", delay=1)]插不上話。
-
-

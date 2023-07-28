@@ -1,5 +1,4 @@
 [HEADER(is_skippable=true, is_autoable=false)] 训练关卡16a
-
 [PopupDialog(dialogHead="$avatar_doberm")] 為了應對未來的挑戰，今天我們需要在訓練中了解新的敵人。
 [PopupDialog(dialogHead="$avatar_doberm")] 來自烏薩斯的霜星以及雪怪小隊成員，他們都擅長運用各種機械或者源石技藝讓對手凍結。
 [PopupDialog(dialogHead="$avatar_doberm")] 看清楚了！不要分心！

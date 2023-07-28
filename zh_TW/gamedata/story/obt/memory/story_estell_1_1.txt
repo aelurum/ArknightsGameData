@@ -533,7 +533,7 @@
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#2$2",focus=2)]
 [name="艾絲黛爾"]你知道她？
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#2$2",focus=1)]
-[name="特米米"]听依娜姆说过。
+[name="特米米"]聽依娜姆說過。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=2)]
 [name="艾絲黛爾"]灰燼公主艾絲黛爾，小時候城堡被壞人佔據，她被趕了出來。但是她沒有就此沉淪，而是不斷練習劍術，不斷成長。
 [name="艾絲黛爾"]等時機成熟，她在忠誠的克萊赫爾爵士的幫助下，穿著舞裙混入了城堡的舞會。
