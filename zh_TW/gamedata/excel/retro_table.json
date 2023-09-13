@@ -35,7 +35,9 @@
     "permanent_sidestory_9_zone3": "permanent_sidestory_9_Dossoles_Holiday",
     "permanent_sidestory_10_zone1": "permanent_sidestory_10_Near_Light",
     "permanent_sidestory_10_zone2": "permanent_sidestory_10_Near_Light",
-    "permanent_sidestory_10_zone3": "permanent_sidestory_10_Near_Light"
+    "permanent_sidestory_10_zone3": "permanent_sidestory_10_Near_Light",
+    "permanent_sidestory_11_zone1": "permanent_sidestory_11_Break_The_Ice",
+    "permanent_sidestory_11_zone2": "permanent_sidestory_11_Break_The_Ice"
   },
   "stageValidInfo": {
     "act9d0_01": {
@@ -1693,6 +1695,126 @@
     "act13side_s05#f#": {
       "startTs": 1686600000,
       "endTs": -1
+    },
+    "act14side_tr01": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_01": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_st01": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_02": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_03": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_st02": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_04": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_tr02": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_05": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_st03": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_06": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_07": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_08": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_st04": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex01": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex01#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex02": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex02#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex03": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex03#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex04": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex04#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex05": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex05#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex06": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex06#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex07": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex07#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex08": {
+      "startTs": 1694462400,
+      "endTs": -1
+    },
+    "act14side_ex08#f#": {
+      "startTs": 1694462400,
+      "endTs": -1
     }
   },
   "stages": null,
@@ -1916,6 +2038,22 @@
       "index": 10,
       "name": "長夜臨光",
       "detail": "耀騎士的歸來，\n將這一屆特別錦標賽推往了一個新的高潮。\n同時，在霓虹燈沒有照到的角落，\n那些被消失的怒吼也即將衝破桎梏。\n舞臺之上，騎士之路交錯蔓延。\n舞台之下，城市之殤箭在弦上。\n他們終將交匯......",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT"
+    },
+    "permanent_sidestory_11_Break_The_Ice": {
+      "retroId": "permanent_sidestory_11_Break_The_Ice",
+      "type": 0,
+      "linkedActId": [
+        "act14side",
+        "act14sre"
+      ],
+      "startTime": 1694462400,
+      "trailStartTime": -1,
+      "index": 11,
+      "name": "風雪過境",
+      "detail": "在這片雪境中，\n重重山巒保衛的，是亙古的虔誠信仰，\n厚厚積雪掩蓋的，是積年的龐大危機。\n在罕有人及的山巔之上，\n神明無言，守護千年。\n在炊煙裊裊的祥和之境，\n鐵路長驅，衝破藩籬。",
       "haveTrail": false,
       "customActId": null,
       "customActType": "DEFAULT"
@@ -2412,6 +2550,96 @@
       "relatedFullPotentialItemId": null,
       "themeColor": "00ffba",
       "fullPotentialItemId": "voucher_full_tomimi"
+    },
+    "permanent_sidestory_6_Maria_Nearl": {
+      "retroId": "permanent_sidestory_6_Maria_Nearl",
+      "trailStartTime": 1692257400,
+      "trailRewardList": [
+        {
+          "trailRewardId": "trailReward_sidestory_6_1",
+          "starCount": 12,
+          "rewardItem": {
+            "id": "char_265_sophia",
+            "count": 1,
+            "type": "CHAR"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_6_2",
+          "starCount": 24,
+          "rewardItem": {
+            "id": "voucher_full_sophia",
+            "count": 1,
+            "type": "VOUCHER_FULL_POTENTIAL"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_6_3",
+          "starCount": 32,
+          "rewardItem": {
+            "id": "char_277_sqrrel@ghost#1",
+            "count": 1,
+            "type": "CHAR_SKIN"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_6_4",
+          "starCount": 40,
+          "rewardItem": {
+            "id": "uni_set_fNearl",
+            "count": 1,
+            "type": "UNI_COLLECTION"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_6_5",
+          "starCount": 48,
+          "rewardItem": {
+            "id": "furni_dropS009_etudeOp10No12_01",
+            "count": 1,
+            "type": "FURN"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_6_6",
+          "starCount": 56,
+          "rewardItem": {
+            "id": "avatar_activity_MN",
+            "count": 1,
+            "type": "PLAYER_AVATAR"
+          }
+        }
+      ],
+      "stageList": [
+        "act13d5_01",
+        "act13d5_02",
+        "act13d5_03",
+        "act13d5_04",
+        "act13d5_05",
+        "act13d5_06",
+        "act13d5_07",
+        "act13d5_08",
+        "act13d5_ex01",
+        "act13d5_ex01#f#",
+        "act13d5_ex02",
+        "act13d5_ex02#f#",
+        "act13d5_ex03",
+        "act13d5_ex03#f#",
+        "act13d5_ex04",
+        "act13d5_ex04#f#",
+        "act13d5_ex05",
+        "act13d5_ex05#f#",
+        "act13d5_ex06",
+        "act13d5_ex06#f#",
+        "act13d5_ex07",
+        "act13d5_ex07#f#",
+        "act13d5_ex08",
+        "act13d5_ex08#f#"
+      ],
+      "relatedChar": "char_265_sophia",
+      "relatedFullPotentialItemId": null,
+      "themeColor": "bb9b67",
+      "fullPotentialItemId": "voucher_full_sophia"
     }
   },
   "stageList": {
@@ -41054,7 +41282,7 @@
       "zoneId": "permanent_sidestory_11_zone1",
       "code": "BI-8",
       "name": "將軍",
-      "description": "在決定勝負的一手中毫不留情地喊出這個詞並使出殺手鐧，這是一種尊重。\n<@lv.item><冰面></>對其上的單位施加“寒冷”，增加被凍結敵人在其上的位移距離\n<@lv.item><降雪></>週期性對所有單位施加寒冷",
+      "description": "在決定勝負的一手中毫不留情地喊出這個詞並使出殺手鐧，這是一種尊重。\n<@lv.item><冰面></>對其上的單位施加“寒冷”，增加被凍結敵人在其上的位移距離\n<@lv.item><降雪></>周期性對所有單位施加寒冷",
       "hardStagedId": null,
       "dangerLevel": "精英1 LV.70",
       "dangerPoint": -1.0,
@@ -42026,7 +42254,7 @@
       "zoneId": "permanent_sidestory_11_zone2",
       "code": "BI-EX-6",
       "name": "落後兵",
-      "description": "如果在多線攻防中疏于防範，對手的落後兵也會成為令人措手不及的奇兵。\n<@lv.item><冰面></>對其上的單位施加“寒冷”，增加被凍結敵人在其上的位移距離\n<@lv.item><拐角冰面></>對其上的單位施加“寒冷”，改變被位移敵人的移動方向",
+      "description": "如果在多線攻防中疏於防範，對手的落後兵也會成為令人措手不及的奇兵。\n<@lv.item><冰面></>對其上的單位施加“寒冷”，增加被凍結敵人在其上的位移距離\n<@lv.item><拐角冰面></>對其上的單位施加“寒冷”，改變被位移敵人的移動方向",
       "hardStagedId": "act14side_ex06#f#",
       "dangerLevel": "精英2 LV.20",
       "dangerPoint": -1.0,

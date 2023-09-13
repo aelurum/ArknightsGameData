@@ -7578,9 +7578,9 @@
     "endTime": -1,
     "startShowTime": 1666209600,
     "endShowTime": -1,
-    "replicateActionId": null,
-    "remakeStartTime": -1,
-    "remakeEndTime": -1,
+    "replicateActionId": "act14sre",
+    "remakeStartTime": 1693294200,
+    "remakeEndTime": 1694462399,
     "storyEntryPicId": "storyEntryPic_act14side",
     "storyPicId": null,
     "storyMainColor": null,
@@ -11428,6 +11428,674 @@
         "requiredStages": [
           {
             "stageId": "act20side_st02",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      }
+    ]
+  },
+  "act21side": {
+    "id": "act21side",
+    "name": "敘拉古人",
+    "entryType": "ACTIVITY",
+    "actType": "ACTIVITY_STORY",
+    "startTime": 1694503800,
+    "endTime": -1,
+    "startShowTime": 1696881600,
+    "endShowTime": -1,
+    "replicateActionId": "",
+    "remakeStartTime": -1,
+    "remakeEndTime": -1,
+    "storyEntryPicId": "storyEntryPic_act21side",
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": [],
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_st01",
+        "storyGroup": "act21side",
+        "storySort": 1,
+        "storyDependence": null,
+        "storyCanShow": 1,
+        "storyCode": "IS-ST-1",
+        "storyName": "沉痾",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_st01",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_st01",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_st01",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_01_beg",
+        "storyGroup": "act21side",
+        "storySort": 2,
+        "storyDependence": "act21side_level_act21side_st01",
+        "storyCanShow": 1,
+        "storyCode": "IS-1",
+        "storyName": "雨落無聲",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_01_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_01_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_01",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_01_end",
+        "storyGroup": "act21side",
+        "storySort": 3,
+        "storyDependence": "act21side_level_act21side_01_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-1",
+        "storyName": "雨落無聲",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_01_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_01_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_01",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_02_beg",
+        "storyGroup": "act21side",
+        "storySort": 4,
+        "storyDependence": "act21side_level_act21side_01_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-2",
+        "storyName": "榮譽之人",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_02_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_02_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_02",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_02_end",
+        "storyGroup": "act21side",
+        "storySort": 5,
+        "storyDependence": "act21side_level_act21side_02_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-2",
+        "storyName": "榮譽之人",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_02_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_02_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_02",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_03_beg",
+        "storyGroup": "act21side",
+        "storySort": 6,
+        "storyDependence": "act21side_level_act21side_02_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-3",
+        "storyName": "萬箭所指",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_03_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_03_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_03",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_03_end",
+        "storyGroup": "act21side",
+        "storySort": 7,
+        "storyDependence": "act21side_level_act21side_03_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-3",
+        "storyName": "萬箭所指",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_03_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_03_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_03",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_04_beg",
+        "storyGroup": "act21side",
+        "storySort": 8,
+        "storyDependence": "act21side_level_act21side_03_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-4",
+        "storyName": "苦夜驚雷",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_04_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_04_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_04",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_04_end",
+        "storyGroup": "act21side",
+        "storySort": 9,
+        "storyDependence": "act21side_level_act21side_04_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-4",
+        "storyName": "苦夜驚雷",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_04_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_04_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_04",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_st02",
+        "storyGroup": "act21side",
+        "storySort": 10,
+        "storyDependence": "act21side_level_act21side_04_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-ST-2",
+        "storyName": "切開",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_st02",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_st02",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_st02",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_05_beg",
+        "storyGroup": "act21side",
+        "storySort": 11,
+        "storyDependence": "act21side_level_act21side_st02",
+        "storyCanShow": 1,
+        "storyCode": "IS-5",
+        "storyName": "恒久法則",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_05_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_05_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_05",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_05_end",
+        "storyGroup": "act21side",
+        "storySort": 12,
+        "storyDependence": "act21side_level_act21side_05_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-5",
+        "storyName": "恒久法則",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_05_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_05_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_05",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_06_beg",
+        "storyGroup": "act21side",
+        "storySort": 13,
+        "storyDependence": "act21side_level_act21side_05_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-6",
+        "storyName": "舊日碾軋",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_06_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_06_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_06",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_06_end",
+        "storyGroup": "act21side",
+        "storySort": 14,
+        "storyDependence": "act21side_level_act21side_06_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-6",
+        "storyName": "舊日碾軋",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_06_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_06_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_06",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_07_beg",
+        "storyGroup": "act21side",
+        "storySort": 15,
+        "storyDependence": "act21side_level_act21side_06_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-7",
+        "storyName": "何以忘卻",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_07_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_07_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_07",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_07_end",
+        "storyGroup": "act21side",
+        "storySort": 16,
+        "storyDependence": "act21side_level_act21side_07_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-7",
+        "storyName": "何以忘卻",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_07_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_07_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_07",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_08_beg",
+        "storyGroup": "act21side",
+        "storySort": 17,
+        "storyDependence": "act21side_level_act21side_07_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-8",
+        "storyName": "危如累卵",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_08_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_08_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_08",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_08_end",
+        "storyGroup": "act21side",
+        "storySort": 18,
+        "storyDependence": "act21side_level_act21side_08_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-8",
+        "storyName": "危如累卵",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_08_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_08_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_08",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_st03",
+        "storyGroup": "act21side",
+        "storySort": 19,
+        "storyDependence": "act21side_level_act21side_08_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-ST-3",
+        "storyName": "剜刺",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_st03",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_st03",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_st03",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_09_beg",
+        "storyGroup": "act21side",
+        "storySort": 20,
+        "storyDependence": "act21side_level_act21side_st03",
+        "storyCanShow": 1,
+        "storyCode": "IS-9",
+        "storyName": "文明的謊言",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_09_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_09_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_09",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_09_end",
+        "storyGroup": "act21side",
+        "storySort": 21,
+        "storyDependence": "act21side_level_act21side_09_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-9",
+        "storyName": "文明的謊言",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_09_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_09_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_09",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_10_beg",
+        "storyGroup": "act21side",
+        "storySort": 22,
+        "storyDependence": "act21side_level_act21side_09_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-10",
+        "storyName": "“狼之主”",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_10_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_10_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_10",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_10_end",
+        "storyGroup": "act21side",
+        "storySort": 23,
+        "storyDependence": "act21side_level_act21side_10_beg",
+        "storyCanShow": 1,
+        "storyCode": "IS-10",
+        "storyName": "“狼之主”",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_10_end",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_10_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_10",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "act21side_level_act21side_st04",
+        "storyGroup": "act21side",
+        "storySort": 24,
+        "storyDependence": "act21side_level_act21side_10_end",
+        "storyCanShow": 1,
+        "storyCode": "IS-ST-4",
+        "storyName": "縫合",
+        "storyPic": null,
+        "storyInfo": "info/activities/act21side/level_act21side_st04",
+        "storyCanEnter": 1,
+        "storyTxt": "activities/act21side/level_act21side_st04",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "act21side_st04",
             "minState": 1,
             "maxState": 3
           }
@@ -20103,6 +20771,755 @@
       }
     ]
   },
+  "main_11": {
+    "id": "main_11",
+    "name": "淬火塵霾",
+    "entryType": "MAINLINE",
+    "actType": "MAIN_STORY",
+    "startTime": -1,
+    "endTime": -1,
+    "startShowTime": 1691652600,
+    "endShowTime": -1,
+    "replicateActionId": "",
+    "remakeStartTime": -1,
+    "remakeEndTime": -1,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": [],
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-01_beg",
+        "storyGroup": "main_11",
+        "storySort": 89,
+        "storyDependence": "main_11_level_main_11-01_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-1",
+        "storyName": "維護榮耀",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-01_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-01_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-01",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-01_end",
+        "storyGroup": "main_11",
+        "storySort": 90,
+        "storyDependence": "main_11_level_main_11-01_end",
+        "storyCanShow": 0,
+        "storyCode": "11-1",
+        "storyName": "維護榮耀",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-01_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-01_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-01",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-02_beg",
+        "storyGroup": "main_11",
+        "storySort": 91,
+        "storyDependence": "main_11_level_main_11-02_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-2",
+        "storyName": "一絲光亮",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-02_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-02_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-02",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-02_end",
+        "storyGroup": "main_11",
+        "storySort": 92,
+        "storyDependence": "main_11_level_main_11-02_end",
+        "storyCanShow": 0,
+        "storyCode": "11-2",
+        "storyName": "一絲光亮",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-02_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-02_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-02",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-03_beg",
+        "storyGroup": "main_11",
+        "storySort": 93,
+        "storyDependence": "main_11_level_main_11-03_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-3",
+        "storyName": "蒸汽升騰",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-03_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-03_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-03",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-03_end",
+        "storyGroup": "main_11",
+        "storySort": 94,
+        "storyDependence": "main_11_level_main_11-03_end",
+        "storyCanShow": 0,
+        "storyCode": "11-3",
+        "storyName": "蒸汽升騰",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-03_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-03_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-03",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_st_11-01",
+        "storyGroup": "main_11",
+        "storySort": 95,
+        "storyDependence": "main_11_level_st_11-01",
+        "storyCanShow": 0,
+        "storyCode": "11-4",
+        "storyName": "何謂理想",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_st_11-01",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_st_11-01",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "st_11-01",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-04_beg",
+        "storyGroup": "main_11",
+        "storySort": 96,
+        "storyDependence": "main_11_level_main_11-04_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-5",
+        "storyName": "等價交換",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-04_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-04_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-04",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-04_end",
+        "storyGroup": "main_11",
+        "storySort": 97,
+        "storyDependence": "main_11_level_main_11-04_end",
+        "storyCanShow": 0,
+        "storyCode": "11-5",
+        "storyName": "等價交換",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-04_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-04_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-04",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-05_beg",
+        "storyGroup": "main_11",
+        "storySort": 98,
+        "storyDependence": "main_11_level_main_11-05_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-6",
+        "storyName": "演繹文明",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-05_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-05_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-05",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-06_end",
+        "storyGroup": "main_11",
+        "storySort": 99,
+        "storyDependence": "main_11_level_main_11-06_end",
+        "storyCanShow": 0,
+        "storyCode": "11-7",
+        "storyName": "捲入洪流",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-06_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-06_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-06",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-07_beg",
+        "storyGroup": "main_11",
+        "storySort": 100,
+        "storyDependence": "main_11_level_main_11-07_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-8",
+        "storyName": "停滯",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-07_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-07_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-07",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-07_end",
+        "storyGroup": "main_11",
+        "storySort": 101,
+        "storyDependence": "main_11_level_main_11-07_end",
+        "storyCanShow": 0,
+        "storyCode": "11-8",
+        "storyName": "停滯",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-07_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-07_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-07",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-08_beg",
+        "storyGroup": "main_11",
+        "storySort": 102,
+        "storyDependence": "main_11_level_main_11-08_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-9",
+        "storyName": "以命換命",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-08_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-08_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-08",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-08_end",
+        "storyGroup": "main_11",
+        "storySort": 103,
+        "storyDependence": "main_11_level_main_11-08_end",
+        "storyCanShow": 0,
+        "storyCode": "11-9",
+        "storyName": "以命換命",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-08_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-08_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-08",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_st_11-02",
+        "storyGroup": "main_11",
+        "storySort": 104,
+        "storyDependence": "main_11_level_st_11-02",
+        "storyCanShow": 0,
+        "storyCode": "11-10",
+        "storyName": "異路相對",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_st_11-02",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_st_11-02",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "st_11-02",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-09_beg",
+        "storyGroup": "main_11",
+        "storySort": 105,
+        "storyDependence": "main_11_level_main_11-09_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-11",
+        "storyName": "立場不同",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-09_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-09_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-09",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-10_end",
+        "storyGroup": "main_11",
+        "storySort": 106,
+        "storyDependence": "main_11_level_main_11-10_end",
+        "storyCanShow": 0,
+        "storyCode": "11-12",
+        "storyName": "洶湧而來",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-10_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-10_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-10",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-12_beg",
+        "storyGroup": "main_11",
+        "storySort": 107,
+        "storyDependence": "main_11_level_main_11-12_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-14",
+        "storyName": "一場相見",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-12_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-12_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-12",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-12_end",
+        "storyGroup": "main_11",
+        "storySort": 108,
+        "storyDependence": "main_11_level_main_11-12_end",
+        "storyCanShow": 0,
+        "storyCode": "11-14",
+        "storyName": "一場相見",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-12_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-12_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-12",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-13_beg",
+        "storyGroup": "main_11",
+        "storySort": 109,
+        "storyDependence": "main_11_level_main_11-13_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-15",
+        "storyName": "土地震顫",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-13_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-13_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-13",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-14_end",
+        "storyGroup": "main_11",
+        "storySort": 110,
+        "storyDependence": "main_11_level_main_11-14_end",
+        "storyCanShow": 0,
+        "storyCode": "11-16",
+        "storyName": "榮光獵場",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-14_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-14_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-14",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-15_beg",
+        "storyGroup": "main_11",
+        "storySort": 111,
+        "storyDependence": "main_11_level_main_11-15_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-17",
+        "storyName": "回答我",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-15_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-15_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-15",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-15_end",
+        "storyGroup": "main_11",
+        "storySort": 112,
+        "storyDependence": "main_11_level_main_11-15_end",
+        "storyCanShow": 0,
+        "storyCode": "11-17",
+        "storyName": "回答我",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-15_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-15_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-15",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-17_beg",
+        "storyGroup": "main_11",
+        "storySort": 113,
+        "storyDependence": "main_11_level_main_11-17_beg",
+        "storyCanShow": 0,
+        "storyCode": "11-19",
+        "storyName": "直指命運",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-17_beg",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-17_beg",
+        "avgTag": "行動前",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-17",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_main_11-17_end",
+        "storyGroup": "main_11",
+        "storySort": 114,
+        "storyDependence": "main_11_level_main_11-17_end",
+        "storyCanShow": 0,
+        "storyCode": "11-19",
+        "storyName": "直指命運",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_main_11-17_end",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_main_11-17_end",
+        "avgTag": "行動後",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "main_11-17",
+            "minState": 2,
+            "maxState": 3
+          }
+        ]
+      },
+      {
+        "storyReviewType": 0,
+        "storyId": "main_11_level_st_11-03",
+        "storyGroup": "main_11",
+        "storySort": 115,
+        "storyDependence": "main_11_level_st_11-03",
+        "storyCanShow": 0,
+        "storyCode": "11-21",
+        "storyName": "不可避免",
+        "storyPic": null,
+        "storyInfo": "info/obt/main/level_st_11-03",
+        "storyCanEnter": 1,
+        "storyTxt": "obt/main/level_st_11-03",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 1,
+        "requiredStages": [
+          {
+            "stageId": "st_11-03",
+            "minState": 1,
+            "maxState": 3
+          }
+        ]
+      }
+    ]
+  },
   "story_12fce_set_1": {
     "id": "story_12fce_set_1",
     "name": "一些選擇",
@@ -26142,6 +27559,580 @@
         "storyInfo": "info/obt/memory/story_beewax_1_1",
         "storyCanEnter": 0,
         "storyTxt": "obt/memory/story_beewax_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_glider_set_1": {
+    "id": "story_glider_set_1",
+    "name": "苦澀的根莖",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_glider_set_1_story_1",
+        "storyGroup": "story_glider_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "苦澀的根莖",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_glider_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_glider_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_windft_set_1": {
+    "id": "story_windft_set_1",
+    "name": "老工廠裡的一支舞",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_windft_set_1_story_1",
+        "storyGroup": "story_windft_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "老工廠裡的一支舞",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_windft_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_windft_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_rockr_set_1": {
+    "id": "story_rockr_set_1",
+    "name": "六百鎊",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_rockr_set_1_story_1",
+        "storyGroup": "story_rockr_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "六百鎊",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_rockr_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_rockr_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_totter_set_1": {
+    "id": "story_totter_set_1",
+    "name": "計劃外的情況，我會自行判斷。",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_totter_set_1_story_1",
+        "storyGroup": "story_totter_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "計劃外的情況，我會自行判斷。",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_totter_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_totter_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_vigil_set_1": {
+    "id": "story_vigil_set_1",
+    "name": "未來將至",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_vigil_set_1_story_1",
+        "storyGroup": "story_vigil_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "未來將至",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_vigil_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_vigil_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_f12yin_set_2": {
+    "id": "story_f12yin_set_2",
+    "name": "赴罪",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_f12yin_set_2_story_1",
+        "storyGroup": "story_f12yin_set_2",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "赴罪",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_f12yin_2_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_f12yin_2_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_wildmn_set_1": {
+    "id": "story_wildmn_set_1",
+    "name": "憧憬",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_wildmn_set_1_story_1",
+        "storyGroup": "story_wildmn_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "憧憬",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_wildmn_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_wildmn_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_elysm_set_1": {
+    "id": "story_elysm_set_1",
+    "name": "漫長旅途",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_elysm_set_1_story_1",
+        "storyGroup": "story_elysm_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "漫長旅途",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_elysm_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_elysm_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_meteo_set_1": {
+    "id": "story_meteo_set_1",
+    "name": "一星螢火",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_meteo_set_1_story_1",
+        "storyGroup": "story_meteo_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "一星螢火",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_meteo_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_meteo_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_spot_set_1": {
+    "id": "story_spot_set_1",
+    "name": "誰是英雄",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_spot_set_1_story_1",
+        "storyGroup": "story_spot_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "誰是英雄",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_spot_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_spot_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_astesi_set_1": {
+    "id": "story_astesi_set_1",
+    "name": "啟明",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_astesi_set_1_story_1",
+        "storyGroup": "story_astesi_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "啟明",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_astesi_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_astesi_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_takila_set_1": {
+    "id": "story_takila_set_1",
+    "name": "尖刺的滋味",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_takila_set_1_story_1",
+        "storyGroup": "story_takila_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "尖刺的滋味",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_takila_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_takila_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_deepcl_set_1": {
+    "id": "story_deepcl_set_1",
+    "name": "幽藍懷想",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_deepcl_set_1_story_1",
+        "storyGroup": "story_deepcl_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "幽藍懷想",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_deepcl_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_deepcl_1_1",
+        "avgTag": "幕間",
+        "unLockType": "STAGE_CLEAR",
+        "costItemType": "NONE",
+        "costItemId": null,
+        "costItemCount": 0,
+        "stageCount": 0,
+        "requiredStages": null
+      }
+    ]
+  },
+  "story_robrta_set_1": {
+    "id": "story_robrta_set_1",
+    "name": "輓歌",
+    "entryType": "NONE",
+    "actType": "NONE",
+    "startTime": 0,
+    "endTime": 0,
+    "startShowTime": 0,
+    "endShowTime": 0,
+    "replicateActionId": null,
+    "remakeStartTime": 0,
+    "remakeEndTime": 0,
+    "storyEntryPicId": null,
+    "storyPicId": null,
+    "storyMainColor": null,
+    "storyCompleteMedalId": null,
+    "rewards": null,
+    "infoUnlockDatas": [
+      {
+        "storyReviewType": 0,
+        "storyId": "story_robrta_set_1_story_1",
+        "storyGroup": "story_robrta_set_1",
+        "storySort": 0,
+        "storyDependence": null,
+        "storyCanShow": 0,
+        "storyCode": null,
+        "storyName": "輓歌",
+        "storyPic": null,
+        "storyInfo": "info/obt/memory/story_robrta_1_1",
+        "storyCanEnter": 0,
+        "storyTxt": "obt/memory/story_robrta_1_1",
         "avgTag": "幕間",
         "unLockType": "STAGE_CLEAR",
         "costItemType": "NONE",

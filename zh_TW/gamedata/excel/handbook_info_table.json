@@ -3621,7 +3621,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_meteo_set_1",
+          "storySetName": "一星螢火",
+          "sortId": 1,
+          "storyGetTime": 1694503800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_meteo_set_1_story_1",
+              "storySetId": "story_meteo_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "那是我們的語言，每個詞彙都是懷想，都是希望。",
+              "storyInfo": "info/obt/memory/story_meteo_1_1",
+              "storyTxt": "obt/memory/story_meteo_1_1"
+            }
+          ],
+          "charId": "char_219_meteo"
+        }
+      ]
     },
     "char_158_milu": {
       "charID": "char_158_milu",
@@ -9077,7 +9111,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_deepcl_set_1",
+          "storySetName": "幽藍懷想",
+          "sortId": 1,
+          "storyGetTime": 1693294200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_deepcl_set_1_story_1",
+              "storySetId": "story_deepcl_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "那是她自己的藍色。",
+              "storyInfo": "info/obt/memory/story_deepcl_1_1",
+              "storyTxt": "obt/memory/story_deepcl_1_1"
+            }
+          ],
+          "charId": "char_110_deepcl"
+        }
+      ]
     },
     "char_166_skfire": {
       "charID": "char_166_skfire",
@@ -12119,7 +12187,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_spot_set_1",
+          "storySetName": "誰是英雄",
+          "sortId": 1,
+          "storyGetTime": 1694503800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "1",
+              "unlockParam2": "55",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_spot_set_1_story_1",
+              "storySetId": "story_spot_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "或許，迎接真實的自己也是一種英雄的業績？",
+              "storyInfo": "info/obt/memory/story_spot_1_1",
+              "storyTxt": "obt/memory/story_spot_1_1"
+            }
+          ],
+          "charId": "char_284_spot"
+        }
+      ]
     },
     "char_281_popka": {
       "charID": "char_281_popka",
@@ -13053,7 +13155,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_astesi_set_1",
+          "storySetName": "啟明",
+          "sortId": 1,
+          "storyGetTime": 1693294200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_astesi_set_1_story_1",
+              "storySetId": "story_astesi_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "點亮明日的，不止有星辰。",
+              "storyInfo": "info/obt/memory/story_astesi_1_1",
+              "storyTxt": "obt/memory/story_astesi_1_1"
+            }
+          ],
+          "charId": "char_274_astesi"
+        }
+      ]
     },
     "char_326_glacus": {
       "charID": "char_326_glacus",
@@ -17892,7 +18028,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_elysm_set_1",
+          "storySetName": "漫長旅途",
+          "sortId": 1,
+          "storyGetTime": 1694503800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_elysm_set_1_story_1",
+              "storySetId": "story_elysm_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "在離開家鄉後，你是否已經如願看過那些不一樣的風景？",
+              "storyInfo": "info/obt/memory/story_elysm_1_1",
+              "storyTxt": "obt/memory/story_elysm_1_1"
+            }
+          ],
+          "charId": "char_401_elysm"
+        }
+      ]
     },
     "char_250_phatom": {
       "charID": "char_250_phatom",
@@ -22527,6 +22697,39 @@
             }
           ],
           "charId": "char_264_f12yin"
+        },
+        {
+          "storySetId": "story_f12yin_set_2",
+          "storySetName": "赴罪",
+          "sortId": 2,
+          "storyGetTime": 1694503800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "60",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "200",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_f12yin_set_2_story_1",
+              "storySetId": "story_f12yin_set_2",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "雖感彷徨，仍要握緊雙拳，面對漫漫長路。",
+              "storyInfo": "info/obt/memory/story_f12yin_2_1",
+              "storyTxt": "obt/memory/story_f12yin_2_1"
+            }
+          ],
+          "charId": "char_264_f12yin"
         }
       ]
     },
@@ -26568,7 +26771,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_takila_set_1",
+          "storySetName": "尖刺的滋味",
+          "sortId": 1,
+          "storyGetTime": 1693294200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_takila_set_1_story_1",
+              "storySetId": "story_takila_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "青年的志向已有決斷，儘管浪濤依舊在拍擊海岸。",
+              "storyInfo": "info/obt/memory/story_takila_1_1",
+              "storyTxt": "obt/memory/story_takila_1_1"
+            }
+          ],
+          "charId": "char_486_takila"
+        }
+      ]
     },
     "char_479_sleach": {
       "charID": "char_479_sleach",
@@ -26916,7 +27153,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_robrta_set_1",
+          "storySetName": "輓歌",
+          "sortId": 1,
+          "storyGetTime": 1693294200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_robrta_set_1_story_1",
+              "storySetId": "story_robrta_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "挽歌的演奏者自吟自賞。",
+              "storyInfo": "info/obt/memory/story_robrta_1_1",
+              "storyTxt": "obt/memory/story_robrta_1_1"
+            }
+          ],
+          "charId": "char_484_robrta"
+        }
+      ]
     },
     "char_430_fartth": {
       "charID": "char_430_fartth",
@@ -27530,7 +27801,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_wildmn_set_1",
+          "storySetName": "憧憬",
+          "sortId": 1,
+          "storyGetTime": 1694503800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_wildmn_set_1_story_1",
+              "storySetId": "story_wildmn_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "哪一面是真實的他？",
+              "storyInfo": "info/obt/memory/story_wildmn_1_1",
+              "storyTxt": "obt/memory/story_wildmn_1_1"
+            }
+          ],
+          "charId": "char_496_wildmn"
+        }
+      ]
     },
     "char_4000_jnight": {
       "charID": "char_4000_jnight",
@@ -27818,7 +28123,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_glider_set_1",
+          "storySetName": "苦澀的根莖",
+          "sortId": 1,
+          "storyGetTime": 1691652600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_glider_set_1_story_1",
+              "storySetId": "story_glider_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "偏見與隔閡看似不可撼動，但總得有人，也總會有人做些什麼。",
+              "storyInfo": "info/obt/memory/story_glider_1_1",
+              "storyTxt": "obt/memory/story_glider_1_1"
+            }
+          ],
+          "charId": "char_449_glider"
+        }
+      ]
     },
     "char_4004_pudd": {
       "charID": "char_4004_pudd",
@@ -29961,7 +30300,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_rockr_set_1",
+          "storySetName": "六百鎊",
+          "sortId": 1,
+          "storyGetTime": 1691652600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_rockr_set_1_story_1",
+              "storySetId": "story_rockr_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "這場雪從天明下到天黑，又從天黑下到天明。",
+              "storyInfo": "info/obt/memory/story_rockr_1_1",
+              "storyTxt": "obt/memory/story_rockr_1_1"
+            }
+          ],
+          "charId": "char_4040_rockr"
+        }
+      ]
     },
     "char_4041_chnut": {
       "charID": "char_4041_chnut",
@@ -30841,7 +31214,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_windft_set_1",
+          "storySetName": "老工廠裡的一支舞",
+          "sortId": 1,
+          "storyGetTime": 1691652600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_windft_set_1_story_1",
+              "storySetId": "story_windft_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "\t“今天的工廠燈火通明，像昨天傍晚我說愛你時的夕陽 。”\n——工人們最常唱的一首歌",
+              "storyInfo": "info/obt/memory/story_windft_1_1",
+              "storyTxt": "obt/memory/story_windft_1_1"
+            }
+          ],
+          "charId": "char_433_windft"
+        }
+      ]
     },
     "char_4046_ebnhlz": {
       "charID": "char_4046_ebnhlz",
@@ -32973,6 +33380,1234 @@
             }
           ],
           "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_157_dagda": {
+      "charID": "char_157_dagda",
+      "drawName": "Infukun",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】達格達\n【性別】女\n【戰鬥經驗】七年\n【出身地】維多利亞\n【生日】7月9日\n【種族】菲林\n【身高】155cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】優良\n【生理耐受】標準\n【戰術規劃】標準\n【戰鬥技巧】優良\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "達格達，原倫蒂尼姆塔樓騎士，現格拉斯哥幫成員。隨推進之王一同加入羅德島，作為推進之王小隊一員，活躍在各項攻堅任務中。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員達格達沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.11u/L\n幹員達格達甚少接觸源石。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "相比其他格拉斯哥幫成員，達格達更快適應了羅德島的行動風格。她對各項戰術的執行能力極強，既能配合完成團體作戰，也具備獨立行動的應變能力。她有著高超細膩的戰鬥技巧，進攻時顯得精準而高效。\n只是，不同於摩根與因陀羅，任務之外的達格達總是與其他幹員保持著一定的距離，甚至稍顯不近人情。\n這並不意味著達格達只是一名冷酷的戰士。野外任務中，她曾經不眠不休，為幾位病重的感染者守了好幾夜。或許過往的經歷要求她保持冷靜，使她不那麼擅長表達情感，但她用一次又一次的行動表明，她就像其他羅德島幹員一樣，始終會對需要幫助的人伸出友善的手。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "達格達的服飾風格相當搶眼，這一點與她略顯嚴肅的性格不太相符。當被問及為何會選擇這些衣飾的時候，她總是一本正經地答道，“任務需要”。作為一名從薩卡茲手中逃脫的塔樓騎士，她與推進之王習慣了隱藏身份，而這身與騎士鎧甲天差地別的裝束的確能起到不錯的偽裝效果。\n然而，達格達藏在幹員宿舍中的時尚期刊及郵購的流行飾品還是顯露出了她的真實喜好。在幹員酸糖舉辦的走廊滑板大賽和幹員紅豆的食堂午夜搖滾音樂會中，大家也常常能看到她的身影。很快，除了“塔樓騎士”達格達與“格拉斯哥幫成員”達格達之外，幹員們也開始熟悉“龐克少女”達格達。\n“誰讓她憋壞了啊？我們在街上喝酒幹架的時候，她都要嘛在背塔樓騎士行為準則，要嘛在一板一眼地練劍。整整十年啊，好不容易跑出來，又張口閉口都是責任啊使命啊......我和因陀羅都聽煩了。好不容易有了這點小愛好，也算個釋放壓力的方式吧？就當是遲到的叛逆期了。”——摩根",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "格拉斯哥幫戰鬥指南：\n“第一條，叫盡可能多的人來。”\n“第二條，眼神要狠，罵人要凶，氣勢上先壓人一頭。”\n“第三條，比對方先動手，一動手就直取要害。啊，什麼要害？不是說頸動脈啊心臟這種，你是要害我們一塊進監獄嗎？”\n“第四條，也是最重要的一條。該跑的時候記得跑，別老是一個人杵在那想著以一檔十......逞什麼英雄呢？還當你是最後一個騎士啊？”\n“......”\n“抱歉。唉我難得道歉的，你把剛才那句刪了吧？沒關係？好吧，我這人反正記性沒那麼好，你要是真難過了......難過了多找我打幾架，我幫你發洩發洩啊。”\n——摘自達格達錄下的因陀羅教她如何打架的語音\n除了語音之外，達格達還記了好幾本筆記，包括一些具體招式的示意圖，以及詳盡的實戰總結。筆記上最前面幾次戰鬥都發生在她和因陀羅還有摩根之間。從這些記錄能看出，她當時被揍得很慘。\n“推進之王對我的警惕是理所應當的，因為促使她們離開倫蒂尼姆的正是一些貴族的卑劣行徑。我需要用行動來證明自己對推進之王的忠誠。”回顧當初的會面過程，達格達並未埋怨對她出手的因陀羅和摩根，“後來為什麼還經常跟她們一塊打群架？都是練習，是為了讓我學習一些新的戰鬥技巧......才不是我也喜歡上街頭鬥毆啦！”",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "伊莎貝爾·孟塔古，第三代曼徹斯特伯爵之女。\n十一歲時開始進行騎士訓練，十六歲時完成宣誓，正式成為塔樓騎士。\n二十一歲時，薩卡茲佔領議會廣場，對王宮前的塔樓發起進攻。僅存的二十九名塔樓騎士在警戒長芬恩的率領下與薩卡茲殊死一戰。其餘塔樓騎士皆戰死，只有她一人衝出重圍，踏上尋找王位繼承人的旅途。\n二十三歲時隨阿斯蘭的王嗣一同回到倫蒂尼姆。（劃去）\n二十三歲時與格拉斯哥幫其他成員一同回到倫蒂尼姆。\n——《塔樓騎士之書》，伊莎貝爾·孟塔古之頁的草稿\n《塔樓騎士之書》，記載著所有塔樓騎士生平，據說已有數百年歷史。按照傳統，只有一名塔樓騎士卸職或犧牲後，時任塔樓騎士警戒長才會為這名騎士書寫生平。\n然而如今在世的塔樓騎士只剩下一人。\n過去兩年間，達格達仔細整理並補充了二十八名犧牲同僚的書頁。而在回到倫蒂尼姆的路上，她再次取出這本由自己保管的書，並屢次在戰鬥間隙對著空白頁發呆。\n達格達知道，她或許應該像芬恩導師一樣，提前在書上留下自己的經歷。因為她已經準備好了在接下來的任何一場戰鬥中為自己發誓要守護的王嗣犧牲。\n可是每當她提起筆的時候，總會有人打斷她。有時候是格拉斯哥幫的夥伴，有時候是羅德島的人。這或許能讓達格達意識到，無論是作為格拉斯哥幫的一分子，還是作為羅德島幹員，她的未來都還很長。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "最開始的時候，她的確給了我一些壓力。\n她總是在各個場合敦促我，讓我儘快回到倫蒂尼姆，承擔起那些我本該承擔的責任。\n不，我並不怪她。與之相反，我擔心著這些約束了她十多年的責任遲早會壓垮她自己。\n你知道的，在諸王長眠之所，我們見到了......蒸汽騎士。我第一次看到她那麼激動。\n出來之後，我本以為她會受到打擊，或者感到些許迷茫。\n但她沒有。她與過去一樣堅定地陪伴著我們。\n唯一的差別是，她不再頻繁地在我面前提及與生俱來的使命與責任。\n我不確定是蒸汽騎士還是阿勒黛的遭遇影響了她。我只知道，如今守在我身邊的人，確實做出了自己的選擇，而不僅僅是受塔樓騎士的職責驅使。\n她是我的朋友達格達。\n——與推進之王的談話記錄",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_4062_totter": {
+      "charID": "char_4062_totter",
+      "drawName": "板板",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】鉛踝\n【性別】男\n【戰鬥經驗】二十年\n【出身地】薩爾貢\n【生日】6月21日\n【種族】黎博利\n【身高】185cm\n【礦石病感染情況】\n體表有源石結晶分佈，參照醫學檢測報告，確認為感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】普通\n【戰場機動】缺陷\n【生理耐受】標準\n【戰術規劃】標準\n【戰鬥技巧】標準\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "鉛踝，原名托特爾，居住在維多利亞邊境深林中的半隱退雇傭兵，為了償還人情選擇離開山林，冒著巨大風險來到倫蒂尼姆的戰場。在事件結束後，他選擇作為狙擊手偶爾參與羅德島的外勤工作。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為是礦石病感染者。\n\n【體細胞與源石融合率】7.8%\n左腳踝處有源石結晶分佈。\n\n【血液源石結晶密度】0.24u/L\n雖然鉛踝先生的病情趨於穩定，沒有惡化跡象，但腳踝處的病變卻一定程度損壞了他的行走能力。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "一年裡鉛踝先生留在艦上的日子屈指可數。除了彙報任務和例行檢查會來到這裡外，其他的時間他不是留在維多利亞的林中木屋中，便是在外執行任務。\n和鉛踝先生有交集的幹員並不算多，但曾在任務中與他同行的人無一例外，都對他展現出的洞察能力和執行能力表示肯定。但凡有他參與，任務完成的效率總會有顯著的提升，那些棘手的任務經過他的協調統籌，首先會按輕重緩急劃分為各個層次分明的小目標，按照順序逐個達成後，往往可以收獲不錯的成果。雖然這種工作方式曾被人詬病略顯死板，但對於精力有限，腿腳不便的鉛踝先生，此模式已經算是有限選擇中的最優解。\n在親歷倫蒂尼姆事件後，鉛踝先生本決定徹底隱退，從此遠離那沾滿血腥氣味的曾經，獨自回到維多利亞北部靠近雪境無人煙的林地中，繼續以獵人的老本行過活。現在的他看起來平靜溫和，對生活中發生的一切都雲淡風輕。煙塵、消毒水、鐵繡味和不絕於耳的慘叫已從他的生活中一絲絲抽離，取而代之的，是柴火、熱茶水、松香味和踩在雪地上的嘎吱聲。\n但偶爾，鉛踝先生乾脆凌厲的行事作風也會提醒我們，那些早已在他骨子中定型的東西，其實正悄然等待一個機會被重溫，無論他本人意願如何，都不會輕易改變。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "本艦的教官評價鉛踝是天生的狙擊手。氣象條件理想的情況下，遠視眼的他可以輕鬆看到百米外的目標，只靠裸眼便能捕捉到目標細微的動作，並在發現目標的當下做出精準果決的判斷以完成擊殺。\n鉛踝幼時便掌握的狩獵技巧在他成為狙擊手的道路上助力頗多，他出生在薩爾貢的一個小型雨林部落，地處偏僻，遠離現代文明，但部族中的獵手代代相傳，積累了豐富的狩獵經驗。鉛踝的父輩皆是族群內優秀老道的獵手，他們將自己辨認地形，判斷天氣，識別獵物的本領悉數傳授給年幼的鉛踝，不負眾望，鉛踝很快就掌握這些技巧，成為同輩中的佼佼者。除此外，鉛踝還具備另一項成為頂尖獵手的素質——耐心。在潮濕悶熱的雨林中，安靜的蟄伏幾乎是不可能的事情，鉛踝卻能夠憑藉他非凡的耐心，整日一動不動等待獵物進入自己的射程，而這在鉛踝日後的傭兵生涯中也展現頗多。\n成年後，他以雇傭兵狙擊手的身份陸續在薩爾貢、哥倫比亞和維多利亞遊歷，足跡遍佈各地，其中不乏條件惡劣，情勢複雜的作戰環境。為了擊殺目標，他可以在嚴寒的冬日隻身深入雪山等候數天，或者在烈日下紋絲不動地趴伏在滾燙沙地中。這些在外人看來無趣單調、艱苦孤獨的等待過程，鉛踝卻從不在報告中提及，只在結尾處用一句簡單的“任務完成”草草帶過。\n對於武器的選擇，鉛踝也有自己的講究，他臂力很好，所攜帶的箭支均是改自部族的狩獵專用箭支，專門用於擊殺重型目標，這種威力巨大的箭支在戰場上被多次使用來幫助前線幹員減輕作戰壓力，效果顯著。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“鉛踝先生，你的眼鏡已經製作好了，要佩戴試試嗎？一開始會感覺有些暈，是正常現象，站起來走一走，會習慣的。”\n“嗯，看得很清楚。”\n“怎麼了？一直看我。”\n“我看到你眼角下面有一顆眼屎，還在反光。”\n“......那不是眼屎，是我塗的高光。”\n“抱歉，我不是故意的。”\n“算了，我為什麼要和你講這些......怎麼樣，戴上眼鏡後有沒有什麼想要做的事情？”\n“看書吧？我已經很久都沒有看過書了。”\n“好想法，想不到你竟然是個喜歡看書的人。”\n“不，我不喜歡，紙頁上面的小字密密麻麻，盯久了眼睛會很累。”\n“你在逗我嗎？”\n“不是的，昨天在艦船上，我遇見了幾位幹員坐在會議室裡討論最近看過的書。看起來熱火朝天，很開心的樣子。\n“有人看到了我，請我進去講講。可我不看書，我的木屋裡只有收音機，很破，裡面傳出來的聲音更像是噪音，我只拿它聽天氣預報。\n“所以我只能一言不發坐在後面聽他們討論，裡面很多我都不懂，不過聽著很有意思。”\n“你對他們討論的內容產生了興趣，也想自己讀一讀？”\n“不是這樣的。\n“分享會結束時，我本想起身悄悄離開，但其中一個女孩叫住我，遞給了我一本書，她說，她想聽聽我對這本書的看法，她還說......期待下次見到我，其他人也這麼對我說，每一個人都說了。”\n“鉛踝先生，你上次離開自己的木屋是什麼時候？”\n“半年前吧。”\n“期間一直都是一個人嗎？”\n“嗯。”\n“......”\n“回去後記得不要在昏暗燈光下讀書，很傷眼睛。”\n“好的，我記住了，謝謝你，醫生。”",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在其他人面前，鉛踝從不掩飾自己對雪的喜愛，在他的木屋中有一個專門收藏雪花球的房間，在他那把不離身的弩箭上也掛著雪花掛飾，甚至他遞來的報銷單上總會被悄悄加進一項購買雪花球的支出。\n從交流記錄來看，鉛踝先生把自己對雪的迷戀歸結於童年時見到的一塊雪花標本，那是一支維多利亞的商隊路過雨林部落時留下的，它精美的模樣讓從沒見過雪的鉛踝先生對商人口中的雪景產生憧憬，也啟發了他對外部世界的想像。自此以後，鉛踝先生改變了留在部落的想法，決定在成年後離開家鄉。\n可那些從一片雪花開始的，也終會被厚厚積雪覆蓋。\n離開家鄉後，鉛踝先生遇到了非常投合的朋友，並在之後共同組建了屬於自己的雇傭兵團。在吸納了諸多訓練有素的戰鬥人員後，這個團隊漸具規模，名聲也愈發響亮。就在一切蒸蒸日上，所有人滿懷期望的時刻，一次意外導致團隊損失過半，而鉛踝先生也因此感染礦石病，幾乎喪失行走能力。不便繼續跟著團隊的他被留在了一片深林中，那片靠近雪境的樹林常有雪暴肆虐，常常上一刻是晴空萬里，下一刻便有狂風夾雜著冰雪毫無預兆地席捲而來。\n鉛踝先生曾坦言，脫離團隊後的他消沉了很長一段時間，直到有天，他正因止痛藥的作用昏昏欲睡，只聽見木屋外幾近破窗的冰雪暴在瘋狂咆哮，漸漸風暴停息，四周無聲息，一束陽光久違地打在他閉合的眼皮上，使他從繚繞的噩夢中甦醒，而後望向窗外，窗外那片望不到邊際的潔白林地上，數棵禿瘦筆直的杉樹狠狠刺進無雲的天空。奇跡般地，鉛踝先生從這樣的景致中收穫了難得的平靜心情，他不再為被拋下而感到痛苦哀傷，終於他對一切發生在自己身上的不幸感到釋懷。\n可在談論過程中，我注意到鉛踝先生眼光一直向下，數次用舌頭舔嘴唇，很明顯，他對我有所隱瞞。經過幾次追問，他始終不願對我吐露，甚至開始對談話產生抗拒。\n鉛踝先生的表現讓我不安，或許被埋在那片積雪之下的，不止有他的絕望與痛苦。我不禁有了極為可怖的猜想，那片無瑕的雪地，那個寒冷的冬天，他真的走出來了嗎？",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“我再添些柴火吧，我感覺你要凍僵了。”\n遞給你一杯熱水後，他轉身去撥弄壁爐下的火堆，火焰在裡面發出畢剝聲響，照得爐膛通紅。\n“從本艦到這裡你走了多遠？兩公里？三公里？”\n你沒有回答他，只是舉著熱水杯輕輕吹氣，在蒸汽的熏蒸下，你眉毛上的雪塊化成水從臉上滑稽地淌下來。\n“謝謝你順路來看我，吃豆子湯嗎？”爐中掛著的一隻湯罐裡傳出咕嘟聲，他沒等你回答便自己盛了一盤坐下來吃，吃相並不文雅，沒怎麼咀嚼就匆忙地咽了下去。\n“你不用擔心，我很好。”他用手背蹭蹭嘴角，語氣謹慎。\n“這裡的冬天沒有那麼可怕......捱過孤獨的人，是不怕寒冷的。”",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": [
+        {
+          "storySetId": "story_totter_set_1",
+          "storySetName": "計劃外的情況，我會自行判斷。",
+          "sortId": 1,
+          "storyGetTime": 1691652600,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_totter_set_1_story_1",
+              "storySetId": "story_totter_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "就算是一片荒蕪的廢墟，也會得到夕陽溫情的注目。",
+              "storyInfo": "info/obt/memory/story_totter_1_1",
+              "storyTxt": "obt/memory/story_totter_1_1"
+            }
+          ],
+          "charId": "char_4062_totter"
+        }
+      ]
+    },
+    "char_4071_peper": {
+      "charID": "char_4071_peper",
+      "drawName": "板板",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】明椒\n【性別】女\n【戰鬥經驗】二年\n【出身地】哥倫比亞\n【生日】3月13日\n【種族】薩卡茲\n【身高】155cm\n【礦石病感染情況】\n體表有源石結晶分佈，參照醫學檢測報告，確認為感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】標準\n【生理耐受】標準\n【戰術規劃】普通\n【戰鬥技巧】標準\n【源石技藝適應性】優良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "薩卡茲雇傭兵中的一員，自哥倫比亞被曼弗雷德召集至倫蒂尼姆，後因理念不合而帶小隊脫離原本陣營，受襲途中被搭救。\n現接受羅德島雇傭，為作戰小隊提供戰場醫療支援。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為是礦石病感染者。\n\n【體細胞與源石融合率】10%\n右臂及前胸處可見明顯源石結晶分佈。\n\n【血液源石結晶密度】0.26u/L\n幹員明椒患礦石病已有數年，目前病情穩定。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "這個自原本陣營中脫離的薩卡茲雇傭兵是個性格直爽，說話做事明快俐落的姑娘。\n在幹員明椒與羅德島的接觸背後，我們可以看到另外幾位與我們有關聯的薩卡茲人的身影，可以說，這個女孩和由她帶領的其他幾個薩卡茲雇傭兵，都是被人為引導至此的。\n明椒這個臉盤上還帶著幾分稚氣的薩卡茲女孩，在許多人看來還完全稱不上是一個合格的雇傭兵，充其量只不過是童子軍罷了。她年紀太輕，經驗不足，對許多事都缺少思考，像她這樣的孩子，本不該出現在倫蒂尼姆這樣的戰場之上——這是許多與其接觸過的幹員統一的意見。\n事實確實如此。\n明椒在哥倫比亞時，不過是跟著所屬的雇傭兵小隊當當護衛，殺殺野獸。當時的雇傭兵隊長格林接受特雷西斯陣營的召集，宣佈他們將前往倫蒂尼姆時，明椒甚至還不清楚這一次他們接下的委託究竟是要做什麼。\n出於對隊長的信任，懵懂無知的薩卡茲女孩就這樣走進倫蒂尼姆，渾噩地執行上層下達的命令，這種狀況一直維持到她被曼弗雷德帶回軍營，並在接下來的一段時間內，親眼目睹了什麼是真正的戰爭為止。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "明椒的父母都在明椒幼年時亡故，女孩從小跟著姥姥，在哥倫比亞一個小鎮生活。\n小鎮距離最近的移動城市有數小時車程，眾多拓荒者、感染者在此聚集，雖然生活並不富裕，但憑藉姥姥販賣手工編織物的所得，明椒的童年也勉強能夠算得上是快樂平穩。\n就像很多薩卡茲人一樣，明椒患上礦石病的時間非常早。據其本人口述，在十歲生日的早上，當她一覺醒來，揉著眼睛站到缺了一角的鏡子前時，她忽然發現自己的胸口冒出了一個小小的石頭。\n明椒立刻意識到，這代表她已經患上了礦石病。\n薩卡茲女孩的病情大部分時間較為平穩，基本沒有出現太過危急的情況，對於薩卡茲人來說，礦石病如影隨形，得病並非一件會將他們的人生攪得天翻地覆的大事。當一家公司、一個設施、一座城市拒絕薩卡茲時，他們往往並不會逐一判斷被拒之門外的薩卡茲是否真的是一位感染者。\n在確認患上礦石病後，明椒的成長經歷就變得十分順理成章：\n本就成績平平的她沒有機會再繼續念書，在讀的學校勸她主動退學，也沒有另一所學校願意接受她的入學申請。\n沒有學校可去的明椒先是幫著姥姥打理了一段時間手工編織物生意，隨後跟著本地的拓荒者開始在荒野上獵殺一些野獸賺取外快。在此過程中，明椒接觸到了一支薩卡茲雇傭兵小隊，在一段時間的相處之後，她選擇加入他們。\n畢竟，如果不做雇傭兵，像她這樣的一個薩卡茲又能做些什麼呢？",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【採購申請004】\n物品：\n黃色、綠色、紫色，還有白色的毛線各要一捆。\n黑色的要兩捆！\n用途：\n個人用途！\n備註：\n如果店家有折扣的話，可以多買一點！\n【採購申請005】\n物品：\n紅色、黑色、白色的毛線各兩捆。\n裝飾用彩珠一包。\n用途：\n個人用途！\n備註：\n上一次的牌子效果不是很好，這一次麻煩選品質好一點的，結實一點的毛線牌子！價格貴一點也沒關係，最好能耐炸......\n順便問一下，有誰知道W還有伊內絲她們一般多久會來一次本艦呢？\n【採購申請006】【已撤銷】\n物品：\n紅色、黑色、白色的毛線各十捆。\n用途：\n個人用途！！！\n備註：\n不用考慮耐不耐炸了，反正就是用來裝炸彈的。\n【採購申請007】\n物品：\n紅色、黑色、白色的毛線各十捆。\n裝飾用彩珠五包。\n用途：\n問W那個混蛋去！是她要用！\n她說可以報銷的......真的可以報銷對吧？！\n備註：\n買最便宜的！！\n\n【後勤部記錄】\n剛剛那個喜歡編織的薩卡茲小姑娘衝過來，把她剛提交的採購申請單直接搶回去了。\n這是她下午第二次來撤銷申請了。我看那個白頭髮玩炸彈的薩卡茲雇傭兵說什麼“你送的東西挺不錯的，適合拿來裝炸彈騙人，下回再多做幾個吧”就是在逗她玩，倒也不必真的給她做，這姑娘有點單純啊。\n報銷是不用想了，不過我看她織的東西還挺不錯的，或許她可以考慮一下做點成品，直接在艦內販賣，應該還能賺回本錢。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在一連串的經歷之後，這個他人眼中的孩子已經明顯有所成長。\n與直白且殘酷的現實正面相撞的衝擊，令明椒開始思考起許多從前並未考慮過的問題。比如重建卡茲戴爾對於薩卡茲來說，到底有著怎樣的意義？比如戰爭為何發生，人們為何坦然送命？\n就像是她之前渾渾噩噩時一樣，為什麼大多數參與戰爭的薩卡茲甚至都沒有一個戰鬥的理由，為什麼他們必須在戰場上做那道要嘛殺死別人，要嘛被人殺死的選擇題？\n生離死別是否真如老格林告訴她的一樣，對於雇傭兵來說，是如此常見而不值得悲傷落淚的一件事？\n許多問題，明椒尚沒能得出一個確定的答案。\n只是每當她看到手裡的舊煙盒，就總會想起還在哥倫比亞時的那個夜晚，雇傭兵小隊在野外支起帳篷，架起篝火，老格林坐在火堆邊，上年紀的薩卡茲人裸露在外的皮膚上滿是傷疤，扯動嘴角時露出的表情會將一般人嚇得腿軟，但他卻會把烤好的肉乾丟給隊裡的小姑娘，輕描淡寫得好像這並不是對年輕人的一種照顧。\n在他說起薩卡茲將過上好日子時，就連那張老臉上的疤痕也為之舒展。\n只是老格林運氣不算好，很快就在維多利亞送了命。被曼弗雷德扣押後，明椒拿著老工人給她的煙盒，開始嘗試去思考老格林想要的，是一種什麼樣的好日子。\n他們薩卡茲的好日子，是什麼樣？他們能不得礦石病嗎？還是能不必每年繳更多錢，不會因為是薩卡茲就在上學或招聘時因“不符合條件”而被拒絕？\n“我原本覺得當雇傭兵挺好的，我們就靠本事，能賺到錢。”\n幹員明椒這麼同我們的其他雇傭兵幹員訴說。\n“但他們說，我這樣根本算不上是合格的薩卡茲雇傭兵。他們說：‘你甚至沒殺過人’。\n“所以後來我想通了，我確定了。\n“不管曼弗雷德還有上面的大人物有什麼遠大目標，至少對於我來說，跟在曼弗雷德這種傢伙的身後，當一個習慣殺人的‘合格薩卡茲雇傭兵’，這絕對不是我想要的那種好日子！”",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【誤錄的通訊記錄】\n“我很關照她嗎？也沒有吧？我就是看她年紀小，又是新來的，所以拉她一把。”\n“啊？你什麼意思，我比她大！我當然比她要大！”\n“和是不是薩卡茲沒關係，也和她上周送我的毛線護膝沒關係！那副護膝完全是老年人才喜歡的款式，和我的衣服根本就不搭啊！”\n“這段時間她織了不少東西送人，說是多謝大家照顧她還是什麼的，挺多人都收到了，博士最近戴著的那個耳罩不就是她織的嘛。”\n“芙蓉也和我說挺喜歡她收到的那個小醫療包，確實還蠻實用的啦。但是為什麼到我這，就變成毛線護膝了？而且上面還掛了絨球......不對，重點不是這個！”\n“像她那種小丫頭，摻和到倫蒂尼姆這次的事情裡來算她運氣不好，不過看她人現在沒缺胳膊少腿，還能活蹦亂跳，想東想西，能存下錢定期往家裡寄，也不算很倒楣了。”\n“我看她給豆苗的磐蟹織的小東西就還挺不錯的，她們倆不還合計著要出周邊商品什麼的嗎？博士好像還投資了來著。”\n“有什麼不好？她當雇傭兵，只是因為不知道還有什麼其他路能走，又不是有什麼其他正經理由，如果找到其他想做的事，直接轉行又有什麼不行的？”\n“和她一樣莫名其妙被捲進來的人還有很多，我們是能拉她一把，但沒法幫她得出結論。要解決她自己的煩惱，只有她自己去看，去聽，去想。”\n“她自己可以的。”",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_4072_ironmn": {
+      "charID": "char_4072_ironmn",
+      "drawName": "一千",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】白鐵\n【性別】男\n【戰鬥經驗】一年\n【出身地】維多利亞\n【生日】4月11日\n【種族】菲林\n【身高】178cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】普通\n【戰場機動】標準\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】標準\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "白鐵，機械工程師，倫蒂尼姆市民自救軍十一小隊隊長。於倫蒂尼姆事件中與羅德島協同作戰，後與羅德島簽訂長期合作條款，作為工程幹員與行動隊成員活躍在維多利亞地區的各項任務中。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員白鐵沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.14u/L\n倫蒂尼姆的軍工廠為工人的日常防護提供了一定支援，但每年依舊有一定數量的工人感染礦石病。白鐵知道自己只是幸運而已。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "登上羅德島本艦之後，不到半天時間，白鐵就開始和工程部的幹員稱兄道弟。第二天起床，他從幹員宿舍走到食堂，又從食堂去往工坊，路過三層甲板，和至少十五名來自不同地區的幹員打了招呼，不僅沒有記錯一個人的名字，甚至還叫出了其中幾位的鮮有人知的本名。\n作戰記錄顯示，在倫蒂尼姆特別行動中，他是第一位主動對羅德島伸出友誼之手的自救軍成員。這無疑與他的性格密不可分。一名迅速成為他的朋友的工程幹員表示，白鐵並沒有使用什麼特殊的社交技巧。“只是，當一個人用那樣誠摯又熱烈的目光注視著你，主動向你伸出手的時候，你真的很容易被他感染，也就把他當作認識多年的好朋友了。”這位性格偏內斂的幹員如此感慨道。\n雖然自身性格活潑開朗，但白鐵並不會粗枝大葉地忽視其他人的想法，強行拉近距離。恰恰相反，他總能細心地留意到朋友們的心情變化。很多幹員都在情緒低谷期收到過白鐵親手製作的小禮物，被那些飽含巧思的小玩意兒逗得會心一笑。\n“自從費斯特來了以後，我這個老大在部門內部人氣排行榜上排名要下滑了啊！”可露希爾抱怨道，“我常常懷疑他想把我的人都挖走，不過轉念一想，我們已經先一步把他挖來了，幸好幸好......等等，他該不會是想擠掉我，自己來當首席工程師吧？！”",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "站在工坊裡的時候，白鐵的雙手很穩，穩得不像一名二十多歲的年輕人。\n在加入倫蒂尼姆市民自救軍之前，白鐵在倫蒂尼姆的軍工廠裡工作了近十年。而在成為一名正式工人之前，他又當了足足七八年的學徒。\n可以說，從能握得動鑽頭和扳手開始，他就是一名工匠了。\n維多利亞的機械工業極為發達，而倫蒂尼姆的軍工廠又是所有維多利亞工廠中最為先進的。這些工廠每一座都有著接近一個小型街區的大小，內部區塊分工明確，自動化流水線往來交錯，各種機械管道互相接駁，宛如發達的自成一體的交通網路。連通工廠內外的傳送帶確保了材料與中間產品在各個區塊間高效流轉，大大小小的機械臂承擔了絕大多數模式化的體力工作。而穿梭於大型機器之間的工人，主要負責這套機械化流水線系統的維護工作，從檢修到系統更新，確保每一個環節都不出差錯。即便只是一名普通工人，白鐵的工程學理論水準也不亞於哥倫比亞機械工程專業畢業的研究生。不僅如此，他動手能力也很強。設計再怎麼精密的機器也只是機器，一些需要更為細膩的觀察力與變通能力的製造環節，仍離不開經驗豐富的工人的雙手。\n這樣的工作模式與羅德島的工程幹員所習慣的有所不同。包括可露希爾在內，羅德島的工程師更多依賴個體的創造力完成工作。依據每個小組的工作習慣不同，工坊還被劃分成了許多個工作室。這導致了羅德島極少產出真正意義上的制式裝備，就連為同一位幹員量身定製的武器都可能在下一次維修時大變樣。\n白鐵迅速適應了羅德島工程幹員這個身份。一方面，他利用自己對自動化技術的瞭解，向可露希爾提供了一系列建議，大幅提升了羅德島本艦的基礎維護工作效率。另一方面，他興致勃勃地和每一位工程師交流，不斷地提出奇思妙想，並飛快地付諸實現。很快，他設計並製造的戰場用多功能平台就更新到了十三代，洛洛的無人機也在迅速地換代。他甚至借用了可露希爾改造Lancet-2等作業平台的技術，給自己的平台加上了一個顯示螢幕來表達情緒，用來配合正在開發中的智慧語音對話功能。\n“倫蒂尼姆那些過於發達的自動化機械一定程度上限制了他的發揮。”Mechanist評價道，“但他所受過的扎實訓練正是將過於奔放的想像力落地的基礎。”",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "白鐵出生並成長於倫蒂尼姆海布里區。\n所有人提起海布里區，第一印象都是大片的宏偉壯觀的工廠群，以及密集高聳的工人住房。受永不停轉的工廠的影響，空氣總是又濕又熱，而且彌漫著機油和鐵繡的味道。與寬敞的工廠內部不同，工廠外的一切總是擁擠的。地上軌道車站徑直穿過大樓，蔬果賣場緊挨著垃圾站。街道地面和住房的外牆上總是黏著一層黑垢，就連倫蒂尼姆連綿大半年的雨水都沖刷不掉。\n生活在海布里區的人絕大部分都是在這裡工作的工人。他們每天的大部分時間都在工廠裡度過，下班之後由軌道車送往各個廠區配套的員工宿舍。他們重複著忙碌的每一天，支撐起了這座龐大的以工業聞名的城市，卻往往連倫蒂尼姆其他區塊長什麼樣都沒見過。由市議會規劃的，位於地塊邊緣的高層宿舍樓就像一堵牆，擋住了工廠區飄向其他區塊的鐵繡味，也擋住了工人們的視線。奧克特里格區的博物館與歌劇院，瑪格納區的獨棟別墅和大花園，都與他們的生活無關。\n而白鐵描繪的海布里區，還有另一番景象。\n“你們在維多利亞一定吃過炸鱗和馬鈴薯餡餅吧？整個倫蒂尼姆，最棒的炸鱗店和餡餅店一定是在海布里區。我認識的那幾個老闆全都用料厚道，做得又快又好。如果一家小吃店做不到價廉物美的話，肯定沒法在海布里區長期開下去。\n“還有酒館。每周五下工之後我們都會去酒館待一會。你永遠不用擔心自己喝多了會回不了家，畢竟坐在你前後左右的都是朋友。\n“我最喜歡的還有宿舍樓裡的升降梯！哈哈，那是樓裡的工人一塊用建築廢料改造的，能一下從幾十樓滑到地下運輸管道入口。我小時候老在那爬上爬下，差點沒被奶奶揍爛屁股......”\n薩卡茲進入海布里區之後，幾乎沒有破壞任何工廠。外面的人眼中的海布里區，或許就跟過去一樣擁擠且忙碌。但白鐵知道，他珍愛的那部分生活已經消失了。大半小吃店都關了門，從工廠到酒館的路上總有薩卡茲雇傭兵在徘徊，而升降梯因為位置隱蔽難以監管，早早地被城防軍士兵破壞了。\n正如白鐵說的那樣，他之所以離開海布里區加入倫蒂尼姆市民自救軍，是為了“家園與自由”。支撐著他投身一場又一場艱險戰鬥的，正是他記憶中那份簡單的快樂。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "自救軍......我見過不少他們的人了。\n我看到的自救軍並不是一支軍隊，而是一批像費斯特一樣充滿了熱忱和希望的年輕人。他們的組織還很鬆散，也沒有明確的行動綱領。他們的目標究竟是什麼？是從薩卡茲手中救人，還是打敗薩卡茲？即使他們真能打敗薩卡茲，那下一步呢？他們會不會發現，給倫蒂尼姆人帶來痛苦的，並不僅是薩卡茲？\n這群年輕人自稱戰士，可實際上他們幾乎都沒有參與過真正的戰爭。\n而眼前這樣的戰爭，我過去經歷過許多次了。\n戰爭會帶來很多痛苦。最淺的是那些刀劍和炮彈帶來的外傷，然後是眼睜睜看著親朋犧牲卻無能為力帶來的自我懷疑與悔恨，而最深的那些傷痛，往往並非來自仇敵。\n費斯特總是很輕易地信任別人，尤其是信任那些被他稱作朋友的人。他以為所有人都會和他一樣，為了保護彼此，為了爭取好一點的未來而站出來，對抗共同的敵人。\n他並不明白......渴望美好的生活是本能，但為了更美好的生活而抗爭並不是。\n未來他一定會經歷更多背叛。背叛會在他心底裡留下不可磨滅的傷痕。\n像他這樣的年輕人，在活過這場戰爭之後，還能那麼容易信任他人，還能對生活抱著那樣純粹的希望嗎？\n以前我不相信。\n現在......呵，我必須承認，那小子比我想的要堅強些。我在他身上看到了去面對這些問題的勇氣。\n\n——摘自一名老工人與博士在倫蒂尼姆事件期間的某次對話",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“博士，我跟你說個笑話啊。我昨天做了個夢，夢見我偷偷給我們工廠也裝上了羅德島的引擎和履帶，它就能自己跑了，跑得比高速戰艦都要快，跑著跑著還飛了起來，越飛越高，飛到了一片漆黑的地方，周圍既沒有薩卡茲，也沒有什麼大公爵的軍隊。我還是不想停下來，於是我們的廠就繼續飛，前面明明什麼都沒有，給我的感覺卻是那麼廣闊......呃，這個夢是不是特別傻？不傻嗎？真巧，在我的夢裡，你也是像這樣陪著我一塊坐在工廠最高的地方。當我向你訴說繼續前行的渴望的時候，你也說我一點都不傻呢。”",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_4063_quartz": {
+      "charID": "char_4063_quartz",
+      "drawName": "伍秋秋秋秋",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】石英\n【性別】女\n【戰鬥經驗】兩年\n【出身地】哥倫比亞\n【生日】8月13日\n【種族】魯珀\n【身高】173cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】普通\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】標準\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "來自哥倫比亞的一名普通雇傭兵。\n雖然個人戰鬥技能不算突出，但考慮到她應變能力優秀，且能夠在複雜的戰場環境下，及時靈活有效地調整行動方案，她依舊可以成為一名堅實可靠的小隊幹員。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n體表未見明顯源石結晶特徵。\n\n【血液源石結晶密度】0.21u/L\n對於曾經作為拓荒隊成員，長期出入危險未知地帶的石英來說，能夠避免感染，無疑是幸運的。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "謹慎自律的魯珀傭兵。\n在羅德島的幹員測試中，石英實際表現出的對於巨劍的使用並不是特別地熟練，她甚至險些擊中作為裁判的杜賓教官。儘管如此，石英還是拒絕了接受其他武器訓練的建議，並為剛剛發生的意外向杜賓教官表示誠摯的歉意。\n\n“應該說哥倫比亞的傭兵並不像很多人想像的那樣充滿傳奇、陰謀、傳說。大多數情況下，它不過是普通人被迫選擇的一種工作方式。如果可能的話，多數情況下傭兵隊伍之間都會儘量避免流血衝突，畢竟大多數人只是為了賺錢養家而已，並不願意為此付出生命的代價。而石英會選擇這樣一種看起來充滿威懾力的武器，想必也是因為它能避免許多不必要的麻煩的發生。話雖如此，石英手中的巨劍也絕不是擺設。她在測試中所展現出的破壞力，定會讓那些不清醒的人吃盡苦頭。”",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“博士，你是在問這塊懷錶嗎？”\n\n“其實我也不知道它在什麼時候壞掉的......自從父親離開以後，它總是一刻不停地提醒著我何時該起床，何時該給母親餵藥，何時該出門工作，何時會遲到，何時又該抓緊時間下班回家。可它唯獨不會提醒我，哪一天是節日，哪一天是我的生日，哪一天我或許應該休息一下......”\n\n“只不過，有一天晚上我下班回家看著熟睡的母親。在那一瞬間，我突然不知道自己一直以來所做的一切是出於對母親的感情，還是出於對父親的承諾，抑或只是習慣了這樣的規律。即便是在母親去世以後，拓荒隊的生活其實並沒有太多的區別，唯一的變化無非是隨時變動的時間安排。但就如同這塊懷錶裡的齒輪一樣，依舊是被別人上好了發條，一刻不停地轉動下去。”\n\n“似乎......是離開拓荒隊的那天吧？當我和傭兵隊的隊友坐在營火旁，因為擔心時間太晚而掏出了懷錶，才發現它不知道在什麼時候已經停止了轉動。”",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“傭兵隊的各位在解散後大多回到了城市裡，畢竟他們依舊需要賺錢撫養年幼的孩子，照顧結伴的妻子，陪伴年邁的父母......”\n\n“我選擇了前往荒野的另一邊，畢竟我早已沒有任何牽掛與顧慮，即便是遊蕩在無人的荒野上，也從未感到過時間的漫長。那一年我去了很多地方，倒沒有什麼特別的目標和目的，只是單純地想去看看，或者只是偶然地路過。有人羡慕我的自由和灑脫，渴望卻終究無法和我一起成行。也有人說我的人生沒有意義，整日遊手好閒，一事無成。”\n\n“不過那的確是我最開心的一段時光了。”",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "哥倫比亞人與其說是遵守時間，不如說是被它所挾持。越來越多的公司開始採用自動化設備取代傳統的工作崗位以最大程度避免源石粉末帶來的感染問題。而對於像石英這樣的普通人來說，能準時準點地完成工作，似乎是他們唯一不會落後於機械的地方了。——來自傑克的日常報告\n\n“博士，其實對我來說，單純只是因為——如果工作遲到的話，就會被扣罰薪水。這意味著接下來的安排都會被打亂，意味著可能有幾天不得不餓著肚子，意味著沒法給母親購買計劃很久的禮物......”\n\n“啊......已經這個時間了嗎，對不起博士，這麼晚還來打擾你。自從來到羅德島以後，我有時候會忘記時間的流逝......”\n“不過博士你放心，明天所有的工作我都安排好了，從早上7點準時開始。你好好休息，其他的都交給我就好。”",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "怎麼？博士你是在找石英嗎？\n要不去食堂看看，她或許在和刻刀一起學習鑽研廚藝。要是不在的話......那說不定在某個角落和暴雨一起翻閱最新的連載漫畫；\n要不然就是在女生宿舍，宴總是會不厭其煩地跟她介紹最新的流行元素。話說博士你還沒有見過石英化妝的樣子吧？\n都沒有找到嗎？那我想想啊......\n說起來，我印象中的石英，每天的生活除了工作和訓練就再沒有別的安排，可以說是非常地刻板和規律。似乎是來了羅德島以後，才有了這麼多“額外”的活動。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_4014_lunacu": {
+      "charID": "char_4014_lunacu",
+      "drawName": "IRIS_囈",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】子月\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】敘拉古\n【生日】10月3日\n【種族】魯珀\n【身高】148cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】卓越\n【生理耐受】普通\n【戰術規劃】優良\n【戰鬥技巧】標準\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "子月，遊蕩在敘拉古荒野上的獵人，經由企鵝物流的介紹加入羅德島，擔任羅德島在敘拉古野外行動的嚮導，兼職狙擊幹員。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為是礦石病感染者。\n\n【體細胞與源石融合率】8%\n幹員子月在左腳踝處可見明顯源石結晶分佈。\n\n【血液源石結晶密度】0.22u/L\n幹員子月並沒有良好的礦石病防範意識，她的身體狀況並沒有她表現出來的那麼好。在醫療部的介入下，子月的病情逐漸穩定。她還算聽醫生們的話，前提是你能找得到她。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "子月是由企鵝物流的那位老闆介紹到羅德島的，那個饒舌界的大明星不知怎麼就出現在了羅德島的人事辦公室，一邊給我們簽名一邊把子月的檔案交到了我們手上。按他的說法，“這小姑娘也算是幫了點我家員工的忙，你們照看著點吧”。\n子月本人對於羅德島的工作邀約並沒有表現出任何猶豫，甚至我們懷疑她可能並不十分明白“一份工作”到底意味著什麼，當人事部的幹員向子月介紹她的職責時，她看起來完全沒有在聽，但當話題進展到公司福利時，子月立馬展現出了極高的熱情，並且天知道為什麼她已經摸清了羅德島本艦內的食堂在哪裡，我們只能說，這或許也從側面印證了她的情報搜集能力。\n我們本以為幹員測試不會進行得很順利，畢竟據我們所知，子月從沒接受過任何系統性的訓練。但她憑藉讓人驚歎的技巧俐落地完成了所有項目，她自豪地向教官們表示：“在外面，動動腦筋，幫獸群解決問題可是我的強項！阿涅塞都經常誇我聰明！”\n我不知道阿涅塞是誰，但就想盡辦法溜進倉庫這件事而言，子月確實很聰明，謝天謝地她至今沒搞清楚我們的保全系統是怎麼運作的。——後勤部幹員",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "幹員子月在荒野上長大。更確切的說法是，荒野養育了她。\n根據子月自己的陳述，從記事起，她就已經在外面和獸群生活在一起了，她的朋友阿涅塞教會了她如何炮製食物填飽肚子，如何使用弓箭，如何與獸群協作佈下包圍網，然後把獵物逼入絕境。根據我們的調查，子月確實領導了一個由數種牙獸構成的，客觀意義上的“獸群”，這確實十分令人費解，數種牙獸能夠在一個群落中和平共處已經足夠罕見，更何況，它們居然接受了一名人類的統轄。\n部分羅德島的研究人員曾一度懷疑她使用了某種能夠操縱野獸的源石技藝，但是子月本人否定了這一點。按照她的說法，“只要相處久了，自然就能明白它們想要什麼了，它們可沒什麼小心思。”但從人類已有的對於野生動物的觀察記錄來看，這種“相處”絕對沒有子月嘴上說的這麼簡單。\n我們注意到，子月經常提到她的那位朋友“阿涅塞”，這位阿涅塞毫無疑問在她與獸群的關係中扮演了十分重要的角色。從子月的言談中不難判斷，阿涅塞與其說是她的朋友，更像是她的養育者。子月一直聲稱阿涅塞就在她的身邊，也確有種種跡象表明，某種存在時常陪伴在子月的周圍，但無論借助何種手段，我們暫時都還沒有弄清楚，這位“阿涅塞”究竟是什麼人，或者，是什麼。\n【權限記錄】\n我與阿涅塞談過了，我們達成了一致。\n讓紅與子月出現在同一空間中或許仍有風險，但必須做出嘗試。倘若這種情況發生，我會儘量確保紅的狀態穩定，子月也會在阿涅塞的要求下保持克制。\n我知道紅去了敘拉古，我知道她做了什麼，這種毫無意義的衝突已經持續得夠久了。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "一張出現在博士辦公桌上的字條，其來源還在調查中：\n我注意到你與那幾位從沃爾西尼回來的人談過了，“博士”，希望我這麼稱呼你是正確的，反正別人都這麼喊你。你是個聰明的傢伙，你與我所見過的很多人......有著本質上的不同，或許你能回答我的疑問。\n生物常常被本性所困，無論是你們，還是我們。這種衝動有時被闡述為欲望，但在我看來，欲望可比它高級得多。欲望起碼應該出自自己的本心，而不是那些不受控的，下意識的傾向性舉動。更可笑的是，有些傢伙自以為從未被它蒙蔽，他們聲稱骨血中的渴求就是他們自己的渴求，他們以此為樂，以此為榮。沒錯，我說的就是扎羅，那可憐的傢伙。\n但我膩煩了，我累了，我的那些夥伴們恥笑大帝，他們覺得大帝就應該去凍原上用肚皮滑行，這就是他存在的意義，就像我們存在的意義就是角逐出一個頭狼，然後在漫長的時間後再角逐出下一個，還有再下一個。\n我撿到了子月，撫養了她，按照規則，她應該成為我的獠牙，負責折斷其他的獠牙，但是野獸的獠牙可不會笑，也不會瞪著雙眼睛瞧著你，問你些可愛的蠢問題。成為一位朋友的感覺不錯，比成為一個主人要好得多。\n我嘗試讓子月掙脫她既定的道路，但你要知道，慣性的力量比我們所預想的要大得多。就好比你們稱之為“紅”的那個傢伙，你們很努力地嘗試影響她，可她很難掙脫，這是她唯一所知的生活方式。她回到了敘拉古，你們的那位醫生告訴我她一定會回來，但願如此。\n我希望給子月找到一種新的生活，這也意味著我必須要抵抗那種源自本性的衝動。既然大帝做得到，我沒有理由不如他。\n或許你能幫助我們，或許你知道方法。展示給我看吧，讓我看看你如何擺脫本能，擺脫命運，“博士”。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【權限記錄】\n你已經注意到他們的存在了，博士。\n他們很神秘，很強大，他們幾乎不受我們所熟知的規則束縛，他們與源石截然相反。關於他們的研究很有限，因為往往研究者們並不能真正發現他們與我們最為深刻的區別。\n不管他們在你眼中呈現出什麼樣子，請記住，大帝與大祭司並不是什麼“長得奇怪的黎博利”，扎羅與阿涅塞也不是什麼“神出鬼沒的魯珀”，跟在維娜身邊的也不是任何一位從歷史中走出的阿斯蘭。\n他們當然不是野獸，也不似耶拉岡德或來自炎國的那些碎片。\n我不會說他們更為“本質”，沒有人有資格下這個定義，但如果我們有能力窺得這片大地的另一面，他們或許無處不在。\n他們有時會自稱“獸主”。但他們不會是任何東西的主宰，唯有這點，我可以保證。\n謹慎地接近他們吧，或許有一天，他們會為我們揭露這片大地最深處的秘密。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "我們必須警惕一種傾向，在羅德島內部，有一個恐怖的同盟正在形成。我還無法指出其中的每一位成員，但毫無疑問，子月和刻俄柏一定在其中。她們抓住一切機會，試圖繞過我們所把守的大門；她們想盡種種辦法，只為了滿足她們的欲望......別小瞧她們！你們注意到了嗎？她們在學習，在成長！她們已經學會了掩護和配合，倘若再假以時日......很好，我看到你們的表情了，牢牢記住你們現在的這份恐懼，牢牢記住我們的職責。\n升級我們的保全系統，緊緊盯住每一台監視器，不放過任何一個可疑的地點，警惕每一名潛在的同謀！\n那麼，有誰願意和我一起，去和可露希爾小姐談談提高食堂保全預算的事？——摘自食堂後勤主管的晨會記錄\n我們注意到，子月和刻俄柏很可能透過某種管道取得了這份會議記錄，並且已經在著手應對。她們倆已經神神秘秘地湊在一起三天了，這可不是什麼好兆頭。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_466_qanik": {
+      "charID": "char_466_qanik",
+      "drawName": "三目YYB",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】雪絨\n【性別】男\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】薩米\n【生日】12月12日\n【種族】沃爾珀\n【身高】169cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】普通\n【生理耐受】標準\n【戰術規劃】標準\n【戰鬥技巧】普通\n【源石技藝適應性】優良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "幹員雪絨，過去曾作為搜救隊員在薩米地區活動，有豐富的野外救援經驗。出生於薩米部落的他對外界知之甚少，為了尋求更高水準的醫療條件而走出薩米。現作為羅德島外勤幹員，為在惡劣環境中開展的任務提供支援。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員雪絨沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.13u/L\n幹員雪絨身體健康，且比看上去要強壯許多。在他過去生活的環境中，源石以一種相對溫和的方式被利用，他並未因接觸源石而染上礦石病。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "剛來到羅德島時，這艘大型艦船上的一切對於雪絨來說都是如此陌生。\n一開始，幹員們都以為雪絨是因為第一次來到大型企業而感到拘束，或是由於缺少經驗，難以適應繁瑣的文書流程。直到一些令人啼笑皆非的事件發生，大家才發現雪絨的確對於薩米之外的生活一無所知，其中最著名的莫過於“雪絨及門禁卡的徹夜激鬥”。據傳聞所說，剛分到宿舍的雪絨整整一夜都在宿舍門上尋找能把門禁卡插進去的“鑰匙孔”，無人知曉那夜最後發生了什麼。大家唯一知道的是第二天清晨，結束外勤歸來的室友返回宿舍，發現走廊上寒氣森森，而雪絨仍然蹲在宿舍門前。順著雪絨無助的眼光看去，他見到了畢生難忘的一幕——一片深深嵌入門中的門禁卡。\n來到羅德島後雪絨獲得了整套定製的現代化裝備，理論上可以極致地發揮他的法術天賦。但真實情況是，雪絨將法杖認成了棍形近戰武器，一個人在訓練室裡潛心苦練了許久，直到那根可憐的法杖斷為兩截。這一事件導致了原本安排的外勤任務被迫推遲，不過在此之後，雪絨學會了事先研讀說明書，四處向前輩請教。得益於認真學習的態度，很快雪絨就熟悉了所有的裝備，也如願以償地開始承擔外勤任務。現在的雪絨雖然偶爾還會下意識地按照過去的習慣思考，但對於如何適應外面的新生活，他顯然已掌握了訣竅。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "沒有外勤任務的日子裡，雪絨在照顧母親之於的一大樂趣，是與羅德島上的大家分享自己家鄉的故事。\n薩米，一片古老而神秘的土地，那裡發生的各種故事總能吸引無數好奇的目光。無論是部落中不為人知的種種習俗，還是雪絨在救援途中的離奇見聞，無一不受到幹員們的歡迎。但大家最喜歡的，還是那些在薩米人中口耳相傳的古老寓言，雪絨也總能在恰當的時機將故事娓娓道來。\n在一次難稱完美的任務後，面對著對任務結果無比沮喪的幹員們，雪絨講述了這樣一個故事：一名薩米部落的男孩，為了給患病的母親治病，踏上追尋夜空中燦爛光芒的旅途。只要在光芒的盡頭找到無言的巨大神明，就能獲得包治百病的甘露。他一路披風踐雪，歷經磨難來到了終點，卻只見到一片荒涼的凍原。\n“那他不是什麼也沒有得到哇？太可憐了。”有幹員歎息道。\n“不是這樣的。”\n雪絨講出了故事的結局：男孩雖然未能得見神明，但是他偶然摘走了凍原上並不引人注目的花朵。等他返回部落，才發現那竟然正是能夠治好母親的草藥。\n“只要勇敢前行，就算終點的天空不是所期待的那樣，我們真正想要實現的，或許已經出現在不曾注意的腳下。”\n對於雪絨自己來說，他的講述並非源於單純的分享欲。雪絨喜歡看見幹員們在聽完他的故事後，受到鼓舞而閃閃發光的眼睛。這讓雪絨切實地感到他有為大家做到些什麼，畢竟，他一直以來都在為幫助他人而努力。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "絕大多數部落裡的族人在出生之時就會被占卜預言未來，雪絨也不例外。“風雪滿途”，水晶球中的光芒如此昭示，似乎他今後將遭遇難以估量的困難，一生都在逆境中跋涉。\n當然，與所有的占卜結果類似，預言的解讀從來不止一個角度。\n雪絨的部落位於沼澤附近，他在小時候就遇見了進入薩米的哥倫比亞探險隊，和他們的接觸讓雪絨過早地見識到了生命的脆弱。在薩米陌生而危機叢生的環境中，無數心懷野望的探險家轉眼間化為冰雪覆蓋的荒塚。生命的凋零使他悲戚，長大後雪絨堅持加入部落的搜救隊，利用自己的能力救助那些陷入危境的人們。從探險隊那裡，雪絨曾對薩米之外的事略有耳聞，但在他看來外面是一片溫順的土地，遠不如薩米那樣危機四伏。\n那時他還不知道，會危及生命的並非只有可見的險境。疾病，當這種無形的威脅真正出現在雪絨面前時，他第一次感到束手無策：源石技藝只能緩解病痛，自己能從漫天的風雪中救出深陷其中的人，卻無法阻止病痛將生命吞噬殆盡。直到哥倫比亞探險隊帶來了先進的醫療器械，在隨隊醫生的救治下，許多族人的疾病得以治癒。自那之後雪絨才明白，薩米之外的人也飽受各種威脅，他們在長久的對抗中發展出了與部落截然不同的醫療手段，抵禦疾病他們更有經驗。要是部落裡也能有這樣的醫療條件該多好！雪絨從此有了接觸外界的想法，再後來，母親患病使他堅定了走出薩米的信念。\n“將外面的醫療技術帶回部落，為外面的人貢獻自己的力量。”\n從走出薩米的那一天起，雪絨就懷抱著這樣的理想。現實最終如他期望的那樣，加入羅德島後雪絨往返於部落與外界之間，為了兩方更好的未來而努力。某種意義上預言確實應驗了，在雪絨的道路上風雪從未遠去。只不過他所做的，始終是破開風雪，開闢道路，迎來希望。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "雪絨所在的部落是哥倫比亞探險家最愛的線路起點，不僅是因為更靠近神秘的北部山脈，還有一個重要原因是部落的搜救隊。他們是一群與危境搏鬥的勇士，憑自己對腳下古老土地的瞭解，屢次救回身處險境的探險家們。在志在北方的探險家眼裡，搜救隊幾乎等同於“希望”。\n但在這“希望”背後是搜救隊居高不下的傷亡率。除非主動退出，搜救隊是終身制。許多搜救隊成員由於多年在惡劣環境中跋涉，往往病痛纏身。而一旦在行動中遭遇極端情況，搜救隊員隨時都有嚴重負傷甚至犧牲的可能。根據雪絨的描述，他的兩位兄長都是因負傷而退隊，而他的父親，同樣是一位搜救隊員，在一次搜救行動中失蹤，再也沒能從風雪中歸來。長久以來，搜救隊承受著巨大的風險，並不亞於一般的探險隊。\n更讓人吃驚的是，這樣的組織竟然是在薩米部落中自發成立的。他們不要求任何回報，完全無私地實施援救。身為前搜救隊的成員，雪絨對於搜救隊的態度能在一定程度上代表著族人的普遍態度。\n“我常常夢見北方呼嘯的雪，那種恐怖真讓人忍不住想要逃走。我當然知道危險呀，但是我就是為此而存在的。”\n他的話語毫無恐懼，薩米人勇敢、善良、尊重生命的品質從中可見一斑。而薩米搜救隊正是從這些品質中誕生的，這一起源被外界普遍認可。\n然而，最近新發現的一條線索卻讓搜救隊的起源變得撲朔迷離：一位哥倫比亞探險家在筆記中記載，當探險隊第一次來到該部落時，已經見到了成組織的救援人員。這說明搜救隊並非是在部落與哥倫比亞人接觸後才出現，而是有著更久遠的歷史，謎團從此浮現：兼具悠久歷史與高風險，這樣的團體很難僅靠一腔熱血延續至今。救援隊真的是單純為了援救而出現的嗎？如果不是，那他們真正的目的是什麼？深入危難，從北方帶回受困者，到底是什麼令他們甘願付出生命？\n或許，他們真正的目的......正是這種行為本身？",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "前些日子，陸續有幹員收到了雪絨的禮物。\n禮物是突然派送的，這讓許多幹員一時摸不著頭腦，後來才從雪絨本人那裡得知原因：雪絨來到羅德島後，在適應生活的過程中得到了同事的幫助，羅德島也向薩米援助了大量的醫療器械，大大改善了部落的醫療條件。雪絨希望透過這些禮物，傳達自己與部落的感激之情。\n第一批禮物大都是薩米出產的手工藝品，或是薩米特有的樂器與植物標本，簡單而不失精緻，得到了幹員們的一致好評。當他們向雪絨道謝時，雪絨興奮的神情與“你們真的喜歡嗎”的追問給幹員們留下了深刻的印象。只有小部分幹員從中嗅到了一絲悚然的意味，他們都沒能預料到接下來會發生什麼。\n自此之後，雪絨越發熱衷於帶回薩米的特產，送出的禮物也越來越多，但禮物的類型越來越超出幹員的想像。造型詭異的護身符和以獸骨裝飾的刀具尚在接受範圍內，最奇特的禮物是一隻精美的木盒，其中卻散發出陣陣惡臭。根據雪絨附在旁邊的紙條可知，木盒中盛放的是“將捕獲的羽獸放入死去馱獸的肚子裡發酵而製成的食物”，在部落中被公認為難得的美味。在最後雪絨還特意提醒，一定要生食才能得到完整的味覺享受。顯而易見的是，不是所有幹員都有能力承受此等美味。直至今日，很多幹員仍不願回憶那天從被強行封閉的宿舍內飄出的氣味。\n儘管如此，薩米風還是由於雪絨的饋贈而在羅德島上流行起來：櫃中擺放的薩米木雕，餐廳菜單上常駐的薩米風味熟食，幹員們休息時也會時常穿上舒適又美觀的薩米特色織物。在雪絨的努力下，不僅部落因為外界的幫助而改善了生活條件，薩米的古老文化也褪去了神秘的外衣，以其獨特而純粹的美麗，逐漸為大家所接納。\n我們有理由相信，現在的雪絨已經成為了連接古老薩米與現代泰拉的橋樑，而他還會做得更好。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_427_vigil": {
+      "charID": "char_427_vigil",
+      "drawName": "hou",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】伺夜\n【性別】男\n【戰鬥經驗】八年\n【出身地】敘拉古\n【生日】1月15日\n【種族】魯珀\n【身高】174cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】標準\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】優良\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "敘拉古貝洛內家族最後一任領袖，敘拉古特別行政城市新沃爾西尼市長候補之一，透過幹員德克薩斯，代表所屬城市與羅德島建立合作關係。\n擅長中距離戰鬥，並且在種種任務上展現出了相當的謀略與領導力。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員伺夜沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.13u/L\n幹員伺夜甚少接觸源石。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "寡言少語的魯珀青年。\n雖然沒有公開身份，但是來自敘拉古，加上那一身並不遮掩的穿著打扮，大部分人都能隱約猜到伺夜的背景，以至於他第一次造訪羅德島時，所到之處總會突然被沉默籠罩。\n不過這種情況在引起麻煩之前，迅速被化解了——\n午餐時，同樣出身自敘拉古的賈維以一貫開朗的態度接近了他，跟在賈維身邊的奧斯塔與布洛卡，顯然面露難色。然而，周圍人預想中一觸即發的形勢並沒有出現，伺夜以非常平和的態度和賈維集團展開了交流。\n而這場交流的結果，竟是賈維勾著伺夜的肩膀，向周圍幹員表示，賈維集團將歡迎伺夜的到來。\n據當時在場的某個幹員回憶：\n“要不是大家知道賈維的性格，我當時差點都要相信賈維才是地位比較高的那個了。”",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "與新沃爾西尼建立聯繫對於羅德島來說是一個意外，同時也是一件頗具風險的事。\n原因無他，這座城市實在是過於獨特。\n被西西里夫人承認的特別行政城市，一座不允許家族入駐以及介入的城市。縱觀整片大地，或許也只有敘拉古這樣的國家，能夠憑空出現這樣獨立於既有權力之外的城市，卻不會引起恐慌以及反彈。\n這座城市無疑代表著一種被西西里夫人承認的未來，一種可以發生在敘拉古的對其權威的挑戰，然而，它也註定成為其他家族覬覦的對象。\n伺夜是以尋求醫藥方面的合作為理由而找到羅德島的。\n原則上，羅德島是希望避免與如此敏感的政治實體產生聯繫。然而，當幹員德克薩斯帶領他和斥罪出現在凱爾希醫生的辦公室時，事情就變得沒有那麼簡單了。\n伺夜對發生在舊沃爾西尼的故事毫無隱瞞，他對未來的願景也最終打動了羅德島，使得這項合作得以實現。\n而他選擇成為幹員，則是一個或許註定的意外——因為他的理由是，他發現羅德島上聚集了來自各個國家，各個階層的人，他想要花更多的時間與羅德島上的人進行交流和學習。\n他毫不遮掩對於敘拉古外的事物的求知欲，而他謙卑的姿態也得到了大多數幹員的認可。\n於是，他和許多幹員成了朋友，並且在他們之中的風評很好。\n甚至可以說，伺夜的到來，一改賈維曾經給諸多幹員帶來的敘拉古人的印象。\n當然，這也導致他在羅德島的逗留時間遠比他的身份允許他逗留的時間要長，經常因此而被斥罪批評。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "只要伺夜與斥罪同時在艦內，就一定能看到他們共同用餐的場景。\n伺夜在斥罪加入羅德島後，毫不避諱地將她向其他幹員介紹為如同姐姐一般的存在，而斥罪雖然從來沒有正面承認過這一點，卻也並沒有過多否定。\n毫無疑問，對於伺夜來說，斥罪的存在以及斥罪所追求的理想是特殊的。\n“我是被當作家族繼承人培養長大的，對我來說，一開始，我只是在追求著能夠更好地讓家族發展下去的方法，以及更有效率地完成我應做之事的方法，我可沒那麼高尚。”在與博士的一次閒聊中，提到自己的起點，他笑著解釋道，“現在想來，那個時候，雖然還沒有開始對德克薩斯家族的清算，但是，由於哥倫比亞家族的勢力日漸龐大，他們的一些想法和做法實際上在那時就已經逐漸開始影響敘拉古了，敘拉古的家族們或多或少都開始變得‘文明’了起來，而我也或多或少受到了一些影響。”\n“原本，我也會變成一個為了家族利益而無所不用其極的人吧。但是，拉維妮婭......好吧，在這裡要叫她斥罪，她好像對這個代號還挺滿意的。總之，斥罪被父親帶入家族後，事情就發生了變化。”\n伺夜說到這裡，沉默了一會，似乎是在組織語言，“這中間發生了很多事，包括她和父親的爭執，她最後決定接受父親為她安排的法官職位等等，這些就不該由我來告訴你了，你感興趣的話，自己去問她比較好。總而言之，我現在回頭看去，在為了成為家族領袖而不斷學習各種知識的過程中，我不僅學到了敘拉古的規則，哥倫比亞的狡詐，我也學到了她從來沒有放棄過的公平。”\n“可惜，德米特很早就被安排了收集情報的職責，經常要到處跑，所以和斥罪的接觸很少。如果他也和我一樣的話，我們也不會那樣了吧。”他歎了口氣，“算了，不說這個。”\n“總之，對我來說，博士，斥罪是一個值得尊敬的人，她在敘拉古這樣的環境下，能夠堅持自己的信念，這是十分難能可貴的事。而且，我的母親去世得很早，而父親嘛......雖然我和他關係不差，但絕不是能輕鬆分享一些什麼的關係，所以......”他說到這裡忽然又猶豫了一下，但終於還是開口，“在我還比較年幼的時候，她在我的生命中，扮演了既像是姐姐，又像是......”\n“伺夜，我要和你聊一聊新城區規劃的事。還有，我聽說你最近執行任務的狀態不是很好，你是不是又熬夜了？”不遠處，忽然傳來一個清麗的女聲，毫無疑問，那是斥罪的聲音。\n“呃......博士，那我就先失陪了。”伺夜站起身，向著聲音的方向小跑而去，一邊跑，他一邊為自己辯解，“我可沒有影響任務的進度。”\n他的身影，難得看起來像是一個有恃無恐的少年。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "伺夜是忐忑的。\n他並不認為自己已經準備好了。\n事實上，如果不是盧比奧的死以及丹布朗的指責讓他在關鍵時刻得以覺悟，他毫不懷疑自己會死在父親掀起的滔天巨浪中。\n但當他站在那座教堂之中，他終究沒有問父親，為什麼不惜以他，以整個家族為代價，都要如此行事，他知道，他得到的回答，和他對德米特里說的話不會有什麼不同。\n無論如何，他最終還是背棄了曾經的兄弟，選擇了一條甚至尚未看到曙光的荊棘之路。\n伺夜是害怕的。\n他並沒有十足的把握自己能夠成功。\n當他坐在西西里夫人對面時，他甚至已經做好了玉石俱焚的準備，畢竟，他從一開始就沒有想過在此時直面西西里夫人。面對西西里夫人隨意卻致命的問題，他只能將自己最真實的想法和盤托出，並且，他誠實地告訴西西里夫人，他的方法也絕非萬世不變之法。\n無論如何，即使某種念頭早已在他心中生根發芽，稚嫩的，始終是稚嫩的。\n伺夜是惶恐的。\n他覺得自己還要學習太多的東西。\n他過去只是作為卡拉奇的秘書而處理一些並不繁雜的事務，當他需要直面影響一整座城市運行的公務時，他立刻發現了自己的不足。這種落差讓他十分痛苦，因為他知道，這是只能用時間來彌補的東西，而他缺少的，恰好是時間。\n無論如何，他也只能硬著頭皮去做眼下能做的事，別無他法。\n然而，伺夜同樣知道，自己已經足夠幸運。\n西西里夫人接受了他的挑戰，他的身邊有德克薩斯與斥罪這樣的幫手，而且，新沃爾西尼中，也有諸多為了建設城市而卯足了幹勁的人存在。\n他正走在自己為自己開闢的道路上。\n他無法斷言敘拉古將因自己而改變，但他知道，自己將要做的事，會在敘拉古的土地上，留下濃墨重彩的一筆。\n而他將為之付出一切。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "羅德島的食堂致力於滿足各個文化圈幹員的不同飲食口味，也時常會舉辦一些特定國家的美食體驗周，而敘拉古人無疑是羅德島上最重視自己飲食傳統的群體之一。每當食堂公佈的菜單中有敘拉古的食物，伺夜總會出現在後廚，確保出品菜餚的原汁原味，他身上的冷酷與威懾力往往在這個時候才會展露無遺，這或許是這位致力於求新求變的青年身上唯一的保守之處。\n他會提前仔細審視每一份食譜，敦促採購部盡可能地選取值得信賴的敘拉古本地原材料供應商，並親自參與每道菜的製作。在這種時刻，往往連那幾位最以創意和天馬行空著稱的廚師也不敢造次，據一位不願公開姓名的廚師透露，當他打算在佐餐的醬料中加入“能提供絕妙新奇口感的熱帶水果”的時候，他感到“有人正在暗中盯著自己，自己的生命安全無法保證”。\n不過，在伺夜離艦的時候，廚師們會報復性地創造一些新奇的敘拉古菜品，為了他們的安全，別拍照。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": [
+        {
+          "storySetId": "story_vigil_set_1",
+          "storySetName": "未來將至",
+          "sortId": 1,
+          "storyGetTime": 1694503800,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_vigil_set_1_story_1",
+              "storySetId": "story_vigil_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "時間將審判我。",
+              "storyInfo": "info/obt/memory/story_vigil_1_1",
+              "storyTxt": "obt/memory/story_vigil_1_1"
+            }
+          ],
+          "charId": "char_427_vigil"
+        }
+      ]
+    },
+    "char_4065_judge": {
+      "charID": "char_4065_judge",
+      "drawName": "IRIS_囈",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】斥罪\n【性別】女\n【戰鬥經驗】沒有戰鬥經驗\n【出身地】敘拉古\n【生日】7月9日\n【種族】魯珀\n【身高】168cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】普通\n【生理耐受】標準\n【戰術規劃】標準\n【戰鬥技巧】普通\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "原為敘拉古城邦法官，透過幹員德克薩斯與羅德島建立聯繫。於後勤部工作，擔任羅德島法律顧問一職。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員斥罪沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.12u/L\n幹員斥罪甚少接觸源石。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "一位很嚴肅的法官。\n幹員斥罪在報到時說自己是為了彌補自己曾經的過失而來，這份過失的具體內容，她描述為自己曾身不由己地做了很多背叛法律正義的事。\n根據我們對敘拉古事件的調查瞭解，斥罪原本為敘拉古的城邦法官，背後有著貝洛內家族的支持。但與其他有著家族支持的法官不同的是，斥罪並不完全以貝洛內家族的意志判決案件，她也會宣判貝洛內家族成員的罪行——這在敘拉古幾乎是一件不可能的事。從與幹員伺夜並非上下屬，更像是姐弟的相處狀態來看，貝洛內家或許並不是一個常規意義上的敘拉古家族。不過我們目前對貝洛內家的上任家主並沒有過多的認知，只能留待日後與斥罪或是伺夜交流時再多瞭解一二。\n在斥罪加入羅德島，進入法務部後，人事部幹員有些擔心她是否能良好地適應羅德島的工作內容。畢竟斥罪曾明確展示出法律正義不可侵犯的態度，而羅德島由於與多個國家和地區有交易往來，時常會涉及一些現有法律的灰色地帶。但據人事部幹員一段時間的觀察，斥罪並沒有對羅德島的一部分業務產生誤解，反而能很快地理解我們的真實目的，她也並沒有與一些和自己處理業務手段不同的幹員產生衝突，而是很有默契地互相幫助。或許對於這些從事法律工作的人來說，不論就職後曾不得已地做過什麼，現在使用著什麼樣的手段，他們一開始的理想總是相同的：捍衛法律應存的正義。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "斥罪為我們詳細介紹了敘拉古的法律體系。\n在敘拉古，各個家族掌握著分屬於他們的移動城市，以此延伸出特殊的司法體系：在這裡並沒有警察系統，法官作為西西里夫人的意志代言者，負責維護敘拉古的社會治安。\n但實際上，家族總是會處理好很多事情：基於案件中涉及人員所屬家族的不同，家族會以不同程度介入法官對於一起案件的宣判。更普遍的情況則是案件其實根本不會被遞到法官面前，法官們只會得知一些事件已經被擺平，或是需要他們私下擺平。\n在過去，很多認識她的人在提到拉維妮婭法官，也就是斥罪時，會說她“公正”。這在敘拉古是一個少見的詞。“公正”對於一位敘拉古的法官來說，代表這位法官可能會在某一天突然消失，或者失去自己的某一部分肢體，成為提醒其他法官的一個警告。\n斥罪沒有這樣的結局，不過，她也並不認同自己是“公正的”這一點。\n她告訴我們，自己在貝洛內家的幫助下成為一名法官，在她成為法官之初，貝洛內家的上任家主曾向她許諾過一個理想化的未來，“在那時，我可以真正地推行法律的正義。”貝洛內家族的背景讓斥罪似乎有了更多的自由，但她也因此更加痛苦，因為這種來自家族的正義，在斥罪看來，從根本上就是不對的。\n不過，斥罪並不是一個因為沉浸在這類命題中，就讓自己和周圍人的生活都變得沉悶的人。雖然嚴以律己，但她從不以自己的標準要求他人，比如伺夜——當然，這主要是因為，他們來自同一個地方，同時，伺夜本人的生活習慣也實在稱不上健康，因此，大多數幹員對此都表示理解。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“我們剛剛結束，你不來祝賀一下我嗎，拉維妮婭？”\n“......怎麼了？”\n“我一直都很羡慕你有貝洛內家的背景，現在我也有家族支持了。能像你一樣得到一個家族的庇護，我處理事情都會變得簡單許多。\n“最重要的是，有一個靠山的感覺，可真好啊。\n“拉維妮婭，我要是你，肯定混不成你現在這個落魄的樣子。”\n“......你當法官有幾年了？”\n“你怎麼突然問這個？\n“兩年多吧。”\n“我今天見到了博爾托洛蒂。”\n“那是誰？”\n“一個......法官。\n“現在是殺手了。他今天被一支箭射穿，死在我面前。\n“我只是僥倖活著。”\n“我可以當作沒聽見你剛才和我說的這些話......”\n“你覺得這是幸運的嗎，‘有了家族作為靠山真好’？作為一個法官，你現在最值得慶祝並炫耀的是，自己有了一個家族的支持？\n“不對，我沒有資格責怪你。因為博爾托洛蒂死了，他死之前拋棄了自己的理想，卻還帶著自己的法官證。而人人都知道拉維妮婭法官背後是貝洛內家族，所以我到現在還安然無恙。\n“可是為什麼在敘拉古，司法會變成這樣？我每天和那些家族的成員們坐在一起，聽他們告訴我要做什麼，我也絞盡腦汁地想應該怎樣去幫助他們把這件事做好，這樣對每個人都是‘好’的，因為我這樣做了，第二天一切看起來都是‘無事發生’。\n“但是我能看到那些普通人看我的眼神越來越恐懼，站得越來越遠，他們甚至不敢在宣判過後光明正大地哭，光明正大地來找法官控訴。\n“那我到底是在做什麼？是在維護法律的公平正義嗎？是在維護敘拉古的穩定治安嗎？我都沒有。所有法官，所有法院，整個敘拉古的司法體系，都在做家族的幫兇。\n“然後曾經懷有理想的人都死了，但我活著，你也活著，我什麼都沒做到，你在炫耀有了家族作為靠山。\n“這就是敘拉古的法律，敘拉古的家族，敘拉古的法官。”\n“......拉維妮婭，你喝醉了。”\n“我沒有喝酒。”\n“你在說瘋話。我要先走了。”\n\n——法官休息室監控錄音",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "斥罪對新城市懷有很多期待。\n這是她或許能真正意義上地踐行正義的一個開端。新城市對很多人有著不同的意義，家族以此為利益爭奪的目標，平民似乎無權去在乎自己究竟要活在何處。身為一個法官，她得到了西西里夫人的某種認可，這可能仍然算是站在某種權力的肩膀上推行正義，但這一次她也算是真正地擁有了足夠多的自由，也不得不面對更多她之前沒來得及去想的事：\n當敘拉古的所有人都習慣於法院服務家族時，她身為一名法官，應該做什麼？\n從出生到學習再到成為一名法官，即便她認為這一套司法體系有著太多不合理的地方，但在敘拉古長大的她也並沒有親身體會、接受過其他國家的法律系統，她希望敘拉古不再受家族限制，但離開了家族的敘拉古司法系統，還剩下什麼？\n而面對這樣一座新的城市，即使她與伺夜他們有著志同道合的人一起努力，事情也並非如理想那般輕易。相比於摧毀一套系統，新建一套總是難得多，更何況，他們也並沒能做到真正地讓敘拉古脫離開家族的控制，那麼，他們怎樣建立新的秩序？\n僅僅是一名法官，斥罪明白自己並沒有那麼大的能力，新秩序的建立也並非一件簡單的事，她這幾年所學和所經歷的完全不足以支撐她去建立出一套新的、能讓人們接受的司法體系。在這個時候，斥罪忽然覺得自己好像理解了老貝納爾多一直以來的行為：一個沒有家族的敘拉古對於老貝納爾多來說是一個瘋狂的理想，一座擁有真正正義的新城市對自己來說也是一個瘋狂的理想，老貝納爾多為此獻出了生命，她能做到哪一步呢？\n在一次醉酒之後，斥罪少見地和博士主動提起了貝洛內家的上任家主——老貝納爾多。在斥罪的描述裡，那是一個她好像很瞭解，但又好像從來沒瞭解過的男人，明明給了她希望，卻在最後也沒選擇信任她，她現在只能看著他留下來的那個希望，並為此付出自己的下半生將它實現，卻不能有和他一起看到這個希望成真的那一天。\n“我恨他，但是，我有多恨他，我就有多......”在一些含糊不清的話語中，斥罪最終這麼說，博士把她送回了宿舍。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "我相信大家並不是對現狀一無所知，我相信或許台下有很多人在心裡想，這個人要講的不過是一些冠冕堂皇的話，一些讓大家對未來充滿虛假希望的句子。\n但是，我仍然想告訴你們，相信你們所學的。\n這會付出很大的代價......我其實並沒有這個資格在這裡說這些話，但如果連我們這些法官也不能以自己的信仰為自己的底氣，以手中的法典為更多人的底氣，那些比我們更弱小的人，將再也找不到能為他們踐行公正的地方。\n請牢記你們選擇成為一名法官的初心。\n\n——斥罪再次返回母校時面對學弟學妹們的發言",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_1028_texas2": {
+      "charID": "char_1028_texas2",
+      "drawName": "幻象黑兔",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】德克薩斯\n【性別】女\n【戰鬥經驗】五年\n【出身地】哥倫比亞\n【生日】6月1日\n【種族】魯珀\n【身高】161cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】優良\n【戰場機動】優良\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】優良\n【源石技藝適應性】優良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "企鵝物流員工，最後的德克薩斯家族成員，單兵作戰能力出類拔萃。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員德克薩斯沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.12u/L\n從幹員德克薩斯的經歷來看，在如此危險的環境中沒有被感染，真是個奇跡，或者反過來說，這也是她身手高超的證明。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "羅德島的老朋友。\n當德克薩斯帶著後來成為伺夜與斥罪的兩人踏入羅德島時，許多人都是震驚的。畢竟，從著裝上就能判斷，不必說伺夜與斥罪，光是她的身上，就散發著濃厚的敘拉古氣息。\n她回敘拉古了。對她有所瞭解的幹員，對於這個結論都有些驚疑不定，畢竟，關於德克薩斯的一個共識是——她和敘拉古有關，但沒有人知道她的過去是怎樣的。\n所幸，緊跟其後的企鵝物流眾人打消了這種疑慮。畢竟，有關德克薩斯的另一個共識是——只要和企鵝物流在一起，她就始終是那個德克薩斯。\n當然，等到眾人得知，德克薩斯在敘拉古經歷了什麼，並且又為羅德島帶來了怎樣的兩位人物後，一個新的共識誕生了——\n德克薩斯真可怕。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "對德克薩斯來說，喬萬娜與拉普蘭德，分別代表了她在哥倫比亞與敘拉古的過去。\n或者更進一步，如果沒有發生七年前的事，她可能會成為一個沉默寡言的拉普蘭德，也可能成為一個殺伐果斷的喬萬娜。\n拉普蘭德意味著對敘拉古的歇斯底里，她無法面對，卻也無處可去。\n而喬萬娜則是對哥倫比亞的迷惘，她知道可以不這麼做，卻不知道自己可以怎麼做。\n德克薩斯其實知道，如果自己沒有逃離那一切，她也會走上和她們相似的道路。\n因此，當拉普蘭德出現在她面前，當她不得不面對喬萬娜時，她在感到懷念的同時，心生愧疚。\n所以她會容忍拉普蘭德的種種行為，也想要去承受喬萬娜的責難，無他，即便她再怎麼排斥屬於家族的一切，她終究姓德克薩斯，她生長在這種文化之中，這是永遠無法洗去的烙印。\n當她終於決定離開這一切的同時，她也知道自己付出了怎樣的代價。\n值得嗎？\n她不斷地反問自己這個問題，理所當然地，她無法得出答案。\n離開哥倫比亞與敘拉古後，她只能急切地尋找著一種能夠代替過去生活的新生活。\n對她來說，一種生活中並不存在值得追尋的意義，值得追尋的是生活本身。\n幸好，她找到了。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "德克薩斯與企鵝物流並沒有選擇長期留在新沃爾西尼。\n在事情結束後，她立刻與其他企鵝物流的員工一起返回了龍門，企鵝物流重新開張，她們的生活似乎沒有任何變化。\n當然，她對伺夜的許諾也是真實的——她會在新沃爾西尼需要她的時候出現。\n如今，新沃爾西尼的成立畢竟有西西里夫人的背書，因此在短時間內，大部分家族也都選擇了觀望。如今的局勢，與其說是塵埃落定，不如說是暴風雨前的平靜。\n德克薩斯顯然是瞭解這一點的，不僅是德克薩斯，企鵝物流全員，都瞭解這一點。\n實際上，眼下，讓企鵝物流往返龍門與新沃爾西尼之間的理由，反倒不在德克薩斯，而在於空。\n《德克薩斯之死》的成功，讓空累積了不小的人氣，塞壬唱片在得知此事後，立刻改變了對空的商業策略，希望她把握住機會，在敘拉古繼續演藝事業。而新沃爾西尼，從各種角度來說，都是最適合空發展的地方。\n於是，空成了那個需要頻繁前往新沃爾西尼的人。\n另一方面，不想浪費這個機會的可頌，找到拜松，試圖聯合峯馳物流，透過和伺夜商談建立一條跨國物流管道，這件事就不是一蹴而就的了，不過可頌似乎也樂在其中。\n至於能天使，能天使則立下了宏願，她要吃遍敘拉古的披薩，並找到最好吃的披薩。\n一時間，德克薩斯反而成了最清閒的那一個。\n但她知道，有什麼東西將她們聯繫在一起，她們始終在一起，並將共同進退。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "德克薩斯和過去沒什麼不同。她既沒有選擇重新拾起德克薩斯這個姓氏，成立一個新的家族，也沒有打算在伺夜的手下謀個一官半職，成為新沃爾西尼的一員。對她來說，實際的改變，只不過是常去的地方中，多了一座叫新沃爾西尼的敘拉古城市。\n她的態度十分明確，在一切結束之後，她依然不會留在敘拉古，她並不希望過多地在這裡留下她的痕跡。而伺夜也尊重了她的意願，企鵝物流在新沃爾西尼成立的分公司，他完全沒有插手。以至於並沒有多少家族知道，最後的德克薩斯在沃爾西尼如幽靈般出現又消失之後，去向何方。\n當然，情況總是在改變的。\n貝納爾多掀起的滔天巨浪雖然暫時被壓下，但各個家族掩藏的野心都開始蠢蠢欲動，敘拉古過去的平衡眼下已經搖搖欲墜，留給新沃爾西尼和平發展的時間並不多。\n另一方面，狼之主之間持續了無數年的遊戲也終於浮出水面，這一輪的遊戲接近尾聲，這會給敘拉古帶來怎樣的影響也不得而知。\n任誰都看得出來，敘拉古即將迎來一場巨大的變革。\n為了實現一些偉大的理想，她應該去獲取，或者至少去依附於某些更強大的力量嗎？德克薩斯知道，這個問題的答案應當是肯定的，但最終，她甚至選擇了與伺夜和斥罪劃清界限。\n她的想法很簡單，她不屬於那個偉大的理想，她只是一個出於良知，為某些事情感到憤怒的普通人，她唯一能向伺夜他們許諾的只有——她會一直戰鬥下去，直到敘拉古完全改變，直到她自己粉身碎骨。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在慶祝德克薩斯歸來的宴會上，大帝一時興起，說起了企鵝物流的成立。\n彼時，大帝正在哥倫比亞進行一些街頭藝術的鑽研。某日，他忽然聞到了一絲特別的味道，居然有狼之主踏足了哥倫比亞的土地。\n感到好奇的他過去看看情況，卻看到了扎羅正在和一個人類交易，而那個交易對象，正是德克薩斯。\n“別用那種眼神看我，德克薩斯。你不會以為，我真的是跟你在街上偶然遇到的吧。”\n他對能和狼之主交易的人產生了一些興趣，於是跟著德克薩斯走了一段路，卻只看到了她身上的迷惘和一股無名火。很長一段時間裡，她都生活得渾渾噩噩，像是一具行屍走肉。\n“那時候呢，我也已經知道德克薩斯家族發生的事情了。我就想啊，還是得拉年輕人一把，而只要動起來，很多事情就沒時間去想了。所以，就半拖著她，成立了這家物流公司。”\n“欸。”\n“怎麼了？”\n“我還以為老闆你會說一些特別不著調的理由，沒想到這麼正經。”\n“對你們的老闆尊重一點！”\n“所以老闆你會喜歡饒舌，其實是受到哥倫比亞的影響嗎？”\n“錯了，哥倫比亞流行起饒舌藝術是因為我的影響。”",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
           "unLockorNot": true
         }
       ],
@@ -36698,6 +38333,325 @@
       "zoneNameForShow": "多索雷斯",
       "picId": "story_loading_Bolivar_sea",
       "stageGetTime": 1690437600
+    },
+    "char_449_glider": {
+      "charId": "char_449_glider",
+      "stageId": "mem_glider_1",
+      "levelId": "Obt/Memory/level_memory_glider_1",
+      "zoneId": "storyMission",
+      "code": "mem_glider_1",
+      "name": "緊急救護",
+      "loadingPicId": "loading_iberia",
+      "description": "“蜜莓小姐總會‘嗖’的一聲，飛到你身邊為你治療。”新來的幹員聽到這樣的話，再聯想親眼見到蜜莓從高處輕輕降落的樣子，難免信以為真——雖然還沒這麼做過，蜜莓本人倒是不急著闢謠。畢竟哪天情況緊急的話，她做出傳言裡的行為也不是不可能嘛！",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "城鎮",
+      "zoneNameForShow": "伊比利亞",
+      "picId": "story_loading_iberia",
+      "stageGetTime": 1691652600
+    },
+    "char_433_windft": {
+      "charId": "char_433_windft",
+      "stageId": "mem_windft_1",
+      "levelId": "Obt/Memory/level_memory_windft_1",
+      "zoneId": "storyMission",
+      "code": "mem_windft_1",
+      "name": "身後支援",
+      "loadingPicId": "loading4",
+      "description": "在作戰時，掠風知道以自己的能力無法應對多麼兇惡的敵人，他要做的就是為自己的隊友提供援助，讓他們能發揮出更好的作戰能力。\n當然，在力所能及的時候，掠風也會抓起平時用來組裝機械的工具，狠狠地給敵人那麼一下——還想靠近？！",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "摧毀後",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading4",
+      "stageGetTime": 1691652600
+    },
+    "char_4040_rockr": {
+      "charId": "char_4040_rockr",
+      "stageId": "mem_rockr_1",
+      "levelId": "Obt/Memory/level_memory_rockr_1",
+      "zoneId": "storyMission",
+      "code": "mem_rockr_1",
+      "name": "創造優勢",
+      "loadingPicId": "loading_LM_day",
+      "description": "倫蒂尼姆市民自救軍熟悉城市本身，如同熟悉自己的身體。街衢和地下巷道自不必說，即使是廢棄通道，也能在他們手中發揮作用。作為自救軍的一員，洛洛自然也明白其中的訣竅。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "日間城區",
+      "zoneNameForShow": "龍門",
+      "picId": "story_loading_LM_day",
+      "stageGetTime": 1691652600
+    },
+    "char_496_wildmn": {
+      "charId": "char_496_wildmn",
+      "stageId": "mem_wildmn_1",
+      "levelId": "Obt/Memory/level_memory_wildmn_1",
+      "zoneId": "storyMission",
+      "code": "mem_wildmn_1",
+      "name": "側翼援護",
+      "loadingPicId": "loading_Kazimierz_Final",
+      "description": "在戰場上，野鬃不止會一馬當先。借助獨特的子母騎槍，她也可以替同伴守住側翼，將麻煩的敵人拒於戰線之外。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "競技賽場",
+      "zoneNameForShow": "卡西米爾",
+      "picId": "story_loading_Kazimierz_Final",
+      "stageGetTime": 1694503800
+    },
+    "char_401_elysm": {
+      "charId": "char_401_elysm",
+      "stageId": "mem_elysm_1",
+      "levelId": "Obt/Memory/level_memory_elysm_1",
+      "zoneId": "storyMission",
+      "code": "mem_elysm_1",
+      "name": "目標在這呢！",
+      "loadingPicId": "loading_DM",
+      "description": "儘管幹員極境時常行動在戰鬥的最前線，但他其實並不適合高強度的正面作戰。\n不過，千萬不要因此而小看這位經驗豐富的幹員，找一個適合他發揮的位置，看準時機，極境將發揮他敏銳的洞察力和出色的源石技藝，找出並鎖定所有潛藏的敵人，指引全隊火力的方向。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "荒野",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading_DM",
+      "stageGetTime": 1694503800
+    },
+    "char_219_meteo": {
+      "charId": "char_219_meteo",
+      "stageId": "mem_meteo_1",
+      "levelId": "Obt/Memory/level_memory_meteo_1",
+      "zoneId": "storyMission",
+      "code": "mem_meteo_1",
+      "name": " 狙擊高地",
+      "loadingPicId": "loading_DM",
+      "description": "作為飽經戰火的傭兵，隕星有著高效的殺傷技藝，她能夠在戰鬥前期迅速判斷出最適宜的埋伏點，長時間趴伏在此處耐心等待目標出現，遠距離精準擊殺敵方。在同隊幹員的配合下，她的能力往往可以發揮到極致，成為戰場制勝的關鍵。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "荒野",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading_DM",
+      "stageGetTime": 1694503800
+    },
+    "char_284_spot": {
+      "charId": "char_284_spot",
+      "stageId": "mem_spot_1",
+      "levelId": "Obt/Memory/level_memory_spot_1",
+      "zoneId": "storyMission",
+      "code": "mem_spot_1",
+      "name": "吸引火力",
+      "loadingPicId": "loading_LM_rain",
+      "description": "作為一名前薩爾貢戰士，斑點能在治療幹員的支援下承受敵人的火力，也能透過基礎的治療，為其他人創造安全的輸出空間。總有人忘記這一點，但斑點不以為意。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "1",
+          "unlockParam2": "55",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "雨天街區",
+      "zoneNameForShow": "龍門",
+      "picId": "story_loading_LM_rain",
+      "stageGetTime": 1694503800
+    },
+    "char_274_astesi": {
+      "charId": "char_274_astesi",
+      "stageId": "mem_astesi_1",
+      "levelId": "Obt/Memory/level_memory_astesi_1",
+      "zoneId": "storyMission",
+      "code": "mem_astesi_1",
+      "name": "如星閃耀",
+      "loadingPicId": "loading_DV_Headquarters",
+      "description": "星極的源石劍能夠讓她的攻擊起到類似法術的效用，配以常年修習的特殊劍儀，使其在面對部分棘手敵人時能夠取得相對優勢。在有利地形和妹妹的配合下，她將嘗試應對萊茵生命所發起的對戰實驗邀約，並力圖取得最終的勝利。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "特里蒙",
+      "zoneNameForShow": "哥倫比亞",
+      "picId": "story_loading_DV_Headquarters",
+      "stageGetTime": 1693294200
+    },
+    "char_486_takila": {
+      "charId": "char_486_takila",
+      "stageId": "mem_takila_1",
+      "levelId": "Obt/Memory/level_memory_takila_1",
+      "zoneId": "storyMission",
+      "code": "mem_takila_1",
+      "name": "沙灘假期",
+      "loadingPicId": "loading_Bolivar_sea",
+      "description": "就算戰況再膠著，龍舌蘭的笑容也不會從他的嘴角褪去，面對戰場上種種複雜的危機，他都能從容應對，毫不驚慌。在龍舌蘭鎮定態度的感染下，同隊幹員也能夠很快平復緊張情緒，迅速投入接下來的戰鬥。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "無人沙灘",
+      "zoneNameForShow": "多索雷斯",
+      "picId": "story_loading_Bolivar_sea",
+      "stageGetTime": 1693294200
+    },
+    "char_110_deepcl": {
+      "charId": "char_110_deepcl",
+      "stageId": "mem_deepcl_1",
+      "levelId": "Obt/Memory/level_memory_deepcl_1",
+      "zoneId": "storyMission",
+      "code": "mem_deepcl_1",
+      "name": "戰場繪圖",
+      "loadingPicId": "loading_iberia",
+      "description": "離群的畫家面對海嗣，很難從表情推測她心中的想法。但是，在短暫的猶豫之後，她抬起拿著畫筆的手，似乎已經下定了決心。顏料從調色盤裡向戰場揮灑，“助手”一個個從地面上出現，畫家繼續向敵人出現的地方，勇敢地抬起手。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "城鎮",
+      "zoneNameForShow": "伊比利亞",
+      "picId": "story_loading_iberia",
+      "stageGetTime": 1693294200
+    },
+    "char_484_robrta": {
+      "charId": "char_484_robrta",
+      "stageId": "mem_robrta_1",
+      "levelId": "Obt/Memory/level_memory_robrta_1",
+      "zoneId": "storyMission",
+      "code": "mem_robrta_1",
+      "name": "緊急補妝！",
+      "loadingPicId": "loadingE2",
+      "description": "全自動造型儀雖然能全自動上妝，但是在戰場環境下，如果想充分發揮它的性能，還是需要操作者根據環境對各項參數做出適當的調整。只要經過羅比菈塔小姐的調試，全自動造型儀往往能充分發揮它的功效。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "洞窟",
+      "zoneNameForShow": "卡西米爾",
+      "picId": "story_loadingE2",
+      "stageGetTime": 1693294200
     }
   },
   "handbookStageTime": [
@@ -36957,6 +38911,32 @@
         "char_252_bibeak",
         "char_402_tuye",
         "char_344_beewax"
+      ]
+    },
+    {
+      "timestamp": 1691652600,
+      "charSet": [
+        "char_449_glider",
+        "char_433_windft",
+        "char_4040_rockr"
+      ]
+    },
+    {
+      "timestamp": 1693294200,
+      "charSet": [
+        "char_274_astesi",
+        "char_486_takila",
+        "char_110_deepcl",
+        "char_484_robrta"
+      ]
+    },
+    {
+      "timestamp": 1694503800,
+      "charSet": [
+        "char_496_wildmn",
+        "char_401_elysm",
+        "char_219_meteo",
+        "char_284_spot"
       ]
     }
   ]

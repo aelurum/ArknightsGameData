@@ -992,7 +992,7 @@
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
   "voucherDiv": 5,
-  "recruitPoolVersion": 9,
+  "recruitPoolVersion": 10,
   "v006RecruitTimeStep1Refresh": 1577172600,
   "v006RecruitTimeStep2Check": 1577154600,
   "v006RecruitTimeStep2Flush": 1577649600,
@@ -1215,6 +1215,11 @@
       "termName": "重傷",
       "description": "移速下降且無法被阻擋，10秒後自然死亡，被擊殺後使擊殺者回復數點技力"
     },
+    "ba.barrier": {
+      "termId": "ba.barrier",
+      "termName": "屏障",
+      "description": "可以吸收一定數值的傷害"
+    },
     "cc.bd_A_1": {
       "termId": "cc.bd_A_1",
       "termName": "念力",
@@ -1284,6 +1289,11 @@
       "termId": "cc.bd_a1_a3",
       "termName": "小節",
       "description": "可影響<$cc.bd_a1><@cc.rem>感知資訊</></>相關變數\n由以下幹員的基建技能提供\n車爾尼"
+    },
+    "cc.bd.costdrop": {
+      "termId": "cc.bd.costdrop",
+      "termName": "心情落差",
+      "description": "幹員自身心情上限與當前心情值的差值"
     },
     "cc.m.var1": {
       "termId": "cc.m.var1",
@@ -1452,6 +1462,6 @@
     }
   },
   "storyReviewUnlockItemLackTip": "事相碎片數量不足，請前往採購憑證區或活動期間商店獲取",
-  "dataVersion": "30.1.0",
-  "resPrefVersion": "32d0d0"
+  "dataVersion": "30.4.0",
+  "resPrefVersion": "33d0d0"
 }

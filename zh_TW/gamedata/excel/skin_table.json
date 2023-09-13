@@ -2748,6 +2748,104 @@
         "onPeriod": 0
       }
     },
+    "char_4062_totter#1": {
+      "skinId": "char_4062_totter#1",
+      "charId": "char_4062_totter",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4062_totter_1",
+      "dynIllustId": null,
+      "avatarId": "char_4062_totter",
+      "portraitId": "char_4062_totter_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#83a8b9",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Totter",
+        "drawerName": "板板",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4062_totter#2": {
+      "skinId": "char_4062_totter#2",
+      "charId": "char_4062_totter",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4062_totter_2",
+      "dynIllustId": null,
+      "avatarId": "char_4062_totter_2",
+      "portraitId": "char_4062_totter_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#7ba2af",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Totter",
+        "drawerName": "板板",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_198_blackd#1": {
       "skinId": "char_198_blackd#1",
       "charId": "char_198_blackd",
@@ -4203,6 +4301,104 @@
         ],
         "modelName": "Luo Xiaohei",
         "drawerName": "九日九號",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4063_quartz#1": {
+      "skinId": "char_4063_quartz#1",
+      "charId": "char_4063_quartz",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4063_quartz_1",
+      "dynIllustId": null,
+      "avatarId": "char_4063_quartz",
+      "portraitId": "char_4063_quartz_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#946460",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Quartz",
+        "drawerName": "伍秋秋秋秋",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4063_quartz#2": {
+      "skinId": "char_4063_quartz#2",
+      "charId": "char_4063_quartz",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4063_quartz_2",
+      "dynIllustId": null,
+      "avatarId": "char_4063_quartz_2",
+      "portraitId": "char_4063_quartz_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#882e0a",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Quartz",
+        "drawerName": "伍秋秋秋秋",
         "skinGroupId": "ILLUST_2",
         "skinGroupName": "默認服裝",
         "skinGroupSortIndex": -10,
@@ -7866,6 +8062,104 @@
         "onPeriod": 0
       }
     },
+    "char_157_dagda#1": {
+      "skinId": "char_157_dagda#1",
+      "charId": "char_157_dagda",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_157_dagda_1",
+      "dynIllustId": null,
+      "avatarId": "char_157_dagda",
+      "portraitId": "char_157_dagda_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#750000",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Dagda",
+        "drawerName": "Infukun",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_157_dagda#2": {
+      "skinId": "char_157_dagda#2",
+      "charId": "char_157_dagda",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_157_dagda_2",
+      "dynIllustId": null,
+      "avatarId": "char_157_dagda_2",
+      "portraitId": "char_157_dagda_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#bd4745",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Dagda",
+        "drawerName": "Infukun",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_140_whitew#1": {
       "skinId": "char_140_whitew#1",
       "charId": "char_140_whitew",
@@ -10307,6 +10601,104 @@
         "onPeriod": 0
       }
     },
+    "char_466_qanik#1": {
+      "skinId": "char_466_qanik#1",
+      "charId": "char_466_qanik",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_466_qanik_1",
+      "dynIllustId": null,
+      "avatarId": "char_466_qanik",
+      "portraitId": "char_466_qanik_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#ad424b",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Qanipalaat",
+        "drawerName": "三目YYB",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_466_qanik#2": {
+      "skinId": "char_466_qanik#2",
+      "charId": "char_466_qanik",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_466_qanik_2",
+      "dynIllustId": null,
+      "avatarId": "char_466_qanik_2",
+      "portraitId": "char_466_qanik_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#960811",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Qanipalaat",
+        "drawerName": "三目YYB",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_166_skfire#1": {
       "skinId": "char_166_skfire#1",
       "charId": "char_166_skfire",
@@ -12641,6 +13033,104 @@
         "onPeriod": 0
       }
     },
+    "char_4071_peper#1": {
+      "skinId": "char_4071_peper#1",
+      "charId": "char_4071_peper",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4071_peper_1",
+      "dynIllustId": null,
+      "avatarId": "char_4071_peper",
+      "portraitId": "char_4071_peper_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#9d8584",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Paprika",
+        "drawerName": "板板",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4071_peper#2": {
+      "skinId": "char_4071_peper#2",
+      "charId": "char_4071_peper",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4071_peper_2",
+      "dynIllustId": null,
+      "avatarId": "char_4071_peper_2",
+      "portraitId": "char_4071_peper_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#c49492",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Paprika",
+        "drawerName": "板板",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_148_nearl#1": {
       "skinId": "char_148_nearl#1",
       "charId": "char_148_nearl",
@@ -14635,6 +15125,104 @@
         ],
         "modelName": "Andreana",
         "drawerName": "LLC",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4014_lunacu#1": {
+      "skinId": "char_4014_lunacu#1",
+      "charId": "char_4014_lunacu",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4014_lunacu_1",
+      "dynIllustId": null,
+      "avatarId": "char_4014_lunacu",
+      "portraitId": "char_4014_lunacu_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#604b52",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Lunacub",
+        "drawerName": "IRIS_囈",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4014_lunacu#2": {
+      "skinId": "char_4014_lunacu#2",
+      "charId": "char_4014_lunacu",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4014_lunacu_2",
+      "dynIllustId": null,
+      "avatarId": "char_4014_lunacu_2",
+      "portraitId": "char_4014_lunacu_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#7a4543",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Lunacub",
+        "drawerName": "IRIS_囈",
         "skinGroupId": "ILLUST_2",
         "skinGroupName": "默認服裝",
         "skinGroupSortIndex": -10,
@@ -18570,6 +19158,104 @@
         "onPeriod": 0
       }
     },
+    "char_427_vigil#1": {
+      "skinId": "char_427_vigil#1",
+      "charId": "char_427_vigil",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_427_vigil_1",
+      "dynIllustId": null,
+      "avatarId": "char_427_vigil",
+      "portraitId": "char_427_vigil_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#443c6a",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Vigil",
+        "drawerName": "hou",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_427_vigil#2": {
+      "skinId": "char_427_vigil#2",
+      "charId": "char_427_vigil",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_427_vigil_2",
+      "dynIllustId": null,
+      "avatarId": "char_427_vigil_2",
+      "portraitId": "char_427_vigil_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#3c2476",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Vigil",
+        "drawerName": "hou",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_134_ifrit#1": {
       "skinId": "char_134_ifrit#1",
       "charId": "char_134_ifrit",
@@ -20040,6 +20726,104 @@
         "onPeriod": 0
       }
     },
+    "char_4072_ironmn#1": {
+      "skinId": "char_4072_ironmn#1",
+      "charId": "char_4072_ironmn",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4072_ironmn_1",
+      "dynIllustId": null,
+      "avatarId": "char_4072_ironmn",
+      "portraitId": "char_4072_ironmn_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#943d23",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Stainless",
+        "drawerName": "一千",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4072_ironmn#2": {
+      "skinId": "char_4072_ironmn#2",
+      "charId": "char_4072_ironmn",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4072_ironmn_2",
+      "dynIllustId": null,
+      "avatarId": "char_4072_ironmn_2",
+      "portraitId": "char_4072_ironmn_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#91352b",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Stainless",
+        "drawerName": "一千",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_250_phatom#1": {
       "skinId": "char_250_phatom#1",
       "charId": "char_250_phatom",
@@ -20127,6 +20911,104 @@
         "skinGroupName": "默認服裝",
         "skinGroupSortIndex": -10,
         "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_1028_texas2#1": {
+      "skinId": "char_1028_texas2#1",
+      "charId": "char_1028_texas2",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_1028_texas2_1",
+      "dynIllustId": null,
+      "avatarId": "char_1028_texas2",
+      "portraitId": "char_1028_texas2_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#4f6ec4",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Texas the Omertosa",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "德克薩斯回到敘拉古後穿著的服裝。\n非常考究的裁剪，按照曾經德克薩斯家族的制式特別定製而成。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_1028_texas2#2": {
+      "skinId": "char_1028_texas2#2",
+      "charId": "char_1028_texas2",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_1028_texas2_2",
+      "dynIllustId": "dyn_illust_char_1028_texas2_2",
+      "avatarId": "char_1028_texas2_2",
+      "portraitId": "char_1028_texas2_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#4747b5",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Texas the Omertosa",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "她再一次從敘拉古離開，不是為了逃離過去，而是為了改變未來。\n這件衣服不是她的束縛或者象徵，她只是德克薩斯。",
         "dialog": null,
         "usage": null,
         "description": null,
@@ -21691,6 +22573,104 @@
         ],
         "modelName": "Mudrock",
         "drawerName": "m9nokuro",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4065_judge#1": {
+      "skinId": "char_4065_judge#1",
+      "charId": "char_4065_judge",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4065_judge_1",
+      "dynIllustId": null,
+      "avatarId": "char_4065_judge",
+      "portraitId": "char_4065_judge_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#b39a7d",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Penance",
+        "drawerName": "IRIS_囈",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4065_judge#2": {
+      "skinId": "char_4065_judge#2",
+      "charId": "char_4065_judge",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4065_judge_2",
+      "dynIllustId": null,
+      "avatarId": "char_4065_judge_2",
+      "portraitId": "char_4065_judge_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#ab7e4c",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Penance",
+        "drawerName": "IRIS_囈",
         "skinGroupId": "ILLUST_2",
         "skinGroupName": "默認服裝",
         "skinGroupSortIndex": -10,
@@ -24446,6 +25426,166 @@
       "dynIllustId": null,
       "avatarId": "token_10026_bgsnow_subbow",
       "portraitId": "token_10026_bgsnow_subbow_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "token_10027_ironmn_pile1#1": {
+      "skinId": "token_10027_ironmn_pile1#1",
+      "charId": "token_10027_ironmn_pile1",
+      "tokenSkinMap": null,
+      "illustId": "illust_token_10027_ironmn_pile1_1",
+      "dynIllustId": null,
+      "avatarId": "token_10027_ironmn_pile1",
+      "portraitId": "token_10027_ironmn_pile1_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "token_10027_ironmn_pile2#1": {
+      "skinId": "token_10027_ironmn_pile2#1",
+      "charId": "token_10027_ironmn_pile2",
+      "tokenSkinMap": null,
+      "illustId": "illust_token_10027_ironmn_pile2_1",
+      "dynIllustId": null,
+      "avatarId": "token_10027_ironmn_pile2",
+      "portraitId": "token_10027_ironmn_pile2_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "token_10027_ironmn_pile3#1": {
+      "skinId": "token_10027_ironmn_pile3#1",
+      "charId": "token_10027_ironmn_pile3",
+      "tokenSkinMap": null,
+      "illustId": "illust_token_10027_ironmn_pile3_1",
+      "dynIllustId": null,
+      "avatarId": "token_10027_ironmn_pile3",
+      "portraitId": "token_10027_ironmn_pile3_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "token_10028_vigil_wolf#1": {
+      "skinId": "token_10028_vigil_wolf#1",
+      "charId": "token_10028_vigil_wolf",
+      "tokenSkinMap": null,
+      "illustId": "illust_token_10028_vigil_wolf_1",
+      "dynIllustId": null,
+      "avatarId": "token_10028_vigil_wolf",
+      "portraitId": "token_10028_vigil_wolf_1",
       "dynPortraitId": null,
       "dynEntranceId": null,
       "buildingId": null,
@@ -28604,6 +29744,246 @@
         "onPeriod": 0
       }
     },
+    "trap_093_tbattbc#1": {
+      "skinId": "trap_093_tbattbc#1",
+      "charId": "trap_093_tbattbc",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_093_tbattbc_1",
+      "dynIllustId": null,
+      "avatarId": "trap_093_tbattbc",
+      "portraitId": "trap_093_tbattbc_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_094_tbpsnc#1": {
+      "skinId": "trap_094_tbpsnc#1",
+      "charId": "trap_094_tbpsnc",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_094_tbpsnc_1",
+      "dynIllustId": null,
+      "avatarId": "trap_094_tbpsnc",
+      "portraitId": "trap_094_tbpsnc_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_095_tbsmmc#1": {
+      "skinId": "trap_095_tbsmmc#1",
+      "charId": "trap_095_tbsmmc",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_095_tbsmmc_1",
+      "dynIllustId": null,
+      "avatarId": "trap_095_tbsmmc",
+      "portraitId": "trap_095_tbsmmc_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_086_larva#1": {
+      "skinId": "trap_086_larva#1",
+      "charId": "trap_086_larva",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_086_larva_1",
+      "dynIllustId": null,
+      "avatarId": "trap_086_larva",
+      "portraitId": "trap_086_larva_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_087_allady#1": {
+      "skinId": "trap_087_allady#1",
+      "charId": "trap_087_allady",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_087_allady_1",
+      "dynIllustId": null,
+      "avatarId": "trap_087_allady",
+      "portraitId": "trap_087_allady_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_092_vgctrl#1": {
+      "skinId": "trap_092_vgctrl#1",
+      "charId": "trap_092_vgctrl",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_092_vgctrl_1",
+      "dynIllustId": null,
+      "avatarId": "trap_092_vgctrl",
+      "portraitId": "trap_092_vgctrl_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_002_amiya@winter#1": {
       "skinId": "char_002_amiya@winter#1",
       "charId": "char_002_amiya",
@@ -28983,6 +30363,54 @@
         "getTime": 1690747200,
         "onYear": 3,
         "onPeriod": 3
+      }
+    },
+    "char_437_mizuki@sale#7": {
+      "skinId": "char_437_mizuki@sale#7",
+      "charId": "char_437_mizuki",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_437_mizuki_sale#7",
+      "dynIllustId": "dyn_illust_char_437_mizuki_sale#7",
+      "avatarId": "char_437_mizuki_sale#7",
+      "portraitId": "char_437_mizuki_sale#7",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_437_mizuki_sale#7",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_437_mizuki_sale#7"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "夏日餮宴",
+        "colorList": [
+          "#4a89c3",
+          "#f56c66",
+          "#4a89c3",
+          "#cf74d2",
+          "#222222",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Mizuki",
+        "drawerName": "Namie",
+        "skinGroupId": "2022#sale#4",
+        "skinGroupName": "忒斯特收藏/VIII",
+        "skinGroupSortIndex": 9,
+        "content": "忒斯特收藏系列/夏日餮宴。水月在海邊大快朵頤時的裝束。輕透的材質讓衣服不易被污漬沾染，也能為附肢留足自由活動的空間。",
+        "dialog": "忒斯特收藏系列/夏日餮宴。水月在海邊大快朵頤時的裝束。輕透的材質讓衣服不易被污漬沾染，也能為附肢留足自由活動的空間。",
+        "usage": "水月的私服之一。",
+        "description": "夏日、晚宴、平凡的生活。一手飲料，一手遊戲，人類對於快樂的追求或許就在於此。",
+        "obtainApproach": "活動獲得",
+        "sortId": 9,
+        "displayTagId": "集成戰略",
+        "getTime": 1696104000,
+        "onYear": 3,
+        "onPeriod": 6
       }
     },
     "char_103_angel@sale#8": {
@@ -30704,6 +32132,432 @@
         "onPeriod": 20
       }
     },
+    "char_472_pasngr@epoque#17": {
+      "skinId": "char_472_pasngr@epoque#17",
+      "charId": "char_472_pasngr",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_472_pasngr_epoque#17",
+      "dynIllustId": "dyn_illust_char_472_pasngr_epoque#17",
+      "avatarId": "char_472_pasngr_epoque#17",
+      "portraitId": "char_472_pasngr_epoque#17",
+      "dynPortraitId": "dyn_portrait_char_472_pasngr_epoque#17",
+      "dynEntranceId": "dyn_entrance_char_472_pasngr_epoque#17",
+      "buildingId": "char_472_pasngr_epoque#17",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_472_pasngr_epoque#17"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": "char_472_pasngr_epoque#17",
+      "voiceType": "ALL",
+      "displaySkin": {
+        "skinName": "今昔須臾之夢",
+        "colorList": [
+          "#213e62",
+          "#8baa4f",
+          "#213e62",
+          "#a26b66",
+          "#0f131d",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Passenger",
+        "drawerName": "Skade",
+        "skinGroupId": "2022#epoque#4",
+        "skinGroupName": "時代/XVII",
+        "skinGroupSortIndex": 27,
+        "content": "EPOQUE子品牌 [昔時/Passe]系列精選款/今昔須臾之夢。兩套存於異客記憶中的裝束，他信手畫在稿紙上，被一位好事幹員拿去做了成衣。",
+        "dialog": "EPOQUE子品牌 [昔時/Passe]系列精選款/今昔須臾之夢。兩套存於異客記憶中的裝束，他信手畫在稿紙上，被一位好事幹員拿去做了成衣。",
+        "usage": "艾利奧特與異客的私服之一。",
+        "description": "或許是受了老伊辛的影響，艾利奧特與異客偶爾也會沉入夢境，一個人夢見了未來，而另一個人夢見了過去......",
+        "obtainApproach": "採購中心",
+        "sortId": 43,
+        "displayTagId": null,
+        "getTime": 1694503800,
+        "onYear": 3,
+        "onPeriod": 6
+      }
+    },
+    "token_10019_nearl2_sword_epoque#17": {
+      "skinId": "token_10019_nearl2_sword_epoque#17",
+      "charId": "token_10019_nearl2_sword",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10019_nearl2_sword_epoque#17",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10019_nearl2_sword_epoque#17"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_1014_nearl2@epoque#17": {
+      "skinId": "char_1014_nearl2@epoque#17",
+      "charId": "char_1014_nearl2",
+      "tokenSkinMap": [
+        {
+          "tokenId": "token_10019_nearl2_sword",
+          "tokenSkinId": "token_10019_nearl2_sword_epoque#17"
+        }
+      ],
+      "illustId": "illust_char_1014_nearl2_epoque#17",
+      "dynIllustId": "dyn_illust_char_1014_nearl2_epoque#17",
+      "avatarId": "char_1014_nearl2_epoque#17",
+      "portraitId": "char_1014_nearl2_epoque#17",
+      "dynPortraitId": "dyn_portrait_char_1014_nearl2_epoque#17",
+      "dynEntranceId": null,
+      "buildingId": "char_1014_nearl2_epoque#17",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_1014_nearl2_epoque#17"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "復現榮光",
+        "colorList": [
+          "#2c223b",
+          "#80aca6",
+          "#2c223b",
+          "#80aca6",
+          "#0f131d",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Nearl the Radiant Knight",
+        "drawerName": "竜崎いち",
+        "skinGroupId": "2022#epoque#4",
+        "skinGroupName": "時代/XVII",
+        "skinGroupSortIndex": 27,
+        "content": "EPOQUE子品牌 [昔時/Passe]系列精選款/復現榮光。臨光初次參賽時使用的數套鎧甲中的一套，由征戰騎士鎧修改而來。",
+        "dialog": "EPOQUE子品牌 [昔時/Passe]系列精選款/復現榮光。臨光初次參賽時使用的數套鎧甲中的一套，由征戰騎士鎧修改而來。",
+        "usage": "耀騎士臨光的私服之一。",
+        "description": "從參加競技比賽之初，臨光便準備要成為照亮卡西米爾夜空的燈塔。時間沒能成為澆滅火焰的雨水，反而讓她越燃越旺。",
+        "obtainApproach": "採購中心",
+        "sortId": 44,
+        "displayTagId": null,
+        "getTime": 1694503800,
+        "onYear": 3,
+        "onPeriod": 6
+      }
+    },
+    "token_10012_rosmon_shield_epoque#17": {
+      "skinId": "token_10012_rosmon_shield_epoque#17",
+      "charId": "token_10012_rosmon_shield",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10012_rosmon_shield_epoque#17",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10012_rosmon_shield_epoque#17"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_391_rosmon@epoque#17": {
+      "skinId": "char_391_rosmon@epoque#17",
+      "charId": "char_391_rosmon",
+      "tokenSkinMap": [
+        {
+          "tokenId": "token_10012_rosmon_shield",
+          "tokenSkinId": "token_10012_rosmon_shield_epoque#17"
+        }
+      ],
+      "illustId": "illust_char_391_rosmon_epoque#17",
+      "dynIllustId": "dyn_illust_char_391_rosmon_epoque#17",
+      "avatarId": "char_391_rosmon_epoque#17",
+      "portraitId": "char_391_rosmon_epoque#17",
+      "dynPortraitId": "dyn_portrait_char_391_rosmon_epoque#17",
+      "dynEntranceId": null,
+      "buildingId": "char_391_rosmon_epoque#17",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_391_rosmon_epoque#17"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "擁抱新生",
+        "colorList": [
+          "#4979b9",
+          "#7ec8d5",
+          "#4979b9",
+          "#c6c3e1",
+          "#0f131d",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Rosmontis",
+        "drawerName": "唯@W",
+        "skinGroupId": "2022#epoque#4",
+        "skinGroupName": "時代/XVII",
+        "skinGroupSortIndex": 27,
+        "content": "EPOQUE子品牌 [昔時/Passe]系列精選款/擁抱新生。迷迭香仍為實驗物件時的裝束，除了檢測器和抑制器外沒有任何裝飾。",
+        "dialog": "EPOQUE子品牌 [昔時/Passe]系列精選款/擁抱新生。迷迭香仍為實驗物件時的裝束，除了檢測器和抑制器外沒有任何裝飾。",
+        "usage": "迷迭香曾經的實驗服之一。",
+        "description": "迷迭香渴望知道藏在那一道道機械阻礙後的究竟是什麼。她見到了，她失憶了。",
+        "obtainApproach": "採購中心",
+        "sortId": 45,
+        "displayTagId": null,
+        "getTime": 1694503800,
+        "onYear": 3,
+        "onPeriod": 6
+      }
+    },
+    "char_449_glider@epoque#17": {
+      "skinId": "char_449_glider@epoque#17",
+      "charId": "char_449_glider",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_449_glider_epoque#17",
+      "dynIllustId": null,
+      "avatarId": "char_449_glider_epoque#17",
+      "portraitId": "char_449_glider_epoque#17",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_449_glider_epoque#17",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_449_glider_epoque#17"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "荒野之後",
+        "colorList": [
+          "#9f8d6c",
+          "#a1a15a",
+          "#9f8d6c",
+          "#958e77",
+          "#0f131d",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Honeyberry",
+        "drawerName": "Liyu黎",
+        "skinGroupId": "2022#epoque#4",
+        "skinGroupName": "時代/XVII",
+        "skinGroupSortIndex": 27,
+        "content": "EPOQUE子品牌 [昔時/Passe]系列精選款/荒野之後。蜜莓求學期間為病重母親描繪自身遠景時想像的裝束，衣物細節源自母親衣櫥裡的衣物。",
+        "dialog": "EPOQUE子品牌 [昔時/Passe]系列精選款/荒野之後。蜜莓求學期間為病重母親描繪自身遠景時想像的裝束，衣物細節源自母親衣櫥裡的衣物。",
+        "usage": "蜜莓的私服之一。",
+        "description": "幼小的夢中蘊含著與年齡不符的殘酷。但蜜莓母親很高興能看到女兒心中那仍未被磨滅的勇氣。",
+        "obtainApproach": "採購中心",
+        "sortId": 46,
+        "displayTagId": null,
+        "getTime": 1694503800,
+        "onYear": 3,
+        "onPeriod": 6
+      }
+    },
+    "char_101_sora@epoque#17": {
+      "skinId": "char_101_sora@epoque#17",
+      "charId": "char_101_sora",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_101_sora_epoque#17",
+      "dynIllustId": null,
+      "avatarId": "char_101_sora_epoque#17",
+      "portraitId": "char_101_sora_epoque#17",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_101_sora_epoque#17",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_101_sora_epoque#17"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "如歌",
+        "colorList": [
+          "#752B27",
+          "#3F3227",
+          "#752B27",
+          "#654D3E",
+          "#222222",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Sora",
+        "drawerName": "Mag42",
+        "skinGroupId": "2022#epoque#4",
+        "skinGroupName": "時代/XVII",
+        "skinGroupSortIndex": 27,
+        "content": "<color name=#ffffff>EPOQUE系列新款/如歌。空在敘拉古米蘭劇場進修與表演時的服裝。敘拉古歌舞劇有其獨特的文化符號，因此也必須穿上符合身份的服飾。</color>",
+        "dialog": "EPOQUE系列新款/如歌。空在敘拉古米蘭劇場進修與表演時的服裝。敘拉古歌舞劇有其獨特的文化符號，因此也必須穿上符合身份的服飾。",
+        "usage": "空的演出服之一。",
+        "description": "從來就沒人能夠斷言流行歌手掌握不了上了年份的異國經典。",
+        "obtainApproach": "採購中心",
+        "sortId": 47,
+        "displayTagId": null,
+        "getTime": 1694503800,
+        "onYear": 3,
+        "onPeriod": 6
+      }
+    },
+    "char_492_quercu@epoque#17": {
+      "skinId": "char_492_quercu@epoque#17",
+      "charId": "char_492_quercu",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_492_quercu_epoque#17",
+      "dynIllustId": null,
+      "avatarId": "char_492_quercu_epoque#17",
+      "portraitId": "char_492_quercu_epoque#17",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_492_quercu_epoque#17",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_492_quercu_epoque#17"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "遙鄉之徑",
+        "colorList": [
+          "#5b605d",
+          "#8A856A",
+          "#5b605d",
+          "#a88f64",
+          "#0F131D",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Quercus",
+        "drawerName": "YUJI",
+        "skinGroupId": "2022#epoque#4",
+        "skinGroupName": "時代/XVII",
+        "skinGroupSortIndex": 27,
+        "content": "EPOQUE子品牌 [昔時/Passe]系列精選款/遙鄉之徑。夏櫟過去參加潛入滲透任務時的便裝，主要用以掩蓋身份，更便於在城市環境下作戰。",
+        "dialog": "EPOQUE子品牌 [昔時/Passe]系列精選款/遙鄉之徑。夏櫟過去參加潛入滲透任務時的便裝，主要用以掩蓋身份，更便於在城市環境下作戰。",
+        "usage": "夏櫟的私服之一。",
+        "description": "五個人走進小巷，一個人活著離開。家鄉就此疏遠，無根的樹木將要獨自漂流。",
+        "obtainApproach": "活動獲得",
+        "sortId": 48,
+        "displayTagId": "活動獲得",
+        "getTime": 1694503800,
+        "onYear": 3,
+        "onPeriod": 6
+      }
+    },
+    "char_4013_kjera@epoque#18": {
+      "skinId": "char_4013_kjera@epoque#18",
+      "charId": "char_4013_kjera",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4013_kjera_epoque#18",
+      "dynIllustId": null,
+      "avatarId": "char_4013_kjera_epoque#18",
+      "portraitId": "char_4013_kjera_epoque#18",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_4013_kjera_epoque#18",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_4013_kjera_epoque#18"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "靈巧侍者",
+        "colorList": [
+          "#4e9ab7",
+          "#45457a",
+          "#4e9ab7",
+          "#9daadc",
+          "#222222",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Kjera",
+        "drawerName": "竜崎いち",
+        "skinGroupId": "2022#epoque#5",
+        "skinGroupName": "時代/XVIII",
+        "skinGroupSortIndex": 28,
+        "content": "EPOQUE系列新款/靈巧侍者。耶拉在薩維爾衣匠處定製的衣物，由於耶拉本人的巧妙點子與設計者的奇思妙想，成衣產生了預料之外的效果。",
+        "dialog": "EPOQUE系列新款/靈巧侍者。耶拉在薩維爾衣匠處定製的衣物，由於耶拉本人的巧妙點子與設計者的奇思妙想，成衣產生了預料之外的效果。",
+        "usage": "耶拉的私服之一。",
+        "description": "如果不是耶拉在定製衣物前看了點維多利亞傳統童話故事，初雪或許捕捉不到銀灰那飽含疑惑的皺眉瞬間。若是問耶拉自己的感想？她玩得很開心。",
+        "obtainApproach": "採購中心",
+        "sortId": 49,
+        "displayTagId": null,
+        "getTime": 1693294200,
+        "onYear": 3,
+        "onPeriod": 5
+      }
+    },
     "char_120_hibisc@nian#1": {
       "skinId": "char_120_hibisc@nian#1",
       "charId": "char_120_hibisc",
@@ -31707,6 +33561,54 @@
         "getTime": 1669879800,
         "onYear": 2,
         "onPeriod": 10
+      }
+    },
+    "char_366_acdrop@whirlwind#4": {
+      "skinId": "char_366_acdrop@whirlwind#4",
+      "charId": "char_366_acdrop",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_366_acdrop_whirlwind#4",
+      "dynIllustId": null,
+      "avatarId": "char_366_acdrop_whirlwind#4",
+      "portraitId": "char_366_acdrop_whirlwind#4",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_366_acdrop_whirlwind#4",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_366_acdrop_whirlwind#4"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "“下午茶時光”",
+        "colorList": [
+          "#752B27",
+          "#3f3227",
+          "#752B27",
+          "#4e3220",
+          "#222222",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Aciddrop",
+        "drawerName": "Lanzi",
+        "skinGroupId": "2022#whirlwind#4",
+        "skinGroupName": "0011/飆系列/IV",
+        "skinGroupSortIndex": 38,
+        "content": "<color name=#ffffff>0011子品牌，飆系列新款/“下午茶時光”。舒適合身的運動裝配上顏色鮮亮的夾克，讓顧客在什麼地方都能引人注目。</color>",
+        "dialog": "0011子品牌，飆系列新款/“下午茶時光”。舒適合身的運動裝配上顏色鮮亮的夾克，讓顧客在什麼地方都能引人注目。",
+        "usage": "酸糖的私服之一。",
+        "description": "對於酸糖而言，所謂的下午茶時光，其實指的是吃完一份單人食披薩套餐，在畫布試試噴罐的效果，然後踩著滑板，到外頭進行一場沒有終點的自由滑行。",
+        "obtainApproach": "活動獲得",
+        "sortId": 70,
+        "displayTagId": "賽季服飾",
+        "getTime": 1696320000,
+        "onYear": 3,
+        "onPeriod": 6
       }
     },
     "char_147_shining@summer#1": {
@@ -34095,6 +35997,195 @@
         "getTime": 1658302200,
         "onYear": 2,
         "onPeriod": 2
+      }
+    },
+    "char_322_lmlee@witch#3": {
+      "skinId": "char_322_lmlee@witch#3",
+      "charId": "char_322_lmlee",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_322_lmlee_witch#3",
+      "dynIllustId": "dyn_illust_char_322_lmlee_witch#3",
+      "avatarId": "char_322_lmlee_witch#3",
+      "portraitId": "char_322_lmlee_witch#3",
+      "dynPortraitId": "dyn_portrait_char_322_lmlee_witch#3",
+      "dynEntranceId": null,
+      "buildingId": "char_322_lmlee_witch#3",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_322_lmlee_witch#3"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "手到牌來",
+        "colorList": [
+          "#c2824e",
+          "#599a3f",
+          "#ff3100",
+          "#5f8c40",
+          "#ff3100",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Lee",
+        "drawerName": "KuroBlood",
+        "skinGroupId": "2022#witch",
+        "skinGroupName": "巫異盛宴/III",
+        "skinGroupSortIndex": 55,
+        "content": "<color name=#ffffff>巫異盛宴角色扮演劇本“古宅異寶” 定製服飾/手到牌來。扮演者將是為了寶物前來此處的魔術師大盜。懷疑你的眼睛，相信他的手。</color>",
+        "dialog": "巫異盛宴角色扮演劇本“古宅異寶”定製服飾/手到牌來。扮演者將是為了寶物前來此處的魔術師大盜。懷疑你的眼睛，相信他的手。",
+        "usage": "老鯉的角色扮演服飾之一。",
+        "description": "老鯉遊刃有餘地耍著撲克牌，嘴角掛著他一如既往的笑。“用一場牌贏下黑道的三個承諾？哎，沒有的事。”",
+        "obtainApproach": "採購中心",
+        "sortId": 117,
+        "displayTagId": null,
+        "getTime": 1691652600,
+        "onYear": 3,
+        "onPeriod": 4
+      }
+    },
+    "char_338_iris@witch#3": {
+      "skinId": "char_338_iris@witch#3",
+      "charId": "char_338_iris",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_338_iris_witch#3",
+      "dynIllustId": null,
+      "avatarId": "char_338_iris_witch#3",
+      "portraitId": "char_338_iris_witch#3",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_338_iris_witch#3",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_338_iris_witch#3"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "鏡中來訪",
+        "colorList": [
+          "#d2ba90",
+          "#a90625",
+          "#ffa95c",
+          "#c5524c",
+          "#760618",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Iris",
+        "drawerName": "下野宏銘",
+        "skinGroupId": "2022#witch",
+        "skinGroupName": "巫異盛宴/III",
+        "skinGroupSortIndex": 55,
+        "content": "<color name=#ffffff>巫異盛宴角色扮演劇本“古宅異寶” 定製服飾/鏡中來訪。扮演者將是——噓，是主人，是賓客，或是鏡中虛影，在登上最頂層之前，一切都是未知。</color>",
+        "dialog": "巫異盛宴角色扮演劇本“古宅異寶”定製服飾/鏡中來訪。扮演者將是——噓，是主人，是賓客，或是鏡中虛影，在登上最頂層之前，一切都是未知。",
+        "usage": "愛麗絲的角色扮演服飾之一。",
+        "description": "孩子們十分喜歡愛麗絲的這套新衣服，為了滿足他們，愛麗絲最近出席故事茶話會可能都會穿這身衣服。",
+        "obtainApproach": "採購中心",
+        "sortId": 118,
+        "displayTagId": null,
+        "getTime": 1691652600,
+        "onYear": 3,
+        "onPeriod": 4
+      }
+    },
+    "token_10022_kazema_shadow_witch#3": {
+      "skinId": "token_10022_kazema_shadow_witch#3",
+      "charId": "token_10022_kazema_shadow",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10022_kazema_shadow_witch#3",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10022_kazema_shadow_witch#3"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4016_kazema@witch#3": {
+      "skinId": "char_4016_kazema@witch#3",
+      "charId": "char_4016_kazema",
+      "tokenSkinMap": [
+        {
+          "tokenId": "token_10022_kazema_shadow",
+          "tokenSkinId": "token_10022_kazema_shadow_witch#3"
+        }
+      ],
+      "illustId": "illust_char_4016_kazema_witch#3",
+      "dynIllustId": null,
+      "avatarId": "char_4016_kazema_witch#3",
+      "portraitId": "char_4016_kazema_witch#3",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_4016_kazema_witch#3",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_4016_kazema_witch#3"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "幻影輕悄",
+        "colorList": [
+          "#f83358",
+          "#323132",
+          "#f83358",
+          "#e09fc2",
+          "#323132",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Kazemaru",
+        "drawerName": "溫泉瓜",
+        "skinGroupId": "2022#witch",
+        "skinGroupName": "巫異盛宴/III",
+        "skinGroupSortIndex": 55,
+        "content": "<color name=#ffffff>巫異盛宴角色扮演劇本“古宅異寶” 定製服飾/幻影輕悄。扮演者將是守護寶物的女僕。百般變化，真真假假，人影憧憧中，入侵者在樓梯上無盡徘徊。</color>",
+        "dialog": "巫異盛宴角色扮演劇本“古宅異寶”定製服飾/幻影輕悄。扮演者將是守護寶物的女僕。百般變化，真真假假，人影憧憧中，入侵者在樓梯上無盡徘徊。",
+        "usage": "風丸的角色扮演服飾之一。",
+        "description": "風丸偷偷讓紙人幫自己“聽”了好一會劇本講解，直到大家決定一起去吃飯時才被發現。",
+        "obtainApproach": "採購中心",
+        "sortId": 119,
+        "displayTagId": null,
+        "getTime": 1691652600,
+        "onYear": 3,
+        "onPeriod": 4
       }
     },
     "char_123_fang@winter#1": {
@@ -39011,6 +41102,10 @@
       "0": "char_366_acdrop#1",
       "2": "char_366_acdrop#2"
     },
+    "char_4062_totter": {
+      "0": "char_4062_totter#1",
+      "2": "char_4062_totter#2"
+    },
     "char_198_blackd": {
       "0": "char_198_blackd#1",
       "2": "char_198_blackd#2"
@@ -39070,6 +41165,10 @@
     "char_4067_lolxh": {
       "0": "char_4067_lolxh#1",
       "2": "char_4067_lolxh#2"
+    },
+    "char_4063_quartz": {
+      "0": "char_4063_quartz#1",
+      "2": "char_4063_quartz#2"
     },
     "char_237_gravel": {
       "0": "char_237_gravel#1",
@@ -39222,6 +41321,10 @@
       "0": "char_415_flint#1",
       "2": "char_415_flint#2"
     },
+    "char_157_dagda": {
+      "0": "char_157_dagda#1",
+      "2": "char_157_dagda#2"
+    },
     "char_140_whitew": {
       "0": "char_140_whitew#1",
       "2": "char_140_whitew#2"
@@ -39322,6 +41425,10 @@
       "0": "char_411_tomimi#1",
       "2": "char_411_tomimi#2"
     },
+    "char_466_qanik": {
+      "0": "char_466_qanik#1",
+      "2": "char_466_qanik#2"
+    },
     "char_166_skfire": {
       "0": "char_166_skfire#1",
       "2": "char_166_skfire#2"
@@ -39420,6 +41527,10 @@
       "0": "char_1024_hbisc2#1",
       "2": "char_1024_hbisc2#2"
     },
+    "char_4071_peper": {
+      "0": "char_4071_peper#1",
+      "2": "char_4071_peper#2"
+    },
     "char_148_nearl": {
       "0": "char_148_nearl#1",
       "2": "char_148_nearl#2"
@@ -39502,6 +41613,10 @@
     "char_218_cuttle": {
       "0": "char_218_cuttle#1",
       "2": "char_218_cuttle#2"
+    },
+    "char_4014_lunacu": {
+      "0": "char_4014_lunacu#1",
+      "2": "char_4014_lunacu#2"
     },
     "char_363_toddi": {
       "0": "char_363_toddi#1",
@@ -39663,6 +41778,10 @@
       "0": "char_420_flamtl#1",
       "2": "char_420_flamtl#2"
     },
+    "char_427_vigil": {
+      "0": "char_427_vigil#1",
+      "2": "char_427_vigil#2"
+    },
     "char_134_ifrit": {
       "0": "char_134_ifrit#1",
       "2": "char_134_ifrit#2"
@@ -39723,9 +41842,17 @@
       "0": "char_2023_ling#1",
       "2": "char_2023_ling#2"
     },
+    "char_4072_ironmn": {
+      "0": "char_4072_ironmn#1",
+      "2": "char_4072_ironmn#2"
+    },
     "char_250_phatom": {
       "0": "char_250_phatom#1",
       "2": "char_250_phatom#2"
+    },
+    "char_1028_texas2": {
+      "0": "char_1028_texas2#1",
+      "2": "char_1028_texas2#2"
     },
     "char_322_lmlee": {
       "0": "char_322_lmlee#1",
@@ -39790,6 +41917,10 @@
     "char_311_mudrok": {
       "0": "char_311_mudrok#1",
       "2": "char_311_mudrok#2"
+    },
+    "char_4065_judge": {
+      "0": "char_4065_judge#1",
+      "2": "char_4065_judge#2"
     },
     "char_416_zumama": {
       "0": "char_416_zumama#1",
@@ -39943,6 +42074,18 @@
     },
     "token_10026_bgsnow_subbow": {
       "0": "token_10026_bgsnow_subbow#1"
+    },
+    "token_10027_ironmn_pile1": {
+      "0": "token_10027_ironmn_pile1#1"
+    },
+    "token_10027_ironmn_pile2": {
+      "0": "token_10027_ironmn_pile2#1"
+    },
+    "token_10027_ironmn_pile3": {
+      "0": "token_10027_ironmn_pile3#1"
+    },
+    "token_10028_vigil_wolf": {
+      "0": "token_10028_vigil_wolf#1"
     },
     "trap_001_crate": {
       "0": "trap_001_crate#1"
@@ -40231,6 +42374,24 @@
     },
     "trap_089_dice3": {
       "0": "trap_089_dice3#1"
+    },
+    "trap_093_tbattbc": {
+      "0": "trap_093_tbattbc#1"
+    },
+    "trap_094_tbpsnc": {
+      "0": "trap_094_tbpsnc#1"
+    },
+    "trap_095_tbsmmc": {
+      "0": "trap_095_tbsmmc#1"
+    },
+    "trap_086_larva": {
+      "0": "trap_086_larva#1"
+    },
+    "trap_087_allady": {
+      "0": "trap_087_allady#1"
+    },
+    "trap_092_vgctrl": {
+      "0": "trap_092_vgctrl#1"
     }
   },
   "buildinPatchMap": {
@@ -40243,6 +42404,7 @@
       "brandId": "sale",
       "groupList": [
         "2023#sale",
+        "2022#sale#4",
         "2022#sale#3",
         "2022#sale#2",
         "2022#sale",
@@ -40259,6 +42421,8 @@
     "epoque": {
       "brandId": "epoque",
       "groupList": [
+        "2022#epoque#5",
+        "2022#epoque#4",
         "2022#epoque#3",
         "2022#epoque#2",
         "2022#epoque",
@@ -40277,6 +42441,7 @@
         "2019#epoque"
       ],
       "kvImgIdList": [
+        "kv_epoque7",
         "kv_epoque6",
         "kv_epoque5",
         "kv_epoque4",
@@ -40287,7 +42452,7 @@
       "brandName": "時代",
       "brandCapitalName": "EPOQUE",
       "description": "你的時代，你的過去，你的未來\n時代企劃源自於服裝設計師們的無心之舉，在幾個世紀中逐漸變成了設計師間約定俗成的傳統。這種非盈利、純感性、靜下心來為客戶設計衣裝的方式，將是每個時代中堅守的宗旨。",
-      "sortId": 26
+      "sortId": 28
     },
     "nian": {
       "brandId": "nian",
@@ -40312,6 +42477,7 @@
     "whirlwind": {
       "brandId": "whirlwind",
       "groupList": [
+        "2022#whirlwind#4",
         "2022#whirlwind#3",
         "2022#whirlwind#2",
         "2020#nian#2"
@@ -40322,7 +42488,7 @@
       "brandName": "0011/飆系列",
       "brandCapitalName": "0011 TEMPEST-SERIES",
       "description": "新的一年，新的潮流\n0011子品牌“飆”主打新年喜慶與街頭風格，從另一面再現新年的紅火。飆系列植根街頭，在新年時刻發現人們最新最潮流的點子與想法並致力於將其轉化為服裝，創造嶄新的潮流風格。",
-      "sortId": 37
+      "sortId": 38
     },
     "summer": {
       "brandId": "summer",
@@ -40369,17 +42535,19 @@
     "witch": {
       "brandId": "witch",
       "groupList": [
+        "2022#witch",
         "2021#witch",
         "2019#witch"
       ],
       "kvImgIdList": [
+        "kv_witchfeast3",
         "kv_witchfeast2",
         "kv_witchfeast1"
       ],
       "brandName": "巫異盛宴",
       "brandCapitalName": "WITCH FEAST",
       "description": "夜晚將至，巫異橫行\n羅德島巫異盛宴慶祝活動每年定期展開，這項只允許女性薩卡茲參加的古老傳統活動如今已是幹員盡情歡鬧的節日。 玩鬧之中，出彩設計層出不窮，節日服飾亦成為了幹員們美好的回憶。",
-      "sortId": 54
+      "sortId": 55
     },
     "winter": {
       "brandId": "winter",

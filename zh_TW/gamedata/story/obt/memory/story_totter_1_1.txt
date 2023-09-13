@@ -7,44 +7,37 @@
 [PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=2)]
-
 [PlaySound(key="$d_avg_knockdoorfast", volume=1)]
 [CameraShake(duration=0.8, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=true)]
-
-[name="？？？"]开门，你个骗钱的杂种！
-[name="？？？"]给老子开门！
+[name="？？？"]開門，你個騙錢的雜種！
+[name="？？？"]給老子開門！
 [Dialog]
-
 [PlaySound(key="$d_avg_knockdoorfast", volume=1)]
 [CameraShake(duration=0.8, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=true)]
-
-[name="？？？"]别装睡，给老子爬起来开门！！
+[name="？？？"]別裝睡，給老子爬起來開門！！
 [Dialog]
-
 [PlaySound(key="$dooropenquite", volume=1)]
 [Delay(time=1)]
-
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",fadetime=1)]
 [Delay(time=1.5)]
-
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=2)]
-[name="铅踝"]是你啊， 哈伦先生。你敲门的动静太大了，会吵到周围人的。
+[name="鉛踝"]是你啊， 哈倫先生。你敲門的動靜太大了，會吵到周圍人的。
 [Dialog]
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1")]
 [characteraction(name="left", type="move", xpos=150,fadetime=0.3,block=true)]
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=1)]
-[name="落魄商人"]（揪住铅踝的领子）
+[name="落魄商人"]（揪住鉛踝的領子）
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="落魄商人"]混账，我的钱很好拿是吗？我本人很好糊弄是吗？
+[name="落魄商人"]混帳，我的錢很好拿是嗎？我本人很好糊弄是嗎？
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="落魄商人"]你当时怎么说的？周五就会给我结果！现在周五了，你他妈连离开的行李都打包好了！
+[name="落魄商人"]你當時怎麼說的？周五就會給我結果！現在周五了，你他媽連離開的行李都打包好了！
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]哈伦先生，你耐心点，之后我会向你解释的。
+[name="鉛踝"]哈倫先生，你耐心點，之後我會向你解釋的。
 [Dialog]
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]（扯开哈伦的手）
+[name="鉛踝"]（扯開哈倫的手）
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [characteraction(name="right", type="move", xpos=-15, fadetime=0.3, block=true)]
 [characteraction(name="left", type="move", xpos=-150,fadetime=0.5,block=true)]
@@ -52,61 +45,60 @@
 [characteraction(name="right", type="move", xpos=15, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
-[name="落魄商人"]解释？我不要解释，我要结果，明白吗？我现在就要看到你带着那群畜生的脑袋来找我。
+[name="落魄商人"]解釋？我不要解釋，我要結果，明白嗎？我現在就要看到你帶著那群畜生的腦袋來找我。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]（看表）稍等。
+[name="鉛踝"]（看錶）稍等。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
-[name="落魄商人"]你说给你五天就够，我给你了，结果呢？
+[name="落魄商人"]你說給你五天就夠，我給你了，結果呢？
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=2)]
-[name="铅踝"]我认为现在计划进展得非常顺利，马上就会有结果。
+[name="鉛踝"]我認為現在計劃進展得非常順利，馬上就會有結果。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=1)]
-[name="落魄商人"]计划？你前面四天都在做什么？
-[name="落魄商人"]周一喝咖啡，周二打扑克，周三逛市集，周四睡大觉，现在就要到周五了，你还在屋里连屁股都不打算挪一下！
+[name="落魄商人"]計劃？你前面四天都在做什麼？
+[name="落魄商人"]周一喝咖啡，周二打撲克，周三逛市集，周四睡大覺，現在就要到周五了，你還在屋裡連屁股都不打算挪一下！
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]（看表）
+[name="鉛踝"]（看錶）
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="落魄商人"]你他妈能不能别看你那破表了！！
+[name="落魄商人"]你他媽能不能別看你那破錶了！！
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=2)]
-[name="铅踝"]现在还不到时候。
+[name="鉛踝"]現在還不到時候。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#3$1",focus=1)]
-[name="落魄商人"]怎么，你的意思是我太着急了吗？
+[name="落魄商人"]怎麼，你的意思是我太著急了嗎？
 [character(name="avg_npc_164",name2="avg_4062_totter_1#6$1",focus=2)]
-[name="铅踝"]......是吧？
+[name="鉛踝"]......是吧？
 [character(name="avg_npc_164",name2="avg_4062_totter_1#6$1",focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="落魄商人"]妈的你个混账当然不着急，因为被那群荒地劫匪夺走一切的人是我而不是你！
+[name="落魄商人"]媽的你個混帳當然不著急，因為被那群荒地劫匪奪走一切的人是我而不是你！
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]嗯，我知道，从你给的薪金可以看出来，你的积蓄所剩无几。
+[name="鉛踝"]嗯，我知道，從你給的薪金可以看出來，你的積蓄所剩無幾。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
-[name="落魄商人"]......是的，但凡我还剩一点钱，你现在要操心的就不是别人的脑袋了，而是你自己的。
+[name="落魄商人"]......是的，但凡我還剩一點錢，你現在要操心的就不是別人的腦袋了，而是你自己的。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#5$1",focus=2)]
-[name="铅踝"]你居然这么说，我以为我们的雇佣关系还算良好......
+[name="鉛踝"]你居然這麼說，我以為我們的雇傭關係還算良好......
 [character(name="avg_npc_164",name2="avg_4062_totter_1#5$1",focus=1)]
 [stopmusic(fadetime=1)]
-[name="落魄商人"]（颓然靠墙）
+[name="落魄商人"]（頹然靠牆）
 [characteraction(name="left", type="move", ypos=-30,fadetime=1,isblock=true)]
-[name="落魄商人"]我就该跟着老婆一起在那场劫难中死去......也好过在你这里受气。
+[name="落魄商人"]我就該跟著老婆一起在那場劫難中死去......也好過在你這裡受氣。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]......你想喝热水吗？我可以为你倒一杯。
+[name="鉛踝"]......你想喝熱水嗎？我可以為你倒一杯。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
-[name="落魄商人"]你——算了，我为什么要和你说这些......你对我的感受一无所知。
+[name="落魄商人"]你——算了，我為什麼要和你說這些......你對我的感受一無所知。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#5$1",focus=2)]
-[name="铅踝"]也不是......多多少少能有些......
+[name="鉛踝"]也不是......多多少少能有些......
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
-[name="落魄商人"]那算我求你，做点什么吧。
+[name="落魄商人"]那算我求你，做點什麼吧。
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]（看表）
+[name="鉛踝"]（看錶）
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
-[name="落魄商人"]（摇头）唉......
+[name="落魄商人"]（搖頭）唉......
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]时间到了，你要一起来吗？
+[name="鉛踝"]時間到了，你要一起來嗎？
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=1)]
-[name="落魄商人"]啊，干什么？
+[name="落魄商人"]啊，幹什麼？
 [character(name="avg_npc_164",name2="avg_4062_totter_1#1$1",focus=2)]
-[name="铅踝"]按你的要求，血债血偿。
+[name="鉛踝"]按你的要求，血債血償。
 [Dialog]
-
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=1)]
@@ -116,67 +108,59 @@
 [PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]	
-
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",fadetime=1.5)]
 [delay(time=2)]
-
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]就是这里了，你有把骑来的驮兽藏好吗？
+[name="鉛踝"]就是這裡了，你有把騎來的馱獸藏好嗎？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]藏好了......不对，我花钱雇佣了你，为什么你却在指挥我干活？
+[name="落魄商人"]藏好了......不對，我花錢雇傭了你，為什麼你卻在指揮我幹活？
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]......不好意思，哈伦先生，那要不我再去把它捆一遍。
+[name="鉛踝"]......不好意思，哈倫先生，那要不我再去把它捆一遍。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]我看不必了，你不如先向我解释你拉我来这破地方到底要干什么。
+[name="落魄商人"]我看不必了，你不如先向我解釋你拉我來這破地方到底要幹什麼。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]给你。
+[name="鉛踝"]給你。
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [characteraction(name="left", type="move", xpos=15, fadetime=0.2, block=true)]
 [Blocker(a=0, fadetime=0.2, block=true)]
 [characteraction(name="left", type="move", xpos=-15, fadetime=0.2, block=true)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]望远镜？
+[name="落魄商人"]望遠鏡？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]对，看那边。
+[name="鉛踝"]對，看那邊。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]我什么也没有看到。
+[name="落魄商人"]我什麼也沒有看到。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]再往更远处看，从地平线缓缓朝这里驶来的一列车队，血红色的旗帜，黑色的骷髅。
+[name="鉛踝"]再往更遠處看，從地平線緩緩朝這裡駛來的一列車隊，血紅色的旗幟，黑色的骷髏。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]是他们，我看到了，就是他们！
+[name="落魄商人"]是他們，我看到了，就是他們！
 [Dialog]
 [Character]
 [character(name="avg_4062_totter_1#1$1")]
 [playsound(key="$e_atk_arrowload_n")]
-[name="铅踝"]（拉开弓弦）
+[name="鉛踝"]（拉開弓弦）
 [character(name="avg_npc_164")]
-[name="落魄商人"]你不要望远镜吗？
+[name="落魄商人"]你不要望遠鏡嗎？
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]我不需要。
+[name="鉛踝"]我不需要。
 [character(name="avg_npc_164")]
-[name="落魄商人"]喂，这么远，你能瞄准吗？
+[name="落魄商人"]喂，這麼遠，你能瞄準嗎？
 [character(name="avg_4062_totter_1#7$1")]
-[name="铅踝"]嘘——安静。
+[name="鉛踝"]噓——安靜。
 [Dialog]
 [Character]
 [stopmusic(fadetime=1)]
-
-
 [playsound(key="$d_avg_arrowshot")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true)]
 [Delay(time=0.7)]
-
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_gen_explo_n")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.3, block=true)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=2.5)]
-
-
-
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -187,34 +171,33 @@
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",fadetime=1.5)]
 [delay(time=2)]
-
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]好了，任务完成。
+[name="鉛踝"]好了，任務完成。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]这么快？
+[name="落魄商人"]這麼快？
 [character(name="avg_4062_totter_1#6$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]不然呢？你难道还想看别的？
+[name="鉛踝"]不然呢？你難道還想看別的？
 [character(name="avg_4062_totter_1#6$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]还有别的？
+[name="落魄商人"]還有別的？
 [character(name="avg_4062_totter_1#5$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]亵渎尸体不太好吧？如果你非常想的话......
+[name="鉛踝"]褻瀆屍體不太好吧？如果你非常想的話......
 [character(name="avg_4062_totter_1#5$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]你......已经确定了他们没有人存活吗？
+[name="落魄商人"]你......已經確定了他們沒有人存活嗎？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]看爆炸波及的范围，嗯，应该希望不大。
+[name="鉛踝"]看爆炸波及的範圍，嗯，應該希望不大。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
 [name="落魄商人"]......
 [PlayMusic(intro="$loneliness_intro", key="$loneliness_loop",fadetime=1,volume=0.4)]
 [name="落魄商人"]............
 [name="落魄商人"]都死了，死得好，死得好。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]你的语气听起来很唏嘘，我以为仇人死了你会开心起来。
+[name="鉛踝"]你的語氣聽起來很唏噓，我以為仇人死了你會開心起來。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]我也以为自己会开心，但是......发生得太快了，感觉很不真实。
+[name="落魄商人"]我也以為自己會開心，但是......發生得太快了，感覺很不真實。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]虽然这个时候提不太好，但是那个另一半......
+[name="鉛踝"]雖然這個時候提不太好，但是那個另一半......
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]（丢出一袋金币）
+[name="落魄商人"]（丟出一袋金幣）
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [characteraction(name="right", type="move", xpos=-15, fadetime=0.2, block=true)]
 [Blocker(a=0, fadetime=0.2, block=true)]
@@ -222,28 +205,27 @@
 [Blocker(a=0, fadetime=0.5, block=true)]
 [name="落魄商人"]拿去，你都拿去吧。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]（捡起钱袋）
+[name="鉛踝"]（撿起錢袋）
 [characteraction(name="left", type="move", ypos=-10, fadetime=0.2, block=true)]
 [Blocker(a=0, fadetime=0.2, block=true)]
 [characteraction(name="left", type="move", ypos=10, fadetime=0.2, block=true)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]你没有什么要说的吗？
+[name="落魄商人"]你沒有什麼要說的嗎？
 [character(name="avg_4062_totter_1#5$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]......谢谢惠顾？
+[name="鉛踝"]......謝謝惠顧？
 [character(name="avg_4062_totter_1#5$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]那群废物派人找了整整一个月都摸不着他们的踪迹，你是怎么办到的？
-[name="落魄商人"]你怎么知道他们会在这个时间，这个地点出现？
+[name="落魄商人"]那群廢物派人找了整整一個月都摸不著他們的蹤跡，你是怎麼辦到的？
+[name="落魄商人"]你怎麼知道他們會在這個時間，這個地點出現？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]其实我......
+[name="鉛踝"]其實我......
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]算了，别在这里说，换个地方吧，我得好好喝一杯。
+[name="落魄商人"]算了，別在這裡說，換個地方吧，我得好好喝一杯。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]你现在的状态不适合饮酒。
+[name="鉛踝"]你現在的狀態不適合飲酒。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]哈哈，你又怎么知道呢？
+[name="落魄商人"]哈哈，你又怎麼知道呢？
 [Dialog]
-
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -251,46 +233,44 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]	
-
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]真奇怪，这个镇子的人会在清晨饮酒，就是为了庆祝太阳升起。我点了两杯，你要哪一杯？
+[name="落魄商人"]真奇怪，這個鎮子的人會在清晨飲酒，就是為了慶祝太陽升起。我點了兩杯，你要哪一杯？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]这两杯的大小看起来有些悬殊。
+[name="鉛踝"]這兩杯的大小看起來有些懸殊。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]没错，因为大杯是我的。
+[name="落魄商人"]沒錯，因為大杯是我的。
 [character(name="avg_4062_totter_1#5$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]那为什么要我选？
+[name="鉛踝"]那為什麼要我選？
 [character(name="avg_4062_totter_1#5$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]因为客套。
+[name="落魄商人"]因為客套。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]我选小杯，谢谢。
+[name="鉛踝"]我選小杯，謝謝。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]（举起杯子一口气喝掉半杯）
+[name="落魄商人"]（舉起杯子一口氣喝掉半杯）
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
 [characteraction(name="right", type="shake", power=5, times=5, fadetime=0.4, block=false)]
 [name="落魄商人"]呃——嗝。
-[name="落魄商人"]现在可以给我讲讲吗？你是怎么做到的？你前几天什么都没有准备，只是时间到了，出现在那里，然后拉开弓，咻——
-[name="落魄商人"]他们就全没了。
-[name="落魄商人"]你会预知？还是你买通了他们中的一个人？
-[name="落魄商人"]来来，快点告诉我吧，我实在想不通。昨天晚上找到你时我还觉得你这家伙一定是在骗我，现在我对你......
-[name="落魄商人"]啧——简直五体投地。
+[name="落魄商人"]現在可以給我講講嗎？你是怎麼做到的？你前幾天什麼都沒有準備，只是時間到了，出現在那裡，然後拉開弓，咻——
+[name="落魄商人"]他們就全沒了。
+[name="落魄商人"]你會預知？還是你買通了他們中的一個人？
+[name="落魄商人"]來來，快點告訴我吧，我實在想不通。昨天晚上找到你時我還覺得你這傢伙一定是在騙我，現在我對你......
+[name="落魄商人"]嘖——簡直五體投地。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]你有些亢奋了。
+[name="鉛踝"]你有些亢奮了。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
 [name="落魄商人"]我喝酒了嘛。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]做到这些并不难，有一个完备的计划，一步一步跟着来，结果总是大差不差。
+[name="鉛踝"]做到這些並不難，有一個完備的計劃，一步一步跟著來，結果總是大差不差。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
-[name="铅踝"]（掏出自己的笔记本）
+[name="鉛踝"]（掏出自己的筆記本）
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]你曾抱怨周一我在这里的咖啡馆待了一整天无所事事，但咖啡馆在镇子里有很特殊的作用。
+[name="鉛踝"]你曾抱怨周一我在這裡的咖啡館待了一整天無所事事，但咖啡館在鎮子裡有很特殊的作用。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]对于往来的商旅，它更像......信息集散中心。
+[name="鉛踝"]對於往來的商旅，它更像......資訊集散中心。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]所有的消息都是从那里散布出去的，无论是可靠的消息，还是、咳、假消息。
+[name="鉛踝"]所有的消息都是從那裡散佈出去的，無論是可靠的消息，還是、咳、假消息。
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
 [Delay(time=2)]
@@ -299,30 +279,28 @@
 [playMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-
-[name="胡椒商人"]你手里的香料运出去了吗？我试过换另外的线路，但是几乎每次都会遇到埋伏，那些家伙对我们的行踪可以说是了如指掌。
-[name="乳香商人"]还在想办法。不然请雇佣兵来护送商队？总比积压在仓库里好。
-[name="胡椒商人"]唉......王酋军迟迟不来清剿，不知这样的日子何时能结束。我账上的数字已经难以负担更多的支出了。
+[name="胡椒商人"]你手裡的香料運出去了嗎？我試過換另外的線路，但是幾乎每次都會遇到埋伏，那些傢伙對我們的行蹤可以說是瞭若指掌。
+[name="乳香商人"]還在想辦法。不然請雇傭兵來護送商隊？總比積壓在倉庫裡好。
+[name="胡椒商人"]唉......王酋軍遲遲不來清剿，不知這樣的日子何時能結束。我帳上的數字已經難以負擔更多的支出了。
 [Dialog]
-
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_4062_totter_1#1$1",fadetime=1.5)]
 [delay(time=2.5)]
 [Character]
-[name="咖啡店员"]您好，请问要什么？
+[name="咖啡店員"]您好，請問要什麼？
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]一杯咖啡，谢谢。
+[name="鉛踝"]一杯咖啡，謝謝。
 [Dialog]
 [character]
-[name="咖啡店员"]这里的咖啡味道浓厚，或许您会觉得苦涩难咽，这碟蜜渍椰枣送给您，喝完可以吃一个。
+[name="咖啡店員"]這裡的咖啡味道濃厚，或許您會覺得苦澀難咽，這碟蜜漬椰棗送給您，喝完可以吃一個。
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]谢谢你，我不怕苦。
-[name="铅踝"]小姐，可以问下这镇子里的医生住在哪里吗？
+[name="鉛踝"]謝謝你，我不怕苦。
+[name="鉛踝"]小姐，可以問下這鎮子裡的醫生住在哪裡嗎？
 [Dialog]
 [character]
-[name="咖啡店员"]呃，东面，顺着喷泉一路向东走就能看到的。您生病了吗？
+[name="咖啡店員"]呃，東面，順著噴泉一路向東走就能看到的。您生病了嗎？
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]我有一批急救药品，或许有人会想要。
+[name="鉛踝"]我有一批急救藥品，或許有人會想要。
 [Dialog]
 [character]
 [Delay(time=1)]
@@ -330,7 +308,6 @@
 [Delay(time=1)]
 [name="？？？"]......
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [character]
 [Delay(time=2)]
@@ -338,10 +315,8 @@
 [Background(image="bg_black",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.51)]
-
-[name="铅踝"]在荒地上，万能的货币是药品而不是金钱，消息我已经放出去了，接下来，我需要证明，我值得他们专门为我来一趟。
+[name="鉛踝"]在荒地上，萬能的貨幣是藥品而不是金錢，消息我已經放出去了，接下來，我需要證明，我值得他們專門為我來一趟。
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
 [Delay(time=2)]
@@ -349,26 +324,23 @@
 [CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]居然都到这个点了。
+[name="鉛踝"]居然都到這個時間了。
 [character]
-[name="首饰商人"]朋友，你今天可输得有点惨，看这大把的金币，你太太看到一定不会轻易罢休。
+[name="首飾商人"]朋友，你今天可輸得有點慘，看這大把的金幣，你太太看到一定不會輕易甘休。
 [character(name="avg_4062_totter_1#3$1")]
-[name="铅踝"]只是些小钱而已，怡情所用，无伤大雅。
+[name="鉛踝"]只是些小錢而已，怡情所用，無傷大雅。
 [character]
-[name="木材商人"]哈哈哈，我们就是喜欢你这样阔气的朋友。
+[name="木材商人"]哈哈哈，我們就是喜歡你這樣闊氣的朋友。
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]所以，你们还要再来一局吗？
+[name="鉛踝"]所以，你們還要再來一局嗎？
 [Dialog]
 [character]
 [Delay(time=1.5)]
-
 [character(name="avg_npc_165",fadetime=1.5,blackstart=0.4,blackend=0.9)]
 [Delay(time=1)]
 [name="？？？"]......
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [character]
 [Delay(time=2)]
@@ -376,13 +348,10 @@
 [Background(image="bg_black",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.51)]
-
-
-[name="铅踝"]周三一早，果不其然，我居所的窗下出现了陌生的脚印，虽然有被掩盖，但手法并不专业。
-[name="铅踝"]哈伦先生，你打过猎吗？
-[name="铅踝"]动物有自己的领地，在领地内觅食、嬉戏、巡视都有自己的规律。摸准它们的习惯，放置陷阱便成了一件轻松的事。
+[name="鉛踝"]周三一早，果不其然，我居所的窗下出現了陌生的腳印，雖然有被掩蓋，但手法並不專業。
+[name="鉛踝"]哈倫先生，你打過獵嗎？
+[name="鉛踝"]動物有自己的領地，在領地內覓食、嬉戲、巡視都有自己的規律。摸準它們的習慣，放置陷阱便成了一件輕鬆的事。
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
 [Delay(time=1)]
@@ -390,24 +359,22 @@
 [CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-
-[name="小贩A"]先生，你这么快就打算要离开了吗？
+[name="小販A"]先生，你這麼快就打算要離開了嗎？
 [character(name="avg_4062_totter_1#3$1")]
-[name="铅踝"]是的，此地盛传的关于荒地劫匪的事让我无法安心，能尽快抽身离开最好。
+[name="鉛踝"]是的，此地盛傳的關於荒地劫匪的事讓我無法安心，能儘快抽身離開最好。
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]所以我想向诸位咨询，你们知道还有什么其他的路可以从这里离开吗？
+[name="鉛踝"]所以我想向諸位諮詢，你們知道還有什麼其他的路可以從這裡離開嗎？
 [character]
-[name="小贩A"]实话和你说，先生，走哪条路都没有用，你根本无法躲开他们的突袭，他们准确掌握着你的所有动向。
+[name="小販A"]實話和你說，先生，走哪條路都沒有用，你根本無法躲開他們的突襲，他們準確掌握著你的所有動向。
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]你们都有被袭击的经历吗？
+[name="鉛踝"]你們都有被襲擊的經歷嗎？
 [character]
-[name="商人B"]上次我的商队从镇子东边的小路出发，想着那群畜生不会注意，但离开不到一小时，就遇到了他们的埋伏。
+[name="商人B"]上次我的商隊從鎮子東邊的小路出發，想著那群畜生不會注意，但離開不到一小時，就遇到了他們的埋伏。
 [character(name="avg_4062_totter_1#5$1")]
-[name="铅踝"]真是太可怕了，你们中间就没有人侥幸逃过吗？
+[name="鉛踝"]真是太可怕了，你們中間就沒有人僥倖逃過嗎？
 [Character]
-[name="商人B"]这一个月我们试过无数的道路，无论是偏僻的小径，还是堂皇的大道，只要一踏上路面，就必定会遭遇这些不幸。
+[name="商人B"]這一個月我們試過無數的道路，無論是偏僻的小徑，還是堂皇的大道，只要一踏上路面，就必定會遭遇這些不幸。
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [character]
 [Delay(time=1)]
@@ -415,12 +382,10 @@
 [Background(image="bg_black",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.51)]
-
-[name="铅踝"]通过对比这些商队的路线和他们遇到劫匪的地点，我大致确定了这些不法之徒的行动范围。
-[name="铅踝"]并找到了几个合适的狙击点，确保我的弓弩射程能够完全覆盖这些地方。
-[name="铅踝"]最后我要做的便是驱赶猎物进入陷阱了。
+[name="鉛踝"]透過對比這些商隊的路線和他們遇到劫匪的地點，我大致確定了這些不法之徒的行動範圍。
+[name="鉛踝"]並找到了幾個合適的狙擊點，確保我的弓弩射程能夠完全覆蓋這些地方。
+[name="鉛踝"]最後我要做的便是驅趕獵物進入陷阱了。
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
 [Delay(time=1)]
@@ -428,25 +393,22 @@
 [CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-
 [playsound(key="$dooropenquite")]
 [character(name="avg_4062_totter_1#1$1",fadetime=1.5)]
 [delay(time=2)]
-
-[name="铅踝"]喂，小子，要不要赚一笔外快？
+[name="鉛踝"]喂，小子，要不要賺一筆外快？
 [character]
-[name="机灵的男孩"]先生，请问您有什么吩咐？
+[name="機靈的男孩"]先生，請問您有什麼吩咐？
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]我明天就要出远门了，为我准备好十天的淡水和干粮，驮兽要在夜晚来临前喂足粮草，天不亮我就得出发了。
-[name="铅踝"]哦，对了，这是你的报酬，四个金币，明天五点我会在镇子的西口等你。
+[name="鉛踝"]我明天就要出遠門了，為我準備好十天的淡水和乾糧，馱獸要在夜晚來臨前餵足糧草，天沒亮我就得出發了。
+[name="鉛踝"]哦，對了，這是你的報酬，四個金幣，明天五點我會在鎮子的西口等你。
 [character]
-[name="机灵的男孩"]哇，您真是太慷慨了。
+[name="機靈的男孩"]哇，您真是太慷慨了。
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]从现在开始不要打扰我，我得在出行前补足睡眠，不要傻站着了，快去办事。
+[name="鉛踝"]從現在開始不要打擾我，我得在出行前補足睡眠，不要傻站著了，快去辦事。
 [character]
-[name="机灵的男孩"]好好，没问题，我做事包您满意。
+[name="機靈的男孩"]好好，沒問題，我做事包您滿意。
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164")]
@@ -454,50 +416,49 @@
 [Background(image="bg_deserttownD",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]其实，做这些事情只需要两个金币，但我多给了一倍。
+[name="鉛踝"]其實，做這些事情只需要兩個金幣，但我多給了一倍。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]这个年纪的孩子，多赚一笔难免四处炫耀。他告诉的人越多，我的目标就越容易达成。
+[name="鉛踝"]這個年紀的孩子，多賺一筆難免四處炫耀。他告訴的人越多，我的目標就越容易達成。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]所以你昨天并没有在睡觉吗？
+[name="落魄商人"]所以你昨天並沒有在睡覺嗎？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]不，我确实睡了很长时间，第二天用眼睛，我得保持充足的精力。
+[name="鉛踝"]不，我確實睡了很長時間，第二天用眼睛，我得保持充足的精力。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
 [name="落魄商人"]（喝了一口酒）
-[name="落魄商人"]居然......就是这样。
+[name="落魄商人"]居然......就是這樣。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]听起来你好像很失望。
+[name="鉛踝"]聽起來你好像很失望。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]是的，我以为我能听到的，是一个传奇雇佣兵的惊世传说，但是听下来感觉更像我老婆拿给我的商业计划书，很详细，却也很乏味。
+[name="落魄商人"]是的，我以為我能聽到的，是一個傳奇雇傭兵的驚世傳說，但是聽下來感覺更像我老婆拿給我的商業計劃書，很詳細，卻也很乏味。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]好的计划不应该有太多的起伏，越稳妥越好。
+[name="鉛踝"]好的計劃不應該有太多的起伏，越穩妥越好。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]她也这么说！她甚至和你一样，随身带着一个笔记本来记她的想法。
+[name="落魄商人"]她也這麼說！她甚至和你一樣，隨身帶著一個筆記本來記她的想法。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]我觉得这个习惯很不错，人相信什么都不能相信自己的破记性。那她现在呢？
+[name="鉛踝"]我覺得這個習慣很不錯，人相信什麼都不能相信自己的破記性。那她現在呢？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]被劫匪一刀砍掉了脑袋......我记得刚找上你的时候就告诉你了。
+[name="落魄商人"]被劫匪一刀砍掉了腦袋......我記得剛找上你的時候就告訴你了。
 [character(name="avg_4062_totter_1#2$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]......抱歉，我忘了。
+[name="鉛踝"]......抱歉，我忘了。
 [character(name="avg_4062_totter_1#2$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]没关系，至少现在她不用再为做计划书而烦恼了。要不是我当初强拉她掺和进自己的生意，她现在应该会做个诗人吧。
+[name="落魄商人"]沒關係，至少現在她不用再為做計劃書而煩惱了。要不是我當初強拉她摻和進自己的生意，她現在應該會做個詩人吧。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]嗯，诗人是个不错的职业，挺安全。
+[name="鉛踝"]嗯，詩人是個不錯的職業，挺安全。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
 [name="落魄商人"]......
-[name="落魄商人"]我说实话会冒犯你吗？和你聊天让我感觉不太舒服。
+[name="落魄商人"]我說實話會冒犯你嗎？和你聊天讓我感覺不太舒服。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]没事，很多人都这么说，我很感激那些只是嘴上说说的人，有更多的人他们会直接动手。
+[name="鉛踝"]沒事，很多人都這麼說，我很感激那些只是嘴上說說的人，有更多的人他們會直接動手。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]理智告诉我，我应该说点什么安慰你，但是很遗憾，我的情感不容许。
+[name="落魄商人"]理智告訴我，我應該說點什麼安慰你，但是很遺憾，我的情感不容許。
 [character(name="avg_4062_totter_1#9$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]我很抱歉......
+[name="鉛踝"]我很抱歉......
 [character(name="avg_4062_totter_1#9$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]（摇头）唉，算了。
-[name="落魄商人"]我能看看你的笔记本吗？
+[name="落魄商人"]（搖頭）唉，算了。
+[name="落魄商人"]我能看看你的筆記本嗎？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]哦，好的，请。
+[name="鉛踝"]哦，好的，請。
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [characteraction(name="left", type="move", xpos=15, fadetime=0.3, block=true)]
@@ -505,62 +466,61 @@
 [characteraction(name="left", type="move", xpos=-15, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]嚯，这么大的字。
+[name="落魄商人"]嚯，這麼大的字。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]我的眼睛有点小毛病，近处的事物反而没有远处的看得清晰。
+[name="鉛踝"]我的眼睛有點小毛病，近處的事物反而沒有遠處的看得清晰。
 [Dialog]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164")]
 [playsound(key="$d_avg_paper2")]
 [Delay(time=1.5)]
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]似乎，你很仔细地规划了生活里的每一件事。
+[name="落魄商人"]似乎，你很仔細地規劃了生活裡的每一件事。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]是的，有个框架，遇到麻烦了就不会手忙脚乱。
+[name="鉛踝"]是的，有個框架，遇到麻煩了就不會手忙腳亂。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=2)]
 [playsound(key="$book_close")]
-[name="落魄商人"]（合上本子）
+[name="落魄商人"]（闔上本子）
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]唉，你这样的人，一定将一切都牢牢攥在手心里，一点差错也不会有，一丝偏移都不会有。
-[name="落魄商人"]想必你的人生肯定是在你的掌控下一帆风顺，不会突然有一天就陷入一无所有的境地。
+[name="落魄商人"]唉，你這樣的人，一定將一切都牢牢攥在手心裡，一點差錯也不會有，一絲偏移都不會有。
+[name="落魄商人"]想必你的人生肯定是在你的掌控下一帆風順，不會突然有一天就陷入一無所有的境地。
 [name="落魄商人"]（灌了一大口酒）
 [character(name="avg_4062_totter_1#11$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]（不安地摩挲着杯把）
-[name="铅踝"]不是的......
+[name="鉛踝"]（不安地摩挲著杯把）
+[name="鉛踝"]不是的......
 [character(name="avg_4062_totter_1#11$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]不是什么？
+[name="落魄商人"]不是什麼？
 [character(name="avg_4062_totter_1#11$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]没有，我的人生里从来就没几件事能在我的掌控之中。
+[name="鉛踝"]沒有，我的人生裡從來就沒幾件事能在我的掌控之中。
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]（轻抿一口酒）
+[name="鉛踝"]（輕抿一口酒）
 [character(name="avg_4062_totter_1#3$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]可怜的家伙。
+[name="落魄商人"]可憐的傢伙。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]请别这么说我。
+[name="鉛踝"]請別這麼說我。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]不，我在说我自己。
-[name="落魄商人"]（拿起杯子一饮而尽）
-[name="落魄商人"]结账吧，我得走了。嘶，我身上的钱呢......啊，我都忘了，已经全部支付给你了。
+[name="落魄商人"]不，我在說我自己。
+[name="落魄商人"]（拿起杯子一飲而盡）
+[name="落魄商人"]結帳吧，我得走了。嘶，我身上的錢呢......啊，我都忘了，已經全部支付給你了。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]让我来结吧。
+[name="鉛踝"]讓我來結吧。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]谢谢。
+[name="落魄商人"]謝謝。
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=1)]
-[name="铅踝"]要不这些金币你拿走吧，以后身无分文怎么办？
+[name="鉛踝"]要不這些金幣你拿走吧，以後身無分文怎麼辦？
 [character(name="avg_4062_totter_1#1$1",name2="avg_npc_164",focus=2)]
-[name="落魄商人"]哈，那些你留着吧，我应该用不到了。
+[name="落魄商人"]哈，那些你留著吧，我應該用不到了。
 [Dialog]
 [character(name="avg_4062_totter_1#1$1",name2="char_empty",fadetime=0.5)]
 [playsound(key="$bodyfalldown1")]
 [stopmusic(fadetime=1)]
 [CameraShake(duration=0.3, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Delay(time=2)]
-
 [character(name="avg_4062_totter_1#1$1",name2="char_empty",focus=1)]
-[name="铅踝"]你喝醉了。
+[name="鉛踝"]你喝醉了。
 [Dialog]
 [character(name="char_empty")]
 [characteraction(name="middle",type="move",ypos=-300,fadetime=0.1)]
-[name="落魄商人"]啊，不用管我，我能自己站起来。拜拜了，朋友。
+[name="落魄商人"]啊，不用管我，我能自己站起來。拜拜了，朋友。
 [Dialog]
 [characteraction(name="middle",type="move",xpos=-10,ypos=60,fadetime=1.2, isblock=true)]
 [character(name="avg_npc_164",fadetime=1.5)]
@@ -569,26 +529,21 @@
 [characteraction(name="middle",type="move",xpos=10,ypos=60,fadetime=1.2, isblock=true)]
 [characteraction(name="middle",type="move",xpos=-10,ypos=60,fadetime=1.2, isblock=true)]
 [Delay(time=2)]
-
 [playsound(key="$d_gen_walk_n")]
 [character(fadetime=1.5)]
 [Delay(time=1.7)]
-
-[name="落魄商人"]♪白昼消逝前，我伸臂揽她入怀♪
-[name="落魄商人"]♪她浅紫色的面纱下，茉莉香气暗暗氤氲♪
-[name="落魄商人"]♪那片柔软的双唇将带我离开♪
-[name="落魄商人"]♪去往永恒的故园♪
-[name="落魄商人"]♪那一刻的阵痛，终结我的一生♪
-
-酒醉的商人迎着从地平线升起的朝阳，拖着蹒跚的步伐渐渐步入那片火红色的巨轮，他的背影义无反顾，就像投入恋人炙热的怀抱。
-沙漠里干燥的风将他的歌声温柔地裹上细沙，妥善保存，然后送至下一个旅人的喉间。
-
+[name="落魄商人"]♪白晝消逝前，我伸臂攬她入懷♪
+[name="落魄商人"]♪她淺紫色的面紗下，茉莉香氣暗暗氤氳♪
+[name="落魄商人"]♪那片柔軟的雙唇將帶我離開♪
+[name="落魄商人"]♪去往永恆的故園♪
+[name="落魄商人"]♪那一刻的陣痛，終結我的一生♪
+酒醉的商人迎著從地平線升起的朝陽，拖著蹣跚的步伐漸漸步入那片火紅色的巨輪，他的背影義無反顧，就像投入戀人炙熱的懷抱。
+沙漠裡乾燥的風將他的歌聲溫柔地裹上細沙，妥善保存，然後送至下一個旅人的喉間。
 [character(name="avg_4062_totter_1#1$1")]
-[name="铅踝"]♪路易萨，我心里的路易萨♪
+[name="鉛踝"]♪路易薩，我心裡的路易薩♪
 [character(name="avg_4062_totter_1#3$1")]
-[name="铅踝"]♪带我归家，有你相伴，我别无所求♪
-[name="铅踝"]♪路易萨，我梦里的路易萨♪
-
+[name="鉛踝"]♪帶我歸家，有你相伴，我別無所求♪
+[name="鉛踝"]♪路易薩，我夢裡的路易薩♪
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -598,44 +553,42 @@
 [playMusic(intro="$distressed_intro", key="$distressed_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-
-[name="低沉的男声"]虽然很难说出口，但是托特尔，我们只能将你安置在这里了。
-[name="低沉的男声"]我们的队伍将继续北上，因为脚伤，你无法跟上我们的速度。
+[name="低沉的男聲"]雖然很難說出口，但是托特爾，我們只能將你安置在這裡了。
+[name="低沉的男聲"]我們的隊伍將繼續北上，因為腳傷，你無法跟上我們的速度。
 [character(name="avg_4062_totter_1#5$1")]
-[name="铅踝"]你要把我丢在这里吗？
+[name="鉛踝"]你要把我丟在這裡嗎？
 [character]
-[name="低沉的男声"]这里靠近雪境，雪景很美。
+[name="低沉的男聲"]這裡靠近雪境，雪景很美。
 [character(name="avg_4062_totter_1#7$1")]
-[name="铅踝"]你打算把我丢在这里，对吗？
+[name="鉛踝"]你打算把我丟在這裡，對嗎？
 [character]
-[name="低沉的男声"]我会给你留下一笔钱，离这不远有个村庄，你可以换些生活必需的东西。
+[name="低沉的男聲"]我會給你留下一筆錢，離這不遠有個村莊，你可以換些生活必需的東西。
 [character(name="avg_4062_totter_1#4$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="铅踝"]你他妈别再绕圈子了！回答我！
+[name="鉛踝"]你他媽別再繞圈子了！回答我！
 [character]
-[name="低沉的男声"]托特尔，我......
+[name="低沉的男聲"]托特爾，我......
 [character(name="avg_4062_totter_1#7$1")]
-[name="铅踝"]安，告诉我，你也是这么想的吗？
+[name="鉛踝"]安，告訴我，你也是這麼想的嗎？
 [character]
-[name="冷静的女声"]别这样，你也清楚不是吗？队伍不可能为了你放慢脚步，我们都有任务需要完成。
+[name="冷靜的女聲"]別這樣，你也清楚不是嗎？隊伍不可能為了你放慢腳步，我們都有任務需要完成。
 [character(name="avg_4062_totter_1#7$1")]
-[name="铅踝"]所以你们都要丢下我，是吗？
+[name="鉛踝"]所以你們都要丟下我，是嗎？
 [character]
-[name="冷静的女声"]你已经不是孩子了，闹脾气最不是个办法。
+[name="冷靜的女聲"]你已經不是孩子了，鬧脾氣最不是個辦法。
 [character(name="avg_4062_totter_1#3$1")]
-[name="铅踝"]这不是我们当初约定好的，安。
+[name="鉛踝"]這不是我們當初約定好的，安。
 [character]
-[name="冷静的女声"]谁都料不到未来的事......托特尔。来年春天，或许我们会返回，或许那时情况又会不一样，别太丧气。
+[name="冷靜的女聲"]誰都料不到未來的事......托特爾。來年春天，或許我們會返回，或許那時情況又會不一樣，別太喪氣。
 [character(name="avg_4062_totter_1#7$1")]
-[name="铅踝"]哈，那你们会来吗？
+[name="鉛踝"]哈，那你們會來嗎？
 [character]
-[name="冷静的女声"]......
+[name="冷靜的女聲"]......
 [character(name="avg_4062_totter_1#11$1")]
-[name="铅踝"]......好，我知道了。
+[name="鉛踝"]......好，我知道了。
 [character]
-[name="低沉的男声"]......
+[name="低沉的男聲"]......
 [Dialog]
-
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [CameraEffect(effect="Grayscale", fadetime=0, amount=0, block=true)]
@@ -643,14 +596,12 @@
 [character(name="avg_4062_totter_1#3$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-
-[name="铅踝"]♪路易萨，我心里的路易萨♪
-[name="铅踝"]♪带我归家，有你相伴，我别无所求♪
-[name="铅踝"]♪路易萨，我梦里的路易萨♪
-[name="铅踝"]♪我将永远等候你......♪
-[name="铅踝"]♪......的到来♪
-[name="铅踝"]（拿起杯子一饮而尽）
-
+[name="鉛踝"]♪路易薩，我心裡的路易薩♪
+[name="鉛踝"]♪帶我歸家，有你相伴，我別無所求♪
+[name="鉛踝"]♪路易薩，我夢裡的路易薩♪
+[name="鉛踝"]♪我將永遠等候你......♪
+[name="鉛踝"]♪......的到來♪
+[name="鉛踝"]（拿起杯子一飲而盡）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -660,22 +611,20 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]	
-
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_4062_totter_1#1$1",fadetime=1.5)]
 [Delay(time=2)]
-
-[name="铅踝"]钥匙，钥匙在哪里？
-[multiline(name="铅踝")]是这把吗？
+[name="鉛踝"]鑰匙，鑰匙在哪裡？
+[multiline(name="鉛踝")]是這把嗎？
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [characteraction(name="middle", type="move", xpos=5, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=0.2, block=true)]
 [characteraction(name="middle", type="move", xpos=-5, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=0.5, block=true)]
-[multiline(name="铅踝")]不对，开不了，不是这把。
+[multiline(name="鉛踝")]不對，開不了，不是這把。
 [Dialog]
 [Dialog]
-[name="铅踝"]是这把？
+[name="鉛踝"]是這把？
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [characteraction(name="middle", type="move", xpos=5, fadetime=0.3, block=true)]
@@ -683,18 +632,16 @@
 [characteraction(name="middle", type="move", xpos=-5, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [character(name="avg_4062_totter_1#6$1")]
-[name="铅踝"]不是......不开了，就这样吧。
+[name="鉛踝"]不是......不開了，就這樣吧。
 [Dialog]
 [character(fadetime=1.5)]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
-[name="铅踝"]（席地坐下）
+[name="鉛踝"]（席地坐下）
 [Delay(time=0.8)]
-[name="铅踝"]......几点了，约定好的时间应该快到了，就在门外等着好了。
-
-屋檐在高温的沙地上投下一片阴影，隔绝了炎热的空气与酷辣的阳光，将铅踝蜷起的身体纳入阴影。
-在一阵和风中，铅踝的眼皮再也支撑不住，紧紧地合上了。
-背靠着门框，他在一片酣梦中安睡。
-
+[name="鉛踝"]......幾點了，約定好的時間應該快到了，就在門外等著好了。
+屋簷在高溫的沙地上投下一片陰影，隔絕了炎熱的空氣與酷辣的陽光，將鉛踝蜷起的身體納入陰影。
+在一陣和風中，鉛踝的眼皮再也支撐不住，緊緊地闔上了。
+背靠著門框，他在一片酣夢中安睡。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -702,44 +649,36 @@
 [Character]
 [Background(image="bg_safehouseoutdoorN",screenadapt="showall")]
 [Delay(time=3)]	
-
 [PlaySound(key="$drift", volume=0.6)]
 [Delay(time=2)]
-
-[name="？？？"]铅踝先生，铅踝先生，醒醒！
+[name="？？？"]鉛踝先生，鉛踝先生，醒醒！
 [Dialog]
-
-[name="铅踝"]嗯......啊！怎么了？
+[name="鉛踝"]嗯......啊！怎麼了？
 [Dialog]
 [character(name="avg_npc_012")]
-[name="？？？"]我是来接你的干员，对不起，来的路上飞行器遭遇了沙暴，所以延误了，你没有等很久吧？
+[name="？？？"]我是來接你的幹員，對不起，來的路上飛行器遭遇了沙暴，所以延誤了，你沒有等很久吧？
 [Dialog]
-
 [Delay(time=1)]
-
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.6)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-
 [Delay(time=1)]
 [character]
-
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [character(name="avg_4062_totter_1#8$1",fadetime=1.5)]
 [Delay(time=2)]
-[name="铅踝"]（站起来拍拍裤子上的土）没有没有，你来得正好。
+[name="鉛踝"]（站起來拍拍褲子上的土）沒有沒有，你來得正好。
 [character(name="avg_npc_012")]
-[name="罗德岛干员"]可我看你都睡着了......
+[name="羅德島幹員"]可我看你都睡著了......
 [character(name="avg_4062_totter_1#10$1")]
-[name="铅踝"]我只是小睡一阵，刚刚才出门，没有睡很久。
+[name="鉛踝"]我只是小睡一陣，剛剛才出門，沒有睡很久。
 [character(name="avg_npc_012")]
-[name="罗德岛干员"]呃，你......为什么在笑？
+[name="羅德島幹員"]呃，你......為什麼在笑？
 [character(name="avg_4062_totter_1#8$1")]
-[name="铅踝"]我笑了吗？
-[name="铅踝"]（摸摸自己的嘴角）
-[name="铅踝"]真奇怪，我为什么笑了？
-
+[name="鉛踝"]我笑了嗎？
+[name="鉛踝"]（摸摸自己的嘴角）
+[name="鉛踝"]真奇怪，我為什麼笑了？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

@@ -156,6 +156,19 @@
       "lockedText": "完成上一章以解鎖",
       "canPreview": true
     },
+    "main_11": {
+      "zoneID": "main_11",
+      "zoneIndex": 2,
+      "type": "MAINLINE",
+      "zoneNameFirst": "第十一章",
+      "zoneNameSecond": "淬火塵霾",
+      "zoneNameTitleCurrent": "11",
+      "zoneNameTitleUnCurrent": "11",
+      "zoneNameTitleEx": "EPISODE",
+      "zoneNameThird": "EPISODE 11",
+      "lockedText": "完成上一章以解鎖",
+      "canPreview": true
+    },
     "weekly_1": {
       "zoneID": "weekly_1",
       "zoneIndex": 1,
@@ -494,6 +507,19 @@
       "lockedText": null,
       "canPreview": false
     },
+    "tower_n_04": {
+      "zoneID": "tower_n_04",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "rogue_1": {
       "zoneID": "rogue_1",
       "zoneIndex": 1,
@@ -513,6 +539,71 @@
       "type": "ROGUELIKE",
       "zoneNameFirst": null,
       "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act21side_zone1": {
+      "zoneID": "act21side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "連陰雨季",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act21side_zone2": {
+      "zoneID": "act21side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "銃與秩序",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act21side_zone3": {
+      "zoneID": "act21side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "自詡荒野",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act14sre_zone1": {
+      "zoneID": "act14sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "雪山大典",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act14sre_zone2": {
+      "zoneID": "act14sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "聖獵",
       "zoneNameTitleCurrent": null,
       "zoneNameTitleUnCurrent": null,
       "zoneNameTitleEx": null,
@@ -2248,6 +2339,32 @@
       "zoneNameThird": null,
       "lockedText": null,
       "canPreview": false
+    },
+    "permanent_sidestory_11_zone1": {
+      "zoneID": "permanent_sidestory_11_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "雪山大典",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "permanent_sidestory_11_zone2": {
+      "zoneID": "permanent_sidestory_11_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "聖獵",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
     }
   },
   "weeklyAdditionInfo": {
@@ -2337,6 +2454,26 @@
     }
   },
   "zoneValidInfo": {
+    "act21side_zone1": {
+      "startTs": 1694503800,
+      "endTs": 1696276799
+    },
+    "act21side_zone2": {
+      "startTs": 1695110400,
+      "endTs": 1696276799
+    },
+    "act21side_zone3": {
+      "startTs": 1695715200,
+      "endTs": 1696276799
+    },
+    "act14sre_zone1": {
+      "startTs": 1693294200,
+      "endTs": 1694116799
+    },
+    "act14sre_zone2": {
+      "startTs": 1693294200,
+      "endTs": 1694116799
+    },
     "act13sre_zone1": {
       "startTs": 1685431800,
       "endTs": 1686254399
@@ -2927,6 +3064,26 @@
         2,
         4
       ]
+    },
+    "main_11": {
+      "zoneId": "main_11",
+      "chapterId": "chapter_2",
+      "preposedZoneId": "main_10",
+      "zoneIndex": 2,
+      "startStageId": "easy_11-01",
+      "endStageId": "st_11-03",
+      "mainlneBgName": "mbg_chapter_2_3",
+      "recapId": "obt/main/main_11_zone_enter",
+      "recapPreStageId": "st_10-04",
+      "buttonName": "觀看序曲",
+      "buttonStyle": "REPLAY",
+      "spoilAlert": false,
+      "zoneOpenTime": 1691652600,
+      "diffGroup": [
+        1,
+        2,
+        4
+      ]
     }
   },
   "zoneRecordGroupedData": {
@@ -3428,6 +3585,519 @@
         "initialDes": "一本出現在資料中的私人筆記，不知道是哪位倫蒂尼姆市民遺失的，失主也不一定還活著。記敘了許多正在這座城市裡發生的事情，可以在作戰的間隙裡隨手翻閱一下。",
         "finalDes": "海蒂被捕前幾天想辦法轉交到羅德島的筆記本，現在物歸原主。用簡潔隱晦的方式記下了這座城市裡發生的許多事情，她很樂意經常拿給你翻閱。",
         "remindDes": "翻閱筆記時，你在一張身份證明上看見了熟悉的名字。根據前後的文字記錄，你可以確定她就是筆記本的主人。"
+      }
+    },
+    "main_11": {
+      "zoneId": "main_11",
+      "records": [
+        {
+          "recordId": "main_11_note_1",
+          "zoneId": "main_11",
+          "recordTitleName": "11-1",
+          "preRecordId": null,
+          "nodeTitle1": "Livia Gildas",
+          "nodeTitle2": "莉薇婭·吉爾達斯",
+          "rewards": [
+            {
+              "bindStageId": "easy_11-01",
+              "stageDiff1": 1,
+              "stageDiff": 1,
+              "picRes": "pic_1_main_11_note_1",
+              "textPath": "",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "2003",
+                  "count": 3,
+                  "type": "CARD_EXP"
+                },
+                {
+                  "id": "3301",
+                  "count": 5,
+                  "type": "MATERIAL"
+                }
+              ]
+            },
+            {
+              "bindStageId": "main_11-01",
+              "stageDiff1": 2,
+              "stageDiff": 2,
+              "picRes": null,
+              "textPath": "Obt/Record/main_11/text_main_11_note_1",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "3301",
+                  "count": 5,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30062",
+                  "count": 3,
+                  "type": "MATERIAL"
+                }
+              ]
+            },
+            {
+              "bindStageId": "tough_11-01",
+              "stageDiff1": 3,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_1",
+              "textPath": null,
+              "textDesc": "矗立在王宮前的瞭望塔樓。\n數百年過去了，塔樓早已坍塌，只留下了一張草圖，供後人想像它最初的模樣。",
+              "recordReward": [
+                {
+                  "id": "32001",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "31024",
+                  "count": 2,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_2",
+          "zoneId": "main_11",
+          "recordTitleName": "11-7",
+          "preRecordId": "main_11_note_1",
+          "nodeTitle1": "Richard Seymour",
+          "nodeTitle2": "理查·西摩",
+          "rewards": [
+            {
+              "bindStageId": "easy_11-06",
+              "stageDiff1": 1,
+              "stageDiff": 1,
+              "picRes": "pic_1_main_11_note_2",
+              "textPath": "",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "2003",
+                  "count": 5,
+                  "type": "CARD_EXP"
+                },
+                {
+                  "id": "4001",
+                  "count": 10000,
+                  "type": "GOLD"
+                }
+              ]
+            },
+            {
+              "bindStageId": "main_11-06",
+              "stageDiff1": 2,
+              "stageDiff": 2,
+              "picRes": null,
+              "textPath": "Obt/Record/main_11/text_main_11_note_2",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "3302",
+                  "count": 5,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "4001",
+                  "count": 20000,
+                  "type": "GOLD"
+                }
+              ]
+            },
+            {
+              "bindStageId": "tough_11-06",
+              "stageDiff1": 3,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_2",
+              "textPath": null,
+              "textDesc": "統領塔樓騎士的警戒長的身份象徵。\n是榮譽，更是責任。",
+              "recordReward": [
+                {
+                  "id": "32001",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "31044",
+                  "count": 2,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_3",
+          "zoneId": "main_11",
+          "recordTitleName": "11-12",
+          "preRecordId": "main_11_note_2",
+          "nodeTitle1": "Lucia Skamandros",
+          "nodeTitle2": "露西婭·斯卡曼德羅斯",
+          "rewards": [
+            {
+              "bindStageId": "easy_11-10",
+              "stageDiff1": 1,
+              "stageDiff": 1,
+              "picRes": "pic_1_main_11_note_3",
+              "textPath": "",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "3221",
+                  "count": 4,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30062",
+                  "count": 3,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "4001",
+                  "count": 20000,
+                  "type": "GOLD"
+                }
+              ]
+            },
+            {
+              "bindStageId": "main_11-10",
+              "stageDiff1": 2,
+              "stageDiff": 2,
+              "picRes": null,
+              "textPath": "Obt/Record/main_11/text_main_11_note_3",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "30013",
+                  "count": 4,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30032",
+                  "count": 4,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "4001",
+                  "count": 30000,
+                  "type": "GOLD"
+                }
+              ]
+            },
+            {
+              "bindStageId": "tough_11-10",
+              "stageDiff1": 3,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_3",
+              "textPath": null,
+              "textDesc": "維多利亞頒發的最高戰功勳章。\n只有真正英勇的維多利亞戰士才能擁有。而在白狼家族的廳堂上掛著的還不止一枚。",
+              "recordReward": [
+                {
+                  "id": "32001",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30064",
+                  "count": 2,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_4",
+          "zoneId": "main_11",
+          "recordTitleName": "11-15",
+          "preRecordId": "main_11_note_3",
+          "nodeTitle1": "Layton Montague",
+          "nodeTitle2": "雷頓·孟塔古",
+          "rewards": [
+            {
+              "bindStageId": "easy_11-13",
+              "stageDiff1": 1,
+              "stageDiff": 1,
+              "picRes": "pic_1_main_11_note_4",
+              "textPath": "",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "3302",
+                  "count": 5,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "31043",
+                  "count": 3,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30093",
+                  "count": 2,
+                  "type": "MATERIAL"
+                }
+              ]
+            },
+            {
+              "bindStageId": "main_11-13",
+              "stageDiff1": 2,
+              "stageDiff": 2,
+              "picRes": null,
+              "textPath": "Obt/Record/main_11/text_main_11_note_4",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "char_157_dagda",
+                  "count": 1,
+                  "type": "CHAR"
+                },
+                {
+                  "id": "3222",
+                  "count": 6,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "4001",
+                  "count": 50000,
+                  "type": "GOLD"
+                }
+              ]
+            },
+            {
+              "bindStageId": "tough_11-13",
+              "stageDiff1": 3,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_4",
+              "textPath": null,
+              "textDesc": "滿載著喜悅的報紙一角。\n那一天，所有維多利亞的報紙都在歌頌著弗雷德里克三世征服高盧的功績。",
+              "recordReward": [
+                {
+                  "id": "p_char_157_dagda",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30044",
+                  "count": 2,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "31014",
+                  "count": 2,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_5",
+          "zoneId": "main_11",
+          "recordTitleName": "11-19",
+          "preRecordId": "main_11_note_4",
+          "nodeTitle1": "Jeffrey Metz",
+          "nodeTitle2": "傑弗里·梅斯",
+          "rewards": [
+            {
+              "bindStageId": "main_11-17",
+              "stageDiff1": 4,
+              "stageDiff": 1,
+              "picRes": "pic_1_main_11_note_5",
+              "textPath": "",
+              "textDesc": "",
+              "recordReward": null
+            },
+            {
+              "bindStageId": "main_11-17",
+              "stageDiff1": 4,
+              "stageDiff": 2,
+              "picRes": null,
+              "textPath": "Obt/Record/main_11/text_main_11_note_5",
+              "textDesc": "",
+              "recordReward": [
+                {
+                  "id": "p_char_157_dagda",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "avatar_activity_EP11",
+                  "count": 1,
+                  "type": "PLAYER_AVATAR"
+                },
+                {
+                  "id": "furni_dropS022_hamlet_01",
+                  "count": 1,
+                  "type": "FURN"
+                },
+                {
+                  "id": "30155",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "31024",
+                  "count": 2,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "31063",
+                  "count": 4,
+                  "type": "MATERIAL"
+                }
+              ]
+            },
+            {
+              "bindStageId": "main_11-17",
+              "stageDiff1": 4,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_5",
+              "textPath": null,
+              "textDesc": "火光中的王宮一角。\n無人知曉維多利亞將走向何方。",
+              "recordReward": null
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_6",
+          "zoneId": "main_11",
+          "recordTitleName": "H11-1",
+          "preRecordId": "main_11_note_5",
+          "nodeTitle1": null,
+          "nodeTitle2": null,
+          "rewards": [
+            {
+              "bindStageId": "hard_11-01",
+              "stageDiff1": 5,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_6",
+              "textPath": "Obt/Record/main_11/text_main_11_note_6",
+              "textDesc": null,
+              "recordReward": [
+                {
+                  "id": "p_char_157_dagda",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30064",
+                  "count": 2,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_7",
+          "zoneId": "main_11",
+          "recordTitleName": "H11-2",
+          "preRecordId": "main_11_note_6",
+          "nodeTitle1": null,
+          "nodeTitle2": null,
+          "rewards": [
+            {
+              "bindStageId": "hard_11-02",
+              "stageDiff1": 5,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_7",
+              "textPath": "Obt/Record/main_11/text_main_11_note_7",
+              "textDesc": null,
+              "recordReward": [
+                {
+                  "id": "p_char_157_dagda",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30014",
+                  "count": 2,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_8",
+          "zoneId": "main_11",
+          "recordTitleName": "H11-3",
+          "preRecordId": "main_11_note_7",
+          "nodeTitle1": null,
+          "nodeTitle2": null,
+          "rewards": [
+            {
+              "bindStageId": "hard_11-03",
+              "stageDiff1": 5,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_8",
+              "textPath": "Obt/Record/main_11/text_main_11_note_8",
+              "textDesc": null,
+              "recordReward": [
+                {
+                  "id": "30125",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30155",
+                  "count": 1,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "recordId": "main_11_note_9",
+          "zoneId": "main_11",
+          "recordTitleName": "H11-4",
+          "preRecordId": "main_11_note_8",
+          "nodeTitle1": null,
+          "nodeTitle2": null,
+          "rewards": [
+            {
+              "bindStageId": "hard_11-04",
+              "stageDiff1": 5,
+              "stageDiff": 4,
+              "picRes": "pic_3_main_11_note_9",
+              "textPath": "Obt/Record/main_11/text_main_11_note_9",
+              "textDesc": null,
+              "recordReward": [
+                {
+                  "id": "furni_dropS022_holmes_01",
+                  "count": 1,
+                  "type": "FURN"
+                },
+                {
+                  "id": "p_char_157_dagda",
+                  "count": 1,
+                  "type": "MATERIAL"
+                },
+                {
+                  "id": "30125",
+                  "count": 1,
+                  "type": "MATERIAL"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "unlockData": {
+        "noteId": "main_11_note",
+        "zoneId": "main_11",
+        "initialName": "塔樓騎士之書",
+        "finalName": null,
+        "accordingExposeId": null,
+        "initialDes": "記載著數百年來塔樓騎士生平的《塔樓騎士之書》。\n由達格達借給你翻閱，可以以此為窗口一窺維多利亞的歷史。",
+        "finalDes": null,
+        "remindDes": null
       }
     }
   },

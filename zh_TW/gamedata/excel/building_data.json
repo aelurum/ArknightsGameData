@@ -9847,6 +9847,290 @@
           ]
         }
       ]
+    },
+    "char_4072_ironmn": {
+      "charId": "char_4072_ironmn",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_cost&dorm[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_dorm[002]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_4071_peper": {
+      "charId": "char_4071_peper",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "control_tra_spd[020]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_wt&cost[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "trade_ord_wt&cost[010]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_157_dagda": {
+      "charId": "char_157_dagda",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd&profession3[150]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "train_spd&profession3[151]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_4062_totter": {
+      "charId": "char_4062_totter",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd_reduce[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd_addition&cost[000]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_1028_texas2": {
+      "charId": "char_1028_texas2",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd_doubleProf2[001]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "train_spd_doubleProf2[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_4065_judge": {
+      "charId": "char_4065_judge",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "hire_spd_cost[210]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "dorm_hireToRecAll[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_4014_lunacu": {
+      "charId": "char_4014_lunacu",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "dorm_rec_oneself[001]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_probability[011]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_427_vigil": {
+      "charId": "char_427_vigil",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "meet_spd[032]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_spd&meet[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_466_qanik": {
+      "charId": "char_466_qanik",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "hire_spd_cost&clue[001]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "hire_spd_cost&clue[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_4063_quartz": {
+      "charId": "char_4063_quartz",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_spd&formula[000]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   "buffs": {
@@ -9904,6 +10188,18 @@
       "buffIcon": "control",
       "skillIcon": "bskill_ctrl_t_spd",
       "sortId": 1502,
+      "buffColor": "#005752",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "CONTROL",
+      "description": "進駐控制中樞時，所有貿易站訂單效率<@cc.vup>+7%</>（同種效果取最高）"
+    },
+    "control_tra_spd[020]": {
+      "buffId": "control_tra_spd[020]",
+      "buffName": "朝氣蓬勃",
+      "buffIcon": "control",
+      "skillIcon": "bskill_ctrl_t_spd",
+      "sortId": 1504,
       "buffColor": "#005752",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -10762,6 +11058,30 @@
       "roomType": "MANUFACTURE",
       "description": "進駐製造站後，生產力首小時<@cc.vup>+15%</>，此後每小時<@cc.vup>+2%</>，最終達到<@cc.vup>+25%</>"
     },
+    "manu_prod_spd_reduce[000]": {
+      "buffId": "manu_prod_spd_reduce[000]",
+      "buffName": "模糊視線",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd_reduce",
+      "sortId": 3280,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "進駐製造站時，生產力<@cc.vup>+30%</>，自身每有<@cc.kw>4</>點<$cc.bd.costdrop><@cc.kw>心情落差</></>，生產力<@cc.vdown>-5%</>"
+    },
+    "manu_prod_spd_addition&cost[000]": {
+      "buffId": "manu_prod_spd_addition&cost[000]",
+      "buffName": "窗外雪嘯",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd_add&cost",
+      "sortId": 3250,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "進駐製造站時，當自身<$cc.bd.costdrop><@cc.kw>心情落差</></>大於<@cc.kw>12</>時，生產力<@cc.vup>+10%</>，倉庫容量<@cc.vup>+6</>"
+    },
     "manu_prod_spd&limit[000]": {
       "buffId": "manu_prod_spd&limit[000]",
       "buffName": "倉庫整備·α",
@@ -11361,6 +11681,30 @@
       "buffCategory": "OUTPUT",
       "roomType": "TRADING",
       "description": "進駐貿易站時，每間宿舍每級<@cc.vup>+2%</>獲取效率"
+    },
+    "trade_ord_spd&meet[000]": {
+      "buffId": "trade_ord_spd&meet[000]",
+      "buffName": "新城貿易",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_spd&meet1",
+      "sortId": 4041,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "進駐貿易站時，訂單獲取效率<@cc.vup>+25%</>，會客室每級額外提供<@cc.vup>5%</>獲取效率，最多提供<@cc.vup>40%</>效率"
+    },
+    "trade_ord_spd&formula[000]": {
+      "buffId": "trade_ord_spd&formula[000]",
+      "buffName": "精準排期",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_spd&formula1",
+      "sortId": 4051,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "進駐貿易站時，訂單獲取效率<@cc.vup>+30%</>，製造站每有<@cc.kw>1</>類配方進行加工，則當前貿易站訂單獲取效率額外<@cc.vup>+2%</>"
     },
     "trade_ord_spd&limit[000]": {
       "buffId": "trade_ord_spd&limit[000]",
@@ -12142,6 +12486,18 @@
       "roomType": "WORKSHOP",
       "description": "進駐加工站加工<@cc.kw>技巧概要</>時，心情消耗為<@cc.kw>2</>的配方全部<@cc.vup>-1</>心情消耗"
     },
+    "workshop_formula_cost&dorm[000]": {
+      "buffId": "workshop_formula_cost&dorm[000]",
+      "buffName": "心相連",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_cost&dorm",
+      "sortId": 7300,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "進駐加工站加工<@cc.kw>精英材料</>時，宿舍內每有<@cc.kw>10</>名心情<@cc.vup>12</>以下的幹員時，心情消耗為<@cc.kw>4</>的配方心情消耗全部<@cc.vup>-1</>"
+    },
     "workshop_formula_probability[000]": {
       "buffId": "workshop_formula_probability[000]",
       "buffName": "技巧理論",
@@ -12160,6 +12516,18 @@
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_skill3",
       "sortId": 7304,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "進駐加工站加工<@cc.kw>技巧概要</>時，副產品的產出機率提升<@cc.vup>80%</>"
+    },
+    "workshop_formula_probability[011]": {
+      "buffId": "workshop_formula_probability[011]",
+      "buffName": "荒野生存",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_skill3",
+      "sortId": 7305,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -12394,6 +12762,18 @@
       "roomType": "WORKSHOP",
       "description": "進駐加工站加工<@cc.kw>精英材料</>時，宿舍內每有<@cc.kw>1</>名心情<@cc.vup>20</>以下的幹員，副產品的產出機率提升<@cc.vup>5%</>"
     },
+    "workshop_formula_dorm[002]": {
+      "buffId": "workshop_formula_dorm[002]",
+      "buffName": "意相通",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_evolve_dorm2",
+      "sortId": 7613,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "進駐加工站加工<@cc.kw>精英材料</>時，宿舍內每有<@cc.kw>1</>名心情<@cc.vup>12</>以下的幹員，副產品的產出機率提升<@cc.vup>5%</>"
+    },
     "workshop_formula_drop[020]": {
       "buffId": "workshop_formula_drop[020]",
       "buffName": "無用的贈予",
@@ -12609,6 +12989,30 @@
       "buffCategory": "FUNCTION",
       "roomType": "TRAINING",
       "description": "進駐訓練室協助位時，<@cc.kw>近衛</>與<@cc.kw>狙擊</>幹員的專精技能訓練速度<@cc.vup>+30%</>"
+    },
+    "train_spd_doubleProf2[001]": {
+      "buffId": "train_spd_doubleProf2[001]",
+      "buffName": "沉默為劍",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_specialist&pioneer1",
+      "sortId": 9902,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "進駐訓練室協助位時，<@cc.kw>特種</>與<@cc.kw>先鋒</>幹員的專精技能訓練速度<@cc.vup>+30%</>"
+    },
+    "train_spd_doubleProf2[000]": {
+      "buffId": "train_spd_doubleProf2[000]",
+      "buffName": "破斬桎梏",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train2_specialist&pioneer1",
+      "sortId": 9903,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "進駐訓練室協助位時，<@cc.kw>特種</>與<@cc.kw>先鋒</>幹員的專精技能訓練速度<@cc.vup>+30%</>，如果本次訓練專精技能至<@cc.vup>2</>級，則訓練速度額外<@cc.vup>+50%</>"
     },
     "train_spd_reduceTime[000]": {
       "buffId": "train_spd_reduceTime[000]",
@@ -13030,6 +13434,30 @@
       "roomType": "TRAINING",
       "description": "進駐訓練室協助位時，<@cc.kw>狙擊</>幹員的專精技能訓練速度<@cc.vup>+30%</>，如果訓練位幹員分支為<@cc.kw>速射手</>，則訓練速度額外<@cc.vup>+45%</>"
     },
+    "train_spd&profession3[150]": {
+      "buffId": "train_spd&profession3[150]",
+      "buffName": "近衛專精·α",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_guard1",
+      "sortId": 9791,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "進駐訓練室協助位時，<@cc.kw>近衛</>幹員的專精技能訓練速度<@cc.vup>+30%</>"
+    },
+    "train_spd&profession3[151]": {
+      "buffId": "train_spd&profession3[151]",
+      "buffName": "實戰技巧：鬥士",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_fighter",
+      "sortId": 9791,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "進駐訓練室協助位時，<@cc.kw>近衛</>幹員的專精技能訓練速度<@cc.vup>+30%</>，如果訓練位幹員分支為<@cc.kw>鬥士</>，則訓練速度額外<@cc.vup>+45%</>"
+    },
     "train_spd&profession2[110]": {
       "buffId": "train_spd&profession2[110]",
       "buffName": "戰術研習",
@@ -13288,6 +13716,18 @@
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_one2",
       "sortId": 5001,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "進駐宿舍時，自身心情每小時恢復<@cc.vup>+0.7</>"
+    },
+    "dorm_rec_oneself[001]": {
+      "buffId": "dorm_rec_oneself[001]",
+      "buffName": "幼狼情性",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_one2",
+      "sortId": 5006,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -13642,6 +14082,18 @@
       "roomType": "DORMITORY",
       "description": "進駐宿舍時，該宿舍內所有幹員的心情每小時恢復<@cc.vup>+0.15</>，同時每有<@cc.kw>1</>間發電站，則恢復效果額外<@cc.vup>+0.05</>（疊加後的最終值同種效果取最高）"
     },
+    "dorm_hireToRecAll[000]": {
+      "buffId": "dorm_hireToRecAll[000]",
+      "buffName": "尋同路人",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_hireToRecAll1",
+      "sortId": 5412,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "進駐宿舍時，該宿舍內所有幹員心情每小時恢復<@cc.vup>+0.15</>，同時每個招募位（不包含初始招募位）額外<@cc.vup>+0.05</>恢復效果（疊加後的最終值同種效果取最高）"
+    },
     "dorm_rec_single&oneself[000]": {
       "buffId": "dorm_rec_single&oneself[000]",
       "buffName": "活潑",
@@ -13942,6 +14394,18 @@
       "roomType": "HIRE",
       "description": "進駐人力辦公室時，人脈資源的聯絡速度<@cc.vup>+45%</>，心情每小時消耗<@cc.vdown>+2</>"
     },
+    "hire_spd_cost[210]": {
+      "buffId": "hire_spd_cost[210]",
+      "buffName": "法為正典",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_skgoat2",
+      "sortId": 8801,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "進駐人力辦公室時，人脈資源的聯絡速度<@cc.vup>+50%</>，心情每小時消耗<@cc.vdown>+0.5</>"
+    },
     "hire_spd_cost[100]": {
       "buffId": "hire_spd_cost[100]",
       "buffName": "救援隊·珠算",
@@ -13965,6 +14429,30 @@
       "buffCategory": "FUNCTION",
       "roomType": "HIRE",
       "description": "進駐人力辦公室時，人脈資源的聯絡速度<@cc.vup>+20%</>，心情每小時消耗<@cc.vup>-0.25</>"
+    },
+    "hire_spd_cost&clue[001]": {
+      "buffId": "hire_spd_cost&clue[001]",
+      "buffName": "救援隊·外界聯絡",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_spd2",
+      "sortId": 8314,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "進駐人力辦公室時，人脈資源的聯絡速度<@cc.vup>+30%</>"
+    },
+    "hire_spd_cost&clue[000]": {
+      "buffId": "hire_spd_cost&clue[000]",
+      "buffName": "救援隊·保證體力",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_spd&cost3",
+      "sortId": 8112,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "進駐人力辦公室時，人脈資源的聯絡速度<@cc.vup>+35%</>，同時每個招募位（不包含初始招募位）使心情每小時消耗<@cc.vup>-0.1</>"
     },
     "hire_spd&clue[010]": {
       "buffId": "hire_spd&clue[010]",
@@ -14152,6 +14640,18 @@
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_spd3",
       "sortId": 6005,
+      "buffColor": "#dd653f",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "MEETING",
+      "description": "進駐會客室時，線索蒐集速度提升<@cc.vup>25%</>"
+    },
+    "meet_spd[032]": {
+      "buffId": "meet_spd[032]",
+      "buffName": "領袖外交",
+      "buffIcon": "meeting",
+      "skillIcon": "bskill_meet_spd3",
+      "sortId": 6037,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -43827,6 +44327,1630 @@
         "isOnly": 1,
         "quantity": 1
       },
+      "furni_classroom_bayWindow_01": {
+        "id": "furni_classroom_bayWindow_01",
+        "sortId": 1030,
+        "name": "窗下矮榻",
+        "iconId": "furni_classroom_bayWindow_01",
+        "type": "SEATING",
+        "subType": "ORTHER_S",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_1",
+        "width": 8,
+        "depth": 3,
+        "height": 10,
+        "comfort": 485,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "由飄窗上幾塊軟墊拼接成的矮榻，可供教師在課餘時間休息。就算窗幔落下，還有一盞燈願意驅逐黑暗。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 358,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_column_01": {
+        "id": "furni_classroom_column_01",
+        "sortId": 1031,
+        "name": "頂梁支柱",
+        "iconId": "furni_classroom_column_01",
+        "type": "DECORATION",
+        "subType": "COLUMN",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_2",
+        "width": 2,
+        "depth": 2,
+        "height": 10,
+        "comfort": 170,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "高大結實的木柱，支撐著整間教室的房梁。當所有重量落在它身上，要嘛堅持屹立，要嘛轟然倒塌。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 125,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 2
+      },
+      "furni_classroom_stationeryHolder_01": {
+        "id": "furni_classroom_stationeryHolder_01",
+        "sortId": 1032,
+        "name": "書堆上的“筆筒”",
+        "iconId": "furni_classroom_stationeryHolder_01",
+        "type": "DECORATION",
+        "subType": "STORAGE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_1",
+        "width": 2,
+        "depth": 1,
+        "height": 3,
+        "comfort": 105,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "一隻缺了蓋的茶壺放在高高摞起的舊書堆上，裡面有幾把斷掉的尺子。老師眼裡，有些蒙塵的舊物只需稍加擦拭，依然大有用途。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 95,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_lowTable_01": {
+        "id": "furni_classroom_lowTable_01",
+        "sortId": 1033,
+        "name": "窗邊矮幾",
+        "iconId": "furni_classroom_lowTable_01",
+        "type": "DECORATION",
+        "subType": "STORAGE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_1",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 135,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "散亂的書籍與紙張堆在桌子上，有人想收拾，但無從下手。看似堆疊得隨意淩亂，但使用者總能從中快速找到需要的材料。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 123,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_ladder_01": {
+        "id": "furni_classroom_ladder_01",
+        "sortId": 1034,
+        "name": "木製書梯",
+        "iconId": "furni_classroom_ladder_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_2",
+        "width": 3,
+        "depth": 3,
+        "height": 3,
+        "comfort": 150,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "擺放在書架前的陳舊木梯，略微搖晃。若想抬手觸碰知識的邊界，腳下便不能踏著一片虛渺。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 123,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_bookshelf_01": {
+        "id": "furni_classroom_bookshelf_01",
+        "sortId": 1035,
+        "name": "木製書架",
+        "iconId": "furni_classroom_bookshelf_01",
+        "type": "CABINET",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_2",
+        "width": 2,
+        "depth": 4,
+        "height": 7,
+        "comfort": 215,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "簡約質樸的落地書架，擺在上面的書籍都是精挑細選過的。有些書，每一次的傳看，它都值得。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 178,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_map_01": {
+        "id": "furni_classroom_map_01",
+        "sortId": 1036,
+        "name": "巨幅地圖",
+        "iconId": "furni_classroom_map_01",
+        "type": "CEILING",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_2",
+        "width": 1,
+        "depth": 6,
+        "height": 6,
+        "comfort": 135,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "用途廣泛的超大地圖，整片大地都繪製在上面。這一生，目光所觸及的遠方，腳步卻終不能至。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 123,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_clock_01": {
+        "id": "furni_classroom_clock_01",
+        "sortId": 1037,
+        "name": "古董掛鐘",
+        "iconId": "furni_classroom_clock_01",
+        "type": "WALLDECO",
+        "subType": "ORTHER_WD",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_4",
+        "width": 3,
+        "depth": 1,
+        "height": 4,
+        "comfort": 95,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "年代久遠的掛鐘，一堂課開始和結束時都會有悅耳的鈴聲響起。鈴聲清脆美妙，絲毫未變，聽者卻一時愁苦，一時歡喜。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 88,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_carpet_01": {
+        "id": "furni_classroom_carpet_01",
+        "sortId": 1038,
+        "name": "格紋地毯",
+        "iconId": "furni_classroom_carpet_01",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_2",
+        "width": 4,
+        "depth": 3,
+        "height": 1,
+        "comfort": 40,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "厚實柔軟的方格紋地毯，防止失足從梯子上跌下的人受到傷害。有些時代，孩子一降生，便毫無緩衝地落向堅硬的土地。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 38,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_lectern_01": {
+        "id": "furni_classroom_lectern_01",
+        "sortId": 1039,
+        "name": "“擁擠的知識”",
+        "iconId": "furni_classroom_lectern_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_3",
+        "width": 12,
+        "depth": 3,
+        "height": 6,
+        "comfort": 505,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "狹窄的講台上擺著雕像與畫作，寬闊的黑板上寫著公式和詞句。講桌上的檯燈亮至深夜，伏案人的頸椎痛到黎明。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 373,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_tableChairGraffiti_01": {
+        "id": "furni_classroom_tableChairGraffiti_01",
+        "sortId": 1040,
+        "name": "凌亂的課桌組合",
+        "iconId": "furni_classroom_tableChairGraffiti_01",
+        "type": "SEATING",
+        "subType": "ORTHER_S",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": true,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_3",
+        "width": 5,
+        "depth": 4,
+        "height": 3,
+        "comfort": 230,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "每間教室都會擺放的制式課桌組合，可容納兩個學生落座，書後藏著學生的塗鴉。坐在第一排的孩子總是調皮搗蛋，表達欲是人類難以改變的天性。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 170,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_tableChairPenRack_01": {
+        "id": "furni_classroom_tableChairPenRack_01",
+        "sortId": 1041,
+        "name": "課桌組合",
+        "iconId": "furni_classroom_tableChairPenRack_01",
+        "type": "SEATING",
+        "subType": "ORTHER_S",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": true,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_3",
+        "width": 5,
+        "depth": 4,
+        "height": 3,
+        "comfort": 230,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "每間教室都會擺放的制式課桌組合，可容納兩個學生落座，上面整齊擺放著課本。坐在這一排的學生都愛刨根問底，求知欲是人類無法抑制的天性。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 170,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_displayScreen_01": {
+        "id": "furni_classroom_displayScreen_01",
+        "sortId": 1042,
+        "name": "投影幕布",
+        "iconId": "furni_classroom_displayScreen_01",
+        "type": "CEILING",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_4",
+        "width": 8,
+        "depth": 1,
+        "height": 5,
+        "comfort": 130,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "價格便宜的白塑幕布，閒置時需要手動合起。在這片白色中，字母一遍遍重組，圖形一遍遍重構，歷史一遍遍重演。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 118,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_ceilingLamp_01": {
+        "id": "furni_classroom_ceilingLamp_01",
+        "sortId": 1043,
+        "name": "教室吊燈",
+        "iconId": "furni_classroom_ceilingLamp_01",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_4",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 50,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "綠色的玻璃吊燈，發出的光亮照得教室通明，卻一點也不刺眼。柔和的光線不影響細細閱讀，也不影響偷偷睡覺。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 43,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 4
+      },
+      "furni_classroom_bookBox_01": {
+        "id": "furni_classroom_bookBox_01",
+        "sortId": 1044,
+        "name": "小書箱",
+        "iconId": "furni_classroom_bookBox_01",
+        "type": "DECORATION",
+        "subType": "STORAGE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_1",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 135,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "與課桌等高的方形書箱，容量有限，只能放下幾本書。所有的默默承受都是有限的。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 123,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_cabinet_01": {
+        "id": "furni_classroom_cabinet_01",
+        "sortId": 1045,
+        "name": "教具收納櫃",
+        "iconId": "furni_classroom_cabinet_01",
+        "type": "DECORATION",
+        "subType": "STORAGE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_3",
+        "width": 3,
+        "depth": 5,
+        "height": 9,
+        "comfort": 325,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "放滿教學用具的大型木櫃，看著整齊，但櫃子裡面雜亂無章。就算是表面的井井有條，也很難維護。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 240,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_blackboard_01": {
+        "id": "furni_classroom_blackboard_01",
+        "sortId": 1046,
+        "name": "告示板",
+        "iconId": "furni_classroom_blackboard_01",
+        "type": "DECORATION",
+        "subType": "BOARD_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_3",
+        "width": 3,
+        "depth": 2,
+        "height": 5,
+        "comfort": 150,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "教室後面立著的小黑板，上面貼著課程表和學校通知。光陰在相似的一格又一格間遊走，歲月在重複的一周又一周裡流逝。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 123,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_wallpaper_01": {
+        "id": "furni_classroom_wallpaper_01",
+        "sortId": 1047,
+        "name": "教室壁紙",
+        "iconId": "furni_classroom_wallpaper_01",
+        "type": "WALLPAPER",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "WALL",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_4",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "雅致大方的綠色壁紙，和教室內的實木裝潢相得益彰，有助於學生迅速平復心緒。當城市被鮮血和硝煙籠罩，是否還有一抹綠色可以撫平人們在夢中緊蹙的眉頭呢？",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 198,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_classroom_floor_01": {
+        "id": "furni_classroom_floor_01",
+        "sortId": 1048,
+        "name": "教室地板",
+        "iconId": "furni_classroom_floor_01",
+        "type": "FLOOR",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "FLOOR",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_classroom",
+        "groupId": "furni_set_classroom_4",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "花色沉穩的木製地板，在師生的共同努力下，始終光潔如新。可每過一年，踏在上面的腳印便又少了一些。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 198,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_blinds_01": {
+        "id": "furni_gangster_blinds_01",
+        "sortId": 1049,
+        "name": "窄窗玫瑰窗簾",
+        "iconId": "furni_gangster_blinds_01",
+        "type": "WALLDECO",
+        "subType": "CURTAIN",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_1",
+        "width": 5,
+        "depth": 1,
+        "height": 10,
+        "comfort": 245,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "兩兄弟中較為瘦小的那位，沒有得到類似“瘦猴”的外號。既然盡職盡責地做好了遮擋視線的工作，就不必留意在邊角上不起眼的深褐色斑點。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 200,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_blinds_02": {
+        "id": "furni_gangster_blinds_02",
+        "sortId": 1050,
+        "name": "寬窗玫瑰窗簾",
+        "iconId": "furni_gangster_blinds_02",
+        "type": "WALLDECO",
+        "subType": "CURTAIN",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_1",
+        "width": 6,
+        "depth": 1,
+        "height": 10,
+        "comfort": 260,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "兩兄弟中較為肥胖的那位，玫瑰花紋細緻而優雅。寬大的身軀結實地攔住了外界流動的時間，提醒屋裡的人時刻記住，他們正受到它的庇護。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 193,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_teleCase_01": {
+        "id": "furni_gangster_teleCase_01",
+        "sortId": 1051,
+        "name": "復古觀影套組",
+        "iconId": "furni_gangster_teleCase_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_1",
+        "width": 4,
+        "depth": 4,
+        "height": 5,
+        "comfort": 255,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "其實是敘拉古最新款的電視，循環播放著某位音樂製作人在《敘拉古人》中特別出演的片段。為什麼這個年代了還有人在買傳統造型的電視？答案是他們都太念舊了。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 188,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_plant_01": {
+        "id": "furni_gangster_plant_01",
+        "sortId": 1052,
+        "name": "闊葉綠植",
+        "iconId": "furni_gangster_plant_01",
+        "type": "DECORATION",
+        "subType": "PLANT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_2",
+        "width": 6,
+        "depth": 2,
+        "height": 7,
+        "comfort": 275,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "栽種於四角花盆中的闊葉綠植，葉片沉默地舒展開來。時常有人好奇杯中剩餘的酒去了哪裡，直到在花盆的土壤中檢測到了酒精，它能在這裡活下來真是個奇跡。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 203,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_ceilingLamp_01": {
+        "id": "furni_gangster_ceilingLamp_01",
+        "sortId": 1053,
+        "name": "“要有光”",
+        "iconId": "furni_gangster_ceilingLamp_01",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_4",
+        "width": 4,
+        "depth": 4,
+        "height": 3,
+        "comfort": 225,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "造型精美的吊頂燈，溫柔地灑下一片光亮。結束任務歸來的家族成員總會對著它祈禱，仿佛這樣就能求得內心的平靜。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 185,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_sofa_01": {
+        "id": "furni_gangster_sofa_01",
+        "sortId": 1054,
+        "name": "皮質單人沙發",
+        "iconId": "furni_gangster_sofa_01",
+        "type": "SEATING",
+        "subType": "SOFA",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_1",
+        "width": 3,
+        "depth": 3,
+        "height": 4,
+        "comfort": 210,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "厚重的皮質單人沙發，斑駁的靠背縫補了很多次，仍能找到彈孔與刀口。可想而知，它的每一任主人最後離開它時都是被拖走的。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 190,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_carpet_01": {
+        "id": "furni_gangster_carpet_01",
+        "sortId": 1055,
+        "name": "獸紋不規則地毯",
+        "iconId": "furni_gangster_carpet_01",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_3",
+        "width": 13,
+        "depth": 6,
+        "height": 1,
+        "comfort": 275,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "古典的獸紋地毯，柔軟的表面一塵不染。傳說製成它的皮毛的主人也來自荒野，現在也不過被人類踩在腳下。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 225,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_teapoy_01": {
+        "id": "furni_gangster_teapoy_01",
+        "sortId": 1056,
+        "name": "大理石矮茶几",
+        "iconId": "furni_gangster_teapoy_01",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_1",
+        "width": 5,
+        "depth": 3,
+        "height": 3,
+        "comfort": 120,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "從大理石中切割出的桌面，使用多年卻依舊堅固。各類物件可以隨意地擺放在上面，不會有任何人找你麻煩，因為這裡是敘拉古唯一不必遵守規則的地方。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 110,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_safeCase_01": {
+        "id": "furni_gangster_safeCase_01",
+        "sortId": 1057,
+        "name": "“備用金”",
+        "iconId": "furni_gangster_safeCase_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_2",
+        "width": 5,
+        "depth": 3,
+        "height": 7,
+        "comfort": 75,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "長年敞開的保險櫃，放在屋裡最顯眼的地方，裡面的財富卻從不會被盜取分毫。這些財富不屬於屋裡的任何人，而是留給他們家人的。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 68,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_billiards_01": {
+        "id": "furni_gangster_billiards_01",
+        "sortId": 1058,
+        "name": "“火拼伊始”",
+        "iconId": "furni_gangster_billiards_01",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_2",
+        "width": 6,
+        "depth": 5,
+        "height": 3,
+        "comfort": 315,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "樂趣十足的桌上足球台，一旁的籌碼才是關鍵。如果它有什麼忠告，那一定是：“總之，別賭錢。”",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 233,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_diners_01": {
+        "id": "furni_gangster_diners_01",
+        "sortId": 1059,
+        "name": "“用餐愉快”",
+        "iconId": "furni_gangster_diners_01",
+        "type": "DECORATION",
+        "subType": "CATERING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_2",
+        "width": 4,
+        "depth": 3,
+        "height": 3,
+        "comfort": 190,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "低調奢華的餐車，推動它很要費點力氣。敘拉古的餐車通常要求密封性良好，防止底部滲血影響工作。不過別擔心，今天它送來的是冰鎮特飲。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 158,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_file_01": {
+        "id": "furni_gangster_file_01",
+        "sortId": 1060,
+        "name": "家族機密檔案",
+        "iconId": "furni_gangster_file_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_3",
+        "width": 4,
+        "depth": 4,
+        "height": 1,
+        "comfort": 205,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "標有“機密”的檔案袋被打開，文件散落一地。並非打開袋子的人不夠小心，當檔案的主人已經被解決，他的檔案就變得無關緊要。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 185,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_ceilingLamp_02": {
+        "id": "furni_gangster_ceilingLamp_02",
+        "sortId": 1061,
+        "name": "布藝吊燈",
+        "iconId": "furni_gangster_ceilingLamp_02",
+        "type": "CEILING",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_4",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 60,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "設計簡潔的布藝吊燈，照亮的空間非常有限，人們購買它更多是為了氛圍。當它開始劇烈搖晃的時候，那就意味著大事不妙了。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 55,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 2
+      },
+      "furni_gangster_chair_01": {
+        "id": "furni_gangster_chair_01",
+        "sortId": 1062,
+        "name": "吧台圓凳",
+        "iconId": "furni_gangster_chair_01",
+        "type": "SEATING",
+        "subType": "BENCH",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": true,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_3",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 55,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "堅固的獨腿圓凳，上面鋪著一層舒適的絲絨。別因為不夠起眼而小看了它，它至少和三樁命案有所關聯。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 50,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_bar_01": {
+        "id": "furni_gangster_bar_01",
+        "sortId": 1063,
+        "name": "大理石吧台",
+        "iconId": "furni_gangster_bar_01",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_3",
+        "width": 2,
+        "depth": 4,
+        "height": 4,
+        "comfort": 200,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "拋光而成的純淨鏡面，與玻璃碰撞時的清脆恰到好處。一杯陳年的穀物精粹，一顆來自哥倫比亞的澄澈冰球，再加上一撮淚水乾涸的鹽。晚安，我的愛人。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 180,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_LampCase_01": {
+        "id": "furni_gangster_LampCase_01",
+        "sortId": 1064,
+        "name": "玻璃吊燈組",
+        "iconId": "furni_gangster_LampCase_01",
+        "type": "CEILING",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_3",
+        "width": 7,
+        "depth": 3,
+        "height": 4,
+        "comfort": 290,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "溫暖的吊燈組，燈具被置於玻璃中，為了最大範圍地播撒光芒。它見證過的死亡與背叛，遠比你想像的要多。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 215,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_column_01": {
+        "id": "furni_gangster_column_01",
+        "sortId": 1065,
+        "name": "大理石立柱",
+        "iconId": "furni_gangster_column_01",
+        "type": "DECORATION",
+        "subType": "COLUMN",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_4",
+        "width": 2,
+        "depth": 1,
+        "height": 10,
+        "comfort": 135,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "美觀的大理石立柱，支撐著整間屋子的重量。它的存在通常會被人忽視，但沒人能承受它消失的後果。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 100,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 2
+      },
+      "furni_gangster_wallpaper_01": {
+        "id": "furni_gangster_wallpaper_01",
+        "sortId": 1066,
+        "name": "敘拉古風格牆紙",
+        "iconId": "furni_gangster_wallpaper_01",
+        "type": "WALLPAPER",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "WALL",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_4",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "樣式沉穩的壁紙，材質光滑易擦洗，在敘拉古裝修界流行有一段時間了。至於它被如此鍾愛的理由，所有的裝修工人都守口如瓶。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 198,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_gangster_floor_01": {
+        "id": "furni_gangster_floor_01",
+        "sortId": 1067,
+        "name": "敘拉古風格地板",
+        "iconId": "furni_gangster_floor_01",
+        "type": "FLOOR",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "FLOOR",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_gangster",
+        "groupId": "furni_set_gangster_4",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "暗紅色軟木地板，緻密的反絨能將移動的聲響降到最低，經常被家族大批量採購。鑑於部分敘拉古人的日常工作，這樣的地板的確再合適不過。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 198,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "quantity": 1
+      },
+      "furni_court_ceilingLamp_01": {
+        "id": "furni_court_ceilingLamp_01",
+        "sortId": 1068,
+        "name": "法院吊燈",
+        "iconId": "furni_court_ceilingLamp_01",
+        "type": "CEILING",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_1",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 50,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "法院天花板上的吊燈，為嚴肅的法庭提供光明。人造的光亮，自然可以隨時人為關閉。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 2,
+        "quantity": 2
+      },
+      "furni_court_ladder_01": {
+        "id": "furni_court_ladder_01",
+        "sortId": 1069,
+        "name": "家族代表專座",
+        "iconId": "furni_court_ladder_01",
+        "type": "SEATING",
+        "subType": "BENCH",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_1",
+        "width": 6,
+        "depth": 6,
+        "height": 7,
+        "comfort": 385,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "為陪審團準備的階梯席位，坐在上面的只有家族代表。某種意義上，這裡才是法院的關鍵所在。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_carpet_01": {
+        "id": "furni_court_carpet_01",
+        "sortId": 1070,
+        "name": "灰色大地毯",
+        "iconId": "furni_court_carpet_01",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_1",
+        "width": 16,
+        "depth": 10,
+        "height": 1,
+        "comfort": 650,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "印有幾何圖案的灰色大地毯，看上去像被許多人踩過。它的顏色自進入法院時就是這樣，在敘拉古，法院的氛圍感比實用性更重要。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_column_01": {
+        "id": "furni_court_column_01",
+        "sortId": 1071,
+        "name": "古典立柱",
+        "iconId": "furni_court_column_01",
+        "type": "DECORATION",
+        "subType": "COLUMN",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_1",
+        "width": 2,
+        "depth": 2,
+        "height": 10,
+        "comfort": 130,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "裝飾繁複的石質立柱，富有古典氣息。連最細微的凹陷處也被擦拭得光潔如新，法院作為敘拉古門面的重要性不言而喻。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 2,
+        "quantity": 2
+      },
+      "furni_court_hole_01": {
+        "id": "furni_court_hole_01",
+        "sortId": 1072,
+        "name": "“卡車通道”",
+        "iconId": "furni_court_hole_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_2",
+        "width": 3,
+        "depth": 1,
+        "height": 4,
+        "comfort": 70,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "牆上的巨大破洞，來源於一次庭審中不請自來的卡車。當不該存在的規則成為阻礙，那就把油門踩到底吧。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_board_01": {
+        "id": "furni_court_board_01",
+        "sortId": 1073,
+        "name": "修補用木板",
+        "iconId": "furni_court_board_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_2",
+        "width": 3,
+        "depth": 3,
+        "height": 2,
+        "comfort": 135,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "沒來得及修補牆上的破洞，臨時堆放在一旁的木板。那些人只想著將破洞填補，卻沒有推倒重建的勇氣。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_assistantChair_01": {
+        "id": "furni_court_assistantChair_01",
+        "sortId": 1074,
+        "name": "審判員席",
+        "iconId": "furni_court_assistantChair_01",
+        "type": "SEATING",
+        "subType": "CHAIR",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_3",
+        "width": 3,
+        "depth": 3,
+        "height": 4,
+        "comfort": 120,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "法院審判員的座椅，比中間的椅子略小一號。坐在上面的人通常極少發言，反正審判的結果和他們沒什麼關係。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 2,
+        "quantity": 2
+      },
+      "furni_court_mainChair_01": {
+        "id": "furni_court_mainChair_01",
+        "sortId": 1075,
+        "name": "審判長席",
+        "iconId": "furni_court_mainChair_01",
+        "type": "SEATING",
+        "subType": "CHAIR",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_3",
+        "width": 4,
+        "depth": 3,
+        "height": 6,
+        "comfort": 185,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "法院審判長的座椅，沉重而肅穆，看上去難以動搖。然而事實上，坐在上面的人總是進退兩難，言不由衷。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_table_01": {
+        "id": "furni_court_table_01",
+        "sortId": 1076,
+        "name": "法官桌",
+        "iconId": "furni_court_table_01",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_3",
+        "width": 16,
+        "depth": 3,
+        "height": 5,
+        "comfort": 455,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "莊嚴的法官長桌，案卷與法典在其上堆疊。多年來法官在它身上宣判過無數案件，公正在這裡得到了完全的貫徹。當然，是敘拉古的公正。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_enclosure_01": {
+        "id": "furni_court_enclosure_01",
+        "sortId": 1077,
+        "name": "圍欄台樁",
+        "iconId": "furni_court_enclosure_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_4",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 80,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "實木製作的結實台樁，目的大概是保護家族成員遠離被告人。對於一輛大卡車，它可能起不到什麼防護作用。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 2,
+        "quantity": 2
+      },
+      "furni_court_speaker_01": {
+        "id": "furni_court_speaker_01",
+        "sortId": 1078,
+        "name": "發言席",
+        "iconId": "furni_court_speaker_01",
+        "type": "DECORATION",
+        "subType": "ORTHER_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_3",
+        "width": 4,
+        "depth": 2,
+        "height": 3,
+        "comfort": 150,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "法院中常見的發言席，被告與證人在這裡做出回答。老實說，真的會有人在意他們說了什麼嗎？",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_wallLamp_01": {
+        "id": "furni_court_wallLamp_01",
+        "sortId": 1079,
+        "name": "法院壁燈",
+        "iconId": "furni_court_wallLamp_01",
+        "type": "WALLLAMP",
+        "subType": "NONE",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_4",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 45,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "法院牆上的壁燈，並不能起到多少照明的作用。它存在的意義和敘拉古的法院類似，作用和功能並無直接聯繫。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_auditorium_01": {
+        "id": "furni_court_auditorium_01",
+        "sortId": 1080,
+        "name": "旁聽席",
+        "iconId": "furni_court_auditorium_01",
+        "type": "SEATING",
+        "subType": "BENCH",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_3",
+        "width": 5,
+        "depth": 3,
+        "height": 6,
+        "comfort": 215,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "法院中的旁聽席，供對案件審理感興趣的民眾在此旁聽。坐上旁聽席要經過嚴格的審核，開庭後這裡只許發出正確的聲音。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_ceiling_01": {
+        "id": "furni_court_ceiling_01",
+        "sortId": 1081,
+        "name": "天窗吊頂",
+        "iconId": "furni_court_ceiling_01",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_4",
+        "width": 4,
+        "depth": 4,
+        "height": 1,
+        "comfort": 85,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "造型優雅的天窗吊頂，陽光緩緩飄落。由於它身處的位置，陽光能照耀到的只有少數人罷了。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 2,
+        "quantity": 2
+      },
+      "furni_court_hanger_01": {
+        "id": "furni_court_hanger_01",
+        "sortId": 1082,
+        "name": "木製衣架",
+        "iconId": "furni_court_hanger_01",
+        "type": "DECORATION",
+        "subType": "DRESSING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_2",
+        "width": 3,
+        "depth": 2,
+        "height": 5,
+        "comfort": 155,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "擺放在法院中的衣架，造型很好地融入了法院的氛圍。衣架從來不是法院的必備，但它的確是敘拉古法院中被使用最頻繁的物件。畢竟，家族代表的衣服總是沉甸甸的。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_bookcase_01": {
+        "id": "furni_court_bookcase_01",
+        "sortId": 1083,
+        "name": "公共書櫃",
+        "iconId": "furni_court_bookcase_01",
+        "type": "CABINET",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_2",
+        "width": 5,
+        "depth": 3,
+        "height": 7,
+        "comfort": 220,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "厚重的木製書櫃，法院收藏的法律書籍都擺放於其中，面向公眾開放。法官們無需翻閱這裡的書籍，民眾也從未從中借閱，書櫃的作用僅限於展示。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_wallpaper_01": {
+        "id": "furni_court_wallpaper_01",
+        "sortId": 1084,
+        "name": "法院內牆",
+        "iconId": "furni_court_wallpaper_01",
+        "type": "WALLPAPER",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "WALL",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_4",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "白色大理石雕刻而成的牆面，堅硬穩固，最能象徵律法的無上權威。直到被卡車輕而易舉地撞碎後，人們才發現牆中的材質其實是石灰。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
+      "furni_court_floor_01": {
+        "id": "furni_court_floor_01",
+        "sortId": 1085,
+        "name": "法院地板",
+        "iconId": "furni_court_floor_01",
+        "type": "FLOOR",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "FLOOR",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_court",
+        "groupId": "furni_set_court_4",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "深色的木質地板，敘拉古常見的地板樣式。由於被用於法院裝潢，在上面行走並不能讓人感到安全。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 1
+      },
       "furni_oct1st_deckChair_01": {
         "id": "furni_oct1st_deckChair_01",
         "sortId": 9998,
@@ -44224,6 +46348,122 @@
         "comfort": 330,
         "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
         "description": "炎國傳統樣式茶台，專門用來製作禮茶和茶點。四方而來皆是客，進門請君一杯茶。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_MA_mooncake_S_01": {
+        "id": "furni_MA_mooncake_S_01",
+        "sortId": 10003,
+        "name": "“滿顏色”禮盒",
+        "iconId": "furni_MA_mooncake_S_01",
+        "type": "DECORATION",
+        "subType": "CATERING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 3,
+        "height": 3,
+        "comfort": 110,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "包裝精緻的手工酥皮月餅禮盒，適合走親訪友。團團佳月盒中留，盈盈笑語迎中秋。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_MA_mooncake_S_02": {
+        "id": "furni_MA_mooncake_S_02",
+        "sortId": 10004,
+        "name": "“正圓月”禮盒",
+        "iconId": "furni_MA_mooncake_S_02",
+        "type": "DECORATION",
+        "subType": "CATERING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 3,
+        "height": 3,
+        "comfort": 110,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "包裝精緻的手工酥皮月餅禮盒，適合走親訪友。團團佳月盒中留，盈盈笑語迎中秋。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_MA_mooncake_G_01": {
+        "id": "furni_MA_mooncake_G_01",
+        "sortId": 10005,
+        "name": "“笑靨開”禮盒",
+        "iconId": "furni_MA_mooncake_G_01",
+        "type": "DECORATION",
+        "subType": "CATERING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 3,
+        "height": 3,
+        "comfort": 110,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "包裝精美的手工糖皮月餅禮盒，適合親朋相聚。滿庭桂香飄散去，落入醉眼看人間。",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_MA_mooncake_G_02": {
+        "id": "furni_MA_mooncake_G_02",
+        "sortId": 10006,
+        "name": "“桂子落”禮盒",
+        "iconId": "furni_MA_mooncake_G_02",
+        "type": "DECORATION",
+        "subType": "CATERING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 3,
+        "height": 3,
+        "comfort": 110,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "包裝精美的手工糖皮月餅禮盒，適合親朋相聚。滿庭桂香飄散去，落入醉眼看人間。",
         "obtainApproach": "活動獲得",
         "processedProductId": "3401",
         "processedProductCount": 0,
@@ -47742,6 +49982,93 @@
         "isOnly": 1,
         "quantity": 0
       },
+      "furni_dropS022_hamlet_01": {
+        "id": "furni_dropS022_hamlet_01",
+        "sortId": 11065,
+        "name": "飾牌《複弑》",
+        "iconId": "furni_dropS022_hamlet_01",
+        "type": "WALLDECO",
+        "subType": "PLAQUE",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "“年輕的王子只想要一人性命,卻在無意間造就了眾人的死亡。”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_dropS022_holmes_01": {
+        "id": "furni_dropS022_holmes_01",
+        "sortId": 11066,
+        "name": "飾牌《洞察》",
+        "iconId": "furni_dropS022_holmes_01",
+        "type": "WALLDECO",
+        "subType": "PLAQUE",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "“在煙與霧之中,有一雙眼睛瞧見了真相。”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_dropS033_hannibal_01": {
+        "id": "furni_dropS033_hannibal_01",
+        "sortId": 11066,
+        "name": "飾牌《延續》",
+        "iconId": "furni_dropS033_hannibal_01",
+        "type": "WALLDECO",
+        "subType": "PLAQUE",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "“因飲食而生，因屠戮而亡。”",
+        "obtainApproach": "活動獲得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
       "furni_contract_s0_01": {
         "id": "furni_contract_s0_01",
         "sortId": 12001,
@@ -48061,6 +50388,35 @@
         "isOnly": 1,
         "quantity": 0
       },
+      "furni_contract_s11_01": {
+        "id": "furni_contract_s11_01",
+        "sortId": 12011,
+        "name": "贗波之旗",
+        "iconId": "furni_contract_s11_01",
+        "type": "WALLDECO",
+        "subType": "CONTRACT",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 4,
+        "comfort": 75,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "描摹了某種金融浪潮意象的旗幟。在這虛假現金流之下的，是無數追尋這潮流卻近乎溺亡的靈魂，而即使前方並無財富，他們仍想要描摹這一形狀以紀念。",
+        "obtainApproach": "危機合約賽季獎勵",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
       "furni_annihilation_s2_01": {
         "id": "furni_annihilation_s2_01",
         "sortId": 13001,
@@ -48342,6 +50698,35 @@
         "comfort": 105,
         "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
         "description": "完成拉特蘭巧克力大街剿滅並提交報告後獲得的紀念品。巧克力大街的餘音似乎還在耳邊迴響。",
+        "obtainApproach": "剿滅委託獎勵",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "quantity": 0
+      },
+      "furni_annihilation_s13_01": {
+        "id": "furni_annihilation_s13_01",
+        "sortId": 13011,
+        "name": "伊比利亞的回聲（造船廠）",
+        "iconId": "furni_annihilation_s13_01",
+        "type": "WALLDECO",
+        "subType": "ANNIHILATION",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 4,
+        "comfort": 105,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "完成伊比利亞昏黑造船廠剿滅並提交報告後獲得的紀念品。昏黑造船廠的餘音似乎還在耳邊迴響。",
         "obtainApproach": "剿滅委託獎勵",
         "processedProductId": "3401",
         "processedProductCount": 0,
@@ -58398,6 +60783,515 @@
           "furni_outdoor_floor_01"
         ]
       },
+      "furni_set_classroom": {
+        "id": "furni_set_classroom",
+        "sortId": 61,
+        "name": "聖瑪律索校內教室",
+        "themeType": "NORMAL",
+        "desc": "根據戈爾丁講授課程的教室復刻的房間，美中不足的是少了孩子的歡笑聲和朗朗讀書聲。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_classroom_bayWindow_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_column_01",
+            "pos0": 8,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_column_01",
+            "pos0": 8,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_stationeryHolder_01",
+            "pos0": 0,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_lowTable_01",
+            "pos0": 0,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_ladder_01",
+            "pos0": 10,
+            "pos1": 4,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_bookshelf_01",
+            "pos0": 8,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_map_01",
+            "pos0": 10,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_clock_01",
+            "pos0": 19,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_carpet_01",
+            "pos0": 10,
+            "pos1": 4,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_lectern_01",
+            "pos0": 10,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_tableChairGraffiti_01",
+            "pos0": 18,
+            "pos1": 4,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_tableChairPenRack_01",
+            "pos0": 24,
+            "pos1": 4,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_displayScreen_01",
+            "pos0": 22,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_ceilingLamp_01",
+            "pos0": 24,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_bookBox_01",
+            "pos0": 25,
+            "pos1": 8,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_cabinet_01",
+            "pos0": 31,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_blackboard_01",
+            "pos0": 27,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_floor_01",
+            "pos0": 0,
+            "pos1": 10,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_ceilingLamp_01",
+            "pos0": 24,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_ceilingLamp_01",
+            "pos0": 16,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_classroom_ceilingLamp_01",
+            "pos0": 16,
+            "pos1": 6,
+            "dir": 0
+          }
+        ],
+        "groups": [
+          "furni_set_classroom_1",
+          "furni_set_classroom_2",
+          "furni_set_classroom_3",
+          "furni_set_classroom_4"
+        ],
+        "furnitures": [
+          "furni_classroom_bayWindow_01",
+          "furni_classroom_column_01",
+          "furni_classroom_stationeryHolder_01",
+          "furni_classroom_lowTable_01",
+          "furni_classroom_ladder_01",
+          "furni_classroom_bookshelf_01",
+          "furni_classroom_map_01",
+          "furni_classroom_clock_01",
+          "furni_classroom_carpet_01",
+          "furni_classroom_lectern_01",
+          "furni_classroom_tableChairGraffiti_01",
+          "furni_classroom_tableChairPenRack_01",
+          "furni_classroom_displayScreen_01",
+          "furni_classroom_ceilingLamp_01",
+          "furni_classroom_bookBox_01",
+          "furni_classroom_cabinet_01",
+          "furni_classroom_blackboard_01",
+          "furni_classroom_wallpaper_01",
+          "furni_classroom_floor_01"
+        ]
+      },
+      "furni_set_gangster": {
+        "id": "furni_set_gangster",
+        "sortId": 62,
+        "name": "“敘拉古往事”",
+        "themeType": "NORMAL",
+        "desc": "在敘拉古的許多房子中都能找到這樣的小屋，屋的主人換了又換，而敘拉古的故事通常不會改變。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_gangster_blinds_01",
+            "pos0": 6,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_blinds_02",
+            "pos0": 25,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_teleCase_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_plant_01",
+            "pos0": 3,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_ceilingLamp_01",
+            "pos0": 9,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_sofa_01",
+            "pos0": 6,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_carpet_01",
+            "pos0": 7,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_teapoy_01",
+            "pos0": 9,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_safeCase_01",
+            "pos0": 14,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_billiards_01",
+            "pos0": 22,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_diners_01",
+            "pos0": 19,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_file_01",
+            "pos0": 15,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_ceilingLamp_02",
+            "pos0": 5,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_ceilingLamp_02",
+            "pos0": 27,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_chair_01",
+            "pos0": 32,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_bar_01",
+            "pos0": 29,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_LampCase_01",
+            "pos0": 26,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_column_01",
+            "pos0": 5,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_column_01",
+            "pos0": 27,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_gangster_floor_01",
+            "pos0": 0,
+            "pos1": 10,
+            "dir": 0
+          }
+        ],
+        "groups": [
+          "furni_set_gangster_1",
+          "furni_set_gangster_2",
+          "furni_set_gangster_3",
+          "furni_set_gangster_4"
+        ],
+        "furnitures": [
+          "furni_gangster_blinds_01",
+          "furni_gangster_blinds_02",
+          "furni_gangster_teleCase_01",
+          "furni_gangster_plant_01",
+          "furni_gangster_ceilingLamp_01",
+          "furni_gangster_sofa_01",
+          "furni_gangster_carpet_01",
+          "furni_gangster_teapoy_01",
+          "furni_gangster_safeCase_01",
+          "furni_gangster_billiards_01",
+          "furni_gangster_diners_01",
+          "furni_gangster_file_01",
+          "furni_gangster_ceilingLamp_02",
+          "furni_gangster_chair_01",
+          "furni_gangster_bar_01",
+          "furni_gangster_LampCase_01",
+          "furni_gangster_column_01",
+          "furni_gangster_wallpaper_01",
+          "furni_gangster_floor_01"
+        ]
+      },
+      "furni_set_court": {
+        "id": "furni_set_court",
+        "sortId": 63,
+        "name": "敘拉古正義法院",
+        "themeType": "EVENT",
+        "desc": "每座敘拉古城市中都有一座法院，每一座法院的背後都有著同一個名字。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_court_ceilingLamp_01",
+            "pos0": 1,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_ceilingLamp_01",
+            "pos0": 31,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_ladder_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_carpet_01",
+            "pos0": 9,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_column_01",
+            "pos0": 6,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_column_01",
+            "pos0": 26,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_hole_01",
+            "pos0": 6,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_board_01",
+            "pos0": 6,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_assistantChair_01",
+            "pos0": 22,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_assistantChair_01",
+            "pos0": 9,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_mainChair_01",
+            "pos0": 15,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_table_01",
+            "pos0": 9,
+            "pos1": 4,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_enclosure_01",
+            "pos0": 12,
+            "pos1": 8,
+            "dir": 2
+          },
+          {
+            "furnitureId": "furni_court_enclosure_01",
+            "pos0": 20,
+            "pos1": 8,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_speaker_01",
+            "pos0": 15,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_wallLamp_01",
+            "pos0": 26,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_auditorium_01",
+            "pos0": 29,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_ceiling_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_ceiling_01",
+            "pos0": 30,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_hanger_01",
+            "pos0": 26,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_bookcase_01",
+            "pos0": 29,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_court_floor_01",
+            "pos0": 0,
+            "pos1": 10,
+            "dir": 0
+          }
+        ],
+        "groups": [
+          "furni_set_court_1",
+          "furni_set_court_2",
+          "furni_set_court_3",
+          "furni_set_court_4"
+        ],
+        "furnitures": [
+          "furni_court_ceilingLamp_01",
+          "furni_court_ladder_01",
+          "furni_court_carpet_01",
+          "furni_court_column_01",
+          "furni_court_hole_01",
+          "furni_court_board_01",
+          "furni_court_assistantChair_01",
+          "furni_court_mainChair_01",
+          "furni_court_table_01",
+          "furni_court_enclosure_01",
+          "furni_court_speaker_01",
+          "furni_court_wallLamp_01",
+          "furni_court_auditorium_01",
+          "furni_court_ceiling_01",
+          "furni_court_hanger_01",
+          "furni_court_bookcase_01",
+          "furni_court_wallpaper_01",
+          "furni_court_floor_01"
+        ]
+      },
       "furni_set_reception": {
         "id": "furni_set_reception",
         "sortId": 68,
@@ -61901,6 +64795,182 @@
           "furni_outdoor_floor_01"
         ]
       },
+      "furni_set_classroom_1": {
+        "id": "furni_set_classroom_1",
+        "sortId": 1,
+        "name": "教師休息室",
+        "themeId": "furni_set_classroom",
+        "comfort": 185,
+        "count": 4,
+        "furniture": [
+          "furni_classroom_bayWindow_01",
+          "furni_classroom_stationeryHolder_01",
+          "furni_classroom_lowTable_01",
+          "furni_classroom_bookBox_01"
+        ]
+      },
+      "furni_set_classroom_2": {
+        "id": "furni_set_classroom_2",
+        "sortId": 2,
+        "name": "圖書角",
+        "themeId": "furni_set_classroom",
+        "comfort": 200,
+        "count": 5,
+        "furniture": [
+          "furni_classroom_column_01",
+          "furni_classroom_bookshelf_01",
+          "furni_classroom_map_01",
+          "furni_classroom_carpet_01",
+          "furni_classroom_ladder_01"
+        ]
+      },
+      "furni_set_classroom_3": {
+        "id": "furni_set_classroom_3",
+        "sortId": 3,
+        "name": "標準教室",
+        "themeId": "furni_set_classroom",
+        "comfort": 360,
+        "count": 5,
+        "furniture": [
+          "furni_classroom_lectern_01",
+          "furni_classroom_tableChairGraffiti_01",
+          "furni_classroom_tableChairPenRack_01",
+          "furni_classroom_cabinet_01",
+          "furni_classroom_blackboard_01"
+        ]
+      },
+      "furni_set_classroom_4": {
+        "id": "furni_set_classroom_4",
+        "sortId": 4,
+        "name": "教室裝飾",
+        "themeId": "furni_set_classroom",
+        "comfort": 170,
+        "count": 5,
+        "furniture": [
+          "furni_classroom_wallpaper_01",
+          "furni_classroom_floor_01",
+          "furni_classroom_displayScreen_01",
+          "furni_classroom_clock_01",
+          "furni_classroom_ceilingLamp_01"
+        ]
+      },
+      "furni_set_gangster_1": {
+        "id": "furni_set_gangster_1",
+        "sortId": 1,
+        "name": "休憩時光",
+        "themeId": "furni_set_gangster",
+        "comfort": 255,
+        "count": 5,
+        "furniture": [
+          "furni_gangster_blinds_01",
+          "furni_gangster_blinds_02",
+          "furni_gangster_teleCase_01",
+          "furni_gangster_sofa_01",
+          "furni_gangster_teapoy_01"
+        ]
+      },
+      "furni_set_gangster_2": {
+        "id": "furni_set_gangster_2",
+        "sortId": 2,
+        "name": "下班之後",
+        "themeId": "furni_set_gangster",
+        "comfort": 210,
+        "count": 4,
+        "furniture": [
+          "furni_gangster_plant_01",
+          "furni_gangster_safeCase_01",
+          "furni_gangster_billiards_01",
+          "furni_gangster_diners_01"
+        ]
+      },
+      "furni_set_gangster_3": {
+        "id": "furni_set_gangster_3",
+        "sortId": 3,
+        "name": "工作之前",
+        "themeId": "furni_set_gangster",
+        "comfort": 230,
+        "count": 5,
+        "furniture": [
+          "furni_gangster_carpet_01",
+          "furni_gangster_file_01",
+          "furni_gangster_chair_01",
+          "furni_gangster_bar_01",
+          "furni_gangster_LampCase_01"
+        ]
+      },
+      "furni_set_gangster_4": {
+        "id": "furni_set_gangster_4",
+        "sortId": 4,
+        "name": "敘拉古風格裝潢",
+        "themeId": "furni_set_gangster",
+        "comfort": 240,
+        "count": 5,
+        "furniture": [
+          "furni_gangster_wallpaper_01",
+          "furni_gangster_floor_01",
+          "furni_gangster_ceilingLamp_02",
+          "furni_gangster_ceilingLamp_01",
+          "furni_gangster_column_01"
+        ]
+      },
+      "furni_set_court_1": {
+        "id": "furni_set_court_1",
+        "sortId": 1,
+        "name": "灰廳意志",
+        "themeId": "furni_set_court",
+        "comfort": 360,
+        "count": 4,
+        "furniture": [
+          "furni_court_ceilingLamp_01",
+          "furni_court_ladder_01",
+          "furni_court_carpet_01",
+          "furni_court_column_01"
+        ]
+      },
+      "furni_set_court_2": {
+        "id": "furni_set_court_2",
+        "sortId": 2,
+        "name": "真實律法",
+        "themeId": "furni_set_court",
+        "comfort": 125,
+        "count": 4,
+        "furniture": [
+          "furni_court_hole_01",
+          "furni_court_board_01",
+          "furni_court_hanger_01",
+          "furni_court_bookcase_01"
+        ]
+      },
+      "furni_set_court_3": {
+        "id": "furni_set_court_3",
+        "sortId": 3,
+        "name": "無關人員",
+        "themeId": "furni_set_court",
+        "comfort": 300,
+        "count": 5,
+        "furniture": [
+          "furni_court_assistantChair_01",
+          "furni_court_mainChair_01",
+          "furni_court_table_01",
+          "furni_court_speaker_01",
+          "furni_court_auditorium_01"
+        ]
+      },
+      "furni_set_court_4": {
+        "id": "furni_set_court_4",
+        "sortId": 4,
+        "name": "法院裝潢",
+        "themeId": "furni_set_court",
+        "comfort": 140,
+        "count": 5,
+        "furniture": [
+          "furni_court_wallpaper_01",
+          "furni_court_floor_01",
+          "furni_court_wallLamp_01",
+          "furni_court_enclosure_01",
+          "furni_court_ceiling_01"
+        ]
+      },
       "furni_set_reception_1": {
         "id": "furni_set_reception_1",
         "sortId": 1,
@@ -63482,6 +66552,130 @@
       ],
       "requireStages": []
     },
+    "62": {
+      "sortId": 1999,
+      "formulaId": "62",
+      "rarity": 0,
+      "itemId": "30155",
+      "count": 1,
+      "goldCost": 400,
+      "apCost": 2880000,
+      "formulaType": "F_EVOLVE",
+      "buffType": "W_EVOLVE",
+      "extraOutcomeRate": 0.1,
+      "extraOutcomeGroup": [
+        {
+          "weight": 84,
+          "itemId": "30014",
+          "itemCount": 1
+        },
+        {
+          "weight": 63,
+          "itemId": "30024",
+          "itemCount": 1
+        },
+        {
+          "weight": 63,
+          "itemId": "30034",
+          "itemCount": 1
+        },
+        {
+          "weight": 56,
+          "itemId": "30044",
+          "itemCount": 1
+        },
+        {
+          "weight": 56,
+          "itemId": "30054",
+          "itemCount": 1
+        },
+        {
+          "weight": 42,
+          "itemId": "30064",
+          "itemCount": 1
+        },
+        {
+          "weight": 72,
+          "itemId": "30074",
+          "itemCount": 1
+        },
+        {
+          "weight": 63,
+          "itemId": "30084",
+          "itemCount": 1
+        },
+        {
+          "weight": 63,
+          "itemId": "30094",
+          "itemCount": 1
+        },
+        {
+          "weight": 56,
+          "itemId": "30104",
+          "itemCount": 1
+        },
+        {
+          "weight": 72,
+          "itemId": "31014",
+          "itemCount": 1
+        },
+        {
+          "weight": 63,
+          "itemId": "31024",
+          "itemCount": 1
+        },
+        {
+          "weight": 56,
+          "itemId": "31034",
+          "itemCount": 1
+        },
+        {
+          "weight": 63,
+          "itemId": "31044",
+          "itemCount": 1
+        },
+        {
+          "weight": 63,
+          "itemId": "31054",
+          "itemCount": 1
+        },
+        {
+          "weight": 67,
+          "itemId": "31064",
+          "itemCount": 1
+        }
+      ],
+      "costs": [
+        {
+          "id": "31064",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "31054",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "31044",
+          "count": 2,
+          "type": "MATERIAL"
+        }
+      ],
+      "requireRooms": [
+        {
+          "roomId": "WORKSHOP",
+          "roomLevel": 3,
+          "roomCount": 1
+        }
+      ],
+      "requireStages": [
+        {
+          "stageId": "easy_11-03",
+          "rank": 2
+        }
+      ]
+    },
     "57": {
       "sortId": 2000,
       "formulaId": "57",
@@ -63567,6 +66761,11 @@
         {
           "weight": 63,
           "itemId": "31054",
+          "itemCount": 1
+        },
+        {
+          "weight": 67,
+          "itemId": "31064",
           "itemCount": 1
         }
       ],
@@ -63687,6 +66886,11 @@
           "weight": 63,
           "itemId": "31054",
           "itemCount": 1
+        },
+        {
+          "weight": 67,
+          "itemId": "31064",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -63801,6 +67005,11 @@
           "weight": 63,
           "itemId": "31054",
           "itemCount": 1
+        },
+        {
+          "weight": 67,
+          "itemId": "31064",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -63910,6 +67119,11 @@
           "weight": 63,
           "itemId": "31054",
           "itemCount": 1
+        },
+        {
+          "weight": 67,
+          "itemId": "31064",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -63937,6 +67151,130 @@
         }
       ],
       "requireStages": []
+    },
+    "61": {
+      "sortId": 2097,
+      "formulaId": "61",
+      "rarity": 0,
+      "itemId": "31064",
+      "count": 1,
+      "goldCost": 300,
+      "apCost": 1440000,
+      "formulaType": "F_EVOLVE",
+      "buffType": "W_EVOLVE",
+      "extraOutcomeRate": 0.1,
+      "extraOutcomeGroup": [
+        {
+          "weight": 60,
+          "itemId": "30013",
+          "itemCount": 1
+        },
+        {
+          "weight": 50,
+          "itemId": "30023",
+          "itemCount": 1
+        },
+        {
+          "weight": 50,
+          "itemId": "30033",
+          "itemCount": 1
+        },
+        {
+          "weight": 40,
+          "itemId": "30043",
+          "itemCount": 1
+        },
+        {
+          "weight": 40,
+          "itemId": "30053",
+          "itemCount": 1
+        },
+        {
+          "weight": 30,
+          "itemId": "30063",
+          "itemCount": 1
+        },
+        {
+          "weight": 45,
+          "itemId": "30073",
+          "itemCount": 1
+        },
+        {
+          "weight": 40,
+          "itemId": "30083",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "30093",
+          "itemCount": 1
+        },
+        {
+          "weight": 30,
+          "itemId": "30103",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "31013",
+          "itemCount": 1
+        },
+        {
+          "weight": 40,
+          "itemId": "31023",
+          "itemCount": 1
+        },
+        {
+          "weight": 40,
+          "itemId": "31033",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "31043",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
+        }
+      ],
+      "costs": [
+        {
+          "id": "31063",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "31043",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "30023",
+          "count": 1,
+          "type": "MATERIAL"
+        }
+      ],
+      "requireRooms": [
+        {
+          "roomId": "WORKSHOP",
+          "roomLevel": 3,
+          "roomCount": 1
+        }
+      ],
+      "requireStages": [
+        {
+          "stageId": "sub_09-1-2",
+          "rank": 2
+        }
+      ]
     },
     "59": {
       "sortId": 2098,
@@ -64023,6 +67361,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],
@@ -64143,6 +67486,11 @@
           "weight": 36,
           "itemId": "31053",
           "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -64261,6 +67609,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],
@@ -64381,6 +67734,11 @@
           "weight": 36,
           "itemId": "31053",
           "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -64499,6 +67857,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],
@@ -64619,6 +67982,11 @@
           "weight": 36,
           "itemId": "31053",
           "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -64732,6 +68100,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],
@@ -64847,6 +68220,11 @@
           "weight": 36,
           "itemId": "31053",
           "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -64960,6 +68338,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],
@@ -65193,6 +68576,11 @@
           "weight": 36,
           "itemId": "31053",
           "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -65424,6 +68812,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],
@@ -65657,6 +69050,11 @@
           "weight": 36,
           "itemId": "31053",
           "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -65888,6 +69286,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],
@@ -66121,6 +69524,11 @@
           "weight": 36,
           "itemId": "31053",
           "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -66352,6 +69760,11 @@
         {
           "weight": 36,
           "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 32,
+          "itemId": "31063",
           "itemCount": 1
         }
       ],

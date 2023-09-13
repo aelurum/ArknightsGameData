@@ -23,6 +23,26 @@
         "obtainApproach": "特殊方式獲得"
       },
       {
+        "avatarId": "avatar_special_02",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 2,
+        "avatarIdDesc": "合金重工系列模型頭像特典\n“沙灘急救”",
+        "avatarItemName": "“沙灘急救”",
+        "avatarItemDesc": "轉動的車輪捲起細沙。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得"
+      },
+      {
+        "avatarId": "avatar_special_03",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 3,
+        "avatarIdDesc": "合金重工系列模型頭像特典\n“濱水守衛”",
+        "avatarItemName": "“濱水守衛”",
+        "avatarItemDesc": "炎熱夏季中一朵銀色的浪花。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得"
+      },
+      {
         "avatarId": "avatar_special_04",
         "avatarType": "SPECIAL",
         "avatarIdSort": 4,
@@ -233,6 +253,26 @@
         "obtainApproach": "記錄修復獲得"
       },
       {
+        "avatarId": "avatar_activity_EP11",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 17,
+        "avatarIdDesc": "主題曲《淬火塵霾》\n“諸王之息”",
+        "avatarItemName": "“諸王之息”",
+        "avatarItemDesc": "對於維多利亞來說，它是王權的象徵，是榮耀，是希望。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "主題曲《淬火塵霾》獲得"
+      },
+      {
+        "avatarId": "avatar_activity_MN",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 18,
+        "avatarIdDesc": "【瑪莉婭·臨光】記錄修復\n“瑪莉婭·臨光”",
+        "avatarItemName": "“瑪莉婭·臨光”",
+        "avatarItemDesc": "比賽的意義遠比觀眾們雙眼所見的要深遠。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "記錄修復獲得"
+      },
+      {
         "avatarId": "avatar_activity_RL2_1",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 19,
@@ -241,6 +281,16 @@
         "avatarItemDesc": "於永恆中觀測明日",
         "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
         "obtainApproach": "集成戰略獲得"
+      },
+      {
+        "avatarId": "avatar_activity_PL",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 21,
+        "avatarIdDesc": "【燈火序曲】記錄修復\n“燈火序曲”",
+        "avatarItemName": "“燈火序曲”",
+        "avatarItemDesc": "地上的燈火和夜空的星光，一同閃爍。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "記錄修復獲得"
       },
       {
         "avatarId": "avatar_def_01",
@@ -406,6 +456,8 @@
         "typeName": "特殊獲取",
         "avatarIdList": [
           "avatar_special_01",
+          "avatar_special_02",
+          "avatar_special_03",
           "avatar_special_04",
           "avatar_special_05",
           "avatar_special_06",
@@ -433,7 +485,10 @@
           "avatar_activity_FA",
           "avatar_activity_RI",
           "avatar_activity_BH",
-          "avatar_activity_RL2_1"
+          "avatar_activity_EP11",
+          "avatar_activity_MN",
+          "avatar_activity_RL2_1",
+          "avatar_activity_PL"
         ]
       },
       "DEFAULT": {

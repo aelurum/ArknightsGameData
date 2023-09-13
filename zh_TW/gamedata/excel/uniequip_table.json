@@ -14167,6 +14167,1270 @@
       "type": "ADVANCED",
       "uniEquipGetTime": 1690437600,
       "charEquipOrder": 1
+    },
+    "uniequip_001_siege": {
+      "uniEquipId": "uniequip_001_siege",
+      "uniEquipName": "推進之王證章",
+      "uniEquipIcon": "uniequip_001_siege",
+      "uniEquipDesc": "幹員推進之王擅長搶先切入戰局，透過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_112_siege",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_siege": {
+      "uniEquipId": "uniequip_002_siege",
+      "uniEquipName": "“糖果盒”",
+      "uniEquipIcon": "uniequip_002_siege",
+      "uniEquipDesc": "維娜坐在屋頂上，看著頭頂的雲層越壓越低。倫蒂尼姆的這個月份，每天傍晚都會有一場雨。雨不會下得太大，綿綿密密的，攔不住急著下工的人，但會把地裡的味道都逼出來。爛木頭和鱗腥味，當然還有汗臭。諾伯特區聞起來總是不那麼像倫蒂尼姆的一部分。大一點的物流倉庫都搬去了北邊，工廠和集市也都跟著挪走了，剩下的地塊上塞滿了其他城區不想要的垃圾和無處可去的人。\n樓下的拳館裡爆發出一陣歡呼聲，聽起來贏的人又是因陀羅。今晚是格拉斯哥幫的慶祝之夜。下午維娜帶人突擊了水手街的地下賭場，把羅尼兄弟嚇得逃出了諾伯特區。以後附近的街區都是格拉斯哥幫的了。摩根激動地搬來了好幾桶酒，說要好好慶祝一番。她說這酒是從街角最氣派的那家酒店買的，花了好大一筆錢，貝爾德很擔心她被騙了。喝多了之後那些傢伙就摟在一起吼她的名字，“推進之王”，聲音大得一條街的人都能聽見。\n收服幾個幫派算什麼攻城掠地？剛得到這個名號的時候，維娜多少有些哭笑不得。因陀羅她們還不知道她的出身，她並不是有意瞞著，只是也沒找到什麼交底的好時機。諾伯特區和奧克特里格區就像兩個國家，在這裡沒什麼人在乎其他人的父母是誰。只有一次，格拉斯哥幫被警察找上了，在警局裡，警察照慣例問話，問她什麼種族，她盯著那個滿面油光的警察，不知哪來的衝動回答了“阿斯蘭”。警察愣了幾秒，揪著她衣領子就想把她的頭往桌子上磕。維娜坐得穩穩的，脖子沒有彎下哪怕一點角度。警察憋紅了臉，酗酒和油膩的飲食讓他的手抖個不停，只得用狠話替代暴力，威脅她這個滿嘴瘋話的小混混這個月都別想走出警局的門。結果第二天她就走了出來。摩根和因陀羅來接她，因陀羅說著自己是怎麼用燃燒瓶嚇跑了男爵的走卒，摩根說上下疏通真的很費錢。走過街角的時候，維娜忍不住回了下頭。那裡並沒有什麼人或者巨大的生物在看著她，剛才那一閃而過的金色可能只是太陽晃了她的眼。\n維娜記不清自己有多久沒見到高文了。她的老師可能無處不在。炸鱗攤位前、拳館人群中，或者頭頂的雲層裡，都有可能。一想到這一點，她就沒來由地煩躁，下意識想再掏一根苦味棒棒糖塞進嘴裡。可是當她再伸手的時候，鐵盒已經空了。空蕩蕩的盒子變輕了，讓她的心也跟著輕飄飄的，像是失去了重心。下回最好得找個重點的東西填進去，維娜心想，工地裡的鉚釘是個不錯的選擇。\n貝爾德在背後叫她。糖果盒子落回褲兜，維娜笑了笑，轉身走回屬於推進之王的喧嘩聲裡。",
+      "typeIcon": "sol-x",
+      "typeName1": "SOL",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_112_siege",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_siege_1",
+        "uniequip_002_siege_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_saga": {
+      "uniEquipId": "uniequip_001_saga",
+      "uniEquipName": "嵯峨證章",
+      "uniEquipIcon": "uniequip_001_saga",
+      "uniEquipDesc": "幹員嵯峨擅長搶先切入戰局，透過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_362_saga",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_saga": {
+      "uniEquipId": "uniequip_002_saga",
+      "uniEquipName": "身向雲泥",
+      "uniEquipIcon": "uniequip_002_saga",
+      "uniEquipDesc": "“老伯老伯，小僧能不能向您討一瓢水喝？”\n“欸欸，你少喝點......這一瓢水都供你解渴，我大半日的功夫可就白費了。”\n“咦？此話怎講？”\n“在這山之陽有良田三千畝，山之陰有大澤三萬頃，但中間偏偏隔了這麼一座高聳入雲的邙山，重巒疊嶂，羽獸難渡。禾苗要吃水，我只好引山北之水來灌溉山南之田，能用的物件就只有這麼一隻瓢。”\n“所以您就這麼一遍遍地翻山越嶺？可是，用這一隻瓢，到底要舀到什麼時候呢？”\n“是啊，要舀到什麼時候呢......”老翁說著，在一塊山石上坐下，唉聲歎氣。\n\n“啊，那就讓小僧來幫老伯一把！”\n“你願意幫我？”\n“小僧想了想，覺得老伯剛才說的話十分有理。如果手頭是一把鐵鍬，那便該想辦法在邙山掘出一條貫通南北的大渠；如果會移山撼岳的源石法術，便該施展神通移走大山，讓大澤與田畝相毗鄰；可是手中只有這一隻瓢，那也只能盛去一瓢瓢的水。眼前事，手中物，既然不可不為，便只能盡力而為，如此而已。”\n“可山那邊的田地何其廣闊，一眼望不到頭，邙山山路又何其艱險，百折回環，迷失在雲霧裡。哪怕你比老朽年輕幾十歲，窮盡一生又能如何呢？”\n“小僧不求能遍灌良田，走一次山路，就是一段修行，灌一瓢水，便是一瓢水的造化。”\n“而且剛剛受了老伯一瓢水之恩，也是緣分。小僧年輕力壯，腳程也快些，由我來幫忙，也是理所應當的！”\n說罷，瓢中的水還剩下大半，嵯峨端穩了瓢，轉身向山之陰行去。\n\n“真是個癡人。”\n一陣風吹來，雲消墨散，山道漫漫，老翁已經失去了影蹤。\n“是癡心無疑，但也是誠心不假，由她去吧。”",
+      "typeIcon": "sol-y",
+      "typeName1": "SOL",
+      "typeName2": "Y",
+      "equipShiningColor": "green",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_362_saga",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_saga_1",
+        "uniequip_002_saga_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_flamtl": {
+      "uniEquipId": "uniequip_001_flamtl",
+      "uniEquipName": "焰尾證章",
+      "uniEquipIcon": "uniequip_001_flamtl",
+      "uniEquipDesc": "幹員焰尾擅長搶先切入戰局，透過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_420_flamtl",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_flamtl": {
+      "uniEquipId": "uniequip_002_flamtl",
+      "uniEquipName": "紅松的起點",
+      "uniEquipIcon": "uniequip_002_flamtl",
+      "uniEquipDesc": "在看到那些高聳入雲的建築是如何撥弄雲霄的時刻，尚且不是焰尾騎士的札拉克女孩腦海裡所想的，是家鄉那一棵參天赤松。\n她的心裡閃過一絲眷戀，一絲苦悶，她想起那最後一片保存完好的紅松林，毀於一場突如其來的天災。\n其實索娜再也沒有回去看過那片樹林。\n興許那棵松樹僥倖在火災中倖存了下來？又或者來年的某個季節，那些完好的松果會在灰燼覆蓋的泥土裡萌生全新的生機......就像她自己。\n她必須替那些喪生於天災中的家人朋友們活下去。她必須在名為卡西米爾的土壤裡生根發芽。抱著這樣的想法，她才支撐到了今天。\n但很快，索娜搖了搖頭，她要擺脫這些想法。這些過於跳躍的思維，只會讓她陷入自怨自艾的境地。她不能這樣，她必須學會開朗。裝出一副樣子，也許那些商人就會網開一面，雇用一位嬌小的感染者女孩，去做一些力所能及的活計。\n然後，她從報紙和電視裡得知，感染者也可以成為騎士。她一定要尋找一條門道。而她之所以想成為騎士，只是為了謀生。沒有任何古老的騎士精神背書，沒有任何宏偉的願景與希望，索娜握緊了自己拳頭。\n而這一次，她卻被迫向同為感染者的可憐人揮拳。\n索娜力氣不大，但她身形靈巧。這讓她在那些感染者中脫穎而出，被一些地下勢力的金主選中，送去參加“清洗賽制”。她曾在武器脫手，危機四伏的時刻，一拳打在對手的臉上。對手倒下了，索娜又為自己贏得了一天生存的權利——可她並不高興。她的力氣不大。她能一拳擊倒對方，只是因為對方食不果腹，只是因為前一天晚上，對手因為被金主打賞的幾張騎士債券，而捲入了一場鬥毆。\n索娜並不高興。她的力氣不大。\n有人誇讚她稍微打扮一番，也是一位楚楚動人的可愛少女。有人誇讚她只要經過正規的訓練，一定可以成為馳騁賽場的名將。\n直到有一個聲音說：“你的尾巴像火一樣燃燒著。”索娜愣住了。\n這句話沒有什麼特殊的含義，而發出這句感歎的，也只是一個普通的、以暴力取樂的觀眾。\n但是索娜第一次在賽後哽咽起來。\n是的。她剛剛才意識到，她本應像火一樣燃燒著。",
+      "typeIcon": "sol-y",
+      "typeName1": "SOL",
+      "typeName2": "Y",
+      "equipShiningColor": "green",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_420_flamtl",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_flamtl_1",
+        "uniequip_002_flamtl_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_texas": {
+      "uniEquipId": "uniequip_001_texas",
+      "uniEquipName": "德克薩斯證章",
+      "uniEquipIcon": "uniequip_001_texas",
+      "uniEquipDesc": "幹員德克薩斯擅長搶先切入戰局，透過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_102_texas",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_texas": {
+      "uniEquipId": "uniequip_002_texas",
+      "uniEquipName": "外勤私人補給包",
+      "uniEquipIcon": "uniequip_002_texas",
+      "uniEquipDesc": "龍門近衛局/筆錄：\n“是，阿sir，我看得很清楚，那是個魯珀姑娘，黑頭髮橙色眼睛，拎著個公事包。你說她叫德克薩斯？我沒聽過這個名字，我可是本分人。”\n“當時的情況？當時我就和平常一樣，在櫃檯那發呆。像我們這種小超市，下午三點可做不成什麼生意，學生們還沒放學，那幫坐辦公室的中午會過來放風，下午都被老闆捉走繼續上工啦，倒是你們這些巡邏的警員，偶爾會來照顧我們生意。你認識鬼姐嗎？頭上長角，個子高高的督察，她和我——”\n“黑衣人！呃，是有點誇張，二十個總還是有的。我們小老百姓可從來沒見過這種場面。那幫人衝著德克薩斯小姐和那個公事包就去了，手上可都亮著明晃晃的傢伙呢！那場面，我敢說，見過真格的以後，那些電影就成了哄小孩的玩意啦！阿sir，我可是專業的，龍門所有的武打片我都看過，德克薩斯小姐的架勢可不一樣，我都不敢想，她看起來年紀也不大，到底是從哪裡學來這些鬼招式，又怎麼會用得這麼熟練的。”\n“是，監控裡我是躲在櫃檯底下呢，可我聽得真切啊！有把被打飛的匕首就落在我旁邊！後來又來了個紅頭髮的薩科塔，應該是來給德克薩斯小姐幫忙的，聽她們稱呼，好像叫能天使？然後就是轟隆隆一頓亂炸，那可真夠意思，我心肝都在顫！”\n“後來沒聲了，我就大著膽子從櫃檯下面出來了，穿黑衣服的全躺啦，我的小超市也——啊，這你倒不用擔心，後來來了兩個大明星，一個是空小姐，還有一個是那個搞饒舌的黎博利，他們的賠償給得很大方，夠我修了超市再開個瘤獸丸子小攤的。”\n“你問德克薩斯？呃，她......她之後拿了些零食找我結帳，就是那種學生裡很流行的，裹了醬的餅乾棒。她買了好幾盒，巧克力味，香草味還有新款的鹽味，還要了個一塊錢的編織袋。”\n“什麼叫我光說沒用的？那可是我們超市特別設計的編織袋！有卡通圖案的！”\n“好吧，我不說了。不過，阿sir，還有件小事——這位德克薩斯小姐和你們近衛局很熟嗎？幫我帶個話：她的零食集點卡獎品到了，限量版的棒球帽，請她有空來......”\n當值警員批註：已歸檔卷宗-企鵝物流1097（102），本事件暫不追責。",
+      "typeIcon": "sol-y",
+      "typeName1": "SOL",
+      "typeName2": "Y",
+      "equipShiningColor": "green",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_102_texas",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_texas_1",
+        "uniequip_002_texas_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30104",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30094",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30084",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_chiave": {
+      "uniEquipId": "uniequip_001_chiave",
+      "uniEquipName": "賈維證章",
+      "uniEquipIcon": "uniequip_001_chiave",
+      "uniEquipDesc": "幹員賈維擅長搶先切入戰局，透過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_349_chiave",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_chiave": {
+      "uniEquipId": "uniequip_002_chiave",
+      "uniEquipName": "自製千斤頂",
+      "uniEquipIcon": "uniequip_002_chiave",
+      "uniEquipDesc": "賈維注意到那名女生有段時間了。\n那是一名魯珀女生，從外形上看並不是引人注目的類型，卻有著一對靈巧的尖耳，與賈維對視時常常會豎起來。女生舉止拘謹但禮節得當，似乎是名受過良好教育的閨秀，不過這不是引起他注意的關鍵。\n賈維開始注意到她，是因為她常來到修車廠，卻沒有要修理的設備。不僅如此，她還經常走到賈維身邊，詢問一些有關他工作的問題。賈維認為女生相當外行且煩人，恨不得三言兩語敷衍了事。不過之後的一件事讓賈維對她有所改觀：一位客戶向賈維的老闆投訴，原因是賈維在維修時擅自給他的車加裝了垂直噴射引擎並在車身噴漆塗鴉，還將費用算入了維修費中。這時，那名女生站了出來，表示她覺得賈維的改裝非常酷，並替他支付了全部賠償。\n“這傢伙，還是有點品味的。”賈維如此評價道。\n某天，她又出現在了賈維面前，這一次她帶給他一份精美的蛋糕。他本想拒絕女生的好意，但聽見她說：“蛋糕吃多了會長胖，只好把多餘的蛋糕送給你啦。”只好勉為其難地接受了。然而出乎他意料的是，這塊蛋糕是他吃過最好吃的食物。賈維對女生滿懷感激，決定要準備一個前所未有的珍貴禮物回贈予她。他向他的夥伴們——布洛卡與奧斯塔闡述了他的點子，請求他們的幫助。布洛卡自然地承擔了原型設計，而奧斯塔，雖然對賈維的點子感到疑惑，但還是勉為其難地幫忙設計了外觀，並在一些細節上提出了意見，賈維本人則負責在製作中盡情發揮想像力。終於，在經過數個通宵後，這件凝結了三人心血的大作成功面世。\n下一次女生來到廠裡時，一切都如他們設想的那樣進行。在布洛卡提前播放的音樂中，賈維把禮物搬到了女生面前，講出了準備已久的話：“喜歡嗎？這是我親手為你製作的千斤頂！以後就算你吃得再胖，也可以用這個把你抬起來送上車，再也沒有長胖的煩惱了。”\n從此以後，再也沒人在修車廠看見過這名女生的身影。而在賈維集團的小金庫中，出現了一個造型奇特、重新塗裝過的千斤頂，作為賈維集團的傳家寶而被永久封藏。",
+      "typeIcon": "sol-y",
+      "typeName1": "SOL",
+      "typeName2": "Y",
+      "equipShiningColor": "green",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_349_chiave",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_chiave_1",
+        "uniequip_002_chiave_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31014",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30034",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30094",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_blackd": {
+      "uniEquipId": "uniequip_001_blackd",
+      "uniEquipName": "訊使證章",
+      "uniEquipIcon": "uniequip_001_blackd",
+      "uniEquipDesc": "幹員訊使擅長搶先切入戰局，透過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_198_blackd",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_blackd": {
+      "uniEquipId": "uniequip_002_blackd",
+      "uniEquipName": "耐低溫通訊設備",
+      "uniEquipIcon": "uniequip_002_blackd",
+      "uniEquipDesc": "魏斯拍乾淨身上的落雪，走進屋裡。\n如果不是身上的繃帶和傷痕，在他仍舊有著淡淡笑容的臉上，絲毫看不出這個人剛剛經歷過一番苦戰。\n那是一場針對恩希歐迪斯的刺殺。通訊在魏斯說出具體地點之前被掐斷，護衛們只好暫時守衛在恩希歐迪斯周圍。他們攥緊盾和刀，餘光確認著那個站在老爺身邊的卡普里尼女人。 \n護衛們確信，只要這位卡普里尼護衛在老爺身旁，一切刺殺都不會得逞。他們只需互相配合，就能在將傷亡壓到最小的情況下平息這場混亂。更何況，魏斯已經傳出最重要的訊息，那麼，他們接下來要做的就是耐心地等敵人前來送死。 \n但他們並沒有等來敵人。 \n並且在山上看到那個分解了十數個敵人的陷阱時，這些手握刀盾的護衛們短暫地震驚了——僅僅只是一些掩藏在落雪中的樹枝，和由石頭相擊而臨時製成的鋒利石片，這個原本不會被人注意到的陷阱所漫出的血浸透了四周一圈又一圈的白雪，甚至在幾米外的雪地都有著血液被稀釋後的淡淡粉色。\n雪地一路上還散落著敵人已經僵硬的肢體殘塊，以及魏斯本人的鮮血和被斬傷脫離開身體的碎肉，在落雪中堆成了一個又一個雪包。肢體殘塊上的刀口狠、穩，甚至能看出其中夾雜的怒火，而魏斯身上那些深可見骨的刀口，也讓護衛們不禁皺起眉頭。\n依特拉並不是一個十分強壯的種族，魏斯即使有著過人的能力，也不過是一人，不過是恩希歐迪斯身邊一個小小的護衛，甚至他平時有相當一部分的時間只是在為謝拉格傳遞信件。人們喜歡從他手裡接過帶著淡淡香味的信，喜歡他開朗的面龐，也欣賞他對恩希歐迪斯的忠心。\n但人們沒有想到他還有這樣的一面。\n為什麼呢？並沒有人要求魏斯做到這一步，傳遞消息對於孤身一人的他來說已經足夠，他大可以尋找一個地方隱藏起來，有足夠的護衛能夠應對這次反叛。\n恩希歐迪斯看著眼前的魏斯，並沒有開口問什麼。魏斯整理好桌面上的信件和文書，恭敬地退下。在門關上前，恩希歐迪斯聽到了消散在風中的半句話：“......不辱使命。”",
+      "typeIcon": "sol-x",
+      "typeName1": "SOL",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_198_blackd",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_blackd_1",
+        "uniequip_002_blackd_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30033",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31033",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31053",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_scave": {
+      "uniEquipId": "uniequip_001_scave",
+      "uniEquipName": "清道夫證章",
+      "uniEquipIcon": "uniequip_001_scave",
+      "uniEquipDesc": "幹員清道夫擅長搶先切入戰局，通過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_149_scave",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_scave": {
+      "uniEquipId": "uniequip_002_scave",
+      "uniEquipName": "“專屬餐具”",
+      "uniEquipIcon": "uniequip_002_scave",
+      "uniEquipDesc": "“碗用來裝飯菜，勺子舀飯菜，水壺拿來裝水，像這樣用刀切開大塊的食物，將叉子叉進去，就可以放進嘴裡吃掉啦。你們記住了嗎？”\n年幼的札拉克們第一次圍在餐桌前，學習如何使用餐具，哈莫琳也在他們之中。她從未見過如此豐盛的菜餚，閃亮的油光彷彿流動的黃金。\n“哈莫琳，等我長大了，我一定會讓我們天天吃上這麼美味的食物的！”\n她聽見身邊的聲音，轉頭看見了心上人的笑容。\n後來過去了很久，久到哈莫琳已經離開了族群，離開了深愛之人，在黑暗中獨行。久到她已經沒精力想起這件事了，連填飽肚子也成了奢望。\n又是一次無人願意承接的任務，初次接觸目標失敗讓哈莫琳失去了全部裝備，躲入下水道中才保住了性命。任務失敗的後果難以承擔，可她已經失去了戰鬥的能力。哈莫琳倚著潮濕的磚牆前行，目光掃過惡臭的污穢，尋找任何能派上用場的東西。直到在一片泥濘中，她看見了，一套廢棄的便攜餐食套裝。\n哈莫琳將它撿起來，擦乾淨，掛在腰間，而後爬出下水道，找到了目標所在的餐廳。\n在解決目標的過程中，碗、勺子、叉子、餐刀、水壺......套裝裡的每一樣餐具都派上了用場。有了第一次的經驗，她做得乾淨俐落，沒讓任何人發覺。哈莫琳走出了那間富麗堂皇的高級餐廳，獨自一人走上街道。她感覺很餓，身上沒有了力氣。最終她靠在牆邊緩緩坐下，抱著膝蓋，深深埋下頭去。\n“嘿，你餓了嗎？要吃點東西嗎?”\n哈莫琳抬起頭，看見了一位大尾巴的魯珀女孩。她將哈莫琳領回自己的辦公室，把僅剩的食物擺在了哈莫琳面前。\n“只有這麼多了，你填填肚子吧。”\n她看著哈莫琳的動作，忽然皺起眉頭。\n“喂，不要用手抓，你帶著餐具呀。是不太會用嗎？我告訴你。\n“把食物倒進碗裡，用那柄勺子舀著吃。大塊的食物可以用刀切開，用叉子叉著吃。把水壺給我，我去給你裝點水。\n“要是你以後還餓肚子了，每天都可以來這裡吃點東西哦......嗯？你怎麼啦？”\n哈莫琳仰起頭，拼命眨著眼睛，沒讓淚水流出眼眶。",
+      "typeIcon": "sol-x",
+      "typeName1": "SOL",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_149_scave",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_scave_1",
+        "uniequip_002_scave_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30043",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31023",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30033",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_headbr": {
+      "uniEquipId": "uniequip_001_headbr",
+      "uniEquipName": "凜冬證章",
+      "uniEquipIcon": "uniequip_001_headbr",
+      "uniEquipDesc": "幹員凜冬擅長搶先切入戰局，透過進攻爭取部署空間\n在外勤任務中劃分為先鋒幹員，行使尖兵職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_115_headbr",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_headbr": {
+      "uniEquipId": "uniequip_002_headbr",
+      "uniEquipName": "冬將軍的畢業禮物",
+      "uniEquipIcon": "uniequip_002_headbr",
+      "uniEquipDesc": "身後有人用一根手指在輕輕地戳自己的背。\n凜冬沒回頭。她心裡明白，這是真理在提醒她，她的耳機音量開得太高了。\n凜冬喜歡聽歌，尤其鍾愛在烏薩斯的年輕人中流行的一種被稱為Hardbass的電子音樂，歌曲急促的節奏和鼓動人心的低音總會讓她感到熱血沸騰，伴隨音樂填充肢體的是難以克制的衝動——一種想要大展拳腳，想要衝破所有無聊日常，急於掙脫束縛的心情總在這時浸染凜冬的心靈。\n有一陣子，她在戰鬥中也偶爾會塞著耳機，收拾一些她看不上眼的嘍囉時，還會合著鼓點伴奏踩拍子。\n杜賓在一次訓練後，嚴厲地向她指出：“在我看來，你只是在發洩暴力。”\n凜冬對此只是發出嗤笑。所有人都清楚這個女孩不是真的像看上去那樣衝動，她分得清什麼樣的人可以公開用言語挑戰，而對方並不會計較——例如那個博士——而什麼樣的人最在意規則，最好將叛逆放在心裡。\n這是他們這樣的青少年人的生存法則。\n她的另一位教導者情況則不同。\n臨光對她的態度並不嚴厲，然而卡西米爾騎士不顯山露水的強硬與無懈可擊，令人懊惱又無力。\n臨光甚至聽了幾首她覺得不錯的歌，然後才對她說：“不錯的音樂，很有衝力。”\n凜冬頗為警惕地看著她：“你也要和我談什麼大道理？”\n卡西米爾的騎士搖搖頭。\n“不，你聽什麼音樂，我都不反對。”\n這句話還挺順耳，但接下來就沒那麼好聽了。\n“但以你現在的實力，還沒有在戰鬥時分心的資格，想從我這裡拿到合格，這樣可不行。”\n凜冬忍不住朝她瞪起眼。\n“播放機和耳機我先替你保管。”卡西米爾的騎士毫不在意冬將軍的怒意，若無其事地說出了冬將軍的父母都沒說過的話，“好了，別做出那副表情，等你什麼時候能贏過我一隻手，有了帶隊的資格，我就送你一套新的。”\n“卡西米爾的最新款，你會喜歡的。”\n“......”\n冬將軍摸了摸手腕上的卡西米爾最新款通訊設備兼播放機，無言地將正在播放的歌掐斷，轉而接入了小隊通訊頻道。\n她的隊員們嘰嘰喳喳，嘈雜的聲音並不比Hardbass急促的節奏緩和多少。\n凜冬聽了一會，沒意識到其實自己還無意識地在抖著腿，打著拍子。\n現在在她腦海中盤旋的節奏，比她最喜歡的那首歌還要激情，還要熱烈。\n好吧，凜冬必須要承認，自己確實喜歡這套新設備——\n不用任何音樂，她現在已經熱血沸騰。",
+      "typeIcon": "sol-x",
+      "typeName1": "SOL",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_115_headbr",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_headbr_1",
+        "uniequip_002_headbr_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31024",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31014",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_texas2": {
+      "uniEquipId": "uniequip_001_texas2",
+      "uniEquipName": "緘默德克薩斯證章",
+      "uniEquipIcon": "uniequip_001_texas2",
+      "uniEquipDesc": "幹員緘默德克薩斯擅長反覆切入戰場\n根據外勤部門決議\n在外勤任務中劃分為特種幹員，行使處決者職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_1028_texas2",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_texas2": {
+      "uniEquipId": "uniequip_002_texas2",
+      "uniEquipName": "藍莓與黑巧",
+      "uniEquipIcon": "uniequip_002_texas2",
+      "uniEquipDesc": "沒有比為自己的武器命名還要愚蠢的事情了，德克薩斯看著眼前的表格如此想到。\n新沃爾西尼將不准許攜帶武器，甚至是私藏武器，而企鵝物流毫無疑問將是一個特例，因此，她們需要做一些額外的登記。這種登記並不意味著她們將可以在市區使用武器，而是在某些情況下，她們的武器會回到她們的手上。\n當然，這並不意味著她必須要做為武器命名這樣的蠢事，只是，看著能天使興致勃勃地為自己的每一把銃都填上上一秒才一拍腦門想出來的名字，以及她時不時投來的那種讚許夾雜著期待的眼神，德克薩斯知道，如果自己不取的話，她一定會奪過表格，為自己的兩把新武器填上一個蠢到沒邊的名字。\n她對這兩件武器實在是談不上有什麼感情，畢竟在一開始，這只是一份她不怎麼願意收下的禮物。事實上，她並不是一個在這方面有特殊情結的人，如果不是自己過去用的劍製造工藝較為獨特，她大概已經換過幾次武器了。\n而且，製造這兩把劍的人，無疑嘗試著從德克薩斯這個姓氏的故事中提取出一些......靈魂之類的東西，並將之附加在了武器之上，儘管對她而言，這只會讓她感到頭疼，但是前來檢查武器的官員也因此對她投來了期待的目光，那目光的具體含義是：“這樣的武器一定會有一個很好的名字吧。”\n門“吱呀”一聲被推開，提著大包小包的空與可頌走了進來，新的基地需要許多裝飾品，而這些事，向來是她們兩人負責的。\n“天哪，德克薩斯，你已經坐在這裡三個小時了。”空湊到德克薩斯身邊，發現表格的情況和自己離開時別無二致，忍不住驚訝道。\n德克薩斯聳了聳肩，把筆遞給她，表示自己無能為力。\n“我忙著整理基地，才沒空幫你想這個。”空撇了撇嘴，“而且，家族之間的事，和我這個小演員又有什麼關係呢。”\n德克薩斯翻了個白眼，當她將過去和盤托出之後，在同伴之間，這就成了一個無傷大雅的玩笑。她又將視線投向可頌，可頌則對她攤了攤手，表示自己愛莫能助，不過她馬上像是想到了什麼似的，從包裡掏出了一樣東西，丟給德克薩斯。\n“在路上順便買的，你就慢慢想吧，反正時間多的是。”\n德克薩斯接到手中一看，發現是一盒巧克力。\n可頌說完，就向廚房走去，她買了不少廚房用具，今晚將是她第一次在新沃爾西尼大顯身手。\n空為留聲機換上了一張新的唱片，悠揚的音樂在新的基地中響起，而她則抱著一份劇本看了起來，毫無疑問，她新接到了一份工作。\n能天使與表格的戰鬥似乎接近尾聲，看她的表情，她顯然對自己的成果相當滿意，而德克薩斯相信，等到下次她要取自己的武器時，她一定會想不起自己現在起的任何一個名字。\n這就是我的生活了。\n她撕開巧克力的包裝，從中抽出一根開始慢慢咀嚼，而巧克力在口中慢慢融化的口感，加上此時此刻她感受到的一切，在一瞬間給了她靈感。\n她於是提筆在表格上寫下“藍莓與黑巧”幾個字，然後就將筆丟到一邊。\n能天使湊過頭來看了一眼，然後毫不客氣地對德克薩斯說：“不得不說，搭檔，這真是個蠢名字。”\n“我也這麼想。”德克薩斯靠在辦公椅上，將身體往後仰，然後戴上耳機，“但是，蠢得恰到好處。”",
+      "typeIcon": "exe-y",
+      "typeName1": "EXE",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_1028_texas2",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_texas2_1",
+        "uniequip_002_texas2_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_lunacu": {
+      "uniEquipId": "uniequip_001_lunacu",
+      "uniEquipName": "子月證章",
+      "uniEquipIcon": "uniequip_001_lunacu",
+      "uniEquipDesc": "幹員子月擅長在遠距離擊潰敵人\n根據外勤部門決議\n在外勤任務中劃分為狙擊幹員，行使神射手職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_4014_lunacu",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_lunacu": {
+      "uniEquipId": "uniequip_002_lunacu",
+      "uniEquipName": "“移動的窩”",
+      "uniEquipIcon": "uniequip_002_lunacu",
+      "uniEquipDesc": "幹員們偶爾能在羅德島的甲板上看到子月的帳篷。\n這當然不合規矩，子月有自己的宿舍（雖然她不常在裡面），在甲板上居住也違反了羅德島的安全與消防相關條例，但她仍然孜孜不倦地躲過巡查人員，一次次把自己的小帳篷架設在甲板上，架設在能一眼看到天空的地方。\n這頂帳篷是子月親手製作的，“製作”這個詞似乎不太恰當，她更像是把一堆布料隨便拼在了一起。然後儘量把它牢靠地支撐起來，不至於被荒野的大風輕易吹垮。不過這些布料的來源——\n在子月本季度第十一次試圖潛入倉庫並觸發保全系統後，羅德島人事部門與她進行了一次深入的談話，並從她那裡查獲了數件未經登記的羅德島制服（部分已被剪開並縫製在了她的帳篷上）。在談話中，子月態度良好，表示自己“只是偶然路過”，“在外面，沒人看著的東西就是可以隨便撿的”。人事部門糾正了子月的認知偏差，向該幹員重申了羅德島的紀律，並且與她交流了帳篷上部分其他布料的來源。\n“那塊灰色的布？我在森林裡撿到的。掛在樹上，我就拿下來了。”\n“這塊布很暖和，下雪的時候很有用，也是撿到的，埋在一個坑裡，阿涅塞告訴我的。”\n“這個可厲害了，能防水！是一個人給我的。你那是什麼表情，真的是他給我的！我幫他們指了下路，他說這是報酬！”\n“不，這個不是......呃，這件衣服有手續所以沒關係？你剛才說的什麼申請手續是怎麼辦的來著？”\n“這塊毛皮是我朋友的。我很想她。”\n子月拒絕了人事部門向她配發羅德島制式外勤帳篷的提議。",
+      "typeIcon": "dea-y",
+      "typeName1": "DEA",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_4014_lunacu",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_lunacu_1",
+        "uniequip_002_lunacu_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31034",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30074",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30014",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 2
+    },
+    "uniequip_003_shwaz": {
+      "uniEquipId": "uniequip_003_shwaz",
+      "uniEquipName": "老剃刀",
+      "uniEquipIcon": "uniequip_003_shwaz",
+      "uniEquipDesc": "在雨林中混著爛枝腐葉的泥漿穿行向前，再小心也無濟於事，男人一個趔趄，重重地摔進了泥地中。\n“還沒到位置嗎？你還不打算殺了我嗎？！”他掙扎著爬起，大聲質問著身後的人，但顫抖的語氣暴露了他的恐慌。\n“我還沒有喊停，繼續往前走。”\n出乎意料的是，他預想中的答覆並不是從背後傳來，而是來自頭頂。\n他抬起頭看向高處，那個令他膽寒的女人就站在一截粗大的樹幹上，樹蔭遮住了她的大半張臉，只有抿成一條直線的嘴唇露出。\n“咔噠。”\n他知道，這是她把箭支卡進箭槽的聲音。\n擂鼓般的心跳聲越來越響，蓋過了林中的一切聲響，正如他的腦海中，那個吵鬧無比的念頭，蓋過了其他聲音。\n我要活命。\n他手撐著泥地，借力從泥坑中躍出，蹣跚著向密林深處躥去。可死亡如影隨形，難以擺脫。女人鬆開弦，箭支彈射而出，擦過他的頭皮，留下一道見骨的傷痕。\n“啊——！”他的慘叫直達上空。\n“為什麼？為什麼非得殺我？”捂著血流不止的傷口，他哀嚎著問。\n“你走錯了，該往右邊去。”女人沒有回答他的問題，而是發出了冰冷的指令。\n他急遽地喘息，拖著身體朝著女人指的方向跌跌撞撞地走去。很快，他就感覺到自己在泥淖中寸步難行，小腿被一股強勁的吸力纏住，他越想從中邁步走出，陷得就越深。泥漿逐漸沒過他的胯襠，往他的胸口處漫延。\n“你直接給我一個痛快吧，求你了，我不想死在這裡。”在意識到自己面臨的絕境後，他終於壓抑不住地痛哭出聲。\n看著他醜態百出的臉，女人絲毫不為所動，只是看他在泥地掙扎不休。\n“三年前，你勒令一批毫無保護的童工走進礦坑挖掘源石，因為礦脈活化，礦道內發生爆炸，而後坍塌，所有人都被埋在地下。\n“你當時一定想，這樣可怕的事故，這些孩子們活著的機率不大，所以放棄營救，任由他們自生自滅。\n“但有個孩子，他很堅強，用一把剃刀，生生挖開了通向地面的通道。\n“他挖了七個小時，不間斷地……”\n“我不明白，這和你有什麼關係？！”男人崩潰地大喊。\n“沒什麼關係，我就是想起，小時候自己也有那麼一把剃刀，只不過，它掘的不是泥土。”\n女人頓了頓，繼續說道。\n“……它割的是喉嚨。\n“不過區別不大，不管使用方法有何異同，最終我們都靠一把剃刀活下來了。\n“先生，你也一定很頑強地想要活下去吧？”\n女人從口袋裡掏出一把破舊不堪的剃刀，丟進泥潭。\n“那就展示給我看吧。”",
+      "typeIcon": "arc-y",
+      "typeName1": "ARC",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_340_shwaz",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_shwaz_1",
+        "uniequip_003_shwaz_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 2
+    },
+    "uniequip_003_hsguma": {
+      "uniEquipId": "uniequip_003_hsguma",
+      "uniEquipName": "護身符",
+      "uniEquipIcon": "uniequip_003_hsguma",
+      "uniEquipDesc": "當亡命之徒射出第一支尖銳的弩箭，近衛局的協助人阿祥重重地抽了一口氣，難以置信地瞪大雙眼。\n“我不知道有這回事！”他驚叫出聲，“他們怎麼敢在城區這麼幹？他們這是壞了規矩！”\n“富貴險中求，不稀奇。”\n答話的高大鬼族女性靠在鐵桶後頭，姿態看似隨意放鬆，手卻沒離開她的盾。\n外頭的動靜稍歇。\n星熊向外看了一眼，盡頭處一片漆黑，她知道危機就藏在暗處。\n近衛局的支援還在路上，一群打破規矩的亡命之徒已經將他們包圍，攻擊隨時可能到來。\n情況可以說糟糕透頂，他們只能等待突圍的機會。\n阿祥的面色凝重，他原本是下城區不算少見的一個街頭青年，大街小巷地四處混過幾年時間，是個排不上號的小角色，但出去也自稱是混過道上的人。\n現在做了近衛局的線人，看著比從前穩重不少，這讓星熊不免感到欣慰。\n話頭分不清是哪邊先牽起來的。\n“其他人最近怎麼樣？”\n“都挺好的。阿森家裡給找了工作，大頭開了家酒吧，我記得手續還是當時托鬼姐給辦的吧。”\n“是有這麼回事。你呢？這幾年都沒回家？”\n“沒回，身上事多，不好回去。”\n“那家裡人日子怎麼過？”\n“領退休金，少是少點，但還能過。”\n“也好，穩定。”\n“鬼姐你呢？”\n“我輕鬆，糊自己的口就行。”\n阿祥沒再說話。星熊也沒有。\n天氣很陰，不久前才下過雨。\n兩人身旁成堆的垃圾瀝出顏色奇怪的髒水，從他們腳邊爬過，一路淌向不遠處的下水口。\n窸窸窣窣的動靜逐漸停歇，越是一片平靜，神經就越是緊繃著。\n阿祥在這時忽然變得饒舌起來。\n“鬼姐，你怕不怕？”\n他兀自問，又兀自說下去，“我是因為鬼姐你在，才答應這次給近衛局幹活的。\n“之前有一回，他們說要拿刀去嚇唬嚇唬那個搶生意的老闆，事成後能拿紅包，鬼姐你還記得嗎？”\n星熊盯著巷口，沒點頭。\n她記得早幾年遇到那幾個年輕人，他們是這片街頭被遺棄的垃圾，被視作不適應社會的渣滓，他們活得稀里糊塗，隨時可能莫名其妙地賠掉人生。\n所以當魏彥吾邀請她加入近衛局時，星熊想了一晚，點頭答應下來。\n她相信龍門將會有所改變。\n“當時，要不是鬼姐你攔著，我就和那群人一起去了。”\n她背後的聲音帶著顫抖。\n“後來我聽說，他們真鬧出人命，幾個人全都栽進去。\n“還有一回，那群外頭的黑幫找我們麻煩，最後也是鬼姐你把人給攔了。”\n身後的人壓著嗓子，牙關咯咯，聲音顯得有些失真。\n“我想了想，家裡只靠退休金日子還是難過了點。\n“要是沒我在，我信鬼姐你想衝出去肯定不難。\n“我給自己投過保，我不虧。\n“所以鬼姐，別管我了——” \n\n“鐺。” \n\n一聲突兀的脆響。\n像是某種信號，一直沉默的近衛局督察如山牆般立起，發出怒喝。\n一切都在極短的時間內發生，垃圾被踩踏發出的聲響，堆積的鐵桶被撞擊的聲響，劃開空氣的弩聲，還有——\n沉重的金屬撞擊聲。\n未被阻擋的弩箭擊穿了星熊擱在胸前的龍門近衛局督察證，而她的盾則橫掃所有敵人，一步不讓地立在該保護的人身前。\n星熊再次將盾抬起，往回咽下一口血，又咳了兩嗓子才終於開口。\n“別管你這個要求，有點難。”\n她抹掉唇角的血漬，聲音聽起來像是嗆了水，“換一個我能做得到的吧——比如，替你申請這次行動的獎金，怎麼樣？”",
+      "typeIcon": "pro-x",
+      "typeName1": "PRO",
+      "typeName2": "X",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_136_hsguma",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_hsguma_1",
+        "uniequip_003_hsguma_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1694503800,
+      "charEquipOrder": 1
     }
   },
   "missionList": {
@@ -17851,6 +19115,334 @@
       "uniEquipMissionSort": 4,
       "uniEquipId": "uniequip_003_aglina",
       "jumpStageId": "main_02-07"
+    },
+    "uniequip_002_siege_1": {
+      "template": "EquipmentCharKilled",
+      "desc": "由非助戰推進之王累計造成60殲滅數",
+      "paramList": [
+        "char_112_siege",
+        "60",
+        "char_112_siege"
+      ],
+      "uniEquipMissionId": "uniequip_002_siege_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_siege",
+      "jumpStageId": null
+    },
+    "uniequip_002_siege_2": {
+      "template": "EquipmentSquadPro",
+      "desc": "3星通關主題曲1-7；必須編入非助戰推進之王並上場，其他成員僅可編入先鋒幹員",
+      "paramList": [
+        "3",
+        "main_01-07",
+        "char_112_siege",
+        "13,PIONEER"
+      ],
+      "uniEquipMissionId": "uniequip_002_siege_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_siege",
+      "jumpStageId": "main_01-07"
+    },
+    "uniequip_002_saga_1": {
+      "template": "EquipmentDeployCharOrder",
+      "desc": "完成5次戰鬥；必須編入非助戰嵯峨，並確定第一位部署的幹員是嵯峨",
+      "paramList": [
+        "5",
+        "1",
+        "char_362_saga"
+      ],
+      "uniEquipMissionId": "uniequip_002_saga_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_saga",
+      "jumpStageId": null
+    },
+    "uniequip_002_saga_2": {
+      "template": "EquipmentSquadNum",
+      "desc": "3星通關別傳WR-1；必須編入非助戰嵯峨並上場，其他成員僅可編入2名幹員",
+      "paramList": [
+        "3",
+        "act16d5_01",
+        "char_362_saga",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_saga_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_saga",
+      "jumpStageId": "act16d5_01"
+    },
+    "uniequip_002_flamtl_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "由非助戰焰尾累計造成40000點傷害",
+      "paramList": [
+        "char_420_flamtl",
+        "40000"
+      ],
+      "uniEquipMissionId": "uniequip_002_flamtl_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_flamtl",
+      "jumpStageId": null
+    },
+    "uniequip_002_flamtl_2": {
+      "template": "EquipmentSquadNum",
+      "desc": "3星通關別傳NL-3；必須編入非助戰焰尾並上場，其他成員僅可編入4名幹員",
+      "paramList": [
+        "3",
+        "act13side_03",
+        "char_420_flamtl",
+        "4"
+      ],
+      "uniEquipMissionId": "uniequip_002_flamtl_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_flamtl",
+      "jumpStageId": "act13side_03"
+    },
+    "uniequip_002_texas_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰德克薩斯並上場，且每次戰鬥至少釋放一次劍雨",
+      "paramList": [
+        "5",
+        "skchr_texas_2",
+        "1",
+        "char_102_texas"
+      ],
+      "uniEquipMissionId": "uniequip_002_texas_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_texas",
+      "jumpStageId": null
+    },
+    "uniequip_002_texas_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關別傳CB-3；必須編入非助戰德克薩斯並上場，其他成員不可編入先鋒幹員",
+      "paramList": [
+        "3",
+        "act5d0_03",
+        "char_102_texas",
+        "PIONEER"
+      ],
+      "uniEquipMissionId": "uniequip_002_texas_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_texas",
+      "jumpStageId": "act5d0_03"
+    },
+    "uniequip_002_headbr_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰凜冬累計使用烏薩斯戰吼5次",
+      "paramList": [
+        "char_115_headbr",
+        "skchr_headbr_2",
+        "5",
+        "char_115_headbr"
+      ],
+      "uniEquipMissionId": "uniequip_002_headbr_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_headbr",
+      "jumpStageId": null
+    },
+    "uniequip_002_headbr_2": {
+      "template": "EquipmentSquadPro",
+      "desc": "3星通關主題曲1-5；必須編入非助戰凜冬並上場，其他成員僅可編入先鋒與狙擊幹員",
+      "paramList": [
+        "3",
+        "main_01-05",
+        "char_115_headbr",
+        "13,PIONEER;13,SNIPER"
+      ],
+      "uniEquipMissionId": "uniequip_002_headbr_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_headbr",
+      "jumpStageId": "main_01-05"
+    },
+    "uniequip_002_chiave_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰賈維累計使用火焰剝離5次",
+      "paramList": [
+        "char_349_chiave",
+        "skchr_chiave_2",
+        "5",
+        "char_349_chiave"
+      ],
+      "uniEquipMissionId": "uniequip_002_chiave_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_chiave",
+      "jumpStageId": null
+    },
+    "uniequip_002_chiave_2": {
+      "template": "EquipmentSquadStar",
+      "desc": "3星通關主題曲1-1；必須編入非助戰賈維並上場，其他成員僅可編入1星幹員",
+      "paramList": [
+        "3",
+        "main_01-01",
+        "char_349_chiave",
+        "13,1"
+      ],
+      "uniEquipMissionId": "uniequip_002_chiave_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_chiave",
+      "jumpStageId": "main_01-01"
+    },
+    "uniequip_002_blackd_1": {
+      "template": "EquipmentDeployCharOrder",
+      "desc": "完成5次戰鬥；必須編入非助戰訊使，並確定第一位部署的幹員是訊使",
+      "paramList": [
+        "5",
+        "1",
+        "char_198_blackd"
+      ],
+      "uniEquipMissionId": "uniequip_002_blackd_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_blackd",
+      "jumpStageId": null
+    },
+    "uniequip_002_blackd_2": {
+      "template": "EquipmentSquadPos",
+      "desc": "3星通關主題曲S2-2；必須編入非助戰訊使並上場，其他成員僅可編入遠端位幹員",
+      "paramList": [
+        "3",
+        "sub_02-02",
+        "char_198_blackd",
+        "13,RANGED"
+      ],
+      "uniEquipMissionId": "uniequip_002_blackd_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_blackd",
+      "jumpStageId": "sub_02-02"
+    },
+    "uniequip_002_scave_1": {
+      "template": "EquipmentCharKilled",
+      "desc": "由非助戰清道夫累計造成30殲滅數",
+      "paramList": [
+        "char_149_scave",
+        "30",
+        "char_149_scave"
+      ],
+      "uniEquipMissionId": "uniequip_002_scave_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_scave",
+      "jumpStageId": null
+    },
+    "uniequip_002_scave_2": {
+      "template": "EquipmentCharKilledStage",
+      "desc": "3星通關主題曲1-3；必須編入非助戰清道夫並上場，且使用清道夫殲滅12個敵人",
+      "paramList": [
+        "3",
+        "main_01-03",
+        "char_149_scave",
+        "12",
+        "char_149_scave"
+      ],
+      "uniEquipMissionId": "uniequip_002_scave_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_scave",
+      "jumpStageId": "main_01-03"
+    },
+    "uniequip_003_shwaz_1": {
+      "template": "EquipmentEventTotal",
+      "desc": "由非助戰黑累計殲滅10個精英或領袖敵人",
+      "paramList": [
+        "char_340_shwaz",
+        "DEATHDETAIL,char_340_shwaz,BOSS,ELITE",
+        "10"
+      ],
+      "uniEquipMissionId": "uniequip_003_shwaz_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_shwaz",
+      "jumpStageId": null
+    },
+    "uniequip_003_shwaz_2": {
+      "template": "EquipmentSquadPro",
+      "desc": "3星通關主題曲2-1；必須編入非助戰黑並上場，其他成員僅可編入狙擊幹員",
+      "paramList": [
+        "3",
+        "main_02-01",
+        "char_340_shwaz",
+        "13,SNIPER"
+      ],
+      "uniEquipMissionId": "uniequip_003_shwaz_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_shwaz",
+      "jumpStageId": "main_02-01"
+    },
+    "uniequip_003_hsguma_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "由非助戰星熊累計造成60000點傷害",
+      "paramList": [
+        "char_136_hsguma",
+        "60000"
+      ],
+      "uniEquipMissionId": "uniequip_003_hsguma_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_hsguma",
+      "jumpStageId": null
+    },
+    "uniequip_003_hsguma_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲6-4；必須編入非助戰星熊並上場，其他成員不可編入重裝幹員",
+      "paramList": [
+        "3",
+        "main_06-04",
+        "char_136_hsguma",
+        "TANK"
+      ],
+      "uniEquipMissionId": "uniequip_003_hsguma_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_hsguma",
+      "jumpStageId": "main_06-04"
+    },
+    "uniequip_002_lunacu_1": {
+      "template": "EquipmentCharKilled",
+      "desc": "由非助戰子月累計造成30殲滅數",
+      "paramList": [
+        "char_4014_lunacu",
+        "30",
+        "char_4014_lunacu"
+      ],
+      "uniEquipMissionId": "uniequip_002_lunacu_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_lunacu",
+      "jumpStageId": null
+    },
+    "uniequip_002_lunacu_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲2-5；必須編入非助戰子月並上場，且使用子月殲滅至少2個高階術師",
+      "paramList": [
+        "3",
+        "main_02-05",
+        "char_4014_lunacu",
+        "DEATHDETAIL,char_4014_lunacu,enemy_1018_aoemag",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_lunacu_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_lunacu",
+      "jumpStageId": "main_02-05"
+    },
+    "uniequip_002_texas2_1": {
+      "template": "EquipmentEventTotal",
+      "desc": "由非助戰緘默德克薩斯累計殲滅10個精英或領袖敵人",
+      "paramList": [
+        "char_1028_texas2",
+        "DEATHDETAIL,char_1028_texas2,BOSS,ELITE",
+        "10"
+      ],
+      "uniEquipMissionId": "uniequip_002_texas2_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_texas2",
+      "jumpStageId": null
+    },
+    "uniequip_002_texas2_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關別傳CB-8；必須編入非助戰緘默德克薩斯並上場，且使用緘默德克薩斯殲滅至少2個灰尾",
+      "paramList": [
+        "3",
+        "act5d0_08",
+        "char_1028_texas2",
+        "DEATHDETAIL,char_1028_texas2,enemy_1060_emouse",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_texas2_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_texas2",
+      "jumpStageId": "act5d0_08"
     }
   },
   "subProfDict": {
@@ -18148,6 +19740,16 @@
       "subProfessionId": "shotprotector",
       "subProfessionName": "哨戒鐵衛",
       "subProfessionCatagory": 59
+    },
+    "chainhealer": {
+      "subProfessionId": "chainhealer",
+      "subProfessionName": "鏈瘉師",
+      "subProfessionCatagory": 60
+    },
+    "crusher": {
+      "subProfessionId": "crusher",
+      "subProfessionName": "重劍手",
+      "subProfessionCatagory": 61
     }
   },
   "charEquip": {
@@ -18379,7 +19981,8 @@
     ],
     "char_340_shwaz": [
       "uniequip_001_shwaz",
-      "uniequip_002_shwaz"
+      "uniequip_002_shwaz",
+      "uniequip_003_shwaz"
     ],
     "char_145_prove": [
       "uniequip_001_prove",
@@ -18607,7 +20210,8 @@
     ],
     "char_136_hsguma": [
       "uniequip_001_hsguma",
-      "uniequip_002_hsguma"
+      "uniequip_002_hsguma",
+      "uniequip_003_hsguma"
     ],
     "char_2014_nian": [
       "uniequip_001_nian",
@@ -18648,6 +20252,46 @@
     "char_117_myrrh": [
       "uniequip_001_myrrh",
       "uniequip_002_myrrh"
+    ],
+    "char_112_siege": [
+      "uniequip_001_siege",
+      "uniequip_002_siege"
+    ],
+    "char_362_saga": [
+      "uniequip_001_saga",
+      "uniequip_002_saga"
+    ],
+    "char_420_flamtl": [
+      "uniequip_001_flamtl",
+      "uniequip_002_flamtl"
+    ],
+    "char_102_texas": [
+      "uniequip_001_texas",
+      "uniequip_002_texas"
+    ],
+    "char_349_chiave": [
+      "uniequip_001_chiave",
+      "uniequip_002_chiave"
+    ],
+    "char_198_blackd": [
+      "uniequip_001_blackd",
+      "uniequip_002_blackd"
+    ],
+    "char_149_scave": [
+      "uniequip_001_scave",
+      "uniequip_002_scave"
+    ],
+    "char_115_headbr": [
+      "uniequip_001_headbr",
+      "uniequip_002_headbr"
+    ],
+    "char_1028_texas2": [
+      "uniequip_001_texas2",
+      "uniequip_002_texas2"
+    ],
+    "char_4014_lunacu": [
+      "uniequip_001_lunacu",
+      "uniequip_002_lunacu"
     ]
   },
   "equipTrackDict": [
@@ -19734,6 +21378,99 @@
         {
           "charId": "char_291_aglina",
           "equipId": "uniequip_003_aglina"
+        }
+      ]
+    },
+    {
+      "timeStamp": 1694503800,
+      "trackList": [
+        {
+          "charId": "char_112_siege",
+          "equipId": "uniequip_001_siege"
+        },
+        {
+          "charId": "char_112_siege",
+          "equipId": "uniequip_002_siege"
+        },
+        {
+          "charId": "char_362_saga",
+          "equipId": "uniequip_001_saga"
+        },
+        {
+          "charId": "char_362_saga",
+          "equipId": "uniequip_002_saga"
+        },
+        {
+          "charId": "char_420_flamtl",
+          "equipId": "uniequip_001_flamtl"
+        },
+        {
+          "charId": "char_420_flamtl",
+          "equipId": "uniequip_002_flamtl"
+        },
+        {
+          "charId": "char_102_texas",
+          "equipId": "uniequip_001_texas"
+        },
+        {
+          "charId": "char_102_texas",
+          "equipId": "uniequip_002_texas"
+        },
+        {
+          "charId": "char_349_chiave",
+          "equipId": "uniequip_001_chiave"
+        },
+        {
+          "charId": "char_349_chiave",
+          "equipId": "uniequip_002_chiave"
+        },
+        {
+          "charId": "char_198_blackd",
+          "equipId": "uniequip_001_blackd"
+        },
+        {
+          "charId": "char_198_blackd",
+          "equipId": "uniequip_002_blackd"
+        },
+        {
+          "charId": "char_149_scave",
+          "equipId": "uniequip_001_scave"
+        },
+        {
+          "charId": "char_149_scave",
+          "equipId": "uniequip_002_scave"
+        },
+        {
+          "charId": "char_115_headbr",
+          "equipId": "uniequip_001_headbr"
+        },
+        {
+          "charId": "char_115_headbr",
+          "equipId": "uniequip_002_headbr"
+        },
+        {
+          "charId": "char_1028_texas2",
+          "equipId": "uniequip_001_texas2"
+        },
+        {
+          "charId": "char_1028_texas2",
+          "equipId": "uniequip_002_texas2"
+        },
+        {
+          "charId": "char_4014_lunacu",
+          "equipId": "uniequip_001_lunacu"
+        },
+        {
+          "charId": "char_4014_lunacu",
+          "equipId": "uniequip_002_lunacu"
+        },
+        {
+          "charId": "char_340_shwaz",
+          "equipId": "uniequip_003_shwaz"
+        },
+        {
+          "charId": "char_136_hsguma",
+          "equipId": "uniequip_003_hsguma"
         }
       ]
     }

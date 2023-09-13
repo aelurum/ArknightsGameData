@@ -524,6 +524,165 @@
       "medalId": "medal_tower_complete_03",
       "hiddenMedalId": "medal_hidden_tower_03",
       "bossId": "enemy_6007_mtslm"
+    },
+    "tower_n_04": {
+      "id": "tower_n_04",
+      "sortId": 7,
+      "name": "斯沃瑪加工平台",
+      "subName": "斯沃瑪食品",
+      "desc": "一起原料洩漏事故導致斯沃瑪食品徹底棄用這座食品加工平台，平台中儲存的廢棄原料讓這裡成了感染生物與暴徒的巢穴，嚴重影響附近航道安全。商業聯合會勒令斯沃瑪處理此事，而斯沃瑪向羅德島發出了平台清理委託。",
+      "towerType": "NORMAL",
+      "levels": [
+        "lt_04_01",
+        "lt_04_02",
+        "lt_04_03",
+        "lt_04_04",
+        "lt_04_05",
+        "lt_04_06",
+        "lt_04_07",
+        "lt_04_08"
+      ],
+      "taskInfo": [
+        {
+          "levelNum": 1,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 2,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 2,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 3,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 3,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 4,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 3,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 5,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 4,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 6,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 4,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 7,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 5,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 8,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 8,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 3,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        }
+      ],
+      "preTowerId": null,
+      "medalId": "medal_tower_complete_04",
+      "hiddenMedalId": "medal_hidden_tower_04",
+      "bossId": "enemy_6009_nlkgtbs"
     }
   },
   "levels": {
@@ -1834,6 +1993,426 @@
         "lt_03_low_01",
         "lt_03_high_01"
       ]
+    },
+    "lt_04_01": {
+      "id": "lt_04_01",
+      "levelId": "Obt/Legion/LT04/level_lt04_01",
+      "towerId": "tower_n_04",
+      "layerNum": 1,
+      "code": "LT-1",
+      "name": "無心插柳",
+      "desc": "<@lv.fs>初始危險等級：</>0\n斯沃瑪食品把平台上的競技騎士表演賽當作員工福利之一，但少有競技騎士願意來這種逼仄的競技場。諷刺的是，平台廢棄後，這裡反而成了一些失意之人的落腳點。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01"
+      ]
+    },
+    "lt_04_02": {
+      "id": "lt_04_02",
+      "levelId": "Obt/Legion/LT04/level_lt04_02",
+      "towerId": "tower_n_04",
+      "layerNum": 2,
+      "code": "LT-2",
+      "name": "真假難辨",
+      "desc": "<@lv.fs>初始危險等級：</>1\n鏽銅騎士銷聲匿跡以來，不斷有人聲稱在某處看到了他，不過最後都被證明是他人假扮的，想必眼前這位也不例外。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01"
+      ]
+    },
+    "lt_04_03": {
+      "id": "lt_04_03",
+      "levelId": "Obt/Legion/LT04/level_lt04_03",
+      "towerId": "tower_n_04",
+      "layerNum": 3,
+      "code": "LT-3",
+      "name": "夜色溫柔",
+      "desc": "<@lv.fs>初始危險等級：</>2\n城市的霓虹難以照亮盤踞於此的黑暗。燭光或許能夠做到，或許不能。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          },
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01",
+        "lt_04_high_01"
+      ]
+    },
+    "lt_04_04": {
+      "id": "lt_04_04",
+      "levelId": "Obt/Legion/LT04/level_lt04_04",
+      "towerId": "tower_n_04",
+      "layerNum": 4,
+      "code": "LT-4",
+      "name": "左支右絀",
+      "desc": "<@lv.fs>初始危險等級：</>3\n退役的競技騎士會被大多數人遺忘。當然，也有人對偶像的退役耿耿於懷，而這對騎士本人來說未必是好事。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "HIGHLEVEL",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          },
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01",
+        "lt_04_high_01"
+      ]
+    },
+    "lt_04_05": {
+      "id": "lt_04_05",
+      "levelId": "Obt/Legion/LT04/level_lt04_05",
+      "towerId": "tower_n_04",
+      "layerNum": 5,
+      "code": "LT-5",
+      "name": "殘枝敗葉",
+      "desc": "<@lv.fs>初始危險等級：</>4\n食品加工平台內部的結構龐大而複雜，即使親密如雙胞胎，也會在不經意間走散。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          },
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01",
+        "lt_04_high_01"
+      ]
+    },
+    "lt_04_06": {
+      "id": "lt_04_06",
+      "levelId": "Obt/Legion/LT04/level_lt04_06",
+      "towerId": "tower_n_04",
+      "layerNum": 6,
+      "code": "LT-6",
+      "name": "旅途小憩",
+      "desc": "<@lv.fs>初始危險等級：</>5\n在卡西米爾，“文明”的氣息無孔不入。你越是嗤之以鼻，它越是如影隨形。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          },
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01",
+        "lt_04_high_01"
+      ]
+    },
+    "lt_04_07": {
+      "id": "lt_04_07",
+      "levelId": "Obt/Legion/LT04/level_lt04_07",
+      "towerId": "tower_n_04",
+      "layerNum": 7,
+      "code": "LT-7",
+      "name": "泥塵零落",
+      "desc": "<@lv.fs>初始危險等級：</>6\n商品被選中，商品被造就，商品被拋棄。生產線和商品都不需要主體性。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
+          },
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01",
+        "lt_04_high_01"
+      ]
+    },
+    "lt_04_08": {
+      "id": "lt_04_08",
+      "levelId": "Obt/Legion/LT04/level_lt04_08",
+      "towerId": "tower_n_04",
+      "layerNum": 8,
+      "code": "LT-8",
+      "name": "無底洞",
+      "desc": "<@lv.fs>初始危險等級：</>7\n用於戰鬥的硬螯萎縮退化，用於進食的口器則變異成扭曲的觸鬚。這只因攝入過量工業食品原料而急劇異化的鉗獸已經失去了原本的樣貌與習性，只能不停抓取食物以試圖填滿那永不滿足的胃。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "levelType": "BOSS",
+      "loadingPicId": "loading_TW_SM",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          },
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 3,
+            "minCount": 3
+          }
+        }
+      },
+      "offers": [
+        "lt_04_low_01",
+        "lt_04_high_01"
+      ]
     }
   },
   "offers": {
@@ -1969,6 +2548,58 @@
     },
     "lt_03_high_01": {
       "id": "lt_03_high_01",
+      "displayRewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_update_token_2",
+          "dropType": 4
+        }
+      ],
+      "displayDetailRewards": [
+        {
+          "occPercent": 2,
+          "type": "MATERIAL",
+          "id": "mod_update_token_2",
+          "dropType": 4
+        }
+      ],
+      "displayDropInfo": {
+        "mod_update_token_2": {
+          "itemId": "mod_update_token_2",
+          "type": 3,
+          "maxCount": 1,
+          "minCount": 0
+        }
+      }
+    },
+    "lt_04_low_01": {
+      "id": "lt_04_low_01",
+      "displayRewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_update_token_1",
+          "dropType": 4
+        }
+      ],
+      "displayDetailRewards": [
+        {
+          "occPercent": 0,
+          "type": "MATERIAL",
+          "id": "mod_update_token_1",
+          "dropType": 4
+        }
+      ],
+      "displayDropInfo": {
+        "mod_update_token_1": {
+          "itemId": "mod_update_token_1",
+          "type": 3,
+          "maxCount": 1,
+          "minCount": 1
+        }
+      }
+    },
+    "lt_04_high_01": {
+      "id": "lt_04_high_01",
       "displayRewards": [
         {
           "type": "MATERIAL",

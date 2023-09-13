@@ -1059,6 +1059,90 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_stage_normal_15",
+      "medalName": "“輝煌眠所”",
+      "medalType": "stageMedal",
+      "slotId": 30,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "easy_11-10;main_11-10;tough_11-10",
+        "1"
+      ],
+      "getMethod": "在任意環境以3星評價完成關卡11-12",
+      "description": "您看到維多利亞的榮耀和輝煌長眠於此。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_stage_normal_16",
+      "medalName": "“曠古歎息”",
+      "medalType": "stageMedal",
+      "slotId": 31,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "easy_11-18;main_11-18;tough_11-18",
+        "1"
+      ],
+      "getMethod": "在任意環境以3星評價完成關卡11-20",
+      "description": "您將直面戰爭，該用什麼才能平息這生於怒火的仇恨，在它已經沸騰的時刻？",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_stage_fourstar_09",
+      "medalName": "死戰突襲獎章",
+      "medalType": "stageMedal",
+      "slotId": 32,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "tough_11-01;tough_11-02;tough_11-03;tough_11-04;tough_11-05;tough_11-06;tough_11-07;tough_11-08;tough_11-09;tough_11-10;tough_11-11;tough_11-12;tough_11-13;tough_11-14;tough_11-16;tough_11-18",
+        "16"
+      ],
+      "getMethod": "在磨難險地環境中以3星評價完成第十一章全部非絕境作戰關卡",
+      "description": "您已具備在污染環境下執行作戰的能力。\n死亡從生者的眼中汲取奢侈的安穩。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_stage_hard_07",
+      "medalName": "穢汙絕境獎章",
+      "medalType": "stageMedal",
+      "slotId": 33,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "hard_11-01;hard_11-02;hard_11-03;hard_11-04",
+        "4"
+      ],
+      "getMethod": "以3星評價完成第十一章全部絕境作戰關卡",
+      "description": "您沒有被污染所侵蝕。\n可戰爭無法避免，被絕望侵蝕的是此處居民心中最後一絲希冀。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_stage_weekly_01",
       "medalName": "物資籌備獎章",
       "medalType": "stageMedal",
@@ -1417,6 +1501,25 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_camp_rotate_13",
+      "medalName": "昏黑造船廠行動獎章",
+      "medalType": "campMedal",
+      "slotId": 17,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CampaignsComplete",
+      "unlockParam": [
+        "camp_r_13"
+      ],
+      "getMethod": "完全通關剿滅作戰昏黑造船廠，並領取全部獎勵",
+      "description": "代表您完成伊比利亞昏黑造船廠剿滅委託或模擬戰的蝕刻章。\n黃金不鏽，只是日漸蒙塵。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1693166400,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_tower_complete_01",
       "medalName": "鋼鐵蘿蔔安全認證章",
       "medalType": "towerMedal",
@@ -1473,6 +1576,26 @@
       "advancedMedal": null,
       "originMedal": null,
       "displayTime": 1685563200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_tower_complete_04",
+      "medalName": "斯沃瑪安全認證章",
+      "medalType": "towerMedal",
+      "slotId": 4,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassTower",
+      "unlockParam": [
+        "tower_n_04",
+        "0"
+      ],
+      "getMethod": "完成【斯沃瑪加工平台】",
+      "description": "斯沃瑪食品加工平台保全任務圓滿結束後由委託方頒發的獎章。\n在羅德島的努力下，該加工平台的清理工作已經完成。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1692129600,
       "expireTimes": [],
       "medalRewardGroup": []
     },
@@ -2412,6 +2535,84 @@
       "advancedMedal": null,
       "originMedal": null,
       "displayTime": -1,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_growth_char_04",
+      "medalName": "“可靠的證明”",
+      "medalType": "growthMedal",
+      "slotId": 43,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "GotChars",
+      "unlockParam": [
+        "char_449_glider;char_4004_pudd"
+      ],
+      "getMethod": "擁有幹員蜜莓、布丁",
+      "description": "您耐心溫和的品質是這些幹員加入的原因之一。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_growth_potential_04",
+      "medalName": "“午後甜點”",
+      "medalType": "growthMedal",
+      "slotId": 44,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CharPotential",
+      "unlockParam": [
+        "char_449_glider;char_4004_pudd",
+        "5"
+      ],
+      "getMethod": "擁有幹員蜜莓、布丁，並提升潛能至滿級",
+      "description": "您獲得了電氣工程師和草藥醫生的認可。\n工作繁重的日子裡，午後的小憩可以放鬆身心哦。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_growth_char_05",
+      "medalName": "“勇敢的證明”",
+      "medalType": "growthMedal",
+      "slotId": 45,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "GotChars",
+      "unlockParam": [
+        "char_466_qanik;char_4063_quartz"
+      ],
+      "getMethod": "擁有幹員雪絨、石英",
+      "description": "您百折不撓的意志是這些幹員加入的原因之一。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_growth_potential_05",
+      "medalName": "“曠野回音”",
+      "medalType": "growthMedal",
+      "slotId": 46,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CharPotential",
+      "unlockParam": [
+        "char_466_qanik;char_4063_quartz",
+        "5"
+      ],
+      "getMethod": "擁有幹員雪絨、石英，並提升潛能至滿級",
+      "description": "您獲得了荒野傭兵和冰原救援者的認可。\n懼雷憤鳴，風雪怒嘯，鬥志不滅。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
       "expireTimes": [],
       "medalRewardGroup": []
     },
@@ -5446,6 +5647,286 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_story_glider_1",
+      "medalName": "“苦澀的根莖”",
+      "medalType": "storyMedal",
+      "slotId": 145,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_449_glider",
+        "story_glider_set_1"
+      ],
+      "getMethod": "解鎖幹員蜜莓的幹員密錄《苦澀的根莖》",
+      "description": "甜美的果實偶爾也會生長在苦澀的根莖之上。那是一種偶然，一種足夠幸運的偶然。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1691652600,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_windft_1",
+      "medalName": "“老工廠裡的一支舞”",
+      "medalType": "storyMedal",
+      "slotId": 146,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_433_windft",
+        "story_windft_set_1"
+      ],
+      "getMethod": "解鎖幹員掠風的幹員密錄《老工廠裡的一支舞》",
+      "description": "再疲累的人，也可以在這裡跳一支心愛的舞。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1691652600,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_rockr_1",
+      "medalName": "“六百鎊”",
+      "medalType": "storyMedal",
+      "slotId": 147,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_4040_rockr",
+        "story_rockr_set_1"
+      ],
+      "getMethod": "解鎖幹員洛洛的幹員密錄《六百鎊》",
+      "description": "直到何時，一個人的價值才可以不用錢來衡量？",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1691652600,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_totter_1",
+      "medalName": "“計劃”",
+      "medalType": "storyMedal",
+      "slotId": 148,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_4062_totter",
+        "story_totter_set_1"
+      ],
+      "getMethod": "解鎖幹員鉛踝的幹員密錄《計劃外的情況，我會自行判斷。》",
+      "description": "縱使有再萬全的計策，生活也無法被掌控。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1691652600,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_vigil_1",
+      "medalName": "“未來將至”",
+      "medalType": "storyMedal",
+      "slotId": 149,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_427_vigil",
+        "story_vigil_set_1"
+      ],
+      "getMethod": "解鎖幹員伺夜的幹員密錄《未來將至》",
+      "description": "至少此時此刻，他堅信自己是正確的。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_f12yin_2",
+      "medalName": "“赴罪”",
+      "medalType": "storyMedal",
+      "slotId": 150,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_264_f12yin",
+        "story_f12yin_set_2"
+      ],
+      "getMethod": "解鎖幹員山的幹員密錄《赴罪》",
+      "description": "此路必須獨行。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_wildmn_1",
+      "medalName": "“憧憬”",
+      "medalType": "storyMedal",
+      "slotId": 151,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_496_wildmn",
+        "story_wildmn_set_1"
+      ],
+      "getMethod": "解鎖幹員野鬃的幹員密錄《憧憬》",
+      "description": "應當去憧憬怎樣的自己？",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_elysm_1",
+      "medalName": "“漫長旅途”",
+      "medalType": "storyMedal",
+      "slotId": 152,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_401_elysm",
+        "story_elysm_set_1"
+      ],
+      "getMethod": "解鎖幹員極境的幹員密錄《漫長旅途》",
+      "description": "短暫的停歇稍稍緩解了疲倦，準備好，你的旅途還在繼續。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_meteo_1",
+      "medalName": "“一星螢火”",
+      "medalType": "storyMedal",
+      "slotId": 153,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_219_meteo",
+        "story_meteo_set_1"
+      ],
+      "getMethod": "解鎖幹員隕星的幹員密錄《一星螢火》",
+      "description": "那個難得悠閒寧靜的夜晚，最後會生出燦燦螢火。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_spot_1",
+      "medalName": "“誰是英雄”",
+      "medalType": "storyMedal",
+      "slotId": 154,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_284_spot",
+        "story_spot_set_1"
+      ],
+      "getMethod": "解鎖幹員斑點的幹員密錄《誰是英雄》",
+      "description": "一份歪歪扭扭的手寫“英雄證書”，卻能確確實實地證明某些東西。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1694503800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_astesi_1",
+      "medalName": "“啟明”",
+      "medalType": "storyMedal",
+      "slotId": 155,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_274_astesi",
+        "story_astesi_set_1"
+      ],
+      "getMethod": "解鎖幹員星極的幹員密錄《啟明》",
+      "description": "地上的人兒啊，願你如佈滿天際的星辰一般，閃閃發亮。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1693294200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_takila_1",
+      "medalName": "“尖刺的滋味”",
+      "medalType": "storyMedal",
+      "slotId": 156,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_486_takila",
+        "story_takila_set_1"
+      ],
+      "getMethod": "解鎖幹員龍舌蘭的幹員密錄《尖刺的滋味》",
+      "description": "既然願意手握尖刺，必定還沒有忘卻玫瑰的芬芳。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1693294200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_deepcl_1",
+      "medalName": "“幽藍懷想”",
+      "medalType": "storyMedal",
+      "slotId": 157,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_110_deepcl",
+        "story_deepcl_set_1"
+      ],
+      "getMethod": "解鎖幹員深海色的幹員密錄《幽藍懷想》",
+      "description": "出自深海，卻不必回歸深海。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1693294200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_robrta_1",
+      "medalName": "“輓歌”",
+      "medalType": "storyMedal",
+      "slotId": 158,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_484_robrta",
+        "story_robrta_set_1"
+      ],
+      "getMethod": "解鎖幹員羅比菈塔的幹員密錄《輓歌》",
+      "description": "輓歌歌頌生命的燭淚，生命的燭淚復為歌者而燃燒。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1693294200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_rogue_2_01",
       "medalName": "“滄海之藍”",
       "medalType": "rogueMedal",
@@ -6200,6 +6681,303 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_activity_21side_01",
+      "medalName": "“悼祭新生”",
+      "medalType": "activityMedal",
+      "slotId": 1,
+      "preMedalIdList": [
+        "medal_activity_21side_02",
+        "medal_activity_21side_03",
+        "medal_activity_21side_04",
+        "medal_activity_21side_05",
+        "medal_activity_21side_06",
+        "medal_activity_21side_07",
+        "medal_activity_21side_08",
+        "medal_activity_21side_09",
+        "medal_activity_21side_10",
+        "medal_activity_21side_11"
+      ],
+      "rarity": 4,
+      "template": null,
+      "unlockParam": [],
+      "getMethod": null,
+      "description": "您結束了在敘拉古的旅程。\n臨走之前，記得去拜訪幾座墳墓，獻上新開的鮮花。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_02",
+      "medalName": "“文藝復興”",
+      "medalType": "activityMedal",
+      "slotId": 2,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "ActivityLikeOperaComment",
+      "unlockParam": [
+        "10"
+      ],
+      "getMethod": "敘拉古人活動期間，在藝術評論中按讚10次",
+      "description": "您在歌舞劇之間流連忘返。\n虛假的快樂短暫，而真實的痛苦永恆。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_03",
+      "medalName": "“少狼嗥月”",
+      "medalType": "activityMedal",
+      "slotId": 3,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "GotCharsBeforeTime",
+      "unlockParam": [
+        "char_427_vigil",
+        "1696881599"
+      ],
+      "getMethod": "敘拉古人活動期間，獲得幹員伺夜",
+      "description": "您與貝洛內家族的繼承人相識，哦，是前貝洛內家族。\n青年的狼叼過父親的旗幟，將腐朽的秩序甩在身後，向著心中的月亮奔去。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_04",
+      "medalName": "家族採購專家獎章",
+      "medalType": "activityMedal",
+      "slotId": 4,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "ActivityCoinCost",
+      "unlockParam": [
+        "act21side",
+        "act21side_token_permesso",
+        "4000"
+      ],
+      "getMethod": "敘拉古人活動期間，在[食品安全部]中消耗4000進貨通行證",
+      "description": "您採購的物資填滿了家族的倉庫。\n新鮮的食材堆積成山，而那些最深處的貨物總有著非比尋常的保質期。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_05",
+      "medalName": "“祝你胃口好”",
+      "medalType": "activityMedal",
+      "slotId": 5,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "MissionCompleteSome",
+      "unlockParam": [
+        "21sideActivity_1;21sideActivity_2;21sideActivity_3;21sideActivity_4;21sideActivity_5;21sideActivity_6;21sideActivity_7;21sideActivity_8;21sideActivity_9;21sideActivity_10;21sideActivity_11;21sideActivity_12;21sideActivity_13;21sideActivity_14;21sideActivity_15;21sideActivity_16;21sideActivity_17;21sideActivity_18;21sideActivity_19;21sideActivity_20;21sideActivity_21;21sideActivity_22;21sideActivity_23;21sideActivity_24;21sideActivity_25;21sideActivity_26;21sideActivity_27;21sideActivity_28;21sideActivity_29;21sideActivity_30;21sideActivity_31",
+        "31"
+      ],
+      "getMethod": "完成[宴會功能表]中的全部內容，並領取獎勵",
+      "description": "您已品嘗過菜單上的所有佳餚。\n肉排切面的血絲給您留下了深刻的印象，不過總體而言味道還算不錯。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_06",
+      "medalName": "“痼疾手術”",
+      "medalType": "activityMedal",
+      "slotId": 6,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act21side_01;act21side_02;act21side_03;act21side_04;act21side_05;act21side_06;act21side_07;act21side_08;act21side_09;act21side_10",
+        "10"
+      ],
+      "getMethod": "以3星評價完成[連陰雨季]內的全部關卡（不包含教學關）",
+      "description": "您見證了敘拉古的變革。\n埋入血肉深處的舊刺被撬動，荊棘之路的終點未曾探明，但有人仍舊前行。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_07",
+      "medalName": "“雨止殘響”",
+      "medalType": "activityMedal",
+      "slotId": 7,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act21side_ex01;act21side_ex02;act21side_ex03;act21side_ex04;act21side_ex05;act21side_ex06;act21side_ex07;act21side_ex08",
+        "8"
+      ],
+      "getMethod": "以3星評價完成[銃與秩序]內的全部關卡",
+      "description": "您走到了這場雨的盡頭。\n陰沉的天空打開了一絲缺口，來自荒野的風停下腳步。路人抬頭仰望，習慣性地等待下一場雨的到來。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_08",
+      "medalName": "“佔領蠻荒”",
+      "medalType": "activityMedal",
+      "slotId": 8,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act21side_ex01#f#;act21side_ex02#f#;act21side_ex03#f#;act21side_ex04#f#;act21side_ex05#f#;act21side_ex06#f#;act21side_ex07#f#;act21side_ex08#f#",
+        "8"
+      ],
+      "getMethod": "完成[銃與秩序]中全部關卡的突襲模式",
+      "description": "您扼住了荒野主人的咽喉。\n遊戲的規則不容打破。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_09",
+      "medalName": "“終場謝幕”",
+      "medalType": "activityMedal",
+      "slotId": 9,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act21side_s01#f#;act21side_s02#f#;act21side_s03#f#;act21side_s04#f#;act21side_s05#f#",
+        "5"
+      ],
+      "getMethod": "完成[自詡荒野]中全部關卡的突襲模式",
+      "description": "您欣賞完了《敘拉古人》的最後一幕。\n熟悉的演員依次退場，厚重的幕布緩緩落下，而新的城市正準備迎接清晨的曙光。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_10",
+      "medalName": "家族精銳獎章",
+      "medalType": "activityMedal",
+      "slotId": 10,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "ActivityFinishCharCardTask",
+      "unlockParam": [
+        "7"
+      ],
+      "getMethod": "敘拉古人活動期間，完成7名角色的所有待辦事項",
+      "description": "您的名聲逐漸傳開，許多家族都聽說了您的事蹟。\n走夜路的時候，記得小心一點。",
+      "advancedMedal": "medal_activity_21side_105",
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_11",
+      "medalName": "地盤劃定獎章",
+      "medalType": "activityMedal",
+      "slotId": 11,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "ActivityUnlockSiracusaArea",
+      "unlockParam": [
+        "area_centro;area_rione;area_saluzzo;area_teatro;area_torre;area_comando;area_municipio;area_rossati;area_bellone",
+        "9"
+      ],
+      "getMethod": "敘拉古人活動期間，解鎖了沃爾西尼的全部區域",
+      "description": "您俯瞰著沃爾西尼的大街小巷。\n在下水道的邊緣，未被沖刷乾淨的細微血跡，也無法逃過您的眼睛。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_activity_1bossrush_01",
       "medalName": "可露希爾小獎章",
       "medalType": "activityMedal",
@@ -6516,6 +7294,284 @@
           "start": 1689624000,
           "end": -1,
           "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_01",
+      "medalName": "贗波蕩平獎章",
+      "medalType": "activityMedal",
+      "slotId": 24,
+      "preMedalIdList": [
+        "medal_activity_11rune_02",
+        "medal_activity_11rune_03",
+        "medal_activity_11rune_04",
+        "medal_activity_11rune_05",
+        "medal_activity_11rune_06",
+        "medal_activity_11rune_07",
+        "medal_activity_11rune_08",
+        "medal_activity_11rune_09",
+        "medal_activity_11rune_10"
+      ],
+      "rarity": 4,
+      "template": null,
+      "unlockParam": [],
+      "getMethod": null,
+      "description": "以金錢虛構的浪潮與溺亡的屍骸為印象鑄造的蝕刻章。\n從他們甘願沉溺的肺裡擠出的氣泡，是這簇浪花最後的聲音。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_02",
+      "medalName": "贗波合約獎章",
+      "medalType": "activityMedal",
+      "slotId": 25,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CrisisStageScoreSome",
+      "unlockParam": [
+        "rune_season_11_1",
+        "level_rune_13-01",
+        "1",
+        "8"
+      ],
+      "getMethod": "在贗波行動中，常駐行動地點達到S評價",
+      "description": "贗波行動中頒發給面對逆境之人的蝕刻章。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_03",
+      "medalName": "贗波合約獎章·II",
+      "medalType": "activityMedal",
+      "slotId": 26,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CrisisStageScoreSome",
+      "unlockParam": [
+        "rune_season_11_1",
+        "level_rune_13-01",
+        "1",
+        "16"
+      ],
+      "getMethod": "在贗波行動中，常駐行動地點達到SSS評價",
+      "description": "贗波行動中頒發給戰勝絕境之人的蝕刻章。\n您已克服了諸多挑戰。",
+      "advancedMedal": "medal_activity_11rune_035",
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_04",
+      "medalName": "贗波戰服獎章",
+      "medalType": "activityMedal",
+      "slotId": 27,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "GotItemBeforeTime",
+      "unlockParam": [
+        "1",
+        "char_366_acdrop@whirlwind#4",
+        "1697486399"
+      ],
+      "getMethod": "在贗波行動中，換取時裝“下午茶時光”",
+      "description": "贗波行動中隨時裝附送的蝕刻章。\n春風讓街景煥然一新。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_05",
+      "medalName": "贗波陣地獎章",
+      "medalType": "activityMedal",
+      "slotId": 28,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CrisisTempClearSome",
+      "unlockParam": [
+        "rune_season_11_1",
+        "rg1;rg2;rg3;rg4;rg5;rg6;rg7;rg8;rg9;rg10;rg11;rg12;rg13",
+        "10"
+      ],
+      "getMethod": "在贗波行動中，完成全部輪替挑戰任務（包括每日合約挑戰與每日危機等級達到8）並領取獎勵，累計10天",
+      "description": "贗波行動中頒發給堅守陣線之人的蝕刻章。\n您已具備了指揮高強度陣地戰的能力。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_06",
+      "medalName": "贗波響應獎章",
+      "medalType": "activityMedal",
+      "slotId": 29,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CrisisTaskSome",
+      "unlockParam": [
+        "rune_season_11_1",
+        "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
+        "1"
+      ],
+      "getMethod": "在贗波行動中，完成常駐行動地點的1個合約挑戰任務並領取獎勵",
+      "description": "贗波行動中頒發給隨機應變之人的蝕刻章。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_07",
+      "medalName": "贗波響應獎章·II",
+      "medalType": "activityMedal",
+      "slotId": 30,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CrisisTaskSome",
+      "unlockParam": [
+        "rune_season_11_1",
+        "normalTask_1;normalTask_2;normalTask_3;normalTask_4;normalTask_5;normalTask_6;normalTask_7;normalTask_8",
+        "8"
+      ],
+      "getMethod": "在贗波行動中，完成常駐行動地點的8個合約挑戰任務並領取獎勵",
+      "description": "贗波行動中頒發給當機立斷之人的蝕刻章。\n您已具備了響應多種緊急事態的實力。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_08",
+      "medalName": "贗波跋涉獎章",
+      "medalType": "activityMedal",
+      "slotId": 31,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CrisisUnlockPermRuneSome",
+      "unlockParam": [
+        "rune_season_11_1",
+        "char_hp_3;global_costrecovery_3;enemy_atk_3;enemy_hp_3;char_atk_3;enemy_hvyslr_amod_3;enemy_hvyslr_bmod_3",
+        "4"
+      ],
+      "getMethod": "在贗波行動中，常駐行動地點解鎖4個3級合約",
+      "description": "贗波行動中頒發給遍歷戰場之人的蝕刻章。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_09",
+      "medalName": "贗波演習獎章",
+      "medalType": "activityMedal",
+      "slotId": 32,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CrisisStageScoreSome",
+      "unlockParam": [
+        "rune_season_11_1",
+        "level_rune_10-01;level_rune_10-02;level_rune_11-01;level_rune_11-02;level_rune_12-01;level_rune_12-02;level_rune_13-02",
+        "1",
+        "8"
+      ],
+      "getMethod": "在贗波行動中，在任意一個輪換行動地點獲得S評價",
+      "description": "贗波行動中頒發給深思熟慮之人的蝕刻章。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_10",
+      "medalName": "贗波合作獎章",
+      "medalType": "activityMedal",
+      "slotId": 33,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CrisisUseAssist",
+      "unlockParam": [
+        "rune_season_11_1",
+        "5"
+      ],
+      "getMethod": "在贗波行動中，使用助戰並通關任意行動地點不小於5次",
+      "description": "贗波行動中頒發給互幫互助之人的蝕刻章。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
         }
       ],
       "medalRewardGroup": []
@@ -8824,7 +9880,7 @@
       "template": "GotCharsBeforeTime",
       "unlockParam": [
         "char_4013_kjera",
-        "1694462400"
+        "1694462399"
       ],
       "getMethod": "風雪過境活動期間，獲得幹員耶拉",
       "description": "您獲得了祂的青睞。\n神並不存在，但神又真實存在。當祂俯瞰自身守護的土地時，是會自豪，還是迷茫，誰也不知道。",
@@ -8854,11 +9910,11 @@
       "rarity": 0,
       "template": "ActivityCoinCost",
       "unlockParam": [
-        "act14side",
-        "act14side_token_stone",
-        "4000"
+        "act14sre",
+        "act14side_token_stone_rep_1",
+        "2400"
       ],
-      "getMethod": "風雪過境活動期間，在[圖里卡姆貿易區]中消耗4000耶拉岡德之石",
+      "getMethod": "風雪過境活動期間，在[圖裡卡姆貿易區]中消耗2400耶拉岡德之石",
       "description": "您成為了喀蘭貿易的貴賓。\n即使沒有與恩希歐迪斯的交情，您在謝拉格商場的大手筆也足以讓您踏入喀蘭貿易的貴賓室。您或許可以考慮在商業上擊敗恩希歐迪斯，這也是個不錯的選擇。",
       "advancedMedal": null,
       "originMedal": null,
@@ -8886,7 +9942,7 @@
       "rarity": 2,
       "template": "MissionCompleteSome",
       "unlockParam": [
-        "14sideActivity_1;14sideActivity_2;14sideActivity_3;14sideActivity_4;14sideActivity_5;14sideActivity_6;14sideActivity_7;14sideActivity_8;14sideActivity_9;14sideActivity_10;14sideActivity_11;14sideActivity_12;14sideActivity_13;14sideActivity_14;14sideActivity_15;14sideActivity_16;14sideActivity_17;14sideActivity_18;14sideActivity_19;14sideActivity_20;14sideActivity_21;14sideActivity_22;14sideActivity_23;14sideActivity_24",
+        "14sreActivity_1;14sreActivity_2;14sreActivity_3;14sreActivity_4;14sreActivity_5;14sreActivity_6;14sreActivity_7;14sreActivity_8;14sreActivity_9;14sreActivity_10;14sreActivity_11;14sreActivity_12;14sreActivity_13;14sreActivity_14;14sreActivity_15;14sreActivity_16;14sreActivity_17;14sreActivity_18;14sreActivity_19;14sreActivity_20;14sreActivity_21;14sreActivity_22;14sreActivity_23;14sreActivity_24",
         "24"
       ],
       "getMethod": "完成[謝拉格旅行指南]全部內容，並領取獎勵",
@@ -14756,6 +15812,33 @@
       "isHidden": true
     },
     {
+      "medalId": "medal_hidden_tower_04",
+      "medalName": "“斯沃瑪三分鐘濃湯”",
+      "medalType": "hiddenMedal",
+      "slotId": 7,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassTower",
+      "unlockParam": [
+        "tower_n_04",
+        "1"
+      ],
+      "getMethod": "委託方許諾，如果斯沃瑪食品加工平台保全工作沒有出現失誤，將會為羅德島準備特別的答謝晚宴。",
+      "description": "以委託方斯沃瑪食品在答謝宴上準備的菜點為印象製成的獎章。\n“大廚三小時，在家三分鐘！”斯沃瑪商務們如是吹噓著自家公司的商品。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1692129600,
+      "expireTimes": [
+        {
+          "start": -1,
+          "end": 1692129600,
+          "type": "INIT"
+        }
+      ],
+      "medalRewardGroup": [],
+      "isHidden": true
+    },
+    {
       "medalId": "medal_hidden_story_lolxh_1",
       "medalName": "“夜遊船”",
       "medalType": "hiddenMedal",
@@ -15636,6 +16719,59 @@
       "displayTime": -1,
       "expireTimes": [],
       "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_11rune_035",
+      "medalName": "贗波合約獎章·II",
+      "medalType": "activityMedal",
+      "slotId": 26,
+      "preMedalIdList": null,
+      "rarity": 3,
+      "template": "CrisisStageScoreBeforeTime",
+      "unlockParam": [
+        "rune_season_11_1",
+        "level_rune_13-01",
+        "18",
+        "1696881599"
+      ],
+      "getMethod": "在贗波行動中，常駐行動地點達到18危機等級，且在贗波行動開始一周內完成（2023.10.10 03:59:59前）",
+      "description": null,
+      "advancedMedal": null,
+      "originMedal": "medal_activity_11rune_03",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1697486400,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_21side_105",
+      "medalName": "家族精銳獎章",
+      "medalType": "activityMedal",
+      "slotId": 10,
+      "preMedalIdList": null,
+      "rarity": 3,
+      "template": "ActivityFinishCharCardTask",
+      "unlockParam": [
+        "10"
+      ],
+      "getMethod": "敘拉古人活動期間，完成10名角色的所有待辦事項",
+      "description": null,
+      "advancedMedal": null,
+      "originMedal": "medal_activity_21side_10",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1696881599,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
     }
   ],
   "medalTypeData": {
@@ -16439,6 +17575,61 @@
               "start": 1690401600,
               "end": -1,
               "type": "PERM"
+            }
+          ]
+        },
+        {
+          "groupId": "medalGroupActivityRune11",
+          "groupName": "贗波行動蝕刻章套組",
+          "groupDesc": "記錄贗波行動期間危機合約履行情況的蝕刻章套組。\n每一枚蝕刻章都見證了您在贗波行動中作出的貢獻。\n腫脹的魂靈向著水面伸出手去，於沉沒之前目睹了泡影的破滅。",
+          "medalId": [
+            "medal_activity_11rune_01",
+            "medal_activity_11rune_02",
+            "medal_activity_11rune_03",
+            "medal_activity_11rune_04",
+            "medal_activity_11rune_05",
+            "medal_activity_11rune_06",
+            "medal_activity_11rune_07",
+            "medal_activity_11rune_08",
+            "medal_activity_11rune_09",
+            "medal_activity_11rune_10"
+          ],
+          "sortId": 29,
+          "groupBackColor": "448092",
+          "groupGetTime": 1696320000,
+          "sharedExpireTimes": [
+            {
+              "start": 1697486400,
+              "end": -1,
+              "type": "PERM"
+            }
+          ]
+        },
+        {
+          "groupId": "medalGroupActivity21side",
+          "groupName": "敘拉古人蝕刻章套組",
+          "groupDesc": "記載著《敘拉古人》多幕劇本的蝕刻章套組。\n敘拉古的故事訴諸字句，敘拉古的人們走向明天。\n“可我，還有很多話沒來得及當面說給你聽。”",
+          "medalId": [
+            "medal_activity_21side_01",
+            "medal_activity_21side_02",
+            "medal_activity_21side_03",
+            "medal_activity_21side_04",
+            "medal_activity_21side_05",
+            "medal_activity_21side_06",
+            "medal_activity_21side_07",
+            "medal_activity_21side_08",
+            "medal_activity_21side_09",
+            "medal_activity_21side_10",
+            "medal_activity_21side_11"
+          ],
+          "sortId": 30,
+          "groupBackColor": "74868c",
+          "groupGetTime": 1694503800,
+          "sharedExpireTimes": [
+            {
+              "start": 1696881599,
+              "end": -1,
+              "type": "TEMP"
             }
           ]
         }
