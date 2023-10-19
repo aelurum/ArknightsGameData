@@ -44,7 +44,7 @@
 [name="臨光"]   猛烈衝擊，攪亂陣形，破壞火力點，迅速撤退。
 [name="臨光"]   ......杜賓，你在考驗我，還是在考驗——
 [Character(name="char_002_amiya_1#1", name2="char_130_doberm_ex", focus=2)]
-[name="杜賓"]  肉眼可見的威脅遠比進退兩難容易處理的多。
+[name="杜賓"]  肉眼可見的威脅遠比進退兩難容易處理得多。
 [name="杜賓"]  我可以把這看作是Dr.{@nickname}的命令嗎，阿米婭？
 [Character(name="char_002_amiya_1#1", name2="char_130_doberm_ex", focus=1)]
 [name="阿米婭"]  局勢很明瞭了。我相信博士的選擇......

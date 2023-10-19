@@ -282,7 +282,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="avg_npc_025_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="愛國者"]  你做的，夠好。你走，歸隊。
+[name="愛國者"]  你做得，夠好。你走，歸隊。
 [name="愛國者"]  至於，你們......
 [name="愛國者"]  是羅德島。
 [name="愛國者"]  現在的我，不管，你們身份。

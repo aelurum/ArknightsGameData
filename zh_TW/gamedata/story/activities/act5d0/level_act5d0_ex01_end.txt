@@ -193,7 +193,7 @@
 [Character(name="avg_npc_034#3")]
 [name="大帝"]   你讓莫斯提馬和整個龍門幫你當家教，臭老鼠又把我們當槍使，這價位你們付得起嗎？
 [Character(name="avg_npc_030",name2="avg_npc_034#3",focus=2)]
-[name="鼠王"]   當槍使？沒有的事，
+[name="鼠王"]   當槍使？沒有的事。
 [name="鼠王"]   我也沒料到那兩個敘拉古人那麼不開竅，本以為稍微敲打兩下，他們就會回心轉意——
 [Character(name="char_105_emper",name2="avg_npc_034#3",focus=1)]
 [name="大帝"]   放屁，你一眼就能把他們望到底。

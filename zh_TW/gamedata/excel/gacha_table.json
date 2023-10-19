@@ -145,7 +145,7 @@
   "gachaPoolClient": [
     {
       "gachaPoolId": "NORM_TC_0_1_1",
-      "gachaIndex": 144,
+      "gachaIndex": 149,
       "openTime": 1593388800,
       "endTime": 1594065599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -160,7 +160,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_0_1_2",
-      "gachaIndex": 143,
+      "gachaIndex": 148,
       "openTime": 1594065600,
       "endTime": 1595275199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -175,7 +175,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_0_1_3",
-      "gachaIndex": 142,
+      "gachaIndex": 147,
       "openTime": 1594281600,
       "endTime": 1595447999,
       "gachaPoolName": "銀灰色的榮耀",
@@ -190,7 +190,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_1_0_1",
-      "gachaIndex": 141,
+      "gachaIndex": 146,
       "openTime": 1595275200,
       "endTime": 1596484799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -205,7 +205,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_1_0_2",
-      "gachaIndex": 140,
+      "gachaIndex": 145,
       "openTime": 1595491200,
       "endTime": 1596657599,
       "gachaPoolName": "攪動潮汐之劍",
@@ -220,7 +220,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_2_0_1",
-      "gachaIndex": 139,
+      "gachaIndex": 144,
       "openTime": 1596484800,
       "endTime": 1597694399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -235,7 +235,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_2_0_2",
-      "gachaIndex": 138,
+      "gachaIndex": 143,
       "openTime": 1597303800,
       "endTime": 1598471999,
       "gachaPoolName": "鞘中赤紅",
@@ -250,7 +250,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_2_0_3",
-      "gachaIndex": 137,
+      "gachaIndex": 142,
       "openTime": 1597694400,
       "endTime": 1598903999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -265,7 +265,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_2_0_4",
-      "gachaIndex": 136,
+      "gachaIndex": 141,
       "openTime": 1598515200,
       "endTime": 1599681599,
       "gachaPoolName": "龍門特別行動專員尋訪",
@@ -280,7 +280,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_2_0_5",
-      "gachaIndex": 135,
+      "gachaIndex": 140,
       "openTime": 1598904000,
       "endTime": 1600113599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -295,7 +295,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_0_1",
-      "gachaIndex": 134,
+      "gachaIndex": 139,
       "openTime": 1599717600,
       "endTime": 1600891199,
       "gachaPoolName": "冰封原野",
@@ -310,7 +310,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_0_2",
-      "gachaIndex": 133,
+      "gachaIndex": 138,
       "openTime": 1600113600,
       "endTime": 1601323199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -325,7 +325,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_0_3",
-      "gachaIndex": 132,
+      "gachaIndex": 137,
       "openTime": 1601323200,
       "endTime": 1602532799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -340,7 +340,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_0_1",
-      "gachaIndex": 131,
+      "gachaIndex": 136,
       "openTime": 1601452800,
       "endTime": 1602619199,
       "gachaPoolName": "久鑄塵鐵",
@@ -355,7 +355,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_0_2",
-      "gachaIndex": 130,
+      "gachaIndex": 135,
       "openTime": 1602532800,
       "endTime": 1603742399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -370,7 +370,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_0_3",
-      "gachaIndex": 129,
+      "gachaIndex": 134,
       "openTime": 1602662400,
       "endTime": 1603828799,
       "gachaPoolName": "深夏的守夜人",
@@ -385,7 +385,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_0_4",
-      "gachaIndex": 128,
+      "gachaIndex": 133,
       "openTime": 1603742400,
       "endTime": 1604951999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -400,7 +400,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_0_5",
-      "gachaIndex": 127,
+      "gachaIndex": 132,
       "openTime": 1603958400,
       "endTime": 1605124799,
       "gachaPoolName": "火舞之人",
@@ -415,7 +415,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_0_6",
-      "gachaIndex": 126,
+      "gachaIndex": 131,
       "openTime": 1604952000,
       "endTime": 1606161599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -430,7 +430,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_0_1",
-      "gachaIndex": 125,
+      "gachaIndex": 130,
       "openTime": 1605765600,
       "endTime": 1606939199,
       "gachaPoolName": "鎖與匙的守衛者",
@@ -445,7 +445,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_0_2",
-      "gachaIndex": 124,
+      "gachaIndex": 129,
       "openTime": 1606161600,
       "endTime": 1607371199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -460,7 +460,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_0_3",
-      "gachaIndex": 123,
+      "gachaIndex": 128,
       "openTime": 1606980600,
       "endTime": 1608148799,
       "gachaPoolName": "聯合行動",
@@ -475,7 +475,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_0_4",
-      "gachaIndex": 122,
+      "gachaIndex": 127,
       "openTime": 1607371200,
       "endTime": 1608580799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -490,7 +490,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_0_5",
-      "gachaIndex": 121,
+      "gachaIndex": 126,
       "openTime": 1608580800,
       "endTime": 1609790399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -505,7 +505,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_0_1",
-      "gachaIndex": 120,
+      "gachaIndex": 125,
       "openTime": 1608795000,
       "endTime": 1609963199,
       "gachaPoolName": "熱情，膨脹，爆發！",
@@ -520,7 +520,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_0_2",
-      "gachaIndex": 119,
+      "gachaIndex": 124,
       "openTime": 1609790400,
       "endTime": 1610999999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -535,7 +535,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_0_3",
-      "gachaIndex": 118,
+      "gachaIndex": 123,
       "openTime": 1610006400,
       "endTime": 1611172799,
       "gachaPoolName": "凝電之鑽",
@@ -550,7 +550,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_0_4",
-      "gachaIndex": 117,
+      "gachaIndex": 122,
       "openTime": 1611000000,
       "endTime": 1612209599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -565,7 +565,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_0_1",
-      "gachaIndex": 116,
+      "gachaIndex": 121,
       "openTime": 1611214200,
       "endTime": 1612382399,
       "gachaPoolName": "百種兵器",
@@ -580,7 +580,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_0_2",
-      "gachaIndex": 115,
+      "gachaIndex": 120,
       "openTime": 1612209600,
       "endTime": 1613419199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -595,7 +595,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_0_3",
-      "gachaIndex": 114,
+      "gachaIndex": 119,
       "openTime": 1612423800,
       "endTime": 1613591999,
       "gachaPoolName": "地生五金",
@@ -610,7 +610,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_0_4",
-      "gachaIndex": 113,
+      "gachaIndex": 118,
       "openTime": 1613419200,
       "endTime": 1614628799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -625,7 +625,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_0_1",
-      "gachaIndex": 112,
+      "gachaIndex": 117,
       "openTime": 1614628800,
       "endTime": 1615838399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -640,7 +640,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_0_2",
-      "gachaIndex": 111,
+      "gachaIndex": 116,
       "openTime": 1614843000,
       "endTime": 1616011199,
       "gachaPoolName": "草垛上的風笛聲",
@@ -655,7 +655,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_0_3",
-      "gachaIndex": 110,
+      "gachaIndex": 115,
       "openTime": 1615838400,
       "endTime": 1617047999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -670,7 +670,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_1_1",
-      "gachaIndex": 109,
+      "gachaIndex": 114,
       "openTime": 1616047200,
       "endTime": 1617220799,
       "gachaPoolName": "雪落晨心",
@@ -685,7 +685,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_1_2",
-      "gachaIndex": 108,
+      "gachaIndex": 113,
       "openTime": 1617048000,
       "endTime": 1618257599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -700,7 +700,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_2_1",
-      "gachaIndex": 107,
+      "gachaIndex": 112,
       "openTime": 1617262200,
       "endTime": 1618430399,
       "gachaPoolName": "君影輕靈",
@@ -715,7 +715,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_2_2",
-      "gachaIndex": 106,
+      "gachaIndex": 111,
       "openTime": 1618257600,
       "endTime": 1619467199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -730,7 +730,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_3_1",
-      "gachaIndex": 105,
+      "gachaIndex": 110,
       "openTime": 1618471800,
       "endTime": 1619639999,
       "gachaPoolName": "霧漫荒林",
@@ -745,7 +745,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_3_3_2",
-      "gachaIndex": 104,
+      "gachaIndex": 109,
       "openTime": 1619467200,
       "endTime": 1620676799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -760,7 +760,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_1_1",
-      "gachaIndex": 103,
+      "gachaIndex": 108,
       "openTime": 1619676000,
       "endTime": 1620849599,
       "gachaPoolName": "攪動潮汐之劍",
@@ -775,7 +775,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_1_2",
-      "gachaIndex": 102,
+      "gachaIndex": 107,
       "openTime": 1619676000,
       "endTime": 1620849599,
       "gachaPoolName": "流沙渦旋",
@@ -790,7 +790,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_1_3",
-      "gachaIndex": 101,
+      "gachaIndex": 106,
       "openTime": 1620676800,
       "endTime": 1621886399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -805,7 +805,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_2_1",
-      "gachaIndex": 100,
+      "gachaIndex": 105,
       "openTime": 1620891000,
       "endTime": 1622059199,
       "gachaPoolName": "往日幻象",
@@ -820,7 +820,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_2_2",
-      "gachaIndex": 99,
+      "gachaIndex": 104,
       "openTime": 1621886400,
       "endTime": 1623095999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -835,7 +835,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_4_3_2",
-      "gachaIndex": 98,
+      "gachaIndex": 103,
       "openTime": 1623096000,
       "endTime": 1624305599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -850,7 +850,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_1_1",
-      "gachaIndex": 97,
+      "gachaIndex": 102,
       "openTime": 1623304800,
       "endTime": 1625083199,
       "gachaPoolName": "不羈逆流",
@@ -865,7 +865,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_1_2",
-      "gachaIndex": 96,
+      "gachaIndex": 101,
       "openTime": 1624305600,
       "endTime": 1625515199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -880,7 +880,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_2_1",
-      "gachaIndex": 95,
+      "gachaIndex": 100,
       "openTime": 1624519800,
       "endTime": 1626292799,
       "gachaPoolName": "燃鋼之心·暴躁鐵皮",
@@ -895,7 +895,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_2_2",
-      "gachaIndex": 94,
+      "gachaIndex": 99,
       "openTime": 1625515200,
       "endTime": 1626724799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -910,7 +910,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_3_1",
-      "gachaIndex": 93,
+      "gachaIndex": 98,
       "openTime": 1626334200,
       "endTime": 1627502399,
       "gachaPoolName": "聯合行動",
@@ -925,7 +925,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_5_3_2",
-      "gachaIndex": 92,
+      "gachaIndex": 97,
       "openTime": 1626724800,
       "endTime": 1627934399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -940,7 +940,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_1_1",
-      "gachaIndex": 91,
+      "gachaIndex": 96,
       "openTime": 1627538400,
       "endTime": 1628711999,
       "gachaPoolName": "無拘熔火",
@@ -955,7 +955,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_1_2",
-      "gachaIndex": 90,
+      "gachaIndex": 95,
       "openTime": 1627934400,
       "endTime": 1629143999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -970,7 +970,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_2_1",
-      "gachaIndex": 89,
+      "gachaIndex": 94,
       "openTime": 1628753400,
       "endTime": 1629921599,
       "gachaPoolName": "瑕光微明",
@@ -985,7 +985,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_6_2_2",
-      "gachaIndex": 88,
+      "gachaIndex": 93,
       "openTime": 1629144000,
       "endTime": 1630353599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1000,7 +1000,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_1_2",
-      "gachaIndex": 87,
+      "gachaIndex": 92,
       "openTime": 1630353600,
       "endTime": 1631563199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1015,7 +1015,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_2_2",
-      "gachaIndex": 86,
+      "gachaIndex": 91,
       "openTime": 1631563200,
       "endTime": 1632772799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1030,7 +1030,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_3_1",
-      "gachaIndex": 85,
+      "gachaIndex": 90,
       "openTime": 1632382200,
       "endTime": 1633550399,
       "gachaPoolName": "聯合行動",
@@ -1045,7 +1045,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_3_2",
-      "gachaIndex": 84,
+      "gachaIndex": 89,
       "openTime": 1632772800,
       "endTime": 1633982399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1060,7 +1060,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_7_3_3",
-      "gachaIndex": 83,
+      "gachaIndex": 88,
       "openTime": 1633982400,
       "endTime": 1635191999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1075,7 +1075,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_1_1",
-      "gachaIndex": 82,
+      "gachaIndex": 87,
       "openTime": 1634191200,
       "endTime": 1635364799,
       "gachaPoolName": "鎖與匙的守衛者",
@@ -1090,7 +1090,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_1_2",
-      "gachaIndex": 81,
+      "gachaIndex": 86,
       "openTime": 1635192000,
       "endTime": 1636401599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1105,7 +1105,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_2_1",
-      "gachaIndex": 80,
+      "gachaIndex": 85,
       "openTime": 1635406200,
       "endTime": 1636574399,
       "gachaPoolName": "自由的囚徒",
@@ -1120,7 +1120,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_2_2",
-      "gachaIndex": 79,
+      "gachaIndex": 84,
       "openTime": 1636401600,
       "endTime": 1637611199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1135,7 +1135,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_3_1",
-      "gachaIndex": 78,
+      "gachaIndex": 83,
       "openTime": 1636615800,
       "endTime": 1637783999,
       "gachaPoolName": "麥穗與讚美詩",
@@ -1150,7 +1150,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_8_3_2",
-      "gachaIndex": 77,
+      "gachaIndex": 82,
       "openTime": 1637611200,
       "endTime": 1638820799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1165,7 +1165,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_9_1_2",
-      "gachaIndex": 76,
+      "gachaIndex": 81,
       "openTime": 1638820800,
       "endTime": 1640030399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1180,7 +1180,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_9_2_1",
-      "gachaIndex": 75,
+      "gachaIndex": 80,
       "openTime": 1639035000,
       "endTime": 1640203199,
       "gachaPoolName": "往日幻象",
@@ -1195,7 +1195,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_9_2_2",
-      "gachaIndex": 74,
+      "gachaIndex": 79,
       "openTime": 1640030400,
       "endTime": 1641239999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1210,7 +1210,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_9_3_2",
-      "gachaIndex": 73,
+      "gachaIndex": 78,
       "openTime": 1641240000,
       "endTime": 1642449599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1225,7 +1225,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_10_1_1",
-      "gachaIndex": 72,
+      "gachaIndex": 77,
       "openTime": 1641880800,
       "endTime": 1643054399,
       "gachaPoolName": "沙海過客",
@@ -1240,7 +1240,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_10_1_2",
-      "gachaIndex": 71,
+      "gachaIndex": 76,
       "openTime": 1642449600,
       "endTime": 1643659199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1255,7 +1255,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_10_2_2",
-      "gachaIndex": 70,
+      "gachaIndex": 75,
       "openTime": 1643659200,
       "endTime": 1644868799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1270,7 +1270,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_10_2_3",
-      "gachaIndex": 69,
+      "gachaIndex": 74,
       "openTime": 1644868800,
       "endTime": 1646078399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1285,7 +1285,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_10_3_1",
-      "gachaIndex": 68,
+      "gachaIndex": 73,
       "openTime": 1644910200,
       "endTime": 1646078399,
       "gachaPoolName": "聯合行動",
@@ -1300,7 +1300,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_10_3_2",
-      "gachaIndex": 67,
+      "gachaIndex": 72,
       "openTime": 1646078400,
       "endTime": 1647287999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1315,7 +1315,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_11_1_1",
-      "gachaIndex": 66,
+      "gachaIndex": 71,
       "openTime": 1646719200,
       "endTime": 1647892799,
       "gachaPoolName": "革新交響曲",
@@ -1330,7 +1330,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_11_1_2",
-      "gachaIndex": 65,
+      "gachaIndex": 70,
       "openTime": 1647288000,
       "endTime": 1648497599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1345,7 +1345,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_11_2_1",
-      "gachaIndex": 64,
+      "gachaIndex": 69,
       "openTime": 1647934200,
       "endTime": 1649102399,
       "gachaPoolName": "君影輕靈",
@@ -1360,7 +1360,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_11_2_2",
-      "gachaIndex": 63,
+      "gachaIndex": 68,
       "openTime": 1648497600,
       "endTime": 1649707199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1375,7 +1375,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_11_3_1",
-      "gachaIndex": 62,
+      "gachaIndex": 67,
       "openTime": 1649230200,
       "endTime": 1650398399,
       "gachaPoolName": "從星火中來",
@@ -1390,7 +1390,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_11_3_2",
-      "gachaIndex": 61,
+      "gachaIndex": 66,
       "openTime": 1649707200,
       "endTime": 1650916799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1405,7 +1405,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_11_3_3",
-      "gachaIndex": 60,
+      "gachaIndex": 65,
       "openTime": 1650916800,
       "endTime": 1652126399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1420,7 +1420,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_12_1_1",
-      "gachaIndex": 59,
+      "gachaIndex": 64,
       "openTime": 1650952800,
       "endTime": 1652126399,
       "gachaPoolName": "燃鋼之心·暴躁鐵皮",
@@ -1435,7 +1435,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_12_1_2",
-      "gachaIndex": 58,
+      "gachaIndex": 63,
       "openTime": 1652126400,
       "endTime": 1653335999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1450,7 +1450,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_12_2_2",
-      "gachaIndex": 57,
+      "gachaIndex": 62,
       "openTime": 1653336000,
       "endTime": 1654545599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1465,7 +1465,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_12_3_1",
-      "gachaIndex": 56,
+      "gachaIndex": 61,
       "openTime": 1654068600,
       "endTime": 1655236799,
       "gachaPoolName": "不羈逆流",
@@ -1480,7 +1480,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_12_3_2",
-      "gachaIndex": 55,
+      "gachaIndex": 60,
       "openTime": 1654545600,
       "endTime": 1655755199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1495,7 +1495,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_12_3_3",
-      "gachaIndex": 54,
+      "gachaIndex": 59,
       "openTime": 1655755200,
       "endTime": 1656964799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1510,7 +1510,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_13_1_1",
-      "gachaIndex": 53,
+      "gachaIndex": 58,
       "openTime": 1655791200,
       "endTime": 1656964799,
       "gachaPoolName": "小丘上的眠柳",
@@ -1525,7 +1525,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_13_1_2",
-      "gachaIndex": 52,
+      "gachaIndex": 57,
       "openTime": 1656964800,
       "endTime": 1658174399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1540,7 +1540,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_13_2_1",
-      "gachaIndex": 51,
+      "gachaIndex": 56,
       "openTime": 1657092600,
       "endTime": 1658260799,
       "gachaPoolName": "瑕光微明",
@@ -1555,7 +1555,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_13_2_2",
-      "gachaIndex": 50,
+      "gachaIndex": 55,
       "openTime": 1658174400,
       "endTime": 1659383999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1570,7 +1570,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_13_3_1",
-      "gachaIndex": 49,
+      "gachaIndex": 54,
       "openTime": 1658302200,
       "endTime": 1659470399,
       "gachaPoolName": "漂泊於風",
@@ -1585,7 +1585,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_13_3_2",
-      "gachaIndex": 48,
+      "gachaIndex": 53,
       "openTime": 1659384000,
       "endTime": 1660593599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1600,7 +1600,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_14_1_2",
-      "gachaIndex": 47,
+      "gachaIndex": 52,
       "openTime": 1660593600,
       "endTime": 1661803199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1615,7 +1615,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_14_1_3",
-      "gachaIndex": 46,
+      "gachaIndex": 51,
       "openTime": 1661803200,
       "endTime": 1663012799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1630,7 +1630,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_14_2_1",
-      "gachaIndex": 45,
+      "gachaIndex": 50,
       "openTime": 1661844600,
       "endTime": 1663012799,
       "gachaPoolName": "聯合行動",
@@ -1645,7 +1645,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_14_2_2",
-      "gachaIndex": 44,
+      "gachaIndex": 49,
       "openTime": 1663012800,
       "endTime": 1664222399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1660,7 +1660,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_14_3_1",
-      "gachaIndex": 43,
+      "gachaIndex": 48,
       "openTime": 1663140600,
       "endTime": 1664308799,
       "gachaPoolName": "自由的囚徒",
@@ -1675,7 +1675,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_14_3_2",
-      "gachaIndex": 42,
+      "gachaIndex": 47,
       "openTime": 1664222400,
       "endTime": 1665431999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1690,7 +1690,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_15_1_1",
-      "gachaIndex": 41,
+      "gachaIndex": 46,
       "openTime": 1664431200,
       "endTime": 1665604799,
       "gachaPoolName": "雪融之諾",
@@ -1705,7 +1705,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_15_1_2",
-      "gachaIndex": 40,
+      "gachaIndex": 45,
       "openTime": 1665432000,
       "endTime": 1666641599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1720,7 +1720,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_15_2_2",
-      "gachaIndex": 39,
+      "gachaIndex": 44,
       "openTime": 1666641600,
       "endTime": 1667851199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1735,7 +1735,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_15_3_2",
-      "gachaIndex": 38,
+      "gachaIndex": 43,
       "openTime": 1667851200,
       "endTime": 1669060799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1750,7 +1750,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_1_1",
-      "gachaIndex": 37,
+      "gachaIndex": 42,
       "openTime": 1668664800,
       "endTime": 1669838399,
       "gachaPoolName": "火花綻放",
@@ -1765,7 +1765,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_1_2",
-      "gachaIndex": 36,
+      "gachaIndex": 41,
       "openTime": 1669060800,
       "endTime": 1670270399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1780,7 +1780,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_2_1",
-      "gachaIndex": 35,
+      "gachaIndex": 40,
       "openTime": 1670270400,
       "endTime": 1671479999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1795,7 +1795,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_3_1",
-      "gachaIndex": 34,
+      "gachaIndex": 39,
       "openTime": 1671089400,
       "endTime": 1672257599,
       "gachaPoolName": "沙海過客",
@@ -1810,7 +1810,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_3_2",
-      "gachaIndex": 33,
+      "gachaIndex": 38,
       "openTime": 1671480000,
       "endTime": 1672689599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1825,7 +1825,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_4_1",
-      "gachaIndex": 32,
+      "gachaIndex": 37,
       "openTime": 1672299000,
       "endTime": 1673467199,
       "gachaPoolName": "熾焰無霾",
@@ -1840,7 +1840,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_4_2",
-      "gachaIndex": 31,
+      "gachaIndex": 36,
       "openTime": 1672689600,
       "endTime": 1673899199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1855,7 +1855,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_16_4_3",
-      "gachaIndex": 30,
+      "gachaIndex": 35,
       "openTime": 1673899200,
       "endTime": 1675108799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1870,7 +1870,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_17_1_1",
-      "gachaIndex": 29,
+      "gachaIndex": 34,
       "openTime": 1673935200,
       "endTime": 1675108799,
       "gachaPoolName": "奔崖怒號",
@@ -1885,7 +1885,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_17_1_2",
-      "gachaIndex": 28,
+      "gachaIndex": 33,
       "openTime": 1675108800,
       "endTime": 1676318399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1900,7 +1900,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_17_2_2",
-      "gachaIndex": 27,
+      "gachaIndex": 32,
       "openTime": 1676318400,
       "endTime": 1677527999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1915,7 +1915,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_17_3_1",
-      "gachaIndex": 26,
+      "gachaIndex": 31,
       "openTime": 1677528000,
       "endTime": 1678737599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1930,7 +1930,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_17_4_1",
-      "gachaIndex": 25,
+      "gachaIndex": 30,
       "openTime": 1678347000,
       "endTime": 1679515199,
       "gachaPoolName": "聯合行動",
@@ -1945,7 +1945,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_17_4_2",
-      "gachaIndex": 24,
+      "gachaIndex": 29,
       "openTime": 1678737600,
       "endTime": 1679947199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1960,7 +1960,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_17_4_3",
-      "gachaIndex": 23,
+      "gachaIndex": 28,
       "openTime": 1679947200,
       "endTime": 1681156799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -1975,7 +1975,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_18_1_1",
-      "gachaIndex": 22,
+      "gachaIndex": 27,
       "openTime": 1679983200,
       "endTime": 1681156799,
       "gachaPoolName": "不協和音程",
@@ -1990,7 +1990,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_18_1_2",
-      "gachaIndex": 21,
+      "gachaIndex": 26,
       "openTime": 1681156800,
       "endTime": 1682366399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2005,7 +2005,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_18_2_1",
-      "gachaIndex": 20,
+      "gachaIndex": 25,
       "openTime": 1681371000,
       "endTime": 1682539199,
       "gachaPoolName": "沙洲引路人",
@@ -2020,7 +2020,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_18_2_2",
-      "gachaIndex": 19,
+      "gachaIndex": 24,
       "openTime": 1682366400,
       "endTime": 1683575999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2035,7 +2035,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_18_4_1",
-      "gachaIndex": 18,
+      "gachaIndex": 23,
       "openTime": 1683576000,
       "endTime": 1684785599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2050,7 +2050,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_19_1_1",
-      "gachaIndex": 17,
+      "gachaIndex": 22,
       "openTime": 1684216800,
       "endTime": 1685390399,
       "gachaPoolName": "未曾起誓",
@@ -2065,7 +2065,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_19_1_2",
-      "gachaIndex": 16,
+      "gachaIndex": 21,
       "openTime": 1684785600,
       "endTime": 1685995199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2080,7 +2080,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_19_2_1",
-      "gachaIndex": 15,
+      "gachaIndex": 20,
       "openTime": 1685995200,
       "endTime": 1687204799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2095,7 +2095,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_19_3_1",
-      "gachaIndex": 14,
+      "gachaIndex": 19,
       "openTime": 1687204800,
       "endTime": 1688414399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2110,7 +2110,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_19_4_2",
-      "gachaIndex": 13,
+      "gachaIndex": 18,
       "openTime": 1688414400,
       "endTime": 1689623999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2125,7 +2125,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_19_5_1",
-      "gachaIndex": 12,
+      "gachaIndex": 17,
       "openTime": 1689233400,
       "endTime": 1690401599,
       "gachaPoolName": "聯合行動",
@@ -2140,7 +2140,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_19_5_2",
-      "gachaIndex": 11,
+      "gachaIndex": 16,
       "openTime": 1689624000,
       "endTime": 1690833599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2155,7 +2155,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_1_1",
-      "gachaIndex": 4,
+      "gachaIndex": 15,
       "openTime": 1690437600,
       "endTime": 1691611199,
       "gachaPoolName": "前路迴響",
@@ -2170,7 +2170,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_1_2",
-      "gachaIndex": 10,
+      "gachaIndex": 14,
       "openTime": 1690833600,
       "endTime": 1692043199,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2185,7 +2185,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_2_1",
-      "gachaIndex": 3,
+      "gachaIndex": 13,
       "openTime": 1691652600,
       "endTime": 1692820799,
       "gachaPoolName": "軸承與火星",
@@ -2200,7 +2200,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_2_2",
-      "gachaIndex": 9,
+      "gachaIndex": 12,
       "openTime": 1692043200,
       "endTime": 1693252799,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2215,7 +2215,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_2_3",
-      "gachaIndex": 8,
+      "gachaIndex": 11,
       "openTime": 1693252800,
       "endTime": 1694462399,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2230,7 +2230,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_3_1",
-      "gachaIndex": 2,
+      "gachaIndex": 10,
       "openTime": 1693294200,
       "endTime": 1694462399,
       "gachaPoolName": "雪融之諾",
@@ -2245,7 +2245,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_3_2",
-      "gachaIndex": 7,
+      "gachaIndex": 9,
       "openTime": 1694462400,
       "endTime": 1695671999,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2260,7 +2260,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_4_2",
-      "gachaIndex": 6,
+      "gachaIndex": 8,
       "openTime": 1695672000,
       "endTime": 1696881599,
       "gachaPoolName": "適合多種場合的強力幹員",
@@ -2275,7 +2275,7 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_4_3",
-      "gachaIndex": 1,
+      "gachaIndex": 7,
       "openTime": 1696320000,
       "endTime": 1697486399,
       "gachaPoolName": "聯合行動",
@@ -2290,11 +2290,41 @@
     },
     {
       "gachaPoolId": "NORM_TC_20_4_4",
-      "gachaIndex": 5,
+      "gachaIndex": 6,
       "openTime": 1696881600,
       "endTime": 1698091199,
       "gachaPoolName": "適合多種場合的強力幹員",
       "gachaPoolSummary": "結束於10月24日 03:59",
+      "gachaPoolDetail": "-",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "NORMAL"
+    },
+    {
+      "gachaPoolId": "NORM_TC_21_1_1",
+      "gachaIndex": 1,
+      "openTime": 1697695200,
+      "endTime": 1698868799,
+      "gachaPoolName": "枯焰生花",
+      "gachaPoolSummary": "結束於11月02日 03:59",
+      "gachaPoolDetail": "-",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "NORMAL"
+    },
+    {
+      "gachaPoolId": "NORM_TC_21_1_2",
+      "gachaIndex": 5,
+      "openTime": 1698091200,
+      "endTime": 1699300799,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於11月07日 03:59",
       "gachaPoolDetail": "-",
       "guarantee5Avail": 1,
       "guarantee5Count": 10,
@@ -3112,1102 +3142,1116 @@
     },
     {
       "poolId": "NORM_TC_0_1_1",
-      "index": 157,
+      "index": 163,
       "startTime": 1593388800,
       "endTime": 1594065599,
       "spriteId": "picNorm_tc_0_1_1"
     },
     {
       "poolId": "NORM_TC_0_1_2",
-      "index": 156,
+      "index": 162,
       "startTime": 1594065600,
       "endTime": 1595275199,
       "spriteId": "picNorm_tc_0_1_2"
     },
     {
       "poolId": "NORM_TC_0_1_3",
-      "index": 155,
+      "index": 161,
       "startTime": 1594281600,
       "endTime": 1595447999,
       "spriteId": "picNorm_tc_0_1_3"
     },
     {
       "poolId": "NORM_TC_1_0_1",
-      "index": 154,
+      "index": 160,
       "startTime": 1595275200,
       "endTime": 1596484799,
       "spriteId": "picNorm_tc_1_0_1"
     },
     {
       "poolId": "NORM_TC_1_0_2",
-      "index": 153,
+      "index": 159,
       "startTime": 1595491200,
       "endTime": 1596657599,
       "spriteId": "picNorm_tc_1_0_2"
     },
     {
       "poolId": "NORM_TC_2_0_1",
-      "index": 152,
+      "index": 158,
       "startTime": 1596484800,
       "endTime": 1597694399,
       "spriteId": "picNorm_tc_2_0_1"
     },
     {
       "poolId": "NORM_TC_2_0_2",
-      "index": 151,
+      "index": 157,
       "startTime": 1597303800,
       "endTime": 1598471999,
       "spriteId": "picNorm_tc_2_0_2"
     },
     {
       "poolId": "NORM_TC_2_0_3",
-      "index": 150,
+      "index": 156,
       "startTime": 1597694400,
       "endTime": 1598903999,
       "spriteId": "picNorm_tc_2_0_3"
     },
     {
       "poolId": "NORM_TC_2_0_4",
-      "index": 149,
+      "index": 155,
       "startTime": 1598515200,
       "endTime": 1599681599,
       "spriteId": "picNorm_tc_2_0_4"
     },
     {
       "poolId": "NORM_TC_2_0_5",
-      "index": 148,
+      "index": 154,
       "startTime": 1598904000,
       "endTime": 1600113599,
       "spriteId": "picNorm_tc_2_0_5"
     },
     {
       "poolId": "NORM_TC_3_0_1",
-      "index": 147,
+      "index": 153,
       "startTime": 1599717600,
       "endTime": 1600891199,
       "spriteId": "picNorm_tc_3_0_1"
     },
     {
       "poolId": "NORM_TC_3_0_2",
-      "index": 146,
+      "index": 152,
       "startTime": 1600113600,
       "endTime": 1601323199,
       "spriteId": "picNorm_tc_3_0_2"
     },
     {
       "poolId": "NORM_TC_3_0_3",
-      "index": 145,
+      "index": 151,
       "startTime": 1601323200,
       "endTime": 1602532799,
       "spriteId": "picNorm_tc_3_0_3"
     },
     {
       "poolId": "NORM_TC_4_0_1",
-      "index": 144,
+      "index": 150,
       "startTime": 1601452800,
       "endTime": 1602619199,
       "spriteId": "picNorm_tc_4_0_1"
     },
     {
       "poolId": "NORM_TC_4_0_2",
-      "index": 143,
+      "index": 149,
       "startTime": 1602532800,
       "endTime": 1603742399,
       "spriteId": "picNorm_tc_4_0_2"
     },
     {
       "poolId": "NORM_TC_4_0_3",
-      "index": 142,
+      "index": 148,
       "startTime": 1602662400,
       "endTime": 1603828799,
       "spriteId": "picNorm_tc_4_0_3"
     },
     {
       "poolId": "NORM_TC_4_0_4",
-      "index": 141,
+      "index": 147,
       "startTime": 1603742400,
       "endTime": 1604951999,
       "spriteId": "picNorm_tc_4_0_4"
     },
     {
       "poolId": "NORM_TC_4_0_5",
-      "index": 140,
+      "index": 146,
       "startTime": 1603958400,
       "endTime": 1605124799,
       "spriteId": "picNorm_tc_4_0_5"
     },
     {
       "poolId": "NORM_TC_4_0_6",
-      "index": 139,
+      "index": 145,
       "startTime": 1604952000,
       "endTime": 1606161599,
       "spriteId": "picNorm_tc_4_0_6"
     },
     {
       "poolId": "NORM_TC_5_0_1",
-      "index": 138,
+      "index": 144,
       "startTime": 1605765600,
       "endTime": 1606939199,
       "spriteId": "picNorm_tc_5_0_1"
     },
     {
       "poolId": "NORM_TC_5_0_2",
-      "index": 137,
+      "index": 143,
       "startTime": 1606161600,
       "endTime": 1607371199,
       "spriteId": "picNorm_tc_5_0_2"
     },
     {
       "poolId": "NORM_TC_5_0_3",
-      "index": 136,
+      "index": 142,
       "startTime": 1606980600,
       "endTime": 1608148799,
       "spriteId": "picNorm_tc_5_0_3"
     },
     {
       "poolId": "NORM_TC_5_0_4",
-      "index": 135,
+      "index": 141,
       "startTime": 1607371200,
       "endTime": 1608580799,
       "spriteId": "picNorm_tc_5_0_4"
     },
     {
       "poolId": "NORM_TC_5_0_5",
-      "index": 134,
+      "index": 140,
       "startTime": 1608580800,
       "endTime": 1609790399,
       "spriteId": "picNorm_tc_5_0_5"
     },
     {
       "poolId": "NORM_TC_6_0_1",
-      "index": 133,
+      "index": 139,
       "startTime": 1608795000,
       "endTime": 1609963199,
       "spriteId": "picNorm_tc_6_0_1"
     },
     {
       "poolId": "NORM_TC_6_0_2",
-      "index": 132,
+      "index": 138,
       "startTime": 1609790400,
       "endTime": 1610999999,
       "spriteId": "picNorm_tc_6_0_2"
     },
     {
       "poolId": "NORM_TC_6_0_3",
-      "index": 131,
+      "index": 137,
       "startTime": 1610006400,
       "endTime": 1611172799,
       "spriteId": "picNorm_tc_6_0_3"
     },
     {
       "poolId": "NORM_TC_6_0_4",
-      "index": 130,
+      "index": 136,
       "startTime": 1611000000,
       "endTime": 1612209599,
       "spriteId": "picNorm_tc_6_0_4"
     },
     {
       "poolId": "NORM_TC_7_0_1",
-      "index": 129,
+      "index": 135,
       "startTime": 1611214200,
       "endTime": 1612382399,
       "spriteId": "picNorm_tc_7_0_1"
     },
     {
       "poolId": "NORM_TC_7_0_2",
-      "index": 128,
+      "index": 134,
       "startTime": 1612209600,
       "endTime": 1613419199,
       "spriteId": "picNorm_tc_7_0_2"
     },
     {
       "poolId": "NORM_TC_7_0_3",
-      "index": 127,
+      "index": 133,
       "startTime": 1612423800,
       "endTime": 1613591999,
       "spriteId": "picNorm_tc_7_0_3"
     },
     {
       "poolId": "NORM_TC_7_0_4",
-      "index": 126,
+      "index": 132,
       "startTime": 1613419200,
       "endTime": 1614628799,
       "spriteId": "picNorm_tc_7_0_4"
     },
     {
       "poolId": "NORM_TC_8_0_1",
-      "index": 125,
+      "index": 131,
       "startTime": 1614628800,
       "endTime": 1615838399,
       "spriteId": "picNorm_tc_8_0_1"
     },
     {
       "poolId": "NORM_TC_8_0_2",
-      "index": 124,
+      "index": 130,
       "startTime": 1614843000,
       "endTime": 1616011199,
       "spriteId": "picNorm_tc_8_0_2"
     },
     {
       "poolId": "NORM_TC_8_0_3",
-      "index": 123,
+      "index": 129,
       "startTime": 1615838400,
       "endTime": 1617047999,
       "spriteId": "picNorm_tc_8_0_3"
     },
     {
       "poolId": "NORM_TC_3_1_1",
-      "index": 122,
+      "index": 128,
       "startTime": 1616047200,
       "endTime": 1617220799,
       "spriteId": "picNorm_tc_3_1_1"
     },
     {
       "poolId": "NORM_TC_3_1_2",
-      "index": 121,
+      "index": 127,
       "startTime": 1617048000,
       "endTime": 1618257599,
       "spriteId": "picNorm_tc_3_1_2"
     },
     {
       "poolId": "NORM_TC_3_2_1",
-      "index": 120,
+      "index": 126,
       "startTime": 1617262200,
       "endTime": 1618430399,
       "spriteId": "picNorm_tc_3_2_1"
     },
     {
       "poolId": "NORM_TC_3_2_2",
-      "index": 119,
+      "index": 125,
       "startTime": 1618257600,
       "endTime": 1619467199,
       "spriteId": "picNorm_tc_3_2_2"
     },
     {
       "poolId": "NORM_TC_3_3_1",
-      "index": 118,
+      "index": 124,
       "startTime": 1618471800,
       "endTime": 1619639999,
       "spriteId": "picNorm_tc_3_3_1"
     },
     {
       "poolId": "NORM_TC_3_3_2",
-      "index": 117,
+      "index": 123,
       "startTime": 1619467200,
       "endTime": 1620676799,
       "spriteId": "picNorm_tc_3_3_2"
     },
     {
       "poolId": "NORM_TC_4_1_1",
-      "index": 116,
+      "index": 122,
       "startTime": 1619676000,
       "endTime": 1620849599,
       "spriteId": "picNorm_tc_4_1_1"
     },
     {
       "poolId": "NORM_TC_4_1_2",
-      "index": 115,
+      "index": 121,
       "startTime": 1619676000,
       "endTime": 1620849599,
       "spriteId": "picNorm_tc_4_1_2"
     },
     {
       "poolId": "NORM_TC_4_1_3",
-      "index": 114,
+      "index": 120,
       "startTime": 1620676800,
       "endTime": 1621886399,
       "spriteId": "picNorm_tc_4_1_3"
     },
     {
       "poolId": "NORM_TC_4_2_1",
-      "index": 113,
+      "index": 119,
       "startTime": 1620891000,
       "endTime": 1622059199,
       "spriteId": "picNorm_tc_4_2_1"
     },
     {
       "poolId": "NORM_TC_4_2_2",
-      "index": 112,
+      "index": 118,
       "startTime": 1621886400,
       "endTime": 1623095999,
       "spriteId": "picNorm_tc_4_2_2"
     },
     {
       "poolId": "LIMITED_TC_4_3_1",
-      "index": 111,
+      "index": 117,
       "startTime": 1622100600,
       "endTime": 1623268799,
       "spriteId": "picLimited_tc_4_3_1"
     },
     {
       "poolId": "NORM_TC_4_3_2",
-      "index": 110,
+      "index": 116,
       "startTime": 1623096000,
       "endTime": 1624305599,
       "spriteId": "picNorm_tc_4_3_2"
     },
     {
       "poolId": "NORM_TC_5_1_1",
-      "index": 109,
+      "index": 115,
       "startTime": 1623304800,
       "endTime": 1625083199,
       "spriteId": "picNorm_tc_5_1_1"
     },
     {
       "poolId": "NORM_TC_5_1_2",
-      "index": 108,
+      "index": 114,
       "startTime": 1624305600,
       "endTime": 1625515199,
       "spriteId": "picNorm_tc_5_1_2"
     },
     {
       "poolId": "NORM_TC_5_2_1",
-      "index": 107,
+      "index": 113,
       "startTime": 1624519800,
       "endTime": 1626292799,
       "spriteId": "picNorm_tc_5_2_1"
     },
     {
       "poolId": "NORM_TC_5_2_2",
-      "index": 106,
+      "index": 112,
       "startTime": 1625515200,
       "endTime": 1626724799,
       "spriteId": "picNorm_tc_5_2_2"
     },
     {
       "poolId": "NORM_TC_5_3_1",
-      "index": 105,
+      "index": 111,
       "startTime": 1626334200,
       "endTime": 1627502399,
       "spriteId": "picNorm_tc_5_3_1"
     },
     {
       "poolId": "NORM_TC_5_3_2",
-      "index": 104,
+      "index": 110,
       "startTime": 1626724800,
       "endTime": 1627934399,
       "spriteId": "picNorm_tc_5_3_2"
     },
     {
       "poolId": "NORM_TC_6_1_1",
-      "index": 103,
+      "index": 109,
       "startTime": 1627538400,
       "endTime": 1628711999,
       "spriteId": "picNorm_tc_6_1_1"
     },
     {
       "poolId": "NORM_TC_6_1_2",
-      "index": 102,
+      "index": 108,
       "startTime": 1627934400,
       "endTime": 1629143999,
       "spriteId": "picNorm_tc_6_1_2"
     },
     {
       "poolId": "NORM_TC_6_2_1",
-      "index": 101,
+      "index": 107,
       "startTime": 1628753400,
       "endTime": 1629921599,
       "spriteId": "picNorm_tc_6_2_1"
     },
     {
       "poolId": "NORM_TC_6_2_2",
-      "index": 100,
+      "index": 106,
       "startTime": 1629144000,
       "endTime": 1630353599,
       "spriteId": "picNorm_tc_6_2_2"
     },
     {
       "poolId": "LIMITED_TC_7_1_1",
-      "index": 99,
+      "index": 105,
       "startTime": 1629957600,
       "endTime": 1631131199,
       "spriteId": "picLimited_tc_7_1_1"
     },
     {
       "poolId": "NORM_TC_7_1_2",
-      "index": 98,
+      "index": 104,
       "startTime": 1630353600,
       "endTime": 1631563199,
       "spriteId": "picNorm_tc_7_1_2"
     },
     {
       "poolId": "LINKAGE_TC_7_2_1",
-      "index": 97,
+      "index": 103,
       "startTime": 1631172600,
       "endTime": 1632340799,
       "spriteId": "picLinkage_tc_7_2_1"
     },
     {
       "poolId": "NORM_TC_7_2_2",
-      "index": 96,
+      "index": 102,
       "startTime": 1631563200,
       "endTime": 1632772799,
       "spriteId": "picNorm_tc_7_2_2"
     },
     {
       "poolId": "NORM_TC_7_3_1",
-      "index": 95,
+      "index": 101,
       "startTime": 1632382200,
       "endTime": 1633550399,
       "spriteId": "picNorm_tc_7_3_1"
     },
     {
       "poolId": "NORM_TC_7_3_2",
-      "index": 94,
+      "index": 100,
       "startTime": 1632772800,
       "endTime": 1633982399,
       "spriteId": "picNorm_tc_7_3_2"
     },
     {
       "poolId": "NORM_TC_7_3_3",
-      "index": 93,
+      "index": 99,
       "startTime": 1633982400,
       "endTime": 1635191999,
       "spriteId": "picNorm_tc_7_3_3"
     },
     {
       "poolId": "NORM_TC_8_1_1",
-      "index": 92,
+      "index": 98,
       "startTime": 1634191200,
       "endTime": 1635364799,
       "spriteId": "picNorm_tc_8_1_1"
     },
     {
       "poolId": "NORM_TC_8_1_2",
-      "index": 91,
+      "index": 97,
       "startTime": 1635192000,
       "endTime": 1636401599,
       "spriteId": "picNorm_tc_8_1_2"
     },
     {
       "poolId": "NORM_TC_8_2_1",
-      "index": 90,
+      "index": 96,
       "startTime": 1635406200,
       "endTime": 1636574399,
       "spriteId": "picNorm_tc_8_2_1"
     },
     {
       "poolId": "NORM_TC_8_2_2",
-      "index": 89,
+      "index": 95,
       "startTime": 1636401600,
       "endTime": 1637611199,
       "spriteId": "picNorm_tc_8_2_2"
     },
     {
       "poolId": "NORM_TC_8_3_1",
-      "index": 88,
+      "index": 94,
       "startTime": 1636615800,
       "endTime": 1637783999,
       "spriteId": "picNorm_tc_8_3_1"
     },
     {
       "poolId": "NORM_TC_8_3_2",
-      "index": 87,
+      "index": 93,
       "startTime": 1637611200,
       "endTime": 1638820799,
       "spriteId": "picNorm_tc_8_3_2"
     },
     {
       "poolId": "LIMITED_TC_9_1_1",
-      "index": 86,
+      "index": 92,
       "startTime": 1637647200,
       "endTime": 1638993599,
       "spriteId": "picLimited_tc_9_1_1"
     },
     {
       "poolId": "NORM_TC_9_1_2",
-      "index": 85,
+      "index": 91,
       "startTime": 1638820800,
       "endTime": 1640030399,
       "spriteId": "picNorm_tc_9_1_2"
     },
     {
       "poolId": "NORM_TC_9_2_1",
-      "index": 84,
+      "index": 90,
       "startTime": 1639035000,
       "endTime": 1640203199,
       "spriteId": "picNorm_tc_9_2_1"
     },
     {
       "poolId": "NORM_TC_9_2_2",
-      "index": 83,
+      "index": 89,
       "startTime": 1640030400,
       "endTime": 1641239999,
       "spriteId": "picNorm_tc_9_2_2"
     },
     {
       "poolId": "LIMITED_TC_9_3_1",
-      "index": 82,
+      "index": 88,
       "startTime": 1640244600,
       "endTime": 1641412799,
       "spriteId": "picLimited_tc_9_3_1"
     },
     {
       "poolId": "NORM_TC_9_3_2",
-      "index": 81,
+      "index": 87,
       "startTime": 1641240000,
       "endTime": 1642449599,
       "spriteId": "picNorm_tc_9_3_2"
     },
     {
       "poolId": "NORM_TC_10_1_1",
-      "index": 80,
+      "index": 86,
       "startTime": 1641880800,
       "endTime": 1643054399,
       "spriteId": "picNorm_tc_10_1_1"
     },
     {
       "poolId": "NORM_TC_10_1_2",
-      "index": 79,
+      "index": 85,
       "startTime": 1642449600,
       "endTime": 1643659199,
       "spriteId": "picNorm_tc_10_1_2"
     },
     {
       "poolId": "LIMITED_TC_10_2_1",
-      "index": 78,
+      "index": 84,
       "startTime": 1643182200,
       "endTime": 1644350399,
       "spriteId": "picLimited_tc_10_2_1"
     },
     {
       "poolId": "NORM_TC_10_2_2",
-      "index": 77,
+      "index": 83,
       "startTime": 1643659200,
       "endTime": 1644868799,
       "spriteId": "picNorm_tc_10_2_2"
     },
     {
       "poolId": "NORM_TC_10_2_3",
-      "index": 76,
+      "index": 82,
       "startTime": 1644868800,
       "endTime": 1646078399,
       "spriteId": "picNorm_tc_10_2_3"
     },
     {
       "poolId": "NORM_TC_10_3_1",
-      "index": 75,
+      "index": 81,
       "startTime": 1644910200,
       "endTime": 1646078399,
       "spriteId": "picNorm_tc_10_3_1"
     },
     {
       "poolId": "NORM_TC_10_3_2",
-      "index": 74,
+      "index": 80,
       "startTime": 1646078400,
       "endTime": 1647287999,
       "spriteId": "picNorm_tc_10_3_2"
     },
     {
       "poolId": "NORM_TC_11_1_1",
-      "index": 73,
+      "index": 79,
       "startTime": 1646719200,
       "endTime": 1647892799,
       "spriteId": "picNorm_tc_11_1_1"
     },
     {
       "poolId": "NORM_TC_11_1_2",
-      "index": 72,
+      "index": 78,
       "startTime": 1647288000,
       "endTime": 1648497599,
       "spriteId": "picNorm_tc_11_1_2"
     },
     {
       "poolId": "NORM_TC_11_2_1",
-      "index": 71,
+      "index": 77,
       "startTime": 1647934200,
       "endTime": 1649102399,
       "spriteId": "picNorm_tc_11_2_1"
     },
     {
       "poolId": "NORM_TC_11_2_2",
-      "index": 70,
+      "index": 76,
       "startTime": 1648497600,
       "endTime": 1649707199,
       "spriteId": "picNorm_tc_11_2_2"
     },
     {
       "poolId": "NORM_TC_11_3_1",
-      "index": 69,
+      "index": 75,
       "startTime": 1649230200,
       "endTime": 1650398399,
       "spriteId": "picNorm_tc_11_3_1"
     },
     {
       "poolId": "NORM_TC_11_3_2",
-      "index": 68,
+      "index": 74,
       "startTime": 1649707200,
       "endTime": 1650916799,
       "spriteId": "picNorm_tc_11_3_2"
     },
     {
       "poolId": "NORM_TC_11_3_3",
-      "index": 67,
+      "index": 73,
       "startTime": 1650916800,
       "endTime": 1652126399,
       "spriteId": "picNorm_tc_11_3_3"
     },
     {
       "poolId": "NORM_TC_12_1_1",
-      "index": 66,
+      "index": 72,
       "startTime": 1650952800,
       "endTime": 1652126399,
       "spriteId": "picNorm_tc_12_1_1"
     },
     {
       "poolId": "NORM_TC_12_1_2",
-      "index": 65,
+      "index": 71,
       "startTime": 1652126400,
       "endTime": 1653335999,
       "spriteId": "picNorm_tc_12_1_2"
     },
     {
       "poolId": "LIMITED_TC_12_2_1",
-      "index": 64,
+      "index": 70,
       "startTime": 1652167800,
       "endTime": 1653335999,
       "spriteId": "picLimited_tc_12_2_1"
     },
     {
       "poolId": "NORM_TC_12_2_2",
-      "index": 63,
+      "index": 69,
       "startTime": 1653336000,
       "endTime": 1654545599,
       "spriteId": "picNorm_tc_12_2_2"
     },
     {
       "poolId": "NORM_TC_12_3_1",
-      "index": 62,
+      "index": 68,
       "startTime": 1654068600,
       "endTime": 1655236799,
       "spriteId": "picNorm_tc_12_3_1"
     },
     {
       "poolId": "NORM_TC_12_3_2",
-      "index": 61,
+      "index": 67,
       "startTime": 1654545600,
       "endTime": 1655755199,
       "spriteId": "picNorm_tc_12_3_2"
     },
     {
       "poolId": "NORM_TC_12_3_3",
-      "index": 60,
+      "index": 66,
       "startTime": 1655755200,
       "endTime": 1656964799,
       "spriteId": "picNorm_tc_12_3_3"
     },
     {
       "poolId": "NORM_TC_13_1_1",
-      "index": 59,
+      "index": 65,
       "startTime": 1655791200,
       "endTime": 1656964799,
       "spriteId": "picNorm_tc_13_1_1"
     },
     {
       "poolId": "NORM_TC_13_1_2",
-      "index": 58,
+      "index": 64,
       "startTime": 1656964800,
       "endTime": 1658174399,
       "spriteId": "picNorm_tc_13_1_2"
     },
     {
       "poolId": "NORM_TC_13_2_1",
-      "index": 57,
+      "index": 63,
       "startTime": 1657092600,
       "endTime": 1658260799,
       "spriteId": "picNorm_tc_13_2_1"
     },
     {
       "poolId": "NORM_TC_13_2_2",
-      "index": 56,
+      "index": 62,
       "startTime": 1658174400,
       "endTime": 1659383999,
       "spriteId": "picNorm_tc_13_2_2"
     },
     {
       "poolId": "NORM_TC_13_3_1",
-      "index": 55,
+      "index": 61,
       "startTime": 1658302200,
       "endTime": 1659470399,
       "spriteId": "picNorm_tc_13_3_1"
     },
     {
       "poolId": "NORM_TC_13_3_2",
-      "index": 54,
+      "index": 60,
       "startTime": 1659384000,
       "endTime": 1660593599,
       "spriteId": "picNorm_tc_13_3_2"
     },
     {
       "poolId": "LIMITED_TC_14_1_1",
-      "index": 53,
+      "index": 59,
       "startTime": 1659592800,
       "endTime": 1660766399,
       "spriteId": "picLimited_tc_14_1_1"
     },
     {
       "poolId": "NORM_TC_14_1_2",
-      "index": 52,
+      "index": 58,
       "startTime": 1660593600,
       "endTime": 1661803199,
       "spriteId": "picNorm_tc_14_1_2"
     },
     {
       "poolId": "NORM_TC_14_1_3",
-      "index": 51,
+      "index": 57,
       "startTime": 1661803200,
       "endTime": 1663012799,
       "spriteId": "picNorm_tc_14_1_3"
     },
     {
       "poolId": "NORM_TC_14_2_1",
-      "index": 50,
+      "index": 56,
       "startTime": 1661844600,
       "endTime": 1663012799,
       "spriteId": "picNorm_tc_14_2_1"
     },
     {
       "poolId": "NORM_TC_14_2_2",
-      "index": 49,
+      "index": 55,
       "startTime": 1663012800,
       "endTime": 1664222399,
       "spriteId": "picNorm_tc_14_2_2"
     },
     {
       "poolId": "NORM_TC_14_3_1",
-      "index": 48,
+      "index": 54,
       "startTime": 1663140600,
       "endTime": 1664308799,
       "spriteId": "picNorm_tc_14_3_1"
     },
     {
       "poolId": "NORM_TC_14_3_2",
-      "index": 47,
+      "index": 53,
       "startTime": 1664222400,
       "endTime": 1665431999,
       "spriteId": "picNorm_tc_14_3_2"
     },
     {
       "poolId": "NORM_TC_15_1_1",
-      "index": 46,
+      "index": 52,
       "startTime": 1664431200,
       "endTime": 1665604799,
       "spriteId": "picNorm_tc_15_1_1"
     },
     {
       "poolId": "NORM_TC_15_1_2",
-      "index": 45,
+      "index": 51,
       "startTime": 1665432000,
       "endTime": 1666641599,
       "spriteId": "picNorm_tc_15_1_2"
     },
     {
       "poolId": "ATTAIN_TC_15_2_1",
-      "index": 44,
+      "index": 50,
       "startTime": 1665646200,
       "endTime": 1666814399,
       "spriteId": "picAttain_tc_15_2_1"
     },
     {
       "poolId": "NORM_TC_15_2_2",
-      "index": 43,
+      "index": 49,
       "startTime": 1666641600,
       "endTime": 1667851199,
       "spriteId": "picNorm_tc_15_2_2"
     },
     {
       "poolId": "LIMITED_TC_15_3_1",
-      "index": 42,
+      "index": 48,
       "startTime": 1666855800,
       "endTime": 1668023999,
       "spriteId": "picLimited_tc_15_3_1"
     },
     {
       "poolId": "NORM_TC_15_3_2",
-      "index": 41,
+      "index": 47,
       "startTime": 1667851200,
       "endTime": 1669060799,
       "spriteId": "picNorm_tc_15_3_2"
     },
     {
       "poolId": "NORM_TC_16_1_1",
-      "index": 40,
+      "index": 46,
       "startTime": 1668664800,
       "endTime": 1669838399,
       "spriteId": "picNorm_tc_16_1_1"
     },
     {
       "poolId": "NORM_TC_16_1_2",
-      "index": 39,
+      "index": 45,
       "startTime": 1669060800,
       "endTime": 1670270399,
       "spriteId": "picNorm_tc_16_1_2"
     },
     {
       "poolId": "NORM_TC_16_2_1",
-      "index": 38,
+      "index": 44,
       "startTime": 1670270400,
       "endTime": 1671479999,
       "spriteId": "picNorm_tc_16_2_1"
     },
     {
       "poolId": "NORM_TC_16_3_1",
-      "index": 37,
+      "index": 43,
       "startTime": 1671089400,
       "endTime": 1672257599,
       "spriteId": "picNorm_tc_16_3_1"
     },
     {
       "poolId": "NORM_TC_16_3_2",
-      "index": 36,
+      "index": 42,
       "startTime": 1671480000,
       "endTime": 1672689599,
       "spriteId": "picNorm_tc_16_3_2"
     },
     {
       "poolId": "NORM_TC_16_4_1",
-      "index": 35,
+      "index": 41,
       "startTime": 1672299000,
       "endTime": 1673467199,
       "spriteId": "picNorm_tc_16_4_1"
     },
     {
       "poolId": "NORM_TC_16_4_2",
-      "index": 34,
+      "index": 40,
       "startTime": 1672689600,
       "endTime": 1673899199,
       "spriteId": "picNorm_tc_16_4_2"
     },
     {
       "poolId": "NORM_TC_16_4_3",
-      "index": 33,
+      "index": 39,
       "startTime": 1673899200,
       "endTime": 1675108799,
       "spriteId": "picNorm_tc_16_4_3"
     },
     {
       "poolId": "NORM_TC_17_1_1",
-      "index": 32,
+      "index": 38,
       "startTime": 1673935200,
       "endTime": 1675108799,
       "spriteId": "picNorm_tc_17_1_1"
     },
     {
       "poolId": "NORM_TC_17_1_2",
-      "index": 31,
+      "index": 37,
       "startTime": 1675108800,
       "endTime": 1676318399,
       "spriteId": "picNorm_tc_17_1_2"
     },
     {
       "poolId": "LIMITED_TC_17_2_1",
-      "index": 30,
+      "index": 36,
       "startTime": 1675150200,
       "endTime": 1676318399,
       "spriteId": "picLimited_tc_17_2_1"
     },
     {
       "poolId": "NORM_TC_17_2_2",
-      "index": 29,
+      "index": 35,
       "startTime": 1676318400,
       "endTime": 1677527999,
       "spriteId": "picNorm_tc_17_2_2"
     },
     {
       "poolId": "NORM_TC_17_3_1",
-      "index": 28,
+      "index": 34,
       "startTime": 1677528000,
       "endTime": 1678737599,
       "spriteId": "picNorm_tc_17_3_1"
     },
     {
       "poolId": "NORM_TC_17_4_1",
-      "index": 27,
+      "index": 33,
       "startTime": 1678347000,
       "endTime": 1679515199,
       "spriteId": "picNorm_tc_17_4_1"
     },
     {
       "poolId": "NORM_TC_17_4_2",
-      "index": 26,
+      "index": 32,
       "startTime": 1678737600,
       "endTime": 1679947199,
       "spriteId": "picNorm_tc_17_4_2"
     },
     {
       "poolId": "NORM_TC_17_4_3",
-      "index": 25,
+      "index": 31,
       "startTime": 1679947200,
       "endTime": 1681156799,
       "spriteId": "picNorm_tc_17_4_3"
     },
     {
       "poolId": "NORM_TC_18_1_1",
-      "index": 24,
+      "index": 30,
       "startTime": 1679983200,
       "endTime": 1681156799,
       "spriteId": "picNorm_tc_18_1_1"
     },
     {
       "poolId": "NORM_TC_18_1_2",
-      "index": 23,
+      "index": 29,
       "startTime": 1681156800,
       "endTime": 1682366399,
       "spriteId": "picNorm_tc_18_1_2"
     },
     {
       "poolId": "NORM_TC_18_2_1",
-      "index": 22,
+      "index": 28,
       "startTime": 1681371000,
       "endTime": 1682539199,
       "spriteId": "picNorm_tc_18_2_1"
     },
     {
       "poolId": "NORM_TC_18_2_2",
-      "index": 21,
+      "index": 27,
       "startTime": 1682366400,
       "endTime": 1683575999,
       "spriteId": "picNorm_tc_18_2_2"
     },
     {
       "poolId": "NORM_TC_18_4_1",
-      "index": 20,
+      "index": 26,
       "startTime": 1683576000,
       "endTime": 1684785599,
       "spriteId": "picNorm_tc_18_4_1"
     },
     {
       "poolId": "NORM_TC_19_1_1",
-      "index": 19,
+      "index": 25,
       "startTime": 1684216800,
       "endTime": 1685390399,
       "spriteId": "picNorm_tc_19_1_1"
     },
     {
       "poolId": "NORM_TC_19_1_2",
-      "index": 18,
+      "index": 24,
       "startTime": 1684785600,
       "endTime": 1685995199,
       "spriteId": "picNorm_tc_19_1_2"
     },
     {
       "poolId": "NORM_TC_19_2_1",
-      "index": 17,
+      "index": 23,
       "startTime": 1685995200,
       "endTime": 1687204799,
       "spriteId": "picNorm_tc_19_2_1"
     },
     {
       "poolId": "NORM_TC_19_3_1",
-      "index": 16,
+      "index": 22,
       "startTime": 1687204800,
       "endTime": 1688414399,
       "spriteId": "picNorm_tc_19_3_1"
     },
     {
       "poolId": "LIMITED_TC_19_4_1",
-      "index": 15,
+      "index": 21,
       "startTime": 1687246200,
       "endTime": 1688414399,
       "spriteId": "picLimited_tc_19_4_1"
     },
     {
       "poolId": "NORM_TC_19_4_2",
-      "index": 14,
+      "index": 20,
       "startTime": 1688414400,
       "endTime": 1689623999,
       "spriteId": "picNorm_tc_19_4_2"
     },
     {
       "poolId": "NORM_TC_19_5_1",
-      "index": 13,
+      "index": 19,
       "startTime": 1689233400,
       "endTime": 1690401599,
       "spriteId": "picNorm_tc_19_5_1"
     },
     {
       "poolId": "NORM_TC_19_5_2",
-      "index": 12,
+      "index": 18,
       "startTime": 1689624000,
       "endTime": 1690833599,
       "spriteId": "picNorm_tc_19_5_2"
     },
     {
       "poolId": "NORM_TC_20_1_1",
-      "index": 5,
+      "index": 17,
       "startTime": 1690437600,
       "endTime": 1691611199,
       "spriteId": "picNorm_tc_20_1_1"
     },
     {
       "poolId": "NORM_TC_20_1_2",
-      "index": 11,
+      "index": 16,
       "startTime": 1690833600,
       "endTime": 1692043199,
       "spriteId": "picNorm_tc_20_1_2"
     },
     {
       "poolId": "NORM_TC_20_2_1",
-      "index": 4,
+      "index": 15,
       "startTime": 1691652600,
       "endTime": 1692820799,
       "spriteId": "picNorm_tc_20_2_1"
     },
     {
       "poolId": "NORM_TC_20_2_2",
-      "index": 10,
+      "index": 14,
       "startTime": 1692043200,
       "endTime": 1693252799,
       "spriteId": "picNorm_tc_20_2_2"
     },
     {
       "poolId": "NORM_TC_20_2_3",
-      "index": 9,
+      "index": 13,
       "startTime": 1693252800,
       "endTime": 1694462399,
       "spriteId": "picNorm_tc_20_2_3"
     },
     {
       "poolId": "NORM_TC_20_3_1",
-      "index": 3,
+      "index": 12,
       "startTime": 1693294200,
       "endTime": 1694462399,
       "spriteId": "picNorm_tc_20_3_1"
     },
     {
       "poolId": "NORM_TC_20_3_2",
-      "index": 8,
+      "index": 11,
       "startTime": 1694462400,
       "endTime": 1695671999,
       "spriteId": "picNorm_tc_20_3_2"
     },
     {
       "poolId": "LIMITED_TC_20_4_1",
-      "index": 1,
+      "index": 10,
       "startTime": 1694503800,
       "endTime": 1695671999,
       "spriteId": "picLimited_tc_20_4_1"
     },
     {
       "poolId": "NORM_TC_20_4_2",
-      "index": 7,
+      "index": 9,
       "startTime": 1695672000,
       "endTime": 1696881599,
       "spriteId": "picNorm_tc_20_4_2"
     },
     {
       "poolId": "NORM_TC_20_4_3",
-      "index": 2,
+      "index": 8,
       "startTime": 1696320000,
       "endTime": 1697486399,
       "spriteId": "picNorm_tc_20_4_3"
     },
     {
       "poolId": "NORM_TC_20_4_4",
-      "index": 6,
+      "index": 7,
       "startTime": 1696881600,
       "endTime": 1698091199,
       "spriteId": "picNorm_tc_20_4_4"
+    },
+    {
+      "poolId": "NORM_TC_21_1_1",
+      "index": 2,
+      "startTime": 1697695200,
+      "endTime": 1698868799,
+      "spriteId": "picNorm_tc_21_1_1"
+    },
+    {
+      "poolId": "NORM_TC_21_1_2",
+      "index": 6,
+      "startTime": 1698091200,
+      "endTime": 1699300799,
+      "spriteId": "picNorm_tc_21_1_2"
     }
   ],
   "freeGacha": [

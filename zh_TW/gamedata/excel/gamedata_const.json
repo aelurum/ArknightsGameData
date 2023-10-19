@@ -1250,6 +1250,11 @@
       "termName": "無聲共鳴",
       "description": "可影響<$cc.bd_B_1><@cc.rem>徘徊旋律</></>、<$cc.bd_B_2><@cc.rem>悵惘和聲</></>相關技能\n由以下幹員的基建技能提供\n黑鍵"
     },
+    "cc.bd_C": {
+      "termId": "cc.bd_C",
+      "termName": "巫術結晶",
+      "description": "擁有該基建技能的幹員\n截雲"
+    },
     "cc.bd_a1": {
       "termId": "cc.bd_a1",
       "termName": "感知資訊",
@@ -1258,7 +1263,7 @@
     "cc.bd_b1": {
       "termId": "cc.bd_b1",
       "termName": "人間煙火",
-      "description": "由以下幹員的基建技能提供\n夕、令、烏有、桑葚"
+      "description": "可影響<$cc.bd_C><@cc.rem>巫術結晶</></>相關技能\n由以下幹員的基建技能提供\n夕、令、重岳、烏有、桑葚"
     },
     "cc.bd_ash": {
       "termId": "cc.bd_ash",
@@ -1358,7 +1363,7 @@
     "cc.g.sui": {
       "termId": "cc.g.sui",
       "termName": "歲",
-      "description": "包含以下幹員\n年、夕、令"
+      "description": "包含以下幹員\n年、夕、令、重岳"
     },
     "cc.c.abyssal2_1": {
       "termId": "cc.c.abyssal2_1",
@@ -1394,6 +1399,11 @@
       "termId": "cc.t.strong2",
       "termName": "特殊疊加規則",
       "description": "無法單獨與<$cc.t.snsant1><@cc.rem>天道酬勤·α</></>、<$cc.t.snsant2><@cc.rem>天道酬勤·β</></>進行疊加，且優先生效\n當<$cc.t.snsant1><@cc.rem>天道酬勤·α</></>、<$cc.t.snsant2><@cc.rem>天道酬勤·β</></>與其他技能進行疊加時，該技能會對此疊加效果進行疊加"
+    },
+    "cc.c.sui2_1": {
+      "termId": "cc.c.sui2_1",
+      "termName": "特殊比較規則",
+      "description": "與控制中樞內其他幹員技能提供的<$cc.c.room2><@cc.kw>其他設施</></>每小時心情恢復值總和進行對比，取最高生效"
     },
     "cc.m.pow1": {
       "termId": "cc.m.pow1",
@@ -1462,6 +1472,6 @@
     }
   },
   "storyReviewUnlockItemLackTip": "事相碎片數量不足，請前往採購憑證區或活動期間商店獲取",
-  "dataVersion": "30.4.0",
-  "resPrefVersion": "33d0d0"
+  "dataVersion": "31.1.0",
+  "resPrefVersion": "34d0d0"
 }

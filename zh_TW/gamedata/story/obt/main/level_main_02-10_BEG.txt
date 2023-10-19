@@ -51,7 +51,7 @@
 [name="碎骨"]   你們還想藏到哪裡去？
 [name="碎骨"]   逃不掉的，羅德島。
 [name="碎骨"]   我會粉碎你們——
-[name="碎骨"]   ——徹徹底底的粉碎你們。
+[name="碎骨"]   ——徹徹底底地粉碎你們。
 [name="碎骨"]   你們這些......感染者的叛徒！
 [playsound(key="$e_skill_skulsrshot", volume=0.5)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=50, randomness=90, fadeout=true, block=true)]

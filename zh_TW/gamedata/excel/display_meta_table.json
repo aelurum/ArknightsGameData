@@ -150,7 +150,7 @@
         "avatarItemName": "“猩紅劇團”",
         "avatarItemDesc": "超越常理的神秘藝術家組織。",
         "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
-        "obtainApproach": "集成戰略獲得"
+        "obtainApproach": "在集成戰略模式中獲得"
       },
       {
         "avatarId": "avatar_activity_RL1_2",
@@ -160,7 +160,7 @@
         "avatarItemName": "“傀影常在”",
         "avatarItemDesc": "低頭看一看，影子就在那裡。",
         "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
-        "obtainApproach": "集成戰略獲得"
+        "obtainApproach": "在集成戰略模式中獲得"
       },
       {
         "avatarId": "avatar_activity_SA",
@@ -280,7 +280,7 @@
         "avatarItemName": "“深藍印記”",
         "avatarItemDesc": "於永恆中觀測明日",
         "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
-        "obtainApproach": "集成戰略獲得"
+        "obtainApproach": "在集成戰略模式中獲得"
       },
       {
         "avatarId": "avatar_activity_PL",
@@ -289,6 +289,16 @@
         "avatarIdDesc": "【燈火序曲】記錄修復\n“燈火序曲”",
         "avatarItemName": "“燈火序曲”",
         "avatarItemDesc": "地上的燈火和夜空的星光，一同閃爍。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "記錄修復獲得"
+      },
+      {
+        "avatarId": "avatar_activity_MB",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 22,
+        "avatarIdDesc": "【孤島風雲】記錄修復\n“孤島風雲”",
+        "avatarItemName": "“孤島風雲”",
+        "avatarItemDesc": "監獄孤懸荒野之上，卻與移動城市裡的勾心鬥角密不可分。",
         "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
         "obtainApproach": "記錄修復獲得"
       },
@@ -488,7 +498,8 @@
           "avatar_activity_EP11",
           "avatar_activity_MN",
           "avatar_activity_RL2_1",
-          "avatar_activity_PL"
+          "avatar_activity_PL",
+          "avatar_activity_MB"
         ]
       },
       "DEFAULT": {

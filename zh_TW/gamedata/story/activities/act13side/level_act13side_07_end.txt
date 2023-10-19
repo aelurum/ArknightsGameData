@@ -122,7 +122,7 @@
 [Character(name="avg_npc_225", name2="avg_npc_120#3", focus=1)]
 [name="逐魘騎士"]  城市......是懦弱的象徵。
 [name="逐魘騎士"]  被稱作文明的東西在征服蠻荒之後，建立起了自己的高樓。
-[name="逐魘騎士"]  在這座高樓裡，不再需要人性作門票。
+[name="逐魘騎士"]  在這座高樓裡，不再需要人性做門票。
 [Character(name="avg_npc_225", name2="avg_npc_120#3", focus=2)]
 [name="老騎士"]  ......你在說什麼？
 [Character(name="avg_npc_225", name2="avg_npc_120#3", focus=1)]
@@ -138,7 +138,7 @@
 [name="老騎士"]  那我也不多勸你什麼了，瑪嘉烈是不會輸的。
 [Character(name="avg_npc_225", name2="avg_npc_120", focus=1)]
 [name="逐魘騎士"]  ......她身上有英雄的氣息。
-[name="逐魘騎士"]  但願她還沒被這個碌碌無為的時代洗去了鋒芒。
+[name="逐魘騎士"]  但願她還沒被這個碌碌無為的時代洗去鋒芒。
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]

@@ -225,7 +225,7 @@
 [Character(name="avg_430_fartth_1#3")]
 [name="查絲汀娜"]  ......索娜，有人。不是騎士貴族，是無胄盟。
 [Character(name="avg_430_fartth_1")]
-[name="查絲汀娜"]  跟著我們，在兩側平方的樓頂。
+[name="查絲汀娜"]  跟著我們，在兩側平房的樓頂。
 [Character(name="avg_496_wdmane_1#8")]
 [name="艾沃娜"]  啊哈，正好，我還嫌缺個機會給他們點餞別禮呢！
 [Character(name="avg_npc_123")]

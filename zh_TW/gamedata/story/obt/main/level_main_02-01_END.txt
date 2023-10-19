@@ -33,7 +33,7 @@
 [name="？？？"]   羅德島與近衛局約好在十點見面。
 [name="？？？"]   現在是十點十四。
 [Character(name="char_010_chen_1#4")]
-[name="？？？"]   你們遲到了十四分鐘，無謂的浪費了我十四分鐘時間。
+[name="？？？"]   你們遲到了十四分鐘，無謂地浪費了我十四分鐘時間。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=2)]
 [name="阿米婭"]   ......抱歉，陳長官，這片區域剛才有整合————
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=1)]

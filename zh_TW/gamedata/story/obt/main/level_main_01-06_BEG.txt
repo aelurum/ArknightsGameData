@@ -21,7 +21,7 @@
 [Character(fadetime=0)]
 [Blocker(a=0, fadetime=0.6, block=true)]
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2")]
-[name="整合運動成員"]  切爾諾伯格的混蛋，都是你們，都是你們，害的我們感染者變成這樣！
+[name="整合運動成員"]  切爾諾伯格的混蛋，都是你們，都是你們，害得我們感染者變成這樣！
 [Character(name="char_130_doberm_ex")]
 [name="杜賓"]  閃開！
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]

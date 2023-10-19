@@ -1,5 +1,19 @@
 {
   "basicInfo": {
+    "act22side": {
+      "id": "act22side",
+      "type": "TYPE_ACT9D0",
+      "displayType": "SIDESTORY",
+      "name": "照我以火",
+      "startTime": 1697695200,
+      "endTime": 1698868799,
+      "rewardEndTime": 1699473599,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act22side",
+      "medalGroupId": "medalGroupActivity22side",
+      "isReplicate": false
+    },
     "act21side": {
       "id": "act21side",
       "type": "TYPE_ACT21SIDE",
@@ -56,7 +70,7 @@
     "act31sign": {
       "id": "act31sign",
       "type": "CHECKIN_ONLY",
-      "name": "正逢金秋限時登入活動",
+      "name": "正逢雨季限時登入活動",
       "startTime": 1694503800,
       "endTime": 1695671999,
       "rewardEndTime": 1695671999,
@@ -1933,6 +1947,8 @@
     }
   },
   "zoneToActivity": {
+    "act22side_zone1": "act22side",
+    "act22side_zone2": "act22side",
     "act21side_zone1": "act21side",
     "act21side_zone2": "act21side",
     "act21side_zone3": "act21side",
@@ -2037,6 +2053,766 @@
     "A001_zone2": "1stact"
   },
   "missionData": [
+    {
+      "id": "22sideActivity_1",
+      "sortId": 1,
+      "description": "通關FC-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_countryside_cabinet_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_2",
+      "sortId": 2,
+      "description": "通關FC-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_countryside_handcart_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_3",
+      "sortId": 3,
+      "description": "通關FC-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_countryside_oven_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_4",
+      "sortId": 4,
+      "description": "通關FC-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 70
+        },
+        {
+          "type": "FURN",
+          "id": "furni_countryside_basket_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_5",
+      "sortId": 5,
+      "description": "通關FC-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 70
+        },
+        {
+          "type": "CHAR",
+          "id": "char_4017_puzzle",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_6",
+      "sortId": 6,
+      "description": "以3星評價完成FC-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_05",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_7",
+      "sortId": 7,
+      "description": "通關FC-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_countryside_curtain_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_8",
+      "sortId": 8,
+      "description": "以3星評價完成FC-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_06",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_countryside_partitionWall_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_9",
+      "sortId": 9,
+      "description": "通關FC-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 100
+        },
+        {
+          "type": "FURN",
+          "id": "furni_countryside_floorLamp_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_10",
+      "sortId": 10,
+      "description": "以3星評價完成FC-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_07",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_countryside_wallpaper_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_11",
+      "sortId": 11,
+      "description": "通關FC-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 100
+        },
+        {
+          "type": "FURN",
+          "id": "furni_countryside_floor_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_12",
+      "sortId": 12,
+      "description": "以3星評價完成FC-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_08",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_13",
+      "sortId": 13,
+      "description": "通關FC-EX-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_14",
+      "sortId": 14,
+      "description": "通關FC-EX-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_15",
+      "sortId": 15,
+      "description": "通關FC-EX-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_16",
+      "sortId": 16,
+      "description": "通關FC-EX-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_17",
+      "sortId": 17,
+      "description": "通關FC-EX-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_18",
+      "sortId": 18,
+      "description": "通關FC-EX-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_19",
+      "sortId": 19,
+      "description": "通關FC-EX-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_20",
+      "sortId": 20,
+      "description": "通關FC-EX-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_21",
+      "sortId": 21,
+      "description": "通關FC-EX-8突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_ex08#f#",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_dropS034_traveler_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_22",
+      "sortId": 22,
+      "description": "通關活動關卡15次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_01^act22side_02^act22side_03^act22side_04^act22side_05^act22side_06^act22side_07^act22side_08^act22side_ex01^act22side_ex01#f#^act22side_ex02^act22side_ex02#f#^act22side_ex03^act22side_ex03#f#^act22side_ex04^act22side_ex04#f#^act22side_ex05^act22side_ex05#f#^act22side_ex06^act22side_ex06#f#^act22side_ex07^act22side_ex07#f#^act22side_ex08^act22side_ex08#f#",
+        "15"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_23",
+      "sortId": 23,
+      "description": "通關活動關卡45次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_01^act22side_02^act22side_03^act22side_04^act22side_05^act22side_06^act22side_07^act22side_08^act22side_ex01^act22side_ex01#f#^act22side_ex02^act22side_ex02#f#^act22side_ex03^act22side_ex03#f#^act22side_ex04^act22side_ex04#f#^act22side_ex05^act22side_ex05#f#^act22side_ex06^act22side_ex06#f#^act22side_ex07^act22side_ex07#f#^act22side_ex08^act22side_ex08#f#",
+        "45"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "22sideActivity_24",
+      "sortId": 24,
+      "description": "通關活動關卡85次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act22side_01^act22side_02^act22side_03^act22side_04^act22side_05^act22side_06^act22side_07^act22side_08^act22side_ex01^act22side_ex01#f#^act22side_ex02^act22side_ex02#f#^act22side_ex03^act22side_ex03#f#^act22side_ex04^act22side_ex04#f#^act22side_ex05^act22side_ex05#f#^act22side_ex06^act22side_ex06#f#^act22side_ex07^act22side_ex07#f#^act22side_ex08^act22side_ex08#f#",
+        "85"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act22side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act22side_token_manuscript",
+          "count": 120
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
     {
       "id": "21sideActivity_1",
       "sortId": 1,
@@ -37297,6 +38073,42 @@
   ],
   "missionGroup": [
     {
+      "id": "act22side",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": [],
+      "missionIds": [
+        "22sideActivity_1",
+        "22sideActivity_2",
+        "22sideActivity_3",
+        "22sideActivity_4",
+        "22sideActivity_5",
+        "22sideActivity_6",
+        "22sideActivity_7",
+        "22sideActivity_8",
+        "22sideActivity_9",
+        "22sideActivity_10",
+        "22sideActivity_11",
+        "22sideActivity_12",
+        "22sideActivity_13",
+        "22sideActivity_14",
+        "22sideActivity_15",
+        "22sideActivity_16",
+        "22sideActivity_17",
+        "22sideActivity_18",
+        "22sideActivity_19",
+        "22sideActivity_20",
+        "22sideActivity_21",
+        "22sideActivity_22",
+        "22sideActivity_23",
+        "22sideActivity_24"
+      ],
+      "startTs": 1697695200,
+      "endTs": 1699473599
+    },
+    {
       "id": "act21side",
       "title": null,
       "type": "ACTIVITY",
@@ -39163,7 +39975,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_120": 1696190399
-        }
+        },
+        "extraCheckinList": null
       },
       "act30sign": {
         "checkInList": {
@@ -39301,7 +40114,8 @@
             "isDynItem": false
           }
         },
-        "apSupplyOutOfDateDict": {}
+        "apSupplyOutOfDateDict": {},
+        "extraCheckinList": null
       },
       "act29sign": {
         "checkInList": {
@@ -39653,7 +40467,8 @@
             "firstQuestionConfirmDesc": "確認製作"
           },
           "initOption": "Options0"
-        }
+        },
+        "extraCheckinList": null
       },
       "act17sign": {
         "checkInList": {
@@ -39793,7 +40608,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_120": 1685303999
-        }
+        },
+        "extraCheckinList": null
       },
       "act28sign": {
         "checkInList": {
@@ -39990,7 +40806,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_120": 1688932799
-        }
+        },
+        "extraCheckinList": null
       },
       "act27sign": {
         "checkInList": {
@@ -40130,7 +40947,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_120": 1678651199
-        }
+        },
+        "extraCheckinList": null
       },
       "act26sign": {
         "checkInList": {
@@ -40327,7 +41145,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_120": 1676836799
-        }
+        },
+        "extraCheckinList": null
       },
       "act25sign": {
         "checkInList": {
@@ -40619,7 +41438,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1669579199
-        }
+        },
+        "extraCheckinList": null
       },
       "act24sign": {
         "checkInList": {
@@ -40759,7 +41579,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1667159999
-        }
+        },
+        "extraCheckinList": null
       },
       "act23sign": {
         "checkInList": {
@@ -40956,7 +41777,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1665950399
-        }
+        },
+        "extraCheckinList": null
       },
       "act22sign": {
         "checkInList": {
@@ -41153,7 +41975,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1661716799
-        }
+        },
+        "extraCheckinList": null
       },
       "act21sign": {
         "checkInList": {
@@ -41293,7 +42116,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1658692799
-        }
+        },
+        "extraCheckinList": null
       },
       "act20sign": {
         "checkInList": {
@@ -41433,7 +42257,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1657483199
-        }
+        },
+        "extraCheckinList": null
       },
       "act19sign": {
         "checkInList": {
@@ -41630,7 +42455,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1654459199
-        }
+        },
+        "extraCheckinList": null
       },
       "act18sign": {
         "checkInList": {
@@ -41770,7 +42596,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1649015999
-        }
+        },
+        "extraCheckinList": null
       },
       "act15d1": {
         "checkInList": {
@@ -41967,7 +42794,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1646596799
-        }
+        },
+        "extraCheckinList": null
       },
       "act18d3d3": {
         "checkInList": {
@@ -42164,7 +42992,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1645387199
-        }
+        },
+        "extraCheckinList": null
       },
       "act16d6": {
         "checkInList": {
@@ -42456,7 +43285,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1642967999
-        }
+        },
+        "extraCheckinList": null
       },
       "act17d0d1": {
         "checkInList": {
@@ -42596,7 +43426,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1633291199
-        }
+        },
+        "extraCheckinList": null
       },
       "act14d0d1": {
         "checkInList": {
@@ -42793,7 +43624,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1632081599
-        }
+        },
+        "extraCheckinList": null
       },
       "act13d2d1": {
         "checkInList": {
@@ -42933,7 +43765,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1627847999
-        }
+        },
+        "extraCheckinList": null
       },
       "act9d1d1": {
         "checkInList": {
@@ -43276,7 +44109,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1624823999
-        }
+        },
+        "extraCheckinList": null
       },
       "act13d2d2": {
         "checkInList": {
@@ -43409,7 +44243,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1608494399
-        }
+        },
+        "extraCheckinList": null
       },
       "act10d6": {
         "checkInList": {
@@ -43544,7 +44379,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1619380799
-        }
+        },
+        "extraCheckinList": null
       },
       "act6d7": {
         "checkInList": {
@@ -43736,7 +44572,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1613937599
-        }
+        },
+        "extraCheckinList": null
       },
       "act6d0": {
         "checkInList": {
@@ -43933,7 +44770,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1610308799
-        }
+        },
+        "extraCheckinList": null
       },
       "act4d2": {
         "checkInList": {
@@ -44058,7 +44896,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1587499199
-        }
+        },
+        "extraCheckinList": null
       },
       "act3d7": {
         "checkInList": {
@@ -44188,7 +45027,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1602446399
-        }
+        },
+        "extraCheckinList": null
       },
       "act2d8": {
         "checkInList": {
@@ -44308,7 +45148,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1601150399
-        }
+        },
+        "extraCheckinList": null
       },
       "act2d5": {
         "checkInList": {
@@ -44448,7 +45289,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1600027199
-        }
+        },
+        "extraCheckinList": null
       },
       "act1d5": {
         "checkInList": {
@@ -44593,7 +45435,8 @@
         },
         "apSupplyOutOfDateDict": {
           "ap_supply_lt_100": 1598817599
-        }
+        },
+        "extraCheckinList": null
       }
     },
     "TYPE_ACT3D0": {
@@ -56861,6 +57704,28 @@
       }
     },
     "TYPE_ACT9D0": {
+      "act22side": {
+        "tokenItemId": "act22side_token_manuscript",
+        "zoneDescList": {
+          "act22side_zone1": {
+            "zoneId": "act22side_zone1",
+            "unlockText": "尚未解鎖",
+            "displayStartTime": 1697695200
+          },
+          "act22side_zone2": {
+            "zoneId": "act22side_zone2",
+            "unlockText": "完成「荒煙林沼」後解鎖",
+            "displayStartTime": 1697695200
+          }
+        },
+        "favorUpList": {},
+        "subMissionInfo": null,
+        "hasSubMission": false,
+        "apSupplyOutOfDateDict": {},
+        "newsInfoList": null,
+        "newsServerInfoList": null,
+        "miscHub": {}
+      },
       "act14sre": {
         "tokenItemId": "act14side_token_stone_rep_1",
         "zoneDescList": {
@@ -74962,7 +75827,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75004,7 +75870,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75023,7 +75890,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75057,7 +75925,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75095,7 +75964,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75133,7 +76003,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75167,7 +76038,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75205,7 +76077,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75247,7 +76120,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75289,7 +76163,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -75355,7 +76230,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -79719,7 +80595,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -79769,7 +80646,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -79819,7 +80697,8 @@
                     "enemyIdExcludeFilter": null,
                     "skillIdFilter": null,
                     "tileKeyFilter": null,
-                    "groupTagFilter": null
+                    "groupTagFilter": null,
+                    "filterTagFilter": null
                   },
                   "blackboard": [
                     {
@@ -79901,7 +80780,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -79933,7 +80813,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -79952,7 +80833,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -79988,7 +80870,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80007,7 +80890,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80030,7 +80914,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80067,7 +80952,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80099,7 +80985,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80118,7 +81005,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80150,7 +81038,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80169,7 +81058,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80188,7 +81078,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80225,7 +81116,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80248,7 +81140,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80280,7 +81173,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80303,7 +81197,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80322,7 +81217,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80354,7 +81250,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80377,7 +81274,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80396,7 +81294,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80415,7 +81314,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80452,7 +81352,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80471,7 +81372,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80503,7 +81405,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80522,7 +81425,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80541,7 +81445,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80573,7 +81478,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80592,7 +81498,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80611,7 +81518,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -80630,7 +81538,8 @@
                         "enemyIdExcludeFilter": null,
                         "skillIdFilter": null,
                         "tileKeyFilter": null,
-                        "groupTagFilter": null
+                        "groupTagFilter": null,
+                        "filterTagFilter": null
                       },
                       "blackboard": [
                         {
@@ -81123,7 +82032,8 @@
                   "enemyIdExcludeFilter": null,
                   "skillIdFilter": null,
                   "tileKeyFilter": null,
-                  "groupTagFilter": null
+                  "groupTagFilter": null,
+                  "filterTagFilter": null
                 },
                 "blackboard": [
                   {
@@ -81154,7 +82064,8 @@
                   "enemyIdExcludeFilter": null,
                   "skillIdFilter": null,
                   "tileKeyFilter": null,
-                  "groupTagFilter": null
+                  "groupTagFilter": null,
+                  "filterTagFilter": null
                 },
                 "blackboard": [
                   {
@@ -81185,7 +82096,8 @@
                   "enemyIdExcludeFilter": null,
                   "skillIdFilter": null,
                   "tileKeyFilter": null,
-                  "groupTagFilter": null
+                  "groupTagFilter": null,
+                  "filterTagFilter": null
                 },
                 "blackboard": [
                   {
@@ -81216,7 +82128,8 @@
                   "enemyIdExcludeFilter": null,
                   "skillIdFilter": null,
                   "tileKeyFilter": null,
-                  "groupTagFilter": null
+                  "groupTagFilter": null,
+                  "filterTagFilter": null
                 },
                 "blackboard": [
                   {
@@ -81239,7 +82152,8 @@
           "relicUpgradeItemId": "act1bossrush_token_relic",
           "defaultRelictList": [
             "act1bossrush_relic_02"
-          ]
+          ],
+          "rewardSkinId": "char_484_robrta@summer#10"
         }
       }
     },
@@ -81806,9 +82720,13 @@
           }
         }
       }
-    }
+    },
+    "SANDBOX": {}
   },
   "activityItems": {
+    "act22side": [
+      "act22side_token_manuscript"
+    ],
     "act21side": [
       "act21side_token_permesso"
     ],
@@ -82027,6 +82945,10 @@
     "act11d7": [
       1623304800,
       1624219199
+    ],
+    "act22side": [
+      1697695200,
+      1698868799
     ],
     "act14sre": [
       1693294200,
@@ -84485,6 +85407,40 @@
         }
       ],
       "startTs": 1693294200
+    },
+    {
+      "id": "dis_side_22",
+      "type": "ACTIVITY",
+      "funcId": "act22side",
+      "endTs": 1698868799,
+      "sortId": 37,
+      "itemId": "act22side_token_manuscript",
+      "timeNodes": [
+        {
+          "title": "<照我以火>活動已開放",
+          "ts": 1697695200
+        },
+        {
+          "title": "\"記憶灰燼\"內關卡已開放",
+          "ts": 1698307200
+        }
+      ],
+      "startTs": 1697695200
+    },
+    {
+      "id": "dis_rogue_2_enroll_1",
+      "type": "ROGUELIKE",
+      "funcId": "rogue_2_entry_display_2",
+      "endTs": 1698263999,
+      "sortId": 38,
+      "itemId": null,
+      "timeNodes": [
+        {
+          "title": "集成戰略<水月與深藍之樹>深入探索模式已開啟",
+          "ts": 1697702400
+        }
+      ],
+      "startTs": 1697702400
     }
   ],
   "actFunData": {
@@ -85916,7 +86872,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -85939,7 +86896,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -85966,7 +86924,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -85989,7 +86948,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86016,7 +86976,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86039,7 +87000,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86062,7 +87024,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86089,7 +87052,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86112,7 +87076,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86135,7 +87100,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86162,7 +87128,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86185,7 +87152,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86212,7 +87180,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86235,7 +87204,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86258,7 +87228,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86285,7 +87256,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86308,7 +87280,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86331,7 +87304,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86358,7 +87332,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86381,7 +87356,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86408,7 +87384,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86431,7 +87408,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86458,7 +87436,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86481,7 +87460,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86504,7 +87484,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86531,7 +87512,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86554,7 +87536,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86577,7 +87560,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86604,7 +87588,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86627,7 +87612,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86654,7 +87640,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86685,7 +87672,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86712,7 +87700,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86743,7 +87732,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86770,7 +87760,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86801,7 +87792,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86832,7 +87824,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86863,7 +87856,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86886,7 +87880,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86909,7 +87904,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86936,7 +87932,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86959,7 +87956,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -86982,7 +87980,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87009,7 +88008,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87032,7 +88032,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87055,7 +88056,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87082,7 +88084,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87105,7 +88108,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87128,7 +88132,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87155,7 +88160,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87182,7 +88188,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87205,7 +88212,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87232,7 +88240,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87259,7 +88268,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87282,7 +88292,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87309,7 +88320,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87336,7 +88348,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87359,7 +88372,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87386,7 +88400,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87417,7 +88432,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87440,7 +88456,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87467,7 +88484,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87498,7 +88516,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87521,7 +88540,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87548,7 +88568,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87579,7 +88600,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87602,7 +88624,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87629,7 +88652,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87660,7 +88684,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87683,7 +88708,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87710,7 +88736,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87737,7 +88764,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87760,7 +88788,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87787,7 +88816,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87814,7 +88844,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87837,7 +88868,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87864,7 +88896,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87891,7 +88924,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87914,7 +88948,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87941,7 +88976,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87968,7 +89004,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -87991,7 +89028,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88018,7 +89056,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88045,7 +89084,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88068,7 +89108,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88095,7 +89136,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88122,7 +89164,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88145,7 +89188,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88172,7 +89216,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88199,7 +89244,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88226,7 +89272,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88253,7 +89300,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88280,7 +89328,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88307,7 +89356,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88334,7 +89384,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88365,7 +89416,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88396,7 +89448,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88427,7 +89480,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88458,7 +89512,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88489,7 +89544,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88520,7 +89576,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88551,7 +89608,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88582,7 +89640,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88613,7 +89672,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88644,7 +89704,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88675,7 +89736,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88706,7 +89768,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {
@@ -88737,7 +89800,8 @@
               "enemyIdExcludeFilter": null,
               "skillIdFilter": null,
               "tileKeyFilter": null,
-              "groupTagFilter": null
+              "groupTagFilter": null,
+              "filterTagFilter": null
             },
             "blackboard": [
               {

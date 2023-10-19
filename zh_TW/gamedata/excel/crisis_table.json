@@ -290,6 +290,7 @@
   "unlockCoinLv3": 2,
   "hardPointPerm": 8,
   "hardPointTemp": 4,
+  "voiceGrade": 18,
   "crisisRuneCoinUnlockItemTitle": "兌換說明",
   "crisisRuneCoinUnlockItemDesc": "不管是否被使用，賽季結束後所有獲得過的行動協議均可兌換為等量的物資。\n需重新登入危機合約系統方可領取。"
 }

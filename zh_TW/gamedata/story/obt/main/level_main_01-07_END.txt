@@ -50,7 +50,7 @@
 [Character(name="char_1002_nsabr_2",name2="char_1002_nsabr_2",fadetime=1)]
 [Delay(time=2)]
 [Character(name="char_130_doberm_ex")]
-[name="杜賓"]   廣場，坡道，建築......四處的廢墟
+[name="杜賓"]   廣場，坡道，建築......四處的廢墟。
 [name="杜賓"]   這個數量，呵......
 [name="杜賓"]   難怪除了那些真的要被砸成泥漿的人以外，他們一點都不懼怕天災。
 [name="杜賓"]   哪怕天災，說多些.......

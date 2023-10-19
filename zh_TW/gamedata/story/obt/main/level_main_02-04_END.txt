@@ -48,7 +48,7 @@
 [name="米莎"]   ......咦？
 [name="米莎"]   ......龍門近衛局？
 [Character(name="char_002_amiya_1", name2="char_012_misa_1", focus=1)]
-[name="阿米婭"]   我們現在的任務，是把你安全的移交給近衛局，由他們進行暫時的保護。
+[name="阿米婭"]   我們現在的任務，是把你安全地移交給近衛局，由他們進行暫時的保護。
 [Character(name="char_002_amiya_1", name2="char_012_misa_1", focus=2)]
 [name="米莎"]   ......
 [name="米莎"]   ......我差點就以為，你們真的是來救我的了。

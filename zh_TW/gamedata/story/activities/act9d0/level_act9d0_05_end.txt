@@ -135,18 +135,18 @@
 [Character(name="char_1002_nsabr_2")]
 [name="整合運動士兵"]  剛才發生的襲擊波及了這裡，薩卡茲雇傭兵小隊長之一的伊內絲，死亡。
 [Character(name="char_1002_nsabr_2", name2="char_1011_wizard_1", focus=2)]
-[name="堅毅的整合運動術士"]  不去確認她的屍體？
+[name="堅毅的整合運動術師"]  不去確認她的屍體？
 [Character(name="char_1002_nsabr_2", name2="char_1011_wizard_1", focus=1)]
 [name="整合運動士兵"]  ......剛才的戰鬥動靜太大，已經有人被吸引過來了，立刻炸毀這條街道。
 [Character(name="char_1002_nsabr_2", name2="char_1011_wizard_1", focus=2)]
-[name="堅毅的整合運動術士"]  是。
+[name="堅毅的整合運動術師"]  是。
 [Character(name="char_1002_nsabr_2")]
 [name="整合運動士兵"]  等等。
 [Character(name="char_1002_nsabr_2", name2="char_1011_wizard_1", focus=1)]
 [name="整合運動士兵"]  整合運動也要有人......和她一併奮戰到了最後。
 [Character(name="char_1002_nsabr_2", name2="char_1011_wizard_1", focus=2)]
-[name="堅毅的整合運動術士"]  ......我明白了。
-[name="堅毅的整合運動術士"]  照顧好我的家人，他們還在城裡。
+[name="堅毅的整合運動術師"]  ......我明白了。
+[name="堅毅的整合運動術師"]  照顧好我的家人，他們還在城裡。
 [Character(name="char_1002_nsabr_2", name2="char_1011_wizard_1", focus=1)]
 [name="整合運動士兵"]  當然，我向你許諾。
 [Dialog]

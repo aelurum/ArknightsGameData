@@ -53,7 +53,7 @@
 [Character(name="avg_npc_042",name2="avg_npc_058",focus=1)]
 [name="迷迭香"] 你想放下？你能......放下？
 [Character(name="avg_npc_042",name2="avg_npc_058",focus=2)]
-[name="盾衛"] 是的，你殺了我們的親人。你殺了我們的指揮官，我們領袖和榜樣，我們的大尉。
+[name="盾衛"] 是的，你殺了我們的親人。你殺了我們的指揮官，我們的領袖和榜樣，我們的大尉。
 [name="盾衛"] 但我們不會因為你這麼做了就動手。
 [Character(name="avg_npc_042",name2="avg_npc_058",focus=1)]
 [name="迷迭香"] 你們不想報仇嗎？

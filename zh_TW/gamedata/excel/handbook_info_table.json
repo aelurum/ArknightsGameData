@@ -2,7 +2,6 @@
   "handbookDict": {
     "char_500_noirc": {
       "charID": "char_500_noirc",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -128,7 +127,6 @@
     },
     "char_501_durin": {
       "charID": "char_501_durin",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -242,7 +240,6 @@
     },
     "char_502_nblade": {
       "charID": "char_502_nblade",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -334,7 +331,6 @@
     },
     "char_503_rang": {
       "charID": "char_503_rang",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -426,7 +422,6 @@
     },
     "char_122_beagle": {
       "charID": "char_122_beagle",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -530,7 +525,6 @@
     },
     "char_123_fang": {
       "charID": "char_123_fang",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -668,7 +662,6 @@
     },
     "char_124_kroos": {
       "charID": "char_124_kroos",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -806,7 +799,6 @@
     },
     "char_121_lava": {
       "charID": "char_121_lava",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -965,7 +957,6 @@
     },
     "char_120_hibisc": {
       "charID": "char_120_hibisc",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1069,7 +1060,6 @@
     },
     "char_208_melan": {
       "charID": "char_208_melan",
-      "drawName": "一立里子",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1207,7 +1197,6 @@
     },
     "char_209_ardign": {
       "charID": "char_209_ardign",
-      "drawName": "一立里子",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1345,7 +1334,6 @@
     },
     "char_210_stward": {
       "charID": "char_210_stward",
-      "drawName": "一立里子",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1437,7 +1425,6 @@
     },
     "char_211_adnach": {
       "charID": "char_211_adnach",
-      "drawName": "一立里子",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1529,7 +1516,6 @@
     },
     "char_212_ansel": {
       "charID": "char_212_ansel",
-      "drawName": "一立里子",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1621,7 +1607,6 @@
     },
     "char_108_silent": {
       "charID": "char_108_silent",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1759,7 +1744,6 @@
     },
     "char_134_ifrit": {
       "charID": "char_134_ifrit",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -1909,7 +1893,6 @@
     },
     "char_202_demkni": {
       "charID": "char_202_demkni",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -2025,7 +2008,6 @@
     },
     "char_128_plosis": {
       "charID": "char_128_plosis",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -2151,7 +2133,6 @@
     },
     "char_242_otter": {
       "charID": "char_242_otter",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -2334,7 +2315,6 @@
     },
     "char_215_mantic": {
       "charID": "char_215_mantic",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -2472,7 +2452,6 @@
     },
     "char_149_scave": {
       "charID": "char_149_scave",
-      "drawName": "戲言鹹鹹",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -2622,7 +2601,6 @@
     },
     "char_204_platnm": {
       "charID": "char_204_platnm",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -2772,7 +2750,6 @@
     },
     "char_172_svrash": {
       "charID": "char_172_svrash",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -2955,7 +2932,6 @@
     },
     "char_173_slchan": {
       "charID": "char_173_slchan",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -3105,7 +3081,6 @@
     },
     "char_174_slbell": {
       "charID": "char_174_slbell",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -3255,7 +3230,6 @@
     },
     "char_198_blackd": {
       "charID": "char_198_blackd",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -3371,7 +3345,6 @@
     },
     "char_199_yak": {
       "charID": "char_199_yak",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -3509,7 +3482,6 @@
     },
     "char_219_meteo": {
       "charID": "char_219_meteo",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -3659,7 +3631,6 @@
     },
     "char_158_milu": {
       "charID": "char_158_milu",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -3797,7 +3768,6 @@
     },
     "char_115_headbr": {
       "charID": "char_115_headbr",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -3935,7 +3905,6 @@
     },
     "char_195_glassb": {
       "charID": "char_195_glassb",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -4073,7 +4042,6 @@
     },
     "char_196_sunbr": {
       "charID": "char_196_sunbr",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -4232,7 +4200,6 @@
     },
     "char_147_shining": {
       "charID": "char_147_shining",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -4348,7 +4315,6 @@
     },
     "char_148_nearl": {
       "charID": "char_148_nearl",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -4464,7 +4430,6 @@
     },
     "char_179_cgbird": {
       "charID": "char_179_cgbird",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -4614,7 +4579,6 @@
     },
     "char_112_siege": {
       "charID": "char_112_siege",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -4730,7 +4694,6 @@
     },
     "char_155_tiger": {
       "charID": "char_155_tiger",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -4868,7 +4831,6 @@
     },
     "char_101_sora": {
       "charID": "char_101_sora",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -5018,7 +4980,6 @@
     },
     "char_102_texas": {
       "charID": "char_102_texas",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -5168,7 +5129,6 @@
     },
     "char_103_angel": {
       "charID": "char_103_angel",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -5351,7 +5311,6 @@
     },
     "char_201_moeshd": {
       "charID": "char_201_moeshd",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -5489,7 +5448,6 @@
     },
     "char_118_yuki": {
       "charID": "char_118_yuki",
-      "drawName": "阿鬼",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -5639,7 +5597,6 @@
     },
     "char_136_hsguma": {
       "charID": "char_136_hsguma",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -5755,7 +5712,6 @@
     },
     "char_106_franka": {
       "charID": "char_106_franka",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -5893,7 +5849,6 @@
     },
     "char_107_liskam": {
       "charID": "char_107_liskam",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -6064,7 +6019,6 @@
     },
     "char_117_myrrh": {
       "charID": "char_117_myrrh",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -6202,7 +6156,6 @@
     },
     "char_193_frostl": {
       "charID": "char_193_frostl",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -6306,7 +6259,6 @@
     },
     "char_129_bluep": {
       "charID": "char_129_bluep",
-      "drawName": "LLC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -6444,7 +6396,6 @@
     },
     "char_143_ghost": {
       "charID": "char_143_ghost",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -6627,7 +6578,6 @@
     },
     "char_181_flower": {
       "charID": "char_181_flower",
-      "drawName": "Lanzi",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -6798,7 +6748,6 @@
     },
     "char_109_fmout": {
       "charID": "char_109_fmout",
-      "drawName": "謎肘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -6924,7 +6873,6 @@
     },
     "char_126_shotst": {
       "charID": "char_126_shotst",
-      "drawName": "HUG",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -7095,7 +7043,6 @@
     },
     "char_127_estell": {
       "charID": "char_127_estell",
-      "drawName": "鴨",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -7221,7 +7168,6 @@
     },
     "char_141_nights": {
       "charID": "char_141_nights",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -7359,7 +7305,6 @@
     },
     "char_145_prove": {
       "charID": "char_145_prove",
-      "drawName": "渣念",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -7530,7 +7475,6 @@
     },
     "char_183_skgoat": {
       "charID": "char_183_skgoat",
-      "drawName": "HUG",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -7701,7 +7645,6 @@
     },
     "char_187_ccheal": {
       "charID": "char_187_ccheal",
-      "drawName": "LLC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -7793,7 +7736,6 @@
     },
     "char_241_panda": {
       "charID": "char_241_panda",
-      "drawName": "RAN",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -7919,7 +7861,6 @@
     },
     "char_180_amgoat": {
       "charID": "char_180_amgoat",
-      "drawName": "Anmi",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8102,7 +8043,6 @@
     },
     "char_185_frncat": {
       "charID": "char_185_frncat",
-      "drawName": "Iritoa",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8190,11 +8130,44 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_frncat_set_1",
+          "storySetName": "小點心",
+          "sortId": 1,
+          "storyGetTime": 1697695200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_frncat_set_1_story_1",
+              "storySetId": "story_frncat_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "對一份新款的麵包而言，心意和情意是它的最佳配料。",
+              "storyInfo": "info/obt/memory/story_frncat_1_1",
+              "storyTxt": "obt/memory/story_frncat_1_1"
+            }
+          ],
+          "charId": "char_185_frncat"
+        }
+      ]
     },
     "char_150_snakek": {
       "charID": "char_150_snakek",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8298,7 +8271,6 @@
     },
     "char_130_doberm": {
       "charID": "char_130_doberm",
-      "drawName": "LLC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8390,7 +8362,6 @@
     },
     "char_163_hpsts": {
       "charID": "char_163_hpsts",
-      "drawName": "neco",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8528,7 +8499,6 @@
     },
     "char_144_red": {
       "charID": "char_144_red",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8644,7 +8614,6 @@
     },
     "char_140_whitew": {
       "charID": "char_140_whitew",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8748,7 +8717,6 @@
     },
     "char_171_bldsk": {
       "charID": "char_171_bldsk",
-      "drawName": "時辰",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -8931,7 +8899,6 @@
     },
     "char_002_amiya": {
       "charID": "char_002_amiya",
-      "drawName": "唯@W",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9011,7 +8978,6 @@
     },
     "char_110_deepcl": {
       "charID": "char_110_deepcl",
-      "drawName": "REALMBW",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9149,7 +9115,6 @@
     },
     "char_166_skfire": {
       "charID": "char_166_skfire",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9299,7 +9264,6 @@
     },
     "char_240_wyvern": {
       "charID": "char_240_wyvern",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9425,7 +9389,6 @@
     },
     "char_236_rope": {
       "charID": "char_236_rope",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9572,7 +9535,6 @@
     },
     "char_237_gravel": {
       "charID": "char_237_gravel",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9710,7 +9672,6 @@
     },
     "char_286_cast3": {
       "charID": "char_286_cast3",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9800,7 +9761,6 @@
     },
     "char_285_medic2": {
       "charID": "char_285_medic2",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -9890,7 +9850,6 @@
     },
     "char_009_12fce": {
       "charID": "char_009_12fce",
-      "drawName": "海貓絡合物",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10028,7 +9987,6 @@
     },
     "char_278_orchid": {
       "charID": "char_278_orchid",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10166,7 +10124,6 @@
     },
     "char_235_jesica": {
       "charID": "char_235_jesica",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10292,7 +10249,6 @@
     },
     "char_290_vigna": {
       "charID": "char_290_vigna",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10430,7 +10386,6 @@
     },
     "char_289_gyuki": {
       "charID": "char_289_gyuki",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10534,7 +10489,6 @@
     },
     "char_277_sqrrel": {
       "charID": "char_277_sqrrel",
-      "drawName": "阿鬼",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10705,7 +10659,6 @@
     },
     "char_291_aglina": {
       "charID": "char_291_aglina",
-      "drawName": "LM7",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10852,7 +10805,6 @@
     },
     "char_192_falco": {
       "charID": "char_192_falco",
-      "drawName": "deel",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10978,7 +10930,6 @@
     },
     "npc_2005_wywu": {
       "charID": "npc_2005_wywu",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -10998,7 +10949,6 @@
     },
     "npc_2006_fmzuki": {
       "charID": "npc_2006_fmzuki",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11018,7 +10968,6 @@
     },
     "npc_003_kalts": {
       "charID": "npc_003_kalts",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11038,7 +10987,6 @@
     },
     "npc_010_chen": {
       "charID": "npc_010_chen",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11058,7 +11006,6 @@
     },
     "npc_001_doctor": {
       "charID": "npc_001_doctor",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11078,7 +11025,6 @@
     },
     "char_230_savage": {
       "charID": "char_230_savage",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11270,7 +11216,6 @@
     },
     "char_282_catap": {
       "charID": "char_282_catap",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11441,7 +11386,6 @@
     },
     "char_283_midn": {
       "charID": "char_283_midn",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11579,7 +11523,6 @@
     },
     "char_137_brownb": {
       "charID": "char_137_brownb",
-      "drawName": "toast",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11717,7 +11660,6 @@
     },
     "char_164_nightm": {
       "charID": "char_164_nightm",
-      "drawName": "Lpip",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11821,7 +11763,6 @@
     },
     "char_220_grani": {
       "charID": "char_220_grani",
-      "drawName": "alchemaniac",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -11937,7 +11878,6 @@
     },
     "char_263_skadi": {
       "charID": "char_263_skadi",
-      "drawName": "alchemaniac",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -12087,7 +12027,6 @@
     },
     "char_284_spot": {
       "charID": "char_284_spot",
-      "drawName": "阿鬼",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -12225,7 +12164,6 @@
     },
     "char_281_popka": {
       "charID": "char_281_popka",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -12363,7 +12301,6 @@
     },
     "char_308_swire": {
       "charID": "char_308_swire",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -12513,7 +12450,6 @@
     },
     "char_253_greyy": {
       "charID": "char_253_greyy",
-      "drawName": "我妻洛醬",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -12651,7 +12587,6 @@
     },
     "char_010_chen": {
       "charID": "char_010_chen",
-      "drawName": "唯@W",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -12801,7 +12736,6 @@
     },
     "char_298_susuro": {
       "charID": "char_298_susuro",
-      "drawName": "將",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -12939,7 +12873,6 @@
     },
     "char_151_myrtle": {
       "charID": "char_151_myrtle",
-      "drawName": "咩煲",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -13043,7 +12976,6 @@
     },
     "char_274_astesi": {
       "charID": "char_274_astesi",
-      "drawName": "YUJI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -13193,7 +13125,6 @@
     },
     "char_326_glacus": {
       "charID": "char_326_glacus",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -13309,7 +13240,6 @@
     },
     "char_348_ceylon": {
       "charID": "char_348_ceylon",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -13447,7 +13377,6 @@
     },
     "char_340_shwaz": {
       "charID": "char_340_shwaz",
-      "drawName": "Liduke",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -13597,7 +13526,6 @@
     },
     "char_188_helage": {
       "charID": "char_188_helage",
-      "drawName": "Liduke",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -13747,7 +13675,6 @@
     },
     "char_260_durnar": {
       "charID": "char_260_durnar",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -13930,7 +13857,6 @@
     },
     "char_355_ethan": {
       "charID": "char_355_ethan",
-      "drawName": "阿鬼",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14080,7 +14006,6 @@
     },
     "char_275_breeze": {
       "charID": "char_275_breeze",
-      "drawName": "藻",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14230,7 +14155,6 @@
     },
     "char_248_mgllan": {
       "charID": "char_248_mgllan",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14380,7 +14304,6 @@
     },
     "char_131_flameb": {
       "charID": "char_131_flameb",
-      "drawName": "虎三",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14496,7 +14419,6 @@
     },
     "char_279_excu": {
       "charID": "char_279_excu",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14612,7 +14534,6 @@
     },
     "char_190_clour": {
       "charID": "char_190_clour",
-      "drawName": "KENTllaall",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14716,7 +14637,6 @@
     },
     "char_213_mostma": {
       "charID": "char_213_mostma",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14866,7 +14786,6 @@
     },
     "char_325_bison": {
       "charID": "char_325_bison",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -14982,7 +14901,6 @@
     },
     "char_243_waaifu": {
       "charID": "char_243_waaifu",
-      "drawName": "KuroBlood",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -15132,7 +15050,6 @@
     },
     "char_133_mm": {
       "charID": "char_133_mm",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -15244,11 +15161,44 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_mm_set_1",
+          "storySetName": "大偵探探案集·卷一",
+          "sortId": 1,
+          "storyGetTime": 1697695200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_mm_set_1_story_1",
+              "storySetId": "story_mm_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "維多利亞探案界的閃亮新星！大偵探梅緹絲·傑拉爾丁值得紀念的第一案！",
+              "storyInfo": "info/obt/memory/story_mm_1_1",
+              "storyTxt": "obt/memory/story_mm_1_1"
+            }
+          ],
+          "charId": "char_133_mm"
+        }
+      ]
     },
     "char_356_broca": {
       "charID": "char_356_broca",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -15386,7 +15336,6 @@
     },
     "char_261_sddrag": {
       "charID": "char_261_sddrag",
-      "drawName": "STAR影法師",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -15502,7 +15451,6 @@
     },
     "char_017_huang": {
       "charID": "char_017_huang",
-      "drawName": "唯@W",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -15652,7 +15600,6 @@
     },
     "char_367_swllow": {
       "charID": "char_367_swllow",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -15768,7 +15715,6 @@
     },
     "char_302_glaze": {
       "charID": "char_302_glaze",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -15872,7 +15818,6 @@
     },
     "char_2014_nian": {
       "charID": "char_2014_nian",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16022,7 +15967,6 @@
     },
     "char_225_haak": {
       "charID": "char_225_haak",
-      "drawName": "KuroBlood",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16138,7 +16082,6 @@
     },
     "char_226_hmau": {
       "charID": "char_226_hmau",
-      "drawName": "KuroBlood",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16276,7 +16219,6 @@
     },
     "char_383_snsant": {
       "charID": "char_383_snsant",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16392,7 +16334,6 @@
     },
     "char_2013_cerber": {
       "charID": "char_2013_cerber",
-      "drawName": "LM7",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16542,7 +16483,6 @@
     },
     "char_306_leizi": {
       "charID": "char_306_leizi",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16658,7 +16598,6 @@
     },
     "char_385_finlpp": {
       "charID": "char_385_finlpp",
-      "drawName": "唯@W",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16774,7 +16713,6 @@
     },
     "char_222_bpipe": {
       "charID": "char_222_bpipe",
-      "drawName": "u介",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -16924,7 +16862,6 @@
     },
     "char_379_sesa": {
       "charID": "char_379_sesa",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17040,7 +16977,6 @@
     },
     "char_337_utage": {
       "charID": "char_337_utage",
-      "drawName": "釜飯轟々丸",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17156,7 +17092,6 @@
     },
     "char_252_bibeak": {
       "charID": "char_252_bibeak",
-      "drawName": "RAYVON",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17306,7 +17241,6 @@
     },
     "char_159_peacok": {
       "charID": "char_159_peacok",
-      "drawName": "TOMATO",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17410,7 +17344,6 @@
     },
     "char_376_therex": {
       "charID": "char_376_therex",
-      "drawName": "TOKI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17500,7 +17433,6 @@
     },
     "char_301_cutter": {
       "charID": "char_301_cutter",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17650,7 +17582,6 @@
     },
     "char_254_vodfox": {
       "charID": "char_254_vodfox",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17766,7 +17697,6 @@
     },
     "char_333_sidero": {
       "charID": "char_333_sidero",
-      "drawName": "將",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -17916,7 +17846,6 @@
     },
     "char_401_elysm": {
       "charID": "char_401_elysm",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18066,7 +17995,6 @@
     },
     "char_250_phatom": {
       "charID": "char_250_phatom",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18216,7 +18144,6 @@
     },
     "char_400_weedy": {
       "charID": "char_400_weedy",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18366,7 +18293,6 @@
     },
     "char_113_cqbw": {
       "charID": "char_113_cqbw",
-      "drawName": "Liduke",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18482,7 +18408,6 @@
     },
     "char_405_absin": {
       "charID": "char_405_absin",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18598,7 +18523,6 @@
     },
     "char_373_lionhd": {
       "charID": "char_373_lionhd",
-      "drawName": "野崎つばた",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18714,7 +18638,6 @@
     },
     "char_378_asbest": {
       "charID": "char_378_asbest",
-      "drawName": "TEAM EXPNDR",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18852,7 +18775,6 @@
     },
     "char_343_tknogi": {
       "charID": "char_343_tknogi",
-      "drawName": "上埜",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -18968,7 +18890,6 @@
     },
     "char_197_poca": {
       "charID": "char_197_poca",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19084,7 +19005,6 @@
     },
     "char_258_podego": {
       "charID": "char_258_podego",
-      "drawName": "アシマ",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19222,7 +19142,6 @@
     },
     "char_358_lisa": {
       "charID": "char_358_lisa",
-      "drawName": "將",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19338,7 +19257,6 @@
     },
     "char_328_cammou": {
       "charID": "char_328_cammou",
-      "drawName": "れおえん",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19454,7 +19372,6 @@
     },
     "char_344_beewax": {
       "charID": "char_344_beewax",
-      "drawName": "カワグチ",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19604,7 +19521,6 @@
     },
     "char_336_folivo": {
       "charID": "char_336_folivo",
-      "drawName": "アシマ",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19754,7 +19670,6 @@
     },
     "char_294_ayer": {
       "charID": "char_294_ayer",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19870,7 +19785,6 @@
     },
     "char_349_chiave": {
       "charID": "char_349_chiave",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -19974,7 +19888,6 @@
     },
     "char_345_folnic": {
       "charID": "char_345_folnic",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -20090,7 +20003,6 @@
     },
     "char_293_thorns": {
       "charID": "char_293_thorns",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -20240,7 +20152,6 @@
     },
     "char_218_cuttle": {
       "charID": "char_218_cuttle",
-      "drawName": "LLC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -20356,7 +20267,6 @@
     },
     "char_272_strong": {
       "charID": "char_272_strong",
-      "drawName": "阿鬼",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -20494,7 +20404,6 @@
     },
     "char_366_acdrop": {
       "charID": "char_366_acdrop",
-      "drawName": "Lanzi",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -20610,7 +20519,6 @@
     },
     "char_411_tomimi": {
       "charID": "char_411_tomimi",
-      "drawName": "Chuzenji",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -20760,7 +20668,6 @@
     },
     "char_415_flint": {
       "charID": "char_415_flint",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -20910,7 +20817,6 @@
     },
     "char_416_zumama": {
       "charID": "char_416_zumama",
-      "drawName": "Liduke",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21026,7 +20932,6 @@
     },
     "char_271_spikes": {
       "charID": "char_271_spikes",
-      "drawName": "umo_yszx",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21142,7 +21047,6 @@
     },
     "char_365_aprl": {
       "charID": "char_365_aprl",
-      "drawName": "れおえん",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21280,7 +21184,6 @@
     },
     "char_388_mint": {
       "charID": "char_388_mint",
-      "drawName": "ヌードル",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21430,7 +21333,6 @@
     },
     "char_350_surtr": {
       "charID": "char_350_surtr",
-      "drawName": "Ask",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21546,7 +21448,6 @@
     },
     "char_381_bubble": {
       "charID": "char_381_bubble",
-      "drawName": "Cenm0",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21662,7 +21563,6 @@
     },
     "char_346_aosta": {
       "charID": "char_346_aosta",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21800,7 +21700,6 @@
     },
     "char_265_sophia": {
       "charID": "char_265_sophia",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -21904,7 +21803,6 @@
     },
     "char_423_blemsh": {
       "charID": "char_423_blemsh",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22054,7 +21952,6 @@
     },
     "char_311_mudrok": {
       "charID": "char_311_mudrok",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22170,7 +22067,6 @@
     },
     "char_391_rosmon": {
       "charID": "char_391_rosmon",
-      "drawName": "唯@W",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22286,7 +22182,6 @@
     },
     "char_436_whispr": {
       "charID": "char_436_whispr",
-      "drawName": "Chuzenji",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22436,7 +22331,6 @@
     },
     "char_347_jaksel": {
       "charID": "char_347_jaksel",
-      "drawName": "Nagu",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22552,7 +22446,6 @@
     },
     "char_264_f12yin": {
       "charID": "char_264_f12yin",
-      "drawName": "WincalBlanke",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22735,7 +22628,6 @@
     },
     "char_214_kafka": {
       "charID": "char_214_kafka",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22851,7 +22743,6 @@
     },
     "char_451_robin": {
       "charID": "char_451_robin",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -22967,7 +22858,6 @@
     },
     "char_440_pinecn": {
       "charID": "char_440_pinecn",
-      "drawName": "TrNyteal",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -23117,7 +23007,6 @@
     },
     "char_332_archet": {
       "charID": "char_332_archet",
-      "drawName": "alchemaniac",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -23233,7 +23122,6 @@
     },
     "char_338_iris": {
       "charID": "char_338_iris",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -23349,7 +23237,6 @@
     },
     "char_452_bstalk": {
       "charID": "char_452_bstalk",
-      "drawName": "一千",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -23499,7 +23386,6 @@
     },
     "char_402_tuye": {
       "charID": "char_402_tuye",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -23649,7 +23535,6 @@
     },
     "char_455_nothin": {
       "charID": "char_455_nothin",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -23799,7 +23684,6 @@
     },
     "char_362_saga": {
       "charID": "char_362_saga",
-      "drawName": "多元菌",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -23915,7 +23799,6 @@
     },
     "char_2015_dusk": {
       "charID": "char_2015_dusk",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -24031,7 +23914,6 @@
     },
     "char_1011_lava2": {
       "charID": "char_1011_lava2",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -24147,7 +24029,6 @@
     },
     "char_456_ash": {
       "charID": "char_456_ash",
-      "drawName": "Ubisoft",
       "infoName": "Unknown",
       "isLimited": true,
       "storyTextAudio": [
@@ -24264,7 +24145,6 @@
     },
     "char_457_blitz": {
       "charID": "char_457_blitz",
-      "drawName": "Ubisoft",
       "infoName": "Unknown",
       "isLimited": true,
       "storyTextAudio": [
@@ -24381,7 +24261,6 @@
     },
     "char_458_rfrost": {
       "charID": "char_458_rfrost",
-      "drawName": "Ubisoft",
       "infoName": "Unknown",
       "isLimited": true,
       "storyTextAudio": [
@@ -24498,7 +24377,6 @@
     },
     "char_459_tachak": {
       "charID": "char_459_tachak",
-      "drawName": "Ubisoft",
       "infoName": "Unknown",
       "isLimited": true,
       "storyTextAudio": [
@@ -24615,7 +24493,6 @@
     },
     "char_472_pasngr": {
       "charID": "char_472_pasngr",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -24731,7 +24608,6 @@
     },
     "char_363_toddi": {
       "charID": "char_363_toddi",
-      "drawName": "山×2",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -24881,7 +24757,6 @@
     },
     "char_304_zebra": {
       "charID": "char_304_zebra",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -24997,7 +24872,6 @@
     },
     "char_1012_skadi2": {
       "charID": "char_1012_skadi2",
-      "drawName": "alchemaniac",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -25113,7 +24987,6 @@
     },
     "char_003_kalts": {
       "charID": "char_003_kalts",
-      "drawName": "唯@W",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -25229,7 +25102,6 @@
     },
     "char_474_glady": {
       "charID": "char_474_glady",
-      "drawName": "Chuzenji",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -25379,7 +25251,6 @@
     },
     "char_475_akafyu": {
       "charID": "char_475_akafyu",
-      "drawName": "熊太",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -25495,7 +25366,6 @@
     },
     "char_426_billro": {
       "charID": "char_426_billro",
-      "drawName": "カワグチ",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -25645,7 +25515,6 @@
     },
     "char_478_kirara": {
       "charID": "char_478_kirara",
-      "drawName": "我妻洛醬",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -25828,7 +25697,6 @@
     },
     "char_369_bena": {
       "charID": "char_369_bena",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -25944,7 +25812,6 @@
     },
     "char_469_indigo": {
       "charID": "char_469_indigo",
-      "drawName": "織布機loom",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -26094,7 +25961,6 @@
     },
     "char_485_pallas": {
       "charID": "char_485_pallas",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -26210,7 +26076,6 @@
     },
     "char_421_crow": {
       "charID": "char_421_crow",
-      "drawName": "LAL!ROLE",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -26326,7 +26191,6 @@
     },
     "char_437_mizuki": {
       "charID": "char_437_mizuki",
-      "drawName": "Namie",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -26476,7 +26340,6 @@
     },
     "char_1013_chen2": {
       "charID": "char_1013_chen2",
-      "drawName": "唯@W",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -26659,7 +26522,6 @@
     },
     "char_486_takila": {
       "charID": "char_486_takila",
-      "drawName": "一千",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -26809,7 +26671,6 @@
     },
     "char_479_sleach": {
       "charID": "char_479_sleach",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -26921,11 +26782,44 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_sleach_set_1",
+          "storySetName": "一雙羽獸",
+          "sortId": 1,
+          "storyGetTime": 1697695200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_sleach_set_1_story_1",
+              "storySetId": "story_sleach_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "隨著旗幟升高的，還有放飛的希望與期盼。",
+              "storyInfo": "info/obt/memory/story_sleach_1_1",
+              "storyTxt": "obt/memory/story_sleach_1_1"
+            }
+          ],
+          "charId": "char_479_sleach"
+        }
+      ]
     },
     "char_473_mberry": {
       "charID": "char_473_mberry",
-      "drawName": "Jacknife",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27041,7 +26935,6 @@
     },
     "char_484_robrta": {
       "charID": "char_484_robrta",
-      "drawName": "IRIS_囈",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27191,7 +27084,6 @@
     },
     "char_430_fartth": {
       "charID": "char_430_fartth",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27307,7 +27199,6 @@
     },
     "char_431_ashlok": {
       "charID": "char_431_ashlok",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27423,7 +27314,6 @@
     },
     "char_1014_nearl2": {
       "charID": "char_1014_nearl2",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27573,7 +27463,6 @@
     },
     "char_420_flamtl": {
       "charID": "char_420_flamtl",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27689,7 +27578,6 @@
     },
     "char_496_wildmn": {
       "charID": "char_496_wildmn",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27839,7 +27727,6 @@
     },
     "char_4000_jnight": {
       "charID": "char_4000_jnight",
-      "drawName": "NoriZC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -27895,7 +27782,6 @@
     },
     "char_489_serum": {
       "charID": "char_489_serum",
-      "drawName": "Jacknife",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -28011,7 +27897,6 @@
     },
     "char_449_glider": {
       "charID": "char_449_glider",
-      "drawName": "Liyu黎",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -28161,7 +28046,6 @@
     },
     "char_4004_pudd": {
       "charID": "char_4004_pudd",
-      "drawName": "折射鏡",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -28277,7 +28161,6 @@
     },
     "char_206_gnosis": {
       "charID": "char_206_gnosis",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -28393,7 +28276,6 @@
     },
     "char_422_aurora": {
       "charID": "char_422_aurora",
-      "drawName": "LAL!ROLE",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -28543,7 +28425,6 @@
     },
     "char_4019_ncdeer": {
       "charID": "char_4019_ncdeer",
-      "drawName": "IRIS_囈",
       "infoName": "Unknown",
       "isLimited": true,
       "storyTextAudio": [
@@ -28694,7 +28575,6 @@
     },
     "char_4013_kjera": {
       "charID": "char_4013_kjera",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -28810,7 +28690,6 @@
     },
     "char_4025_aprot2": {
       "charID": "char_4025_aprot2",
-      "drawName": "Cenm0",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -28926,7 +28805,6 @@
     },
     "char_476_blkngt": {
       "charID": "char_476_blkngt",
-      "drawName": "溫泉瓜",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29042,7 +28920,6 @@
     },
     "char_2023_ling": {
       "charID": "char_2023_ling",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29192,7 +29069,6 @@
     },
     "char_322_lmlee": {
       "charID": "char_322_lmlee",
-      "drawName": "KuroBlood",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29308,7 +29184,6 @@
     },
     "char_1021_kroos2": {
       "charID": "char_1021_kroos2",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29424,7 +29299,6 @@
     },
     "char_377_gdglow": {
       "charID": "char_377_gdglow",
-      "drawName": "Namie",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29540,7 +29414,6 @@
     },
     "char_492_quercu": {
       "charID": "char_492_quercu",
-      "drawName": "YUJI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29656,7 +29529,6 @@
     },
     "char_300_phenxi": {
       "charID": "char_300_phenxi",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29806,7 +29678,6 @@
     },
     "char_4016_kazema": {
       "charID": "char_4016_kazema",
-      "drawName": "溫泉瓜",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -29922,7 +29793,6 @@
     },
     "char_4036_forcer": {
       "charID": "char_4036_forcer",
-      "drawName": "Chuzenji",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30038,7 +29908,6 @@
     },
     "char_4039_horn": {
       "charID": "char_4039_horn",
-      "drawName": "m9nokuro",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30188,7 +30057,6 @@
     },
     "char_4040_rockr": {
       "charID": "char_4040_rockr",
-      "drawName": "Cenm0",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30338,7 +30206,6 @@
     },
     "char_4041_chnut": {
       "charID": "char_4041_chnut",
-      "drawName": "樹豚",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30454,7 +30321,6 @@
     },
     "char_4045_heidi": {
       "charID": "char_4045_heidi",
-      "drawName": "熊太",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30570,7 +30436,6 @@
     },
     "char_1023_ghost2": {
       "charID": "char_1023_ghost2",
-      "drawName": "Skade",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30720,7 +30585,6 @@
     },
     "char_4009_irene": {
       "charID": "char_4009_irene",
-      "drawName": "aZLing4",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30870,7 +30734,6 @@
     },
     "char_4042_lumen": {
       "charID": "char_4042_lumen",
-      "drawName": "一千",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -30986,7 +30849,6 @@
     },
     "char_4043_erato": {
       "charID": "char_4043_erato",
-      "drawName": "溫泉瓜",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -31102,7 +30964,6 @@
     },
     "char_433_windft": {
       "charID": "char_433_windft",
-      "drawName": "nineo",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -31252,7 +31113,6 @@
     },
     "char_4046_ebnhlz": {
       "charID": "char_4046_ebnhlz",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -31402,7 +31262,6 @@
     },
     "char_1024_hbisc2": {
       "charID": "char_1024_hbisc2",
-      "drawName": "下野宏銘",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -31552,7 +31411,6 @@
     },
     "char_4047_pianst": {
       "charID": "char_4047_pianst",
-      "drawName": "九日九號",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -31668,7 +31526,6 @@
     },
     "char_4048_doroth": {
       "charID": "char_4048_doroth",
-      "drawName": "Jacknife",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -31784,7 +31641,6 @@
     },
     "char_1027_greyy2": {
       "charID": "char_1027_greyy2",
-      "drawName": "我妻洛醬",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -31934,7 +31790,6 @@
     },
     "char_135_halo": {
       "charID": "char_135_halo",
-      "drawName": "YUJI",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -32050,7 +31905,6 @@
     },
     "char_1026_gvial2": {
       "charID": "char_1026_gvial2",
-      "drawName": "LLC",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -32200,7 +32054,6 @@
     },
     "char_4055_bgsnow": {
       "charID": "char_4055_bgsnow",
-      "drawName": "Chuzenji",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -32316,7 +32169,6 @@
     },
     "char_497_ctable": {
       "charID": "char_497_ctable",
-      "drawName": "溫泉瓜",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -32432,7 +32284,6 @@
     },
     "char_4054_malist": {
       "charID": "char_4054_malist",
-      "drawName": "〇亻",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -32548,7 +32399,6 @@
     },
     "char_4067_lolxh": {
       "charID": "char_4067_lolxh",
-      "drawName": "九日九號",
       "infoName": "Unknown",
       "isLimited": true,
       "storyTextAudio": [
@@ -32699,7 +32549,6 @@
     },
     "char_4064_mlynar": {
       "charID": "char_4064_mlynar",
-      "drawName": "竜崎いち",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -32815,7 +32664,6 @@
     },
     "char_4032_provs": {
       "charID": "char_4032_provs",
-      "drawName": "せんむ",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -32931,7 +32779,6 @@
     },
     "char_4066_highmo": {
       "charID": "char_4066_highmo",
-      "drawName": "Horin",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33047,7 +32894,6 @@
     },
     "char_511_asnipe": {
       "charID": "char_511_asnipe",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33115,7 +32961,6 @@
     },
     "char_510_amedic": {
       "charID": "char_510_amedic",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33183,7 +33028,6 @@
     },
     "char_508_aguard": {
       "charID": "char_508_aguard",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33251,7 +33095,6 @@
     },
     "char_509_acast": {
       "charID": "char_509_acast",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33319,7 +33162,6 @@
     },
     "char_513_apionr": {
       "charID": "char_513_apionr",
-      "drawName": "Unknown",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33387,7 +33229,6 @@
     },
     "char_157_dagda": {
       "charID": "char_157_dagda",
-      "drawName": "Infukun",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33503,7 +33344,6 @@
     },
     "char_4062_totter": {
       "charID": "char_4062_totter",
-      "drawName": "板板",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33653,7 +33493,6 @@
     },
     "char_4071_peper": {
       "charID": "char_4071_peper",
-      "drawName": "板板",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33769,7 +33608,6 @@
     },
     "char_4072_ironmn": {
       "charID": "char_4072_ironmn",
-      "drawName": "一千",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -33885,7 +33723,6 @@
     },
     "char_4063_quartz": {
       "charID": "char_4063_quartz",
-      "drawName": "伍秋秋秋秋",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -34001,7 +33838,6 @@
     },
     "char_4014_lunacu": {
       "charID": "char_4014_lunacu",
-      "drawName": "IRIS_囈",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -34117,7 +33953,6 @@
     },
     "char_466_qanik": {
       "charID": "char_466_qanik",
-      "drawName": "三目YYB",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -34233,7 +34068,6 @@
     },
     "char_427_vigil": {
       "charID": "char_427_vigil",
-      "drawName": "hou",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -34383,7 +34217,6 @@
     },
     "char_4065_judge": {
       "charID": "char_4065_judge",
-      "drawName": "IRIS_囈",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -34499,7 +34332,6 @@
     },
     "char_1028_texas2": {
       "charID": "char_1028_texas2",
-      "drawName": "幻象黑兔",
       "infoName": "Unknown",
       "storyTextAudio": [
         {
@@ -34612,6 +34444,385 @@
         }
       ],
       "handbookAvgList": []
+    },
+    "char_4017_puzzle": {
+      "charID": "char_4017_puzzle",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】謎圖\n【性別】男\n【戰鬥經驗】六年\n【出身地】維多利亞\n【生日】12月5日\n【種族】瓦伊凡\n【身高】177cm\n【礦石病感染情況】\n體表有源石結晶分佈，參照醫學檢測報告，確認為感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】優良\n【戰場機動】標準\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】標準\n【源石技藝適應性】標準",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "謎圖，維多利亞軍方情報人員，持開斯特公爵的署名信函，以尋求治療的感染者身份前來羅德島。現與羅德島達成合作協議，在接受治療的同時活躍於各項行動和前期情報搜集工作中。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為礦石病感染者。\n\n【體細胞與源石融合率】11%\n左手臂及體側可見較多源石結晶分佈。\n\n【血液源石結晶密度】0.26u/L\n幹員謎圖在一場爆炸中遭到急性感染，還好感染時間不長，來到羅德島之後病情很快得到了控制。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "幹員謎圖已經通過了入職測試，表現良好，但我們暫時不會讓他參與作戰任務。\n這並不是因為信任問題。他已經向我們表現了誠意，也沒有什麼從內部破壞羅德島的動機。\n當然也不是因為他的能力還有所欠缺。受礦石病影響，他現在的身體狀況和瓦伊凡的平均水準相比是稍微差了一點，但並不影響他發揮自己的戰鬥技巧。同時，他具有的煙霧類源石技藝也為他以隱蔽行動為主的戰鬥提供了不少便利。\n只是，他必須控制自己對源石技藝的使用，甚至也許要大幅度改變自己的戰鬥方式。我們觀察到他近乎透支自我地在戰鬥中施展源石技藝，一方面，他仍然處在礦石病抑制療程中，這種習慣極不利於控制他的病情；另一方面，我們也不能保證感染程度加深是否會導致他的源石技藝失控。\n對於感染前就已經擅長源石技藝的人來說，要改變自己的戰鬥方式乃至生活方式，並沒有那麼容易，更不要說是性格極其固執的謎圖。他會按照自己的邏輯詳細制定計劃，針對最壞情況做應急預案，在此過程中調動他擁有的一切力量；而自身的源石技藝是他可用手段中極為重要的一部分。我們試圖與他溝通，希望他像在行動中準備備用方案那樣，為自己留出更多的容錯空間來。人體不是像鐘錶零件那樣精確運轉的，影響礦石病發展的因素也不可能量化計算，這些都是最簡單直白的道理。\n但最終我們不得不直接暫停他的外勤任務。他當然知道這些道理，只是無法接受。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "導致謎圖感染礦石病的是一次普通的調查行動。當時，他提前察覺到了實施爆破者的異常行徑，原本有足夠的時間逃至安全區域，但同時他也意識到，如果自己試圖接近的關鍵人物在這場爆炸中遇害身亡，那麼他持續至今的調查將在這裡全部斷掉，而且，他是以市政廳辦事員的身份前來調查，如果貿然直接接觸對方，將其勸離，難免會打草驚蛇。\n因此，在半分鐘時間裡，他迅速做出決定，沒有躲避爆炸，但看似下意識地保護了那位關鍵人物。隨後，二人受傷送醫，謎圖得以在對方完全放下防備的情況下與之接觸。\n由於是在閒談中提及此事，謎圖只是簡單解釋了自己當時的行動目的。他受命探查當地貴族可能的軍事籌備，繼而根據一批化工原料訂單追蹤到了城內的某家工廠。當我們出於好意表示“那一定是很重要的任務”的時候，謎圖卻搖了搖頭，表示自己在那裡得到的資訊並不具有多少價值。\n“我能理解他。對於羅德島來說，礦石病就是我們最大的敵人，所以，我不會討論‘什麼情況下感染礦石病也是值得的’。同樣地，他不會接受別人來衡量，他為自己的任務而做出的犧牲是否值得。這是對信念的尊重。”\n——在治療過程中與謎圖展開談話的醫療部幹員",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "謎圖來到羅德島的契機是一封匿名信。\n當時的謎圖正在執行一項針對幹員葦草的調查，並偶遇了與葦草同行的風笛和陳，雙方發生了一些衝突。職業性的警惕令他搜集了大量與三人相關的情報，但三人各自的背景資訊越完整，謎圖就越不明白，為何這三個目的、身份與立場都截然不同的人會如朋友一般共處。\n在尋找關鍵線索的同時，由於已經感染礦石病，謎圖也面臨著選擇：結束自己的情報人員生涯，過上受監視的優渥生活，等待著礦石病奪去自己的生命；或是在情報人員的身份上再進一步。謎圖並未明確解釋他所說的“再進一步”是指什麼，但考慮到他來到羅德島時持有的是開斯特公爵本人的署名信，可以推測，他或許曾有機會成為直接為公爵效力的一類人員。\n接著，他收到了一封信，信封裡只裝了一張羅德島的名片，卻恰巧同時回答了他所有的困惑，也給了他一種新的可能。\n“我當然知道寄信人是誰，也知道她為什麼要這麼做。釋放善意信號，尋求合作，編織關係網，這是一部分情報人員本能的行為方式。但請放心，過去的任務都已經告一段落了，現在的我不會繼續調查你們的幹員葦草，對於那位代號‘和弦’的女士也沒有興趣。”\n謎圖隨後談論起自己對情報工作的看法。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在倫蒂尼姆事件期間，謎圖嚴格遵守著與羅德島達成的合作協定，沒有以任何形式參與其中。不過，我們與他聊起對此事件的看法時，他突兀地提起了自己成為情報人員的經歷。\n在接觸情報工作前，謎圖只是一名普通的在校大學生，在源石技藝方面小有天賦，並因為自己苛刻、追求完美的性格而被大部分同學敬而遠之，至於接觸貴族階層，與軍方合作，為情報部門效力，這些可能性顯然是當時的他完全沒有想過的。但在他後來的上司、某情報組織的牽頭人找到他，問他是否考慮接受培養時，他幾乎是毫不猶豫地答應了下來。\n需要小心謹慎、在細節上也絕不犯錯的情報工作，的確很適合他發揮自己的才能，不過更重要的是，他認同了對方的理念：為了維持社會生活和平有序，將意圖挑起戰爭的對象視作敵人。\n於他而言，“事物各有其秩序”並不是追求，而是他偏執的認知。這種認知當然與充滿偶然的現實生活處處矛盾，尤其是在各大公爵爭執不休、動亂將至的維多利亞，他時時為無端的暴力衝突和朝令夕改導致的混亂感到不快，更對可能爆發的戰爭感到恐懼。\n“戰爭裡沒有道理可言。人們不應該忍受那樣毫無道理的生活。過去幾年裡，我認為我們工作的最大目標，就是避免人們的生活落入那樣悲慘的境地。\n“但從結果來說，我失望了。戰爭最終發生了，而且，是在我們的默許下發生的。絕大多數時間裡，我們小心翼翼，以免自己行動上的小小失誤牽連成百上千人的生命，但戰爭真正顯露出它將要到來的徵兆時，我意識到自己所能做的一切都無法撼動它。\n“......您這樣的試探只是浪費時間，我的忠誠不會改變。只是，無論我如何思考，我也不可能向這一事實妥協。所以現在我在這裡。”",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "呃，是我們幾個幹的，我們拉他去當拼圖限時賽的裁判了。反正他喜歡玩拼圖嘛，每兩周雷打不動地向後勤部提交採購申請單，一到休息日就在桌前坐一整天。\n——我當然知道他是誰，也看得出來，他還不太適應“羅德島合作幹員”這個身份。以前他可能當過市政廳辦事員，當過古董鑑定商，當過貴族的貼身秘書，在那些位置上，他都有一套取信於人的手段；但在羅德島，那些禮儀也好話術也好，恐怕都不太用得上。\n好吧，邀請他其實不是個好主意，他不喜歡限時，也不喜歡看人把事情弄得一團糟，可能他說自己只是把玩拼圖當成一種集中注意力的手段，也是實話。但至少，他無奈地跟我們一起蹲在桌子底下，撿某位失去耐心的幹員掃到地上的拼圖碎片時，我頭一次覺得他沒那麼神經緊繃了。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_297_hamoni": {
+      "charID": "char_297_hamoni",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】和弦\n【性別】女\n【戰鬥經驗】九年\n【出身地】維多利亞\n【生日】5月13日\n【種族】菲林\n【身高】160cm\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】標準\n【戰場機動】普通\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】標準\n【源石技藝適應性】優良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "和弦，前維多利亞軍方情報人員，現深池勢力高級軍官，以威靈頓公爵的外交使臣身份駐留羅德島，協助羅德島在維多利亞境內的部分事務。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓清晰，未見異常陰影，循環系統內源石顆粒檢測未見異常，無礦石病感染跡象，現階段可確認為非礦石病感染者。\n\n【體細胞與源石融合率】0%\n幹員和弦沒有被源石感染的跡象。\n\n【血液源石結晶密度】0.12u/L\n幹員和弦過著甚少接觸源石與感染者的生活。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "出於安全考慮，我們對和弦所持的法杖進行了檢查，現在可以確認，它沒有額外的攝影或者發信功能。另外，我們在測試中都見過她透過那根法杖所施展的、類似水浪的源石技藝，也體驗過它附帶的那種使人呼吸不暢的錯覺，原本我認為這樣一位優秀的術師，所使用的法杖施術單元會更精緻一些，結果居然連一般維多利亞軍方的制式標準都夠不上。再加上從記錄來看，她幾乎從不出現在訓練場，也許作為一名情報人員，她確實更樂於以言辭為手段與人角力，在幕後牽線搭橋，而不習慣踏入真實的戰場。\n不過，和弦參加的數次外勤任務裡，她的隊友時常會在報告中形容她“嚴苛”“雷厲風行”，而被她幫助過的隊友則說，總覺得自己好像做錯了什麼事，但對方也沒有明說，只是繼續按部就班地執行命令，完成任務。\n當然，和弦本人的報告還是和她平時的態度一樣散漫。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在進入維多利亞之前，羅德島就已經做好了捲入複雜局勢的準備，也明白我們在倫蒂尼姆內的行動不可避免地會引起一些勢力的關注。儘管如此，當幹員和弦以公爵使者的身份來到羅德島本艦時，絕大多數知情者都感到了緊張。\n對於高傲的公爵們來說，他們願意明確知會將派遣使者對羅德島進行觀察，而非直接使用暴力手段阻止羅德島的進一步行動，已經是一種友好的表現。更重要的是，在人事部接收登記材料時，和弦主動告知了自己的多年情報工作經歷，並向羅德島提供了部分機密文件，甚至有意無意地透露出自己被迫逃亡至此的資訊。她顯然想要以坦誠的態度爭取羅德島的信任，但是，她這麼做是出於何種動機？是代表她個人的意願還是她背後勢力的傾向？\n隨後，我們對和弦的背景和牽涉到的事件進行了調查。經確認，和弦曾長時間作為維多利亞軍方情報人員活動，隨後在接觸深池早期組織的過程中選擇成為雙面間諜，在互相仇視的兩方之間周旋。近期行動中，她不慎暴露身份，遭到維多利亞軍方暗中追捕，不得不尋找避難處。\n綜合考慮她個人的身份經歷，以及她背後與公爵相關的政治風險，羅德島提出對她駐留期間的活動進行嚴格限制。和弦本人欣然接受了我們的安排，並與我們達成了在非敏感事務上協助羅德島的協議。\n\n一名公爵使者駐艦可能給羅德島帶來多大的危險，我已經不願意預測了。維多利亞的勢力錯綜複雜，我們不斷在調查中發現各位幹員身份背景裡的潛在風險......似乎大家都逐漸適應這種事情了。\n——不願署名的人事幹員\n\n幹員和弦的確講述了一些自己失敗後在深池內部遭受冷遇和排擠的經歷，但需要注意，間諜假意投誠時慣用此種手段。我們會對她保持謹慎的態度。\n棘手？也許她難辨真假的言辭是有一些棘手，但現在我們已經摸清了她的底細，握有能將她置於死地的情報，她這樣的聰明人會配合我們的。\n——■■■",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在通過檔案審核和入職測試後，和弦就不再提起自己的身份，既不以維多利亞公爵的使臣自居，也不表現出與深池或是維多利亞軍方的任何關聯。對於絕大多數幹員來說，她只是羅德島新來的一名活潑且頗有教養的維多利亞人。幹員們可能會在休息日的小型舞會上遇到她，收到她贈送的一杯氣泡水，也有可能在圖書室碰見她抱著一摞書籍一本一本地登記借閱，涉獵範圍從各國歷史到時尚雜誌彙編。\n儘管很容易跟其他人搭上話，但和弦留給大多數幹員的印象卻並不親切也不友善，大家甚至本能地產生“她是不是在拿我取樂”“剛剛的話是她騙我的吧”之類的想法。“上次她勸我，對雜誌上那個新款操作台感興趣的話就趕快申請採購，過幾天生產商那邊的貿易線就要封鎖了。拜託，當時她的語氣真的很像在開玩笑。但從結果來說，我真的成了最後一批拿到貨的幸運買家。”一名工程部幹員如是說道。至於幹員和弦是否是有意與其他人保持距離，以此證明自己並不想在羅德島無事生非，我們不得而知。\n在關注這位公爵使者動向的過程中，我們意外發現幾名孩子對和弦表現出了一定程度的信任，這或許是因為和弦在剛來到羅德島時，除了借閱圖書室公開區域的書籍之外無事可做，而那幾名被允許離開醫療部活動的小患者恰好對歷史有入門的興趣，很樂意向和弦請教。\n有趣的是，在一段時間的相處後，孩子們在交談中很自然地將和弦稱作“老師”，而一向對他人的評價照單全收的和弦卻以“自己怎麼會是個好老師呢”為理由，拒絕了這個稱呼。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "羅德島現有幹員名單上，有幾位是和弦的舊識，基於眼下在維多利亞亂局中各自不同的立場，和弦主動提出自己將避免與這些人接觸。當然，她也表示如果羅德島願意合作，她很樂意瞭解幹員葦草現在的動向。\n儘管和弦對葦草相關情報的打探主要是基於深池的利益，但她也自稱“對走到現在這一步的拉芙希妮有一些好奇”。經瞭解，葦草仍在深池內擔任領袖替身的時期，和弦或許也是與她交流相對最多的人。她以類似於輔導者的身份陪伴在葦草身邊。葦草與她的姐姐交流甚少，並不願意主動參與深池的謀劃，深池剛開始與有意支持自己的貴族接觸時，葦草在商談中的表現也有欠缺。在這些問題上，和弦都提供了自己力所能及的協助。\n“多給她一些獨自看書的時間，讓她少承受一些壓力與譴責，這能算是為了她好嗎？我可不敢這麼自詡。只要她還在那個位置上，她就不會太好過的。可惜，深池當時需要的，也只是保持她待在那個位置上，好好地扮演她的姐姐。”\n至於葦草的姐姐，如今已經走到台前、引導著深池火焰的另一條德拉克，和弦並沒有給出太多資訊，卻在一次閒談中狀似不經意地提起，自己並非忠於深池，只是想看領袖的事業最終能走到哪一步。\n“我提供的那一部分個人資訊檔案是真實的。我跟德拉克王室或是塔拉人都沒有任何關係，至於那位威靈頓公爵呢，我的家族中也沒人有那個榮幸，得以在他麾下效力。我反倒是有一些舊高盧人的血統，可惜，我對高盧復國和德拉克復辟都毫無興趣，那都是些古舊腐朽的東西。\n“我只好奇那些我不曾見過的、打破常規的力量。”",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "我問過她了，她說自己是喝醉了。\n當然沒有人會相信，她自己也不信。當時影音室的燈沒打開，只有投影儀是亮的，桌子上亂七八糟堆著上一場放映會剩下的零食飲料，但是她什麼都沒打翻，甚至什麼都沒碰到。她就那麼輕盈地在那張小方桌上跳舞。\n你說得對，這其實根本不算什麼事。也許我只是想問問當時投影儀在放什麼。她借了一些羅德島的作戰錄影帶，還有兩盤萊塔尼亞音樂會的錄影帶，但我總覺得她看的不是後者。\n再或者......是因為她最後朝安保監控的方向伸出了手，我有點在意。\n昨天夜間是不是恰好有人去了控制中樞？凌晨三點，那能是誰？",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": [
+        {
+          "storySetId": "story_hamoni_set_1",
+          "storySetName": "孤獨的舞者",
+          "sortId": 1,
+          "storyGetTime": 1697695200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_hamoni_set_1_story_1",
+              "storySetId": "story_hamoni_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "是從哪一天開始的呢？她習慣了觀看他人鑽營、密謀、忙忙碌碌。",
+              "storyInfo": "info/obt/memory/story_hamoni_1_1",
+              "storyTxt": "obt/memory/story_hamoni_1_1"
+            }
+          ],
+          "charId": "char_297_hamoni"
+        }
+      ]
+    },
+    "char_1020_reed2": {
+      "charID": "char_1020_reed2",
+      "infoName": "Unknown",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代號】葦草\n【性別】女\n【戰鬥經驗】八年\n【出身地】維多利亞\n【生日】10月16日\n【種族】德拉克\n【身高】172cm\n【礦石病感染情況】\n體表有源石結晶分佈，參照醫學檢測報告，確認為感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基礎檔案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理強度】優良\n【戰場機動】優良\n【生理耐受】標準\n【戰術規劃】優良\n【戰鬥技巧】優良\n【源石技藝適應性】卓越",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "綜合體檢測試",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "葦草，駐留羅德島的維多利亞南部辦事處期間，曾提出撤離申請，近期再次成功與羅德島建立聯絡。目前正以深池名義帶領小股部隊在維多利亞境內活動，以救助被暴力脅迫的塔拉人為主要行動目標。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客觀履歷",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影檢測結果顯示，該幹員體內臟器輪廓模糊，可見異常陰影，循環系統內源石顆粒檢測異常，有礦石病感染跡象，現階段可確認為礦石病感染者。\n\n【體細胞與源石融合率】10%\n和離艦之前的檢查結果相比，葦草體表的源石結晶沒有明顯增加的跡象。\n\n【血液源石結晶密度】0.22u/L\n參與過那場急救的醫療部幹員都對幹員葦草的身體狀況印象很深。雖然過程很艱難，但病情的確被成功控制住了。\n“患者清醒後問我們的第一個問題就是‘為什麼要救我’，這可叫我怎麼回答呀......唉，她現在找到答案了嗎？”",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "臨床診斷分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "為了隱藏身份，葦草在離開時向工程部申請了一柄新的武器。在沒能成功與申請人展開交流的情況下，工程部幹員唯有依照她的舊槍推測她的源石技藝特性和戰鬥習慣，不過，從本次返艦後的測試情況來看，這柄新武器卻出人意料地更加適合葦草，或者，如葦草本人所說，只是過去的武器太不適合她。她似乎為自己能放下那柄舊槍而感到解脫，但同時也請求羅德島將其妥善保存在倉庫中。\n【源石技藝概覽】\n葦草已經能精準地控制她的源石技藝了，現在對她的源石技藝進行測試時不再需要事先清理場地內人員，她本人也不再表現出強烈抗拒。\n我記得，此前羅德島上被准許觀看她戰鬥的幹員幾乎都曾為她法術中蘊含的能量感到震撼，甚至恐懼，但現在她的源石技藝表現形式已經截然不同。多位理論術師確認，她的法術依舊在加快生物組織的活性化，但這種加速現象明顯得到了控制。新生的血肉促使傷口迅速痊癒，神經細胞的更替使得疼痛的表達同時被抑制。生命不再因為她的法術而迅速凋謝，反而煥發了新生。\n未經長期訓練就如此大幅度地改變自己法術能量的釋放方式，對施術者本人而言是極具風險的。在我們的反覆詢問下，葦草承認，當抑制自己源石技藝的能量，使其僅用於治療時，自己會承受一定的燒灼感，但軀體並不會受到實際傷害，所以不必擔心。\n毋庸置疑，那毀滅性的力量依然存在於她的血液裡，去測試她的破壞性，或者直接將她派遣到作戰任務中，我們依然會看到她瞬間迸發的烈焰是如何將一切都燒成灰燼。只是，她選擇向我們展示自己法術的這一面，因為這樣的平靜，才是她的夢想。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "再次接受醫療部檢查時，葦草表現得很積極，這一方面是出於她與羅德島已經建立起的信任關係，另一方面，則是因為她已經接納了自己德拉克的身份，以及與之相伴的責任。如今，她並不擔心讓羅德島掌握一條德拉克的情報，也不再擔心自己只是觸及他人就會不慎將人燒作灰燼。\n大多數時候，葦草依然很安靜。過去少數幾位直接接觸到她的幹員，都記得她是如何多次顫抖著從昏迷中驚醒，眼神裡充滿驚懼，卻又對自己的所見所想不發一言。這樣極度抗拒與他人交流的狀況，在羅德島幹員及博士本人反覆的溝通嘗試後有所緩解，但此次返艦期間她偶爾表現出的、自在地侃侃而談的模樣，才真正讓關心她的各位感到欣慰。如果與她說起維多利亞眼下的亂局，或者她自己的責任，她會極其認真而審慎地給出自己的想法；而談及風土人情、詩歌和對未來的期望時，她會不自覺地流露出屬於她自己的，真誠的哀傷與喜愛。\n在醫療部停留的末尾，葦草主動問起了礦石病治療與防護相關的問題。\n這並不是葦草第一次主動向醫療幹員提問。實際上，在上一次離開羅德島踏上旅途之前，她曾經連續數天花費極大精力去整理醫療用品，幾乎將自己的手提行李箱變成一隻醫療箱。一一歷數死亡的手段，一一思考與之抗爭的方法，這對於當時的她來說，或許是一種對生命價值的機械性確認。值得高興的是，那些預備的醫療物資或許確實派上了用場，而現在葦草也不僅僅是為自己而發問。\n據她所述，由於大部分塔拉人在缺少防護的環境裡工作，塔拉人的礦石病感染率相對較高；另一方面，深池不斷戰鬥的過程中，感染的傷患也會陸陸續續出現。她感到自己必須為此做些什麼，也許是因為她是領袖，或者只是因為，她是他們的同行者。\n另外，幹員琴柳離艦前，二人曾在圖書室的一角久久交談。這次葦草回到羅德島本艦，恰好再次遇到了從小丘郡回艦報告的琴柳。在如今的維多利亞土地上漫遊過數月之後，她們顯然各自有了轉變。看到琴柳心事重重地獨自從會客室離開時，我們曾一度擔心，同為前維多利亞軍人的琴柳會像幹員風笛一樣，與如今為深池而戰鬥的葦草產生不可調和的矛盾。\n但次日，有幹員在圖書室的角落裡見到了二人。沉浸在小說中的琴柳並沒有抬頭與路過的幹員打招呼，葦草則正在小憩，枕著手臂，十分安靜，手邊放著寫了一半的紙箋。直到下午葦草離開圖書室前往醫療部之前，那個角落似乎都沒有傳來談話聲，只有安然地翻動紙頁的聲音與沙沙的書寫聲。\n隨後，我們在琴柳的報告裡看到了許多引自葦草的，關於小丘郡事件前因後果和塔拉人生存狀況的介紹。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "我們已經在倫蒂尼姆遇到過深池的部隊了，參與過行動的每位幹員，或許對深池都有各自不同的認知。葦草並不是帶著深池的身份返回羅德島的，但她也並不避諱向我們講述她所見的深池，以及，她認為自己所領導的深池。\n深池的名字源自姐妹二人的姓氏，這一在漂泊中隱藏多年的姓氏代表了她們的德拉克血統，不過，絕大多數維多利亞人聽到時並不會加以注意，而深池的領導者選擇這一命名，或許也是想翻動那段被遺忘的塔拉王國的歷史。\n塔拉王國由一支德拉克遊牧民族在今天的塔拉地區建立，隨後，依據維多利亞史料記載，為了抵擋夢魘可汗，維多利亞與塔拉選擇了合併，維多利亞也將蓋爾王的頭銜授予了塔拉的統治者。不過近年來，透過搜集民間文物資料和口述故事，越來越多致力於考據塔拉歷史文化的學者傾向於認為，維多利亞王國是透過暴力征服了塔拉王國，將後者強行併入自己的疆域。部分觀點甚至聲稱，塔拉地區的統治者雖有蓋爾王之名，但宮廷內部實際多由維多利亞派遣的貴族執掌大權。另一個被許多現代歷史學者接受的觀點是，被暴力征服後的數百年裡，塔拉地區獨有的文明始終受到維多利亞的壓制乃至破壞，與之相伴的，還有塔拉人自身尊嚴受到的踐踏。\n無論背後有著怎樣的歷史因素，眼下的塔拉地區確實存在發展緩慢、人們生活極度艱苦、塔拉語使用者與非使用者之間矛盾日趨尖銳的問題，深池則為此而生。根據記錄，深池部隊近兩年才在維多利亞南部各地有所活動，但實際上，它在約七年前就已經萌生。從那一刻起到現在，它的核心從未改變：塔拉的德拉克將拯救她的子民於苦難之中。\n我們能在深池身上看到多方博弈的痕跡。一部分人更在乎塔拉人這一屬性，另一部分人則渴望看到德拉克的王朝復辟；還有一些與二者都無關的勢力，正將目光投向深池最有力的支持者，威靈頓公爵。葦草本人也認同，即使自己只是希望苦難中的塔拉人能夠得到公正待遇，自己也無法逃避德拉克這一身份所牽連的議題。\n【權限記錄】\n無論是葦草的陳述還是我們收集到的其他情報，都確實證明，深池無意、至少眼下無意爭奪維多利亞的王冠。作為大眾眼中唯一的王位繼承人，葦草的雙胞胎姐姐，如今率領著深池大部隊的那名德拉克術師，是礙於怎樣的脅迫，或是出於怎樣的考量，才暫時擺出如此態度？既然所有的情報都將深池的領導者形容為在眾多勢力間周旋自如的權術家，她一定以自己的退讓換取了什麼。\n或許我們很快就會看到答案。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "既然近期羅德島在倫蒂尼姆遭遇的深池領導者就是愛布拉娜本人，那麼我們一定程度上可以理解，為何葦草對自己的雙胞胎姐姐如此恐懼，甚至曾警告羅德島不要與之接觸。所幸，當我們帶著在倫蒂尼姆獲得的情報，再一次向葦草提起她的姐姐時，她沒有像此前那樣出現強烈的應激反應，而是較為平靜地講述了她過去作為對方“影子”的經歷，並為我們補充了記錄中一些模糊的資訊。透過葦草，我們得以確切理解深池領導者的源石技藝表現形式，並確認了深池部分特種作戰人員的作戰方式。\n隨後，她告知我們，她尚未完全瞭解眼下深池進入倫蒂尼姆有什麼目的，因此暫時不能認同這一行動，但之後她一定會在合適的時間，直接去見對方。\n我們曾經擔心，無論是出於復仇之心，還是為了證明對方的錯誤、與對方爭奪深池的主導權，已經掙脫控制的葦草似乎都要與姐姐發生劇烈的衝突，甚至不死不休。不過，葦草本人並沒有這樣的想法。而根據她的敘述，愛布拉娜所率領的深池主力部隊似乎也與她形成了某種默契，停止了對她的追捕，並且將她和她身邊的人一概視作同僚。眼下，雙方各自執行著自己的行動計劃，幾乎相安無事。\n“她知道，我一定會回到她身邊，所以不用追，僅此而已。我在想什麼，我想要的是什麼，她都不在乎。她相信到了最後，我躲不開她，也逃不出她的掌控。”\n“我？......我也不在乎。如果她在爭取塔拉人應有的生活，我和她做的，本來就是一樣的事情。我自己，很重要嗎？”",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "檔案資料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "離開羅德島前，我曾將我無法直面的心結，留在給你的信中。我記得，自己能寫下的不過是隻言片語，只是落筆之後，我終於感到自己有勇氣去相信我心中的良知，相信羅德島教我的“生命有其價值”。\n可是，生命若有價值，那一定會非常非常貴重，重得我不知如何承擔。我無法回答，Outcast為何要救下將死的我，曾奪去無數生命的我。我若不止是燃料，又該是什麼？\n為了給她回答，給你們回答，我必須從避難所中走出去。\n而現在，我再次提筆寫信，想要告訴你我所見到的，以及我的答案。\n......\n所以，我的身份，我無法逃避。塔拉人，我是；深池，我是；德拉克，我是。\n深池的領袖，我可以是。\n我想讓他們也看到生命所應有的樣子，而如果那份責任選擇了我，我不會再逃跑。\n博士，我知道，選擇回到深池，意味著我最先要保護和拯救的不再是礦石病人，也意味著，你身邊一些人對我的仇恨，我再不能逃避。思來想去，在回到羅德島的艦船之前，我寫成這封信送給你。\n我不會成為羅德島的敵人，不過，你不認可的話，我是不會擅自回到羅德島、以幹員自詡的。一切由你決定。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晉升記錄",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
     }
   },
   "npcDict": {
@@ -34620,7 +34831,10 @@
       "name": "魏彥吾",
       "appellation": "Wei Yenwu",
       "profession": "NONE",
-      "illust": "KuroBlood",
+      "illustList": [
+        "KuroBlood"
+      ],
+      "designerList": null,
       "cv": "--",
       "displayNumber": "L205",
       "nationId": "lungmen",
@@ -34646,7 +34860,10 @@
       "name": "文月",
       "appellation": "Fumizuki",
       "profession": "NONE",
-      "illust": "KuroBlood",
+      "illustList": [
+        "KuroBlood"
+      ],
+      "designerList": null,
       "cv": "--",
       "displayNumber": "L206",
       "nationId": "lungmen",
@@ -34672,7 +34889,10 @@
       "name": "凱爾希",
       "appellation": "Kal'tsit",
       "profession": "NONE",
-      "illust": "唯@W",
+      "illustList": [
+        "唯@W"
+      ],
+      "designerList": null,
       "cv": "日笠陽子",
       "displayNumber": "B003",
       "nationId": "rhodes",
@@ -34698,7 +34918,10 @@
       "name": "陳",
       "appellation": "Ch'en",
       "profession": "NONE",
-      "illust": "唯@W",
+      "illustList": [
+        "唯@W"
+      ],
+      "designerList": null,
       "cv": "石上靜香",
       "displayNumber": "LM04",
       "nationId": "lungmen",
@@ -34724,7 +34947,10 @@
       "name": "博士",
       "appellation": "Dr",
       "profession": "NONE",
-      "illust": "--",
+      "illustList": [
+        "--"
+      ],
+      "designerList": null,
       "cv": "--",
       "displayNumber": "B101",
       "nationId": "rhodes",
@@ -34750,7 +34976,10 @@
       "name": "風暴眼",
       "appellation": "Stormeye",
       "profession": "NONE",
-      "illust": "熊太",
+      "illustList": [
+        "熊太"
+      ],
+      "designerList": null,
       "cv": "待填寫",
       "displayNumber": "RE31",
       "nationId": "rhodes",
@@ -34776,7 +35005,10 @@
       "name": "觸痕",
       "appellation": "Touch",
       "profession": "NONE",
-      "illust": "熊太",
+      "illustList": [
+        "熊太"
+      ],
+      "designerList": null,
       "cv": "待填寫",
       "displayNumber": "RE18",
       "nationId": "rhodes",
@@ -34802,7 +35034,10 @@
       "name": "鋒刃",
       "appellation": "Sharp",
       "profession": "NONE",
-      "illust": "熊太",
+      "illustList": [
+        "熊太"
+      ],
+      "designerList": null,
       "cv": "待填寫",
       "displayNumber": "RE26",
       "nationId": "rhodes",
@@ -34828,7 +35063,10 @@
       "name": "術髓",
       "appellation": "Pith",
       "profession": "NONE",
-      "illust": "Cornelies",
+      "illustList": [
+        "Cornelies"
+      ],
+      "designerList": null,
       "cv": "待填寫",
       "displayNumber": "RE07",
       "nationId": "rhodes",
@@ -34854,7 +35092,10 @@
       "name": "鬱金香",
       "appellation": "Tulip",
       "profession": "NONE",
-      "illust": "Chuzenji",
+      "illustList": [
+        "Chuzenji"
+      ],
+      "designerList": null,
       "cv": "待填寫",
       "displayNumber": "R066",
       "nationId": "rhodes",
@@ -38652,6 +38893,93 @@
       "zoneNameForShow": "卡西米爾",
       "picId": "story_loadingE2",
       "stageGetTime": 1693294200
+    },
+    "char_479_sleach": {
+      "charId": "char_479_sleach",
+      "stageId": "mem_sleach_1",
+      "levelId": "Obt/Memory/level_memory_sleach_1",
+      "zoneId": "storyMission",
+      "code": "mem_sleach_1",
+      "name": "隊伍前列",
+      "loadingPicId": "loading_VC_hillock2",
+      "description": "離開小丘郡後，琴柳從隊伍中離開。那些獲得的榮譽與光輝，盡數都被她拋棄在了那片傷心之地。可她決意前進的方向，渴望守護的對象，卻在轉身離去的那一刻，變得愈加明晰。\n或許，在她的內心深處，自己仍是一名士兵，在屬於她的戰鬥中，她仍然會選擇屹立不倒。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "小丘郡廣場",
+      "zoneNameForShow": "維多利亞",
+      "picId": "story_loading_VC_hillock2",
+      "stageGetTime": 1697695200
+    },
+    "char_133_mm": {
+      "charId": "char_133_mm",
+      "stageId": "mem_mm_1",
+      "levelId": "Obt/Memory/level_memory_mm_1",
+      "zoneId": "storyMission",
+      "code": "mem_mm_1",
+      "name": "“不許靠近！”",
+      "loadingPicId": "loading_VC_hillock2",
+      "description": "眾所周知，一個好的偵探未必武藝高強，但他總是有辦法威懾面前的犯罪嫌疑人。\n大偵探梅就向我們展示了她的手段——當然，只是手段之一，並且是最簡單最沒有技術含量的一個。\n只見梅小姐掏出泰瑟槍，筆直地指向對方並大喊：“舉起手來！不許靠近！你們的犯罪證據已經都被我掌握啦！”",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "小丘郡廣場",
+      "zoneNameForShow": "維多利亞",
+      "picId": "story_loading_VC_hillock2",
+      "stageGetTime": 1697695200
+    },
+    "char_185_frncat": {
+      "charId": "char_185_frncat",
+      "stageId": "mem_frncat_1",
+      "levelId": "Obt/Memory/level_memory_frncat_1",
+      "zoneId": "storyMission",
+      "code": "mem_frncat_1",
+      "name": "雙手十指",
+      "loadingPicId": "loading_LM_rain",
+      "description": "慕斯總會因為自己的雙手而感到自卑，和隊友們講話時，總是緊緊將雙手背在後面，生怕別人瞧見後心生恐懼。\n但她不知道，大家看到她的雙手時從未覺得不適，相反，一看到它們，愉悅的感覺便會漫上心間。\n畢竟，當敵方的堅甲在她十指間淪為抓板時，誰看到了不會覺得賞心悅目呢？",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "雨天街區",
+      "zoneNameForShow": "龍門",
+      "picId": "story_loading_LM_rain",
+      "stageGetTime": 1697695200
     }
   },
   "handbookStageTime": [
@@ -38937,6 +39265,14 @@
         "char_401_elysm",
         "char_219_meteo",
         "char_284_spot"
+      ]
+    },
+    {
+      "timestamp": 1697695200,
+      "charSet": [
+        "char_479_sleach",
+        "char_133_mm",
+        "char_185_frncat"
       ]
     }
   ]

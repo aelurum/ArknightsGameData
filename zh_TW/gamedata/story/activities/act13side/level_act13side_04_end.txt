@@ -739,7 +739,7 @@
 [Dialog]
 [Delay(time=2)]
 [Character(name="avg_npc_120", name2="avg_npc_101#2", focus=2)]
-[name="老工匠"]  可別下殺手，不然事後很麻煩。
+[name="老工匠"]  可別下殺手，不然事後有得解釋了。
 [Character(name="avg_npc_120", name2="avg_npc_101#2", focus=1)]
 [name="老騎士"]  哈，你猜猜看以前打仗的時候，我是俘虜了幾個炮兵術師才得的功勳？
 [Character(name="avg_npc_216")]

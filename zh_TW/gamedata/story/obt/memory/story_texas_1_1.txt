@@ -59,7 +59,7 @@
 [Character(name="char_103_angel_1#3",name2="char_102_texas_1#1",focus=1)]
 [name="能天使"]分享一下嘛，我又不會告訴別人。
 [Character(name="char_103_angel_1#4",name2="char_102_texas_1#1",focus=1)]
-[name="能天使"]是炸了校舍、還是禮堂、還是其他什麼的？嗯？
+[name="能天使"]是炸了校舍，還是禮堂，還是其他什麼的？嗯？
 [Character(name="char_103_angel_1#4",name2="char_102_texas_1#1",focus=2)]
 [name="德克薩斯"]......我想應該是一座塔。
 [Character(name="char_103_angel_1#3",name2="char_102_texas_1#1",focus=1)]

@@ -93,7 +93,7 @@
 [Blocker(a=0, fadetime=0.3, block=true)]
 [Character(name="char_1507_Mephisto_1#4")]
 [name="梅菲斯特"]  你們這些傢伙......
-[name="梅菲斯特"]  為什麼不肯老老實實的去死？
+[name="梅菲斯特"]  為什麼不肯老老實實地去死？
 [name="梅菲斯特"]  你們的命運，為什麼就不能在這裡落下帷幕？
 [name="梅菲斯特"]  ——————我要把你們，通通————
 [Character(name="char_014_riope" )]

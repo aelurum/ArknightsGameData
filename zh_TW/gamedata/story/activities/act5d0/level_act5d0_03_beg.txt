@@ -62,7 +62,7 @@
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
 [name="黑幫A"]   但這裡已經是市區了，我們還能動手嗎？
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
-[name="黑幫B"]   卡彭先生都考慮過了，只要不動明火，做得隱密一點，龍門是不會管的。
+[name="黑幫B"]   卡彭先生都考慮過了，只要不動明火，做得隱秘一點，龍門是不會管的。
 [name="黑幫B"]   沒有人會特地去關照那些散發著垃圾臭味的小街暗巷吧？
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
 [name="黑幫A"]   明白了，那我們去救人，你們去找人，沒問題吧？

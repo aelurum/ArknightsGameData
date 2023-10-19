@@ -82,7 +82,7 @@
 [name="亞葉"]  能讓你們想方設法避開話題的話，會這麼簡單嗎？只是矛盾和衝突？
 [Character(name="avg_npc_066", name2="char_345_folnic_1#3",focus=1)]
 [name="塞弗林"]  ......我不知道我該不該告訴你們，這的確超過了羅德島有必要知道的範疇......
-[name="塞弗林"]  由一位憲兵把這些事情冠冕堂皇地告訴一家境外企業，這會讓某些貴族十分得不高興。
+[name="塞弗林"]  由一位憲兵把這些事情冠冕堂皇地告訴一家境外企業，這會讓某些貴族十分地不高興。
 [Character(name="avg_npc_066", name2="char_345_folnic_1#3",focus=2)]
 [name="亞葉"]  貴族......？不高興？？
 [Character(name="avg_npc_066", name2="char_345_folnic_1#5",focus=2)]

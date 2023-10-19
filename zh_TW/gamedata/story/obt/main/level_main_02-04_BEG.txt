@@ -67,7 +67,7 @@
 [name="芙蘭卡"]   你。
 [Character(name="char_107_liskam_1", name2="char_106_franka_1", focus=1)]
 [name="雷蛇"]   別這麼說，沒有企鵝物流的情報，羅德島沒法縮小搜索範圍——
-[name="雷蛇"]   更不可能那麼輕易地掌握有關龍門感染者的各種資訊的。
+[name="雷蛇"]   更不可能那麼輕易地掌握有關龍門感染者的各種資訊。
 [Character(name="char_107_liskam_1", name2="char_103_angel_1", focus=2)]
 [name="能天使"]   這位小姐，多謝誇獎！你還是很識貨的！
 [Character(name="char_002_amiya_1")]

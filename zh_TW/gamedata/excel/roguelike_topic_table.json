@@ -52,6 +52,12 @@
           "displayId": "rogue_2_entry_display_1",
           "startTs": 1690437600,
           "endTs": 1691611200
+        },
+        {
+          "topicId": "rogue_2",
+          "displayId": "rogue_2_entry_display_2",
+          "startTs": 1697695200,
+          "endTs": 1698264000
         }
       ],
       "moduleTypes": [
@@ -350,7 +356,7 @@
       "char_4062_totter": {
         "charId": "char_4062_totter",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_totter",
         "recruitType": "FREE"
       },
       "char_198_blackd": {
@@ -452,7 +458,7 @@
       "char_337_utage": {
         "charId": "char_337_utage",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_utage",
         "recruitType": "FREE"
       },
       "char_4063_quartz": {
@@ -653,6 +659,12 @@
         "uniEquipId": null,
         "recruitType": "FREE"
       },
+      "char_4017_puzzle": {
+        "charId": "char_4017_puzzle",
+        "canBeFree": true,
+        "uniEquipId": null,
+        "recruitType": "FREE"
+      },
       "char_308_swire": {
         "charId": "char_308_swire",
         "canBeFree": true,
@@ -675,13 +687,13 @@
         "charId": "char_131_flameb",
         "canBeFree": true,
         "uniEquipId": "uniequip_002_flameb",
-        "recruitType": "FREE"
+        "recruitType": "THIRD"
       },
       "char_508_aguard": {
         "charId": "char_508_aguard",
         "canBeFree": false,
         "uniEquipId": null,
-        "recruitType": "THIRD"
+        "recruitType": "FREE"
       },
       "char_155_tiger": {
         "charId": "char_155_tiger",
@@ -764,7 +776,7 @@
       "char_475_akafyu": {
         "charId": "char_475_akafyu",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_akafyu",
         "recruitType": "FREE"
       },
       "char_421_crow": {
@@ -921,6 +933,12 @@
         "charId": "char_338_iris",
         "canBeFree": true,
         "uniEquipId": "uniequip_002_iris",
+        "recruitType": "FREE"
+      },
+      "char_297_hamoni": {
+        "charId": "char_297_hamoni",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_hamoni",
         "recruitType": "FREE"
       },
       "char_373_lionhd": {
@@ -1166,13 +1184,13 @@
       "char_363_toddi": {
         "charId": "char_363_toddi",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_toddi",
         "recruitType": "FREE"
       },
       "char_4043_erato": {
         "charId": "char_4043_erato",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_erato",
         "recruitType": "FREE"
       },
       "char_1027_greyy2": {
@@ -1358,7 +1376,7 @@
       "char_197_poca": {
         "charId": "char_197_poca",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_poca",
         "recruitType": "FREE"
       },
       "char_391_rosmon": {
@@ -1583,6 +1601,12 @@
         "uniEquipId": "uniequip_002_lumen",
         "recruitType": "FREE"
       },
+      "char_1020_reed2": {
+        "charId": "char_1020_reed2",
+        "canBeFree": true,
+        "uniEquipId": null,
+        "recruitType": "FREE"
+      },
       "char_136_hsguma": {
         "charId": "char_136_hsguma",
         "canBeFree": true,
@@ -1688,7 +1712,7 @@
       "char_188_helage": {
         "charId": "char_188_helage",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_helage",
         "recruitType": "FREE"
       },
       "char_485_pallas": {
@@ -3882,7 +3906,7 @@
           "template": "KillBoss",
           "paramList": [
             "4",
-            "enemy_2003_rockman,enemy_2004_balloon,enemy_2005_axetro,enemy_2013_csbot,enemy_2014_csicer,enemy_2015_csicem,enemy_2016_csphtm,enemy_2018_csdoll,enemy_2019_cshost"
+            "enemy_2003_rockman,enemy_2004_balloon,enemy_2005_axetro,enemy_2013_csbot,enemy_2014_csicer,enemy_2015_csicem,enemy_2016_csphtm,enemy_2018_csdoll,enemy_2019_cshost,enemy_2020_cswrtr"
           ],
           "desc": "累計擊敗過4次領袖",
           "tokenRewardNum": 250
@@ -4330,6 +4354,11 @@
           "challengeId": "rogue_1_challenge_01",
           "sortId": 1,
           "challengeName": "十萬火急",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "考慮到該外勤任務十分緊急，經過協商，已授予指揮人員調遣四位精英幹員的權限。請儘快解決事端，將傀影幹員安全帶回。",
           "challengeConditionDes": [
             "無法進行初始招募，以4名精英幹員開始探索",
@@ -4374,6 +4403,11 @@
           "challengeId": "rogue_1_challenge_02",
           "sortId": 2,
           "challengeName": "逢生",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "到底是誰沒有退路？",
           "challengeConditionDes": [
             "初始持有收藏品國王的新槍、“時光之末”",
@@ -4418,6 +4452,11 @@
           "challengeId": "rogue_1_challenge_03",
           "sortId": 3,
           "challengeName": "經營",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "賺錢是門手藝活，花錢也是。",
           "challengeConditionDes": [
             "初始持有收藏品友誼之證、至寶指環",
@@ -4463,6 +4502,11 @@
           "challengeId": "rogue_1_challenge_04",
           "sortId": 4,
           "challengeName": "火力覆蓋",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "當火力充足到能夠轟開一切障礙，誰還需要前線防護？",
           "challengeConditionDes": [
             "初始持有收藏品顯聖吊墜、迷夢香精、皇家利口酒、“影子”",
@@ -4508,6 +4552,11 @@
           "challengeId": "rogue_1_challenge_05",
           "sortId": 5,
           "challengeName": "地面推進",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "當部隊強大到能夠直接撕開敵人防線，誰還需要後方支援？",
           "challengeConditionDes": [
             "初始持有收藏品皇帝的恩寵、榮耀綬帶、“忠義”、“影子”",
@@ -4553,6 +4602,11 @@
           "challengeId": "rogue_1_challenge_06",
           "sortId": 6,
           "challengeName": "路難尋",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "無法看清的不只前路，但這並不能成為停下腳步的理由。",
           "challengeConditionDes": [
             "初始持有收藏品“刀舞”、“白英花”、“影子”及一件隨機負面收藏品",
@@ -4597,6 +4651,11 @@
           "challengeId": "rogue_1_challenge_07",
           "sortId": 7,
           "challengeName": "奇遇記",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "當交流替代了大部分戰鬥，你仍能把傀影順利帶回羅德島嗎？",
           "challengeConditionDes": [
             "初始持有收藏品幸運硬幣、假面舞會面具、“華美容貌”",
@@ -4640,6 +4699,11 @@
           "challengeId": "rogue_1_challenge_08",
           "sortId": 8,
           "challengeName": "劍走偏鋒",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "在任務失敗之前，任何資源都是可以放上天秤的籌碼。即使是指揮中樞，也不例外。",
           "challengeConditionDes": [
             "初始持有收藏品“時光之末”、“夜駭”、“無度”",
@@ -4684,6 +4748,11 @@
           "challengeId": "rogue_1_challenge_09",
           "sortId": 9,
           "challengeName": "迷茫新世界",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "有時，迷茫並不是件壞事。這一次，你將探索更多的可能性。",
           "challengeConditionDes": [
             "初始持有收藏品四葉草化石、猩紅劇團票根",
@@ -4729,6 +4798,11 @@
           "challengeId": "rogue_1_challenge_10",
           "sortId": 10,
           "challengeName": "白手起家",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "儲蓄是個好習慣，能滿足心靈的囤積欲，也可以給敵人們迎頭痛擊。",
           "challengeConditionDes": [
             "初始持有收藏品金酒之杯、至寶指環、假面舞會面具",
@@ -4774,6 +4848,11 @@
           "challengeId": "rogue_1_challenge_11",
           "sortId": 11,
           "challengeName": "奪寶奇兵",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "今天又會拿到什麼寶藏呢？真是令人期待。",
           "challengeConditionDes": [
             "初始持有收藏品維多利亞“廢鐵”勳章、萊塔尼亞榮譽勳章",
@@ -4819,6 +4898,11 @@
           "challengeId": "rogue_1_challenge_12",
           "sortId": 12,
           "challengeName": "娛樂至上",
+          "challengeGroup": 0,
+          "challengeGroupSortId": 0,
+          "challengeGroupName": null,
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
           "challengeDes": "執行任務前先問問運氣，今天它想成為你的同伴呢，還是敵人？",
           "challengeConditionDes": [
             "初始擁有收藏品長生者之證、女妖之吻、無瑕寶玉",
@@ -7741,6 +7825,11 @@
         "monthTeamDescTagName": "小隊陣容",
         "outerBuffCompleteText": "準備就緒",
         "outerProgressTextColor": "#836730",
+        "challengeTaskTargetName": "調查目標",
+        "challengeTaskConditionName": "調查條件",
+        "challengeTaskRewardName": "調查報酬",
+        "challengeTaskModeName": "深入調查",
+        "challengeTaskName": "調查條目",
         "outerBuffTokenSum": 1900
       },
       "init": [
@@ -27528,9 +27617,19 @@
           "updateId": "rogue_2_update_3",
           "topicUpdateTime": 1696104000,
           "topicEndTime": 1698782400
+        },
+        {
+          "updateId": "rogue_2_update_4",
+          "topicUpdateTime": 1698782400,
+          "topicEndTime": 1701374400
         }
       ],
-      "enrolls": {},
+      "enrolls": {
+        "rogue_2_enroll_1": {
+          "enrollId": "rogue_2_enroll_1",
+          "enrollTime": 1697695200
+        }
+      },
       "milestones": [
         {
           "id": "bp_level_1",
@@ -28570,9 +28669,174 @@
           "id": "bp_level_95",
           "level": 95,
           "tokenNum": 31000,
-          "nextTokenNum": -1,
+          "nextTokenNum": 31400,
           "itemID": "char_437_mizuki@sale#7",
           "itemType": "CHAR_SKIN",
+          "itemCount": 1,
+          "isGoodPrize": false,
+          "isGrandPrize": true
+        },
+        {
+          "id": "bp_level_96",
+          "level": 96,
+          "tokenNum": 31400,
+          "nextTokenNum": 31800,
+          "itemID": "4001",
+          "itemType": "GOLD",
+          "itemCount": 50000,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_97",
+          "level": 97,
+          "tokenNum": 31800,
+          "nextTokenNum": 32200,
+          "itemID": "2004",
+          "itemType": "CARD_EXP",
+          "itemCount": 20,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_98",
+          "level": 98,
+          "tokenNum": 32200,
+          "nextTokenNum": 32600,
+          "itemID": "30044",
+          "itemType": "MATERIAL",
+          "itemCount": 3,
+          "isGoodPrize": false,
+          "isGrandPrize": true
+        },
+        {
+          "id": "bp_level_99",
+          "level": 99,
+          "tokenNum": 32600,
+          "nextTokenNum": 33000,
+          "itemID": "3301",
+          "itemType": "MATERIAL",
+          "itemCount": 30,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_100",
+          "level": 100,
+          "tokenNum": 33000,
+          "nextTokenNum": 33400,
+          "itemID": "30135",
+          "itemType": "MATERIAL",
+          "itemCount": 1,
+          "isGoodPrize": true,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_101",
+          "level": 101,
+          "tokenNum": 33400,
+          "nextTokenNum": 33800,
+          "itemID": "4001",
+          "itemType": "GOLD",
+          "itemCount": 50000,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_102",
+          "level": 102,
+          "tokenNum": 33800,
+          "nextTokenNum": 34200,
+          "itemID": "2004",
+          "itemType": "CARD_EXP",
+          "itemCount": 20,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_103",
+          "level": 103,
+          "tokenNum": 34200,
+          "nextTokenNum": 34600,
+          "itemID": "30024",
+          "itemType": "MATERIAL",
+          "itemCount": 3,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_104",
+          "level": 104,
+          "tokenNum": 34600,
+          "nextTokenNum": 35000,
+          "itemID": "3302",
+          "itemType": "MATERIAL",
+          "itemCount": 10,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_105",
+          "level": 105,
+          "tokenNum": 35000,
+          "nextTokenNum": 35400,
+          "itemID": "uni_set_outdoor_2",
+          "itemType": "UNI_COLLECTION",
+          "itemCount": 1,
+          "isGoodPrize": false,
+          "isGrandPrize": true
+        },
+        {
+          "id": "bp_level_106",
+          "level": 106,
+          "tokenNum": 35400,
+          "nextTokenNum": 35800,
+          "itemID": "4001",
+          "itemType": "GOLD",
+          "itemCount": 50000,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_107",
+          "level": 107,
+          "tokenNum": 35800,
+          "nextTokenNum": 36200,
+          "itemID": "2004",
+          "itemType": "CARD_EXP",
+          "itemCount": 20,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_108",
+          "level": 108,
+          "tokenNum": 36200,
+          "nextTokenNum": 36600,
+          "itemID": "30145",
+          "itemType": "MATERIAL",
+          "itemCount": 1,
+          "isGoodPrize": true,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_109",
+          "level": 109,
+          "tokenNum": 36600,
+          "nextTokenNum": 37000,
+          "itemID": "3303",
+          "itemType": "MATERIAL",
+          "itemCount": 3,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_110",
+          "level": 110,
+          "tokenNum": 37000,
+          "nextTokenNum": -1,
+          "itemID": "itempack_mod_6",
+          "itemType": "ITEM_PACK",
           "itemCount": 1,
           "isGoodPrize": false,
           "isGrandPrize": true
@@ -28599,6 +28863,13 @@
           "maxBpLevel": 95,
           "maxBpCount": 31000,
           "maxDisplayBpCount": 31000
+        },
+        {
+          "updateTime": 1698782400,
+          "endTime": 1701374400,
+          "maxBpLevel": 110,
+          "maxBpCount": 37000,
+          "maxDisplayBpCount": 37000
         }
       ],
       "grandPrizes": [
@@ -28646,6 +28917,8 @@
           "displayName": "神秘時裝",
           "displayDiscription": "和同伴們相聚時的水月不會避諱自己的身份。\n所以你能看到他揮舞著附肢到處忙活。\n把生存問題拋到腦後吧。\n讓我們一起來享受夏日的歡愉。",
           "bpLevelId": "bp_level_95",
+          "accordingCharId": "char_437_mizuki",
+          "accordingSkinId": "char_437_mizuki@sale#7",
           "detailAnnounceTime": "2023/10/1 4:00:00",
           "picIdAftrerUnlock": "grand_4_2"
         },
@@ -28678,7 +28951,7 @@
           "displayUnlockMonth": 12,
           "acquireTitle": "可獲取主題傢俱",
           "purchaseTitle": "主題傢俱",
-          "displayName": "主題傢俱",
+          "displayName": "失效石碑",
           "displayDiscription": "人類棄於海底的石塊。\n忠實銘刻歷史的古物。\n母親留給造物的遺產。\n海嗣尋求生存的象徵。",
           "bpLevelId": "bp_level_125"
         },
@@ -28691,7 +28964,7 @@
           "purchaseTitle": "主題頭像",
           "displayName": "“循環”",
           "displayDiscription": "生存壓迫引發進化，\n進化克服生存難題。\n一個疑問在你心頭浮現：\n是誰設計了這樣的循環？",
-          "bpLevelId": "bp_level_130"
+          "bpLevelId": "bp_level_140"
         },
         {
           "grandPrizeDisplayId": "grand_9",
@@ -28702,7 +28975,7 @@
           "purchaseTitle": "主題傢俱包",
           "displayName": "主題場景",
           "displayDiscription": "在過往與未來中，或許有著一片不屬於現在的海岸。\n第四維度由此展開，仍未知曉的景色悉數排列。\n在海的另一頭，晨曦與午夜對立相望。\n而星辰綴滿天際，在彼端等待我們的抉擇。",
-          "bpLevelId": "bp_level_140",
+          "bpLevelId": "bp_level_155",
           "detailAnnounceTime": "2024/2/1 4:00:00"
         }
       ],
@@ -29198,9 +29471,652 @@
           ],
           "startTime": 1696104000,
           "endTime": 1698782400
+        },
+        "month_team_4": {
+          "id": "month_team_4",
+          "teamName": "星辰泡沫",
+          "teamDes": "或許總會有一種衝動，促使我們背叛那束縛著我們的重力與故土，將自己擲向大海與星空。",
+          "teamColor": "2354b8",
+          "teamMonth": "11",
+          "teamYear": "2023",
+          "teamChars": [
+            "char_4066_highmo"
+          ],
+          "zoneId": "zone_3",
+          "chatId": "month_chat_rogue_2_4",
+          "tokenRewardNum": 1000,
+          "items": [
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "32001",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "3242",
+              "count": 4,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2004",
+              "count": 15,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 30000,
+              "type": "GOLD"
+            }
+          ],
+          "startTime": 1698782400,
+          "endTime": 1701374400
         }
       },
-      "challenges": {},
+      "challenges": {
+        "rogue_2_challenge_01": {
+          "challengeId": "rogue_2_challenge_01",
+          "sortId": 1,
+          "challengeName": "感知流逝",
+          "challengeGroup": 1,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "深度排異",
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "直到傷口開始癒合，疼痛的信號才剛剛傳遞到腦中。",
+          "challengeConditionDes": [
+            "初始持有收藏品古堡的子嗣",
+            "神經退行加劇：幹員部署後陷入凍結，持續30秒，但期間攻擊力和防禦力+200%",
+            "初始燈火減少，戰鬥損傷時燈火降低更多"
+          ],
+          "taskDes": "到達第五層",
+          "completionClass": "ZONE_ENTER",
+          "completionParams": [
+            "5"
+          ],
+          "rewards": [
+            {
+              "id": "30115",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31044",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_02": {
+          "challengeId": "rogue_2_challenge_02",
+          "sortId": 2,
+          "challengeName": "畸變加劇",
+          "challengeGroup": 1,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "深度排異",
+          "challengeUnlockDesc": "通過<感知流逝>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<畸變加劇>",
+          "challengeDes": "畸變程度加深，思維仍舊敏銳。",
+          "challengeConditionDes": [
+            "初始持有收藏品羅德島戰術電台、四葉草化石",
+            "血肉畸變加劇：幹員生命上限、防禦力、攻擊力、部署費用和再部署時間-75%，但初始技力+80",
+            "初始燈火減少，戰鬥損傷時燈火降低更多"
+          ],
+          "taskDes": "累計招募15名幹員",
+          "completionClass": "CHAR_RECRUIT",
+          "completionParams": [
+            "15",
+            "SNIPER,CASTER,WARRIOR,TANK,SUPPORT,SPECIAL,MEDIC,PIONEER"
+          ],
+          "rewards": [
+            {
+              "id": "30125",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30054",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_03": {
+          "challengeId": "rogue_2_challenge_03",
+          "sortId": 3,
+          "challengeName": "腎上腺素飆升",
+          "challengeGroup": 1,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "深度排異",
+          "challengeUnlockDesc": "通過<畸變加劇>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<腎上腺素飆升>",
+          "challengeDes": "血液流失激發生存本能，勝利與潰退僅有一線之隔。",
+          "challengeConditionDes": [
+            "初始持有收藏品投幣玩具、騎士戒律·新編",
+            "造血障礙加劇：幹員在血量未滿時更快流失生命值，但生命值越低，攻擊力越高",
+            "初始燈火減少，戰鬥損傷時燈火降低更多"
+          ],
+          "taskDes": "累計獲得50源石錠",
+          "completionClass": "ITEM_GET",
+          "completionParams": [
+            "50",
+            "GOLD"
+          ],
+          "rewards": [
+            {
+              "id": "30135",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31034",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_04": {
+          "challengeId": "rogue_2_challenge_04",
+          "sortId": 4,
+          "challengeName": "躁狂",
+          "challengeGroup": 1,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "深度排異",
+          "challengeUnlockDesc": "通過<腎上腺素飆升>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<躁狂>",
+          "challengeDes": "當有序成為一種假說......",
+          "challengeConditionDes": [
+            "初始持有收藏品三鑰協定",
+            "專注失調加劇：幹員的所有技能自動開啟，但未開啟時攻擊力逐漸提升，攻擊速度逐漸降低，技能結束時效果重置",
+            "初始燈火減少，戰鬥損傷時燈火降低更多"
+          ],
+          "taskDes": "累計使用3把鑰匙",
+          "completionClass": "ITEM_COST",
+          "completionParams": [
+            "3",
+            "KEY_POINT"
+          ],
+          "rewards": [
+            {
+              "id": "30145",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30084",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_05": {
+          "challengeId": "rogue_2_challenge_05",
+          "sortId": 5,
+          "challengeName": "泰拉的晨曦",
+          "challengeGroup": 2,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "傾聽呼喚",
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "願泰拉賜予我們眺望遠方的勇氣。",
+          "challengeConditionDes": [
+            "初始持有收藏品判官經文布",
+            "啟示效果增強",
+            "任何燈火值都可能得到啟示",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "累計消耗了7枚骰子",
+          "completionClass": "ITEM_COST",
+          "completionParams": [
+            "7",
+            "DICE_POINT"
+          ],
+          "rewards": [
+            {
+              "id": "30135",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30014",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_06": {
+          "challengeId": "rogue_2_challenge_06",
+          "sortId": 6,
+          "challengeName": "議會使者",
+          "challengeGroup": 2,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "傾聽呼喚",
+          "challengeUnlockDesc": "通過<泰拉的晨曦>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<議會使者>",
+          "challengeDes": "根據議員們的一致決議——",
+          "challengeConditionDes": [
+            "初始持有收藏品古舊的蒸汽甲胄",
+            "啟示效果增強，初始獲得啟示維多利亞的榮耀",
+            "任何燈火值都可能得到啟示",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "累計獲得30希望",
+          "completionClass": "ITEM_GET",
+          "completionParams": [
+            "30",
+            "POPULATION"
+          ],
+          "rewards": [
+            {
+              "id": "30145",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31014",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_07": {
+          "challengeId": "rogue_2_challenge_07",
+          "sortId": 7,
+          "challengeName": "女皇之聲",
+          "challengeGroup": 2,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "傾聽呼喚",
+          "challengeUnlockDesc": "通過<議會使者>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<女皇之聲>",
+          "challengeDes": "謹代表女皇，為海洋帶來一條訊息——",
+          "challengeConditionDes": [
+            "初始持有收藏品斷杖-織法者、斷杖-苦難巫咒",
+            "啟示效果增強，初始獲得啟示萊塔尼亞的優雅和另一個隨機啟示",
+            "任何燈火值都可能得到啟示",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "累計獲得15個收藏品（不計初始）",
+          "completionClass": "ITEM_GET",
+          "completionParams": [
+            "15",
+            "RELIC"
+          ],
+          "rewards": [
+            {
+              "id": "30115",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31054",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_08": {
+          "challengeId": "rogue_2_challenge_08",
+          "sortId": 8,
+          "challengeName": "加冕",
+          "challengeGroup": 2,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "傾聽呼喚",
+          "challengeUnlockDesc": "通過<女皇之聲>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<加冕>",
+          "challengeDes": "浪花將為你戴上冠冕。",
+          "challengeConditionDes": [
+            "初始持有收藏品國王的新槍、國王的枝條、諸王的冠冕",
+            "啟示效果增強，初始獲得四個隨機啟示",
+            "任何燈火值都可能得到啟示",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "通過任意結局",
+          "completionClass": "ENDING_PASS",
+          "completionParams": [
+            "1",
+            "ro2_ending_1,ro2_ending_2,ro2_ending_3,ro2_ending_4"
+          ],
+          "rewards": [
+            {
+              "id": "30155",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30094",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_09": {
+          "challengeId": "rogue_2_challenge_09",
+          "sortId": 9,
+          "challengeName": "全副武裝",
+          "challengeGroup": 3,
+          "challengeGroupSortId": 3,
+          "challengeGroupName": "抓取勝利",
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "堅實的城牆能排拒一切威脅。",
+          "challengeConditionDes": [
+            "初始持有收藏品炸裂之手、尖刺之手、鐵衛-臨時要塞",
+            "臨時招募機率增加",
+            "探索中大群的呼喚觸發概率增加",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "遭遇作戰8次",
+          "completionClass": "NODE_ENTER",
+          "completionParams": [
+            "8",
+            "BATTLE_NORMAL,BATTLE_ELITE,BATTLE_BOSS"
+          ],
+          "rewards": [
+            {
+              "id": "30145",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31064",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_10": {
+          "challengeId": "rogue_2_challenge_10",
+          "sortId": 10,
+          "challengeName": "妙手回春",
+          "challengeGroup": 3,
+          "challengeGroupSortId": 3,
+          "challengeGroupName": "抓取勝利",
+          "challengeUnlockDesc": "通過<全副武裝>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<妙手回春>",
+          "challengeDes": "醫人者更易傷人。",
+          "challengeConditionDes": [
+            "初始持有收藏品淨塵之手、食腐者手杖、蒼白花冠",
+            "臨時招募機率增加",
+            "探索中大群的呼喚觸發概率增加",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "遭遇緊急作戰4次",
+          "completionClass": "NODE_ENTER",
+          "completionParams": [
+            "4",
+            "BATTLE_ELITE"
+          ],
+          "rewards": [
+            {
+              "id": "30125",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30044",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_11": {
+          "challengeId": "rogue_2_challenge_11",
+          "sortId": 11,
+          "challengeName": "出其不意",
+          "challengeGroup": 3,
+          "challengeGroupSortId": 3,
+          "challengeGroupName": "抓取勝利",
+          "challengeUnlockDesc": "通過<妙手回春>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<出其不意>",
+          "challengeDes": "各自為戰也可成軍。",
+          "challengeConditionDes": [
+            "初始持有收藏品極速之手、鏽刃-單兵、鏽刃-神力",
+            "臨時招募機率增加，特種招募券出現機率大幅提升",
+            "探索中大群的呼喚觸發概率增加",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "攜帶至少3名特種幹員通過結局",
+          "completionClass": "ENDING_PROFESSION_PASS",
+          "completionParams": [
+            "1",
+            "ro2_ending_1,ro2_ending_2,ro2_ending_3,ro2_ending_4",
+            "SPECIAL",
+            "3"
+          ],
+          "rewards": [
+            {
+              "id": "30135",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31024",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        "rogue_2_challenge_12": {
+          "challengeId": "rogue_2_challenge_12",
+          "sortId": 12,
+          "challengeName": "旁敲側擊",
+          "challengeGroup": 3,
+          "challengeGroupSortId": 3,
+          "challengeGroupName": "抓取勝利",
+          "challengeUnlockDesc": "通過<出其不意>後解鎖",
+          "challengeUnlockToastDesc": "解鎖了<旁敲側擊>",
+          "challengeDes": "成功存於細節之中。",
+          "challengeConditionDes": [
+            "初始擁有收藏品扣撓之手、支柱-援護、支柱-勤奮",
+            "臨時招募機率增加，輔助招募券出現機率大幅提升",
+            "探索中大群的呼喚觸發概率增加",
+            "海洋環境已發生改變，請小心應對"
+          ],
+          "taskDes": "攜帶至少3名輔助幹員通過結局",
+          "completionClass": "ENDING_PROFESSION_PASS",
+          "completionParams": [
+            "1",
+            "ro2_ending_1,ro2_ending_2,ro2_ending_3,ro2_ending_4",
+            "SUPPORT",
+            "3"
+          ],
+          "rewards": [
+            {
+              "id": "30155",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30104",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ]
+        }
+      },
       "difficulties": [
         {
           "modeDifficulty": "EASY",
@@ -29597,6 +30513,28 @@
           "addDesc": null,
           "isHard": false,
           "unlockText": "在<常規行動>中探索一次後解鎖"
+        },
+        {
+          "modeDifficulty": "CHALLENGE",
+          "grade": 0,
+          "name": "深入探索",
+          "subName": null,
+          "enrollId": "rogue_2_enroll_1",
+          "haveInitialRelicIcon": false,
+          "scoreFactor": 0.0,
+          "canUnlockItem": false,
+          "doMonthTask": false,
+          "ruleDesc": "提供特殊體驗的挑戰模式",
+          "failTitle": "聯繫中斷",
+          "failImageId": "image_rogue_2_fail_general",
+          "failForceDesc": "充分利用【探索條目】提供的特殊條件，可以在戰鬥中取得更大優勢",
+          "sortId": -1,
+          "color": null,
+          "bpValue": 0,
+          "bossValue": 0,
+          "addDesc": null,
+          "isHard": false,
+          "unlockText": "在<常規行動>中完成遊戲結局一次後解鎖"
         }
       ],
       "bankRewards": [
@@ -31600,6 +32538,27 @@
                   "chatStoryId": "Obt/Rogue/rogue_2/MonthRecord/month_chat_rogue_2_3_3"
                 }
               ]
+            },
+            "month_chat_rogue_2_4": {
+              "sortId": 4,
+              "numChat": 3,
+              "clientChatItemData": [
+                {
+                  "chatFloor": 1,
+                  "chatDesc": "它的脈搏和呼吸牽動著我的心跳，它是我始終求而不得的救贖。",
+                  "chatStoryId": "Obt/Rogue/rogue_2/MonthRecord/month_chat_rogue_2_4_1"
+                },
+                {
+                  "chatFloor": 3,
+                  "chatDesc": "等到周圍那些嘈雜的噪音都被澆滅，我就可以放聲唱出最後的歌。",
+                  "chatStoryId": "Obt/Rogue/rogue_2/MonthRecord/month_chat_rogue_2_4_2"
+                },
+                {
+                  "chatFloor": 5,
+                  "chatDesc": "燈塔為迷途的船隻照亮回家的路，然而說不定正是因此，它們才會引來恐魚，在浪潮來臨之際最先被摧毀。",
+                  "chatStoryId": "Obt/Rogue/rogue_2/MonthRecord/month_chat_rogue_2_4_3"
+                }
+              ]
             }
           }
         },
@@ -31702,7 +32661,7 @@
                   "endBookId": "endbook_rogue_2_3_3",
                   "sortId": 3,
                   "endbookName": "傾訴",
-                  "unlockDesc": "直面伊莎瑪拉，腐化之心的鬥爭之面容時無干員退場",
+                  "unlockDesc": "直面伊莎瑪拉，腐化之心的鬥爭之面容時無幹員退場",
                   "textId": "Obt/Rogue/rogue_2/Endbook/endbook_rogue_2_3_3"
                 }
               ]
@@ -32538,6 +33497,11 @@
         "monthTeamDescTagName": "映射對象",
         "outerBuffCompleteText": "認知完備",
         "outerProgressTextColor": "#59dddc",
+        "challengeTaskTargetName": "探索目標",
+        "challengeTaskConditionName": "探索條件",
+        "challengeTaskRewardName": "探索獎勵",
+        "challengeTaskModeName": "深入探索",
+        "challengeTaskName": "探索條目",
         "outerBuffTokenSum": 89
       },
       "init": [
@@ -33268,6 +34232,496 @@
           "initialSquadCapacity": 6,
           "initialShield": 0,
           "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "MONTH_TEAM",
+          "modeGrade": 0,
+          "predefinedId": "month_team_4",
+          "initialBandRelic": [
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_9"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_m4"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 6,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_01",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_02",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_03",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 32,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_04",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_05",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 16,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_06",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_07",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_08",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 1,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 1,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_09",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_10",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_11",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 6,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 6,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_2_challenge_12",
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 6,
+          "initialPopulation": 6,
+          "initialGold": 16,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 6,
           "initialKey": 0
         }
       ],
@@ -50893,6 +52347,210 @@
               "blackboard": []
             }
           ]
+        },
+        "rogue_2_mutation_5": {
+          "id": "rogue_2_mutation_5",
+          "iconId": "pic_rogue_2_mutation_1",
+          "outerName": "造血障礙+",
+          "innerName": "造血障礙+",
+          "functionDesc": "幹員在血量未滿時更快流失生命值，但生命值越低，攻擊力越高",
+          "desc": "血細胞凋亡加速，骨髓造血機能受抑制",
+          "buffs": [
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "rogue_2_bleed[hp_not_full]"
+                },
+                {
+                  "key": "damage",
+                  "value": 300.0
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "passive_hp_ratio_to_attr_add[atk]"
+                },
+                {
+                  "key": "min_hp_ratio",
+                  "value": 0.01
+                },
+                {
+                  "key": "max_hp_ratio",
+                  "value": 1.0
+                },
+                {
+                  "key": "min_atk",
+                  "value": 1.2
+                },
+                {
+                  "key": "max_atk",
+                  "value": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_6": {
+          "id": "rogue_2_mutation_6",
+          "iconId": "pic_rogue_2_mutation_2",
+          "outerName": "專注失調+",
+          "innerName": "專注失調+",
+          "functionDesc": "幹員的所有技能自動開啟，但未開啟時攻擊力逐漸提升，攻擊速度逐漸降低，技能結束時效果重置",
+          "desc": "感知機能減弱，喪失協調性，應激機制失控",
+          "buffs": [
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "AutoSkillTrigger"
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "char_attack_up_after_skill"
+                },
+                {
+                  "key": "atk",
+                  "value": 0.05
+                },
+                {
+                  "key": "max_stack_cnt",
+                  "value": 60.0
+                },
+                {
+                  "key": "interval",
+                  "value": 1.0
+                }
+              ]
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "char_attack_speed_after_skill"
+                },
+                {
+                  "key": "attack_speed",
+                  "value": -2.0
+                },
+                {
+                  "key": "max_stack_cnt",
+                  "value": 60.0
+                },
+                {
+                  "key": "interval",
+                  "value": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_7": {
+          "id": "rogue_2_mutation_7",
+          "iconId": "pic_rogue_2_mutation_3",
+          "outerName": "神經退行+",
+          "innerName": "神經退行+",
+          "functionDesc": "幹員部署後陷入凍結，持續30秒，但期間攻擊力和防禦力+200%",
+          "desc": "大腦神經元萎縮，反應遲緩，意識游離",
+          "buffs": [
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "rogue_2_frozen_attr_up[limited]"
+                },
+                {
+                  "key": "freeze",
+                  "value": 30.0
+                },
+                {
+                  "key": "def",
+                  "value": 2.0
+                },
+                {
+                  "key": "atk",
+                  "value": 2.0
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            }
+          ]
+        },
+        "rogue_2_mutation_8": {
+          "id": "rogue_2_mutation_8",
+          "iconId": "pic_rogue_2_mutation_4",
+          "outerName": "血肉畸變+",
+          "innerName": "血肉畸變+",
+          "functionDesc": "幹員生命上限、防禦力、攻擊力、部署費用和再部署時間-75%，但初始技力+80",
+          "desc": "體外細胞進入循環系統，電信號傳遞異位，體組織全面收縮",
+          "buffs": [
+            {
+              "key": "char_attribute_final_scaler",
+              "blackboard": [
+                {
+                  "key": "max_hp",
+                  "value": 0.25
+                },
+                {
+                  "key": "def",
+                  "value": 0.25
+                },
+                {
+                  "key": "atk",
+                  "value": 0.25
+                },
+                {
+                  "key": "cost",
+                  "value": 0.25
+                },
+                {
+                  "key": "respawn_time",
+                  "value": 0.25
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "passive_modify_sp[born]"
+                },
+                {
+                  "key": "sp",
+                  "value": 80.0
+                }
+              ]
+            }
+          ]
         }
       },
       "squadBuffData": {
@@ -51093,6 +52751,230 @@
               ]
             }
           ]
+        },
+        "rogue_2_virtue_8": {
+          "id": "rogue_2_virtue_8",
+          "iconId": "pic_rogue_2_virtue_1",
+          "outerName": "怒號+",
+          "innerName": "烏薩斯的怒號+",
+          "functionDesc": "戰鬥開始後300秒內，所有敵人攻擊力-30%，移動速度-30%",
+          "desc": "“冬雷轟鳴，那是烏薩斯勝利的呼喊。”",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "rogue_2_attr_down[game_start]"
+                },
+                {
+                  "key": "duration",
+                  "value": 300.0
+                },
+                {
+                  "key": "atk",
+                  "value": 0.7
+                },
+                {
+                  "key": "move_speed",
+                  "value": 0.7
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_virtue_9": {
+          "id": "rogue_2_virtue_9",
+          "iconId": "pic_rogue_2_virtue_2",
+          "outerName": "滄桑+",
+          "innerName": "大炎的滄桑+",
+          "functionDesc": "場上最大生命值最高的我方幹員每秒額外回復4點技力",
+          "desc": "“歲月如梭，織就大炎錦繡山河。”",
+          "buffs": [
+            {
+              "key": "char_ability_new",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "rogue_2_modify_sp[highest_max_hp]"
+                },
+                {
+                  "key": "sp",
+                  "value": 4.0
+                },
+                {
+                  "key": "selector.profession",
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_virtue_10": {
+          "id": "rogue_2_virtue_10",
+          "iconId": "pic_rogue_2_virtue_3",
+          "outerName": "創想+",
+          "innerName": "哥倫比亞的創想+",
+          "functionDesc": "下次戰鬥結束時額外獲得120點指揮等級經驗（僅觸發一次）",
+          "desc": "“這片大地仍被過往束縛，哥倫比亞已在創造未來。”",
+          "buffs": [
+            {
+              "key": "battle_extra_exp",
+              "blackboard": [
+                {
+                  "key": "count",
+                  "value": 120.0
+                },
+                {
+                  "key": "limit",
+                  "value": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_virtue_11": {
+          "id": "rogue_2_virtue_11",
+          "iconId": "pic_rogue_2_virtue_4",
+          "outerName": "堅韌+",
+          "innerName": "薩米的堅韌+",
+          "functionDesc": "場上當前生命比例最低的我方幹員獲得100點生命回復",
+          "desc": "“只要自然一息尚存，薩米的血脈便不會斷絕。”",
+          "buffs": [
+            {
+              "key": "char_ability_new",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "rogue_2_hp_recovery[lowest_hp]"
+                },
+                {
+                  "key": "hp_recovery_per_sec",
+                  "value": 100.0
+                },
+                {
+                  "key": "selector.profession",
+                  "valueStr": "warrior|sniper|tank|medic|support|caster|special|pioneer"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_virtue_12": {
+          "id": "rogue_2_virtue_12",
+          "iconId": "pic_rogue_2_virtue_5",
+          "outerName": "榮耀+",
+          "innerName": "維多利亞的榮耀+",
+          "functionDesc": "所有友方近戰單位獲得55%物理和法術閃避",
+          "desc": "“歷史見證了維多利亞的崛起，它仍將見證。”",
+          "buffs": [
+            {
+              "key": "global_buff_normal",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "valueStr": "evade[non_pure]"
+                },
+                {
+                  "key": "prob",
+                  "value": 0.55
+                },
+                {
+                  "key": "selector.buildable",
+                  "valueStr": "melee"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_virtue_13": {
+          "id": "rogue_2_virtue_13",
+          "iconId": "pic_rogue_2_virtue_6",
+          "outerName": "優雅+",
+          "innerName": "萊塔尼亞的優雅+",
+          "functionDesc": "所有友方遠程單位防禦力+500，法術抗性+50",
+          "desc": "“如果心中沒有藝術與情感，我們與磐蟹又有什麼不同？”",
+          "buffs": [
+            {
+              "key": "char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "magic_resistance",
+                  "value": 50.0
+                },
+                {
+                  "key": "def",
+                  "value": 500.0
+                },
+                {
+                  "key": "selector.buildable",
+                  "valueStr": "ranged"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_virtue_14": {
+          "id": "rogue_2_virtue_14",
+          "iconId": "pic_rogue_2_virtue_7",
+          "outerName": "慷慨+",
+          "innerName": "薩爾貢的慷慨+",
+          "functionDesc": "獲得時隨機獲得4個收藏品",
+          "desc": "“黃金之城的財富落入風沙，薩爾貢就此閃閃發亮。”",
+          "buffs": [
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "valueStr": "pool_meide_challenge"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "valueStr": "pool_meide_challenge"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "valueStr": "pool_meide_challenge"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0
+                }
+              ]
+            },
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "valueStr": "pool_meide_challenge"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0
+                }
+              ]
+            }
+          ]
         }
       },
       "taskData": {
@@ -51141,7 +53023,7 @@
         "rogue_2_task_007": {
           "taskId": "rogue_2_task_007",
           "taskName": "徵召輸出手",
-          "taskDesc": "不編入術士和狙擊幹員累計通過<@ro2.lose>2</>場戰鬥",
+          "taskDesc": "不編入術師和狙擊幹員累計通過<@ro2.lose>2</>場戰鬥",
           "rewardSceneId": "scene_ro2_taskreward2_enter",
           "taskRarity": "RARE"
         },
@@ -57245,6 +59127,126 @@
             "diceEndingScene": "醫者之志",
             "diceEndingDesc": "行醫從包裡取出些物品交給你",
             "sound": "ON_ROGUELIKE_DICENORMAL"
+          },
+          "rogue_2_diceEve_39": {
+            "dicePointMax": 12,
+            "diceResultClass": "GREAT",
+            "diceGroupId": "rogue_2_dicegroup_19",
+            "diceEventId": "rogue_2_diceEve_39",
+            "resultDesc": "獲得了<@ro2.virtue>啟示<{0}></>",
+            "showType": "VIRTUE",
+            "canReroll": false,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "於危難之中獲得了啟示",
+            "sound": "ON_ROGUELIKE_DICEGREAT"
+          },
+          "rogue_2_diceEve_40": {
+            "dicePointMax": 5,
+            "diceResultClass": "GOOD",
+            "diceGroupId": "rogue_2_dicegroup_19",
+            "diceEventId": "rogue_2_diceEve_40",
+            "resultDesc": "海潮平靜，沒有發生什麼意外",
+            "showType": "RAW_TEXT",
+            "canReroll": true,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "海潮平靜，沒有發生什麼意外",
+            "sound": "ON_ROGUELIKE_DICEGREAT"
+          },
+          "rogue_2_diceEve_41": {
+            "dicePointMax": 12,
+            "diceResultClass": "GREAT",
+            "diceGroupId": "rogue_2_dicegroup_20",
+            "diceEventId": "rogue_2_diceEve_41",
+            "resultDesc": "獲得了<@ro2.virtue>啟示<{0}></>",
+            "showType": "VIRTUE",
+            "canReroll": false,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "海潮平靜，沒有發生什麼意外",
+            "sound": "ON_ROGUELIKE_DICEGREAT"
+          },
+          "rogue_2_diceEve_42": {
+            "dicePointMax": 5,
+            "diceResultClass": "GOOD",
+            "diceGroupId": "rogue_2_dicegroup_20",
+            "diceEventId": "rogue_2_diceEve_42",
+            "resultDesc": "海潮平靜，沒有發生什麼意外",
+            "showType": "RAW_TEXT",
+            "canReroll": true,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "你的幹員產生了排異反應",
+            "sound": "ON_ROGUELIKE_DICEBAD"
+          },
+          "rogue_2_diceEve_43": {
+            "dicePointMax": 3,
+            "diceResultClass": "BAD",
+            "diceGroupId": "rogue_2_dicegroup_20",
+            "diceEventId": "rogue_2_diceEve_43",
+            "resultDesc": "幹員<@ro2.mutation>{0}</>產生了排異反應<@ro2.mutation><{1}></>",
+            "showType": "MUTATION",
+            "canReroll": true,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "你的幹員產生了排異反應",
+            "sound": "ON_ROGUELIKE_DICEBAD"
+          },
+          "rogue_2_diceEve_44": {
+            "dicePointMax": 12,
+            "diceResultClass": "GREAT",
+            "diceGroupId": "rogue_2_dicegroup_21",
+            "diceEventId": "rogue_2_diceEve_44",
+            "resultDesc": "獲得了<@ro2.virtue>啟示<{0}></>",
+            "showType": "VIRTUE",
+            "canReroll": false,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "海潮平靜，沒有發生什麼意外",
+            "sound": "ON_ROGUELIKE_DICEGREAT"
+          },
+          "rogue_2_diceEve_45": {
+            "dicePointMax": 5,
+            "diceResultClass": "BAD",
+            "diceGroupId": "rogue_2_dicegroup_21",
+            "diceEventId": "rogue_2_diceEve_45",
+            "resultDesc": "幹員<@ro2.mutation>{0}</>產生了排異反應<@ro2.mutation><{1}></>",
+            "showType": "MUTATION",
+            "canReroll": true,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "你的幹員產生了排異反應",
+            "sound": "ON_ROGUELIKE_DICEBAD"
+          },
+          "rogue_2_diceEve_46": {
+            "dicePointMax": 12,
+            "diceResultClass": "GREAT",
+            "diceGroupId": "rogue_2_dicegroup_22",
+            "diceEventId": "rogue_2_diceEve_46",
+            "resultDesc": "獲得了<@ro2.virtue>啟示<{0}></>",
+            "showType": "VIRTUE",
+            "canReroll": false,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "你的幹員產生了排異反應",
+            "sound": "ON_ROGUELIKE_DICEBAD"
+          },
+          "rogue_2_diceEve_47": {
+            "dicePointMax": 7,
+            "diceResultClass": "BAD",
+            "diceGroupId": "rogue_2_dicegroup_22",
+            "diceEventId": "rogue_2_diceEve_47",
+            "resultDesc": "幹員<@ro2.mutation>{0}</>產生了排異反應<@ro2.mutation><{1}></>",
+            "showType": "MUTATION",
+            "canReroll": true,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "你的幹員產生了排異反應",
+            "sound": "ON_ROGUELIKE_DICEBAD"
+          },
+          "rogue_2_diceEve_48": {
+            "dicePointMax": 5,
+            "diceResultClass": "VERYBAD",
+            "diceGroupId": "rogue_2_dicegroup_22",
+            "diceEventId": "rogue_2_diceEve_48",
+            "resultDesc": "幹員<@ro2.mutation>{0}</>產生了排異反應<@ro2.mutation><{1}></>",
+            "showType": "MUTATION",
+            "canReroll": true,
+            "diceEndingScene": "深入海洋",
+            "diceEndingDesc": "兩名幹員產生了排異反應",
+            "sound": "ON_ROGUELIKE_DICEBAD"
           }
         },
         "diceChoices": {
@@ -57331,8 +59333,230 @@
           "rogue_2_dicegroup_18": {
             "ruleGroupId": "rogue_2_dicegroup_18",
             "minGoodNum": 6
+          },
+          "rogue_2_dicegroup_19": {
+            "ruleGroupId": "rogue_2_dicegroup_19",
+            "minGoodNum": 1
+          },
+          "rogue_2_dicegroup_20": {
+            "ruleGroupId": "rogue_2_dicegroup_20",
+            "minGoodNum": 4
+          },
+          "rogue_2_dicegroup_21": {
+            "ruleGroupId": "rogue_2_dicegroup_21",
+            "minGoodNum": 6
+          },
+          "rogue_2_dicegroup_22": {
+            "ruleGroupId": "rogue_2_dicegroup_22",
+            "minGoodNum": 8
           }
         },
+        "dicePredefines": [
+          {
+            "modeId": "EASY",
+            "modeGrade": 0,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 0,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 1,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 2,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 3,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 4,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 5,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 6,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 7,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 8,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 9,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 10,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 11,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 12,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 13,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 14,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 15,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "MONTH_TEAM",
+            "modeGrade": 0,
+            "predefinedId": "month_team_1",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "MONTH_TEAM",
+            "modeGrade": 0,
+            "predefinedId": "month_team_2",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "MONTH_TEAM",
+            "modeGrade": 0,
+            "predefinedId": "month_team_3",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "MONTH_TEAM",
+            "modeGrade": 0,
+            "predefinedId": "month_team_4",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "MONTH_TEAM",
+            "modeGrade": 0,
+            "predefinedId": "month_team_5",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_01",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_02",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_03",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_04",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_05",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_06",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_07",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_08",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_09",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_10",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_11",
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "CHALLENGE",
+            "modeGrade": 0,
+            "predefinedId": "rogue_2_challenge_12",
+            "initialDiceCount": 1
+          }
+        ],
         "moduleType": "DICE"
       }
     }

@@ -45,7 +45,7 @@
 [name="塔露拉？"]  你們想要將我自這具身軀中驅除？
 [name="塔露拉？"]  請吧。
 [Character(name="char_010_chen_1#4")]
-[name="陳"]  你這是在嘲篾誰？
+[name="陳"]  你這是在嘲蔑誰？
 [Character(name="char_011_talula_1")]
 [name="塔露拉？"]  魔王，魔王，你為何一言不發？
 [name="塔露拉？"]  將我逐出她的身體，你們，你——

@@ -134,7 +134,7 @@
 [Character(name="char_1002_nsabr_2", name2="avg_npc_046#2", focus=2)]
 [name="W"]  我問的是敵人的屍體，伊內絲可不會什麼誇張的殺傷性法術。
 [Character(name="char_1002_nsabr_2", name2="avg_npc_046#2", focus=1)]
-[name="整合運動士兵"]  我們的術士也參加了戰鬥，整條街道都毀於一旦。
+[name="整合運動士兵"]  我們的術師也參加了戰鬥，整條街道都毀於一旦。
 [Character(name="char_1002_nsabr_2", name2="avg_npc_046#2", focus=2)]
 [name="W"]  ——你們這也太明目張膽了吧？
 [Character(name="char_1002_nsabr_2", name2="avg_npc_046#2", focus=1)]

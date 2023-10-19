@@ -22,7 +22,7 @@
 [name="杜賓"]  加上，下城區的每一條街道都可能埋伏著整合運動......
 [name="杜賓"]  不，這個說法太過保守了。
 [Character(name="char_130_doberm_ex", name2="char_148_nearl_1", focus=2)]
-[name="臨光"]  該說是，整合運動密密麻麻的擠在街上。
+[name="臨光"]  該說是，整合運動滿滿當當地擠在街上。
 [Blocker(a=0, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_016_medic")]
 [name="醫療幹員"]  幾乎每條街上都有暴徒在搞破壞，搶劫，焚毀交通工具和店鋪......

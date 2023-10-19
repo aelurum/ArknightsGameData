@@ -3,6 +3,7 @@
     "tower_tr_01": {
       "id": "tower_tr_01",
       "sortId": 1,
+      "stageNum": 1,
       "name": "7號訓練場",
       "subName": "羅德島製藥",
       "desc": "本訓練旨在對參與保全派駐的幹員及指揮人員進行基礎培訓，保證所有人員熟悉該外勤任務與普通戰鬥部署的異同。",
@@ -10,15 +11,22 @@
       "levels": [
         "lt_tr_01"
       ],
+      "hardLevels": null,
       "taskInfo": null,
       "preTowerId": null,
       "medalId": null,
       "hiddenMedalId": null,
-      "bossId": null
+      "hardModeMedalId": null,
+      "bossId": null,
+      "cardId": null,
+      "curseCardIds": [],
+      "dangerDesc": "<color=#FF4200>危險等級效果：</color>\n敵人的生命、攻擊、防禦力提升",
+      "hardModeDesc": null
     },
     "tower_tr_02": {
       "id": "tower_tr_02",
       "sortId": 2,
+      "stageNum": 1,
       "name": "9號訓練場",
       "subName": "羅德島製藥",
       "desc": "本訓練旨在對參與保全派駐的幹員及指揮人員進行基礎培訓，保證所有人員熟悉該外勤任務與普通戰鬥部署的異同。",
@@ -26,15 +34,22 @@
       "levels": [
         "lt_tr_02"
       ],
+      "hardLevels": null,
       "taskInfo": null,
       "preTowerId": "tower_tr_01",
       "medalId": null,
       "hiddenMedalId": null,
-      "bossId": null
+      "hardModeMedalId": null,
+      "bossId": null,
+      "cardId": null,
+      "curseCardIds": [],
+      "dangerDesc": "<color=#FF4200>危險等級效果：</color>\n敵人的生命、攻擊、防禦力提升",
+      "hardModeDesc": null
     },
     "tower_tr_03": {
       "id": "tower_tr_03",
       "sortId": 3,
+      "stageNum": 1,
       "name": "10號訓練場",
       "subName": "羅德島製藥",
       "desc": "本訓練旨在對參與保全派駐的幹員及指揮人員進行基礎培訓，保證所有人員熟悉該外勤任務與普通戰鬥部署的異同。",
@@ -42,28 +57,41 @@
       "levels": [
         "lt_tr_03"
       ],
+      "hardLevels": null,
       "taskInfo": null,
       "preTowerId": "tower_tr_02",
       "medalId": null,
       "hiddenMedalId": null,
-      "bossId": null
+      "hardModeMedalId": null,
+      "bossId": null,
+      "cardId": null,
+      "curseCardIds": [],
+      "dangerDesc": "<color=#FF4200>危險等級效果：</color>\n敵人的生命、攻擊、防禦力提升",
+      "hardModeDesc": null
     },
-    "tower_n_01": {
-      "id": "tower_n_01",
-      "sortId": 4,
-      "name": "鋼鐵蘿蔔礦場",
-      "subName": "雷姆必拓礦業聯合安保部",
-      "desc": "位於雷姆必拓移動城市“鋼鐵蘿蔔城”航線周邊的一處礦場，因意外挖掘到源石蟲巢穴而荒廢。近期雷姆必拓礦業聯合需要重啟該礦洞的挖掘工作，苦於人手不足，將防衛任務外包給了羅德島。",
+    "tower_n_05": {
+      "id": "tower_n_05",
+      "sortId": 101,
+      "stageNum": 6,
+      "name": "多索雷斯在建地塊",
+      "subName": "多索雷斯安全部",
+      "desc": "多索雷斯在建的城市地塊之一，在抵達目的地之前遭到了一夥荒地暴徒的襲擊，並被他們據為己有。據說暴徒們的首領希望將其改造成一座黑拳競技場。坎黛拉女士委託你先給那夥暴徒一個教訓，然後把首領請來多索雷斯一敘，她相信對方會接受她的誠意。",
       "towerType": "NORMAL",
       "levels": [
-        "lt_01_01",
-        "lt_01_02",
-        "lt_01_03",
-        "lt_01_04",
-        "lt_01_05",
-        "lt_01_06",
-        "lt_01_07",
-        "lt_01_08"
+        "lt_05_01",
+        "lt_05_02",
+        "lt_05_03",
+        "lt_05_04",
+        "lt_05_05",
+        "lt_05_06"
+      ],
+      "hardLevels": [
+        "lt_05_01_ex",
+        "lt_05_02_ex",
+        "lt_05_03_ex",
+        "lt_05_04_ex",
+        "lt_05_05_ex",
+        "lt_05_06_ex"
       ],
       "taskInfo": [
         {
@@ -71,7 +99,7 @@
           "rewards": [
             {
               "id": "mod_update_token_1",
-              "count": 1,
+              "count": 2,
               "type": "MATERIAL"
             }
           ]
@@ -81,7 +109,12 @@
           "rewards": [
             {
               "id": "mod_update_token_1",
-              "count": 2,
+              "count": 3,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 1,
               "type": "MATERIAL"
             }
           ]
@@ -91,11 +124,16 @@
           "rewards": [
             {
               "id": "mod_update_token_1",
-              "count": 3,
+              "count": 4,
               "type": "MATERIAL"
             },
             {
               "id": "mod_update_token_2",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_unlock_token",
               "count": 1,
               "type": "MATERIAL"
             }
@@ -103,66 +141,6 @@
         },
         {
           "levelNum": 4,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 5,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 4,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 6,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 4,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 2,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 7,
           "rewards": [
             {
               "id": "mod_update_token_1",
@@ -182,115 +160,16 @@
           ]
         },
         {
-          "levelNum": 8,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 8,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        }
-      ],
-      "preTowerId": null,
-      "medalId": "medal_tower_complete_01",
-      "hiddenMedalId": "medal_hidden_tower_01",
-      "bossId": "enemy_6004_pleslm"
-    },
-    "tower_n_02": {
-      "id": "tower_n_02",
-      "sortId": 5,
-      "name": "多倫礦場",
-      "subName": "多倫郡文森特精煉廠",
-      "desc": "維多利亞多倫郡文森特伯爵旗下產業，因周邊地區動盪導致礦場被暴徒佔領。伯爵經由特殊管道聯繫到羅德島，希望羅德島能夠儘快幫助多倫礦場恢復生產。",
-      "towerType": "NORMAL",
-      "levels": [
-        "lt_02_01",
-        "lt_02_02",
-        "lt_02_03",
-        "lt_02_04",
-        "lt_02_05",
-        "lt_02_06",
-        "lt_02_07",
-        "lt_02_08"
-      ],
-      "taskInfo": [
-        {
-          "levelNum": 1,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 2,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 2,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 3,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 4,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
           "levelNum": 5,
           "rewards": [
             {
               "id": "mod_update_token_1",
-              "count": 4,
+              "count": 6,
               "type": "MATERIAL"
             },
             {
               "id": "mod_update_token_2",
-              "count": 1,
+              "count": 3,
               "type": "MATERIAL"
             },
             {
@@ -305,12 +184,97 @@
           "rewards": [
             {
               "id": "mod_update_token_1",
+              "count": 10,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 3,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_unlock_token",
+              "count": 2,
+              "type": "MATERIAL"
+            }
+          ]
+        }
+      ],
+      "preTowerId": null,
+      "medalId": "medal_tower_complete_05",
+      "hiddenMedalId": "medal_hidden_tower_05",
+      "hardModeMedalId": "medal_hardtower_complete_05",
+      "bossId": "enemy_6010_boxing",
+      "cardId": "card_tower_05",
+      "curseCardIds": [
+        "cursecard_02",
+        "cursecard_02",
+        "cursecard_02"
+      ],
+      "dangerDesc": "<color=#FF4200>危險等級效果：</color>\n敵人的生命、攻擊、防禦力提升",
+      "hardModeDesc": "<color=#EB2829>應急補給條件：</color>\n所有敵人未被阻擋時受到的傷害降低\n初始危險等級提升"
+    },
+    "tower_n_06": {
+      "id": "tower_n_06",
+      "sortId": 102,
+      "stageNum": 6,
+      "name": "阿卡胡拉叢林",
+      "subName": "依娜姆",
+      "desc": "最近阿卡胡拉叢林中植物的長勢有些過於喜人，罕見地對當地居民的生活造成了嚴重困擾，據說一切的起因都來自一隻半植物半源石蟲的危險生物。依娜姆把清除這一生物的工作委託給了嘉維爾，而忙於醫療工作的嘉維爾頭也不回地把這份委託轉包給了羅德島。",
+      "towerType": "NORMAL",
+      "levels": [
+        "lt_06_01",
+        "lt_06_02",
+        "lt_06_03",
+        "lt_06_04",
+        "lt_06_05",
+        "lt_06_06"
+      ],
+      "hardLevels": [
+        "lt_06_01_ex",
+        "lt_06_02_ex",
+        "lt_06_03_ex",
+        "lt_06_04_ex",
+        "lt_06_05_ex",
+        "lt_06_06_ex"
+      ],
+      "taskInfo": [
+        {
+          "levelNum": 1,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 2,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 2,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
+              "count": 3,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "mod_update_token_2",
+              "count": 1,
+              "type": "MATERIAL"
+            }
+          ]
+        },
+        {
+          "levelNum": 3,
+          "rewards": [
+            {
+              "id": "mod_update_token_1",
               "count": 4,
               "type": "MATERIAL"
             },
             {
               "id": "mod_update_token_2",
-              "count": 2,
+              "count": 1,
               "type": "MATERIAL"
             },
             {
@@ -321,7 +285,7 @@
           ]
         },
         {
-          "levelNum": 7,
+          "levelNum": 4,
           "rewards": [
             {
               "id": "mod_update_token_1",
@@ -341,115 +305,16 @@
           ]
         },
         {
-          "levelNum": 8,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 8,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        }
-      ],
-      "preTowerId": null,
-      "medalId": "medal_tower_complete_02",
-      "hiddenMedalId": "medal_hidden_tower_02",
-      "bossId": "enemy_6005_llstone"
-    },
-    "tower_n_03": {
-      "id": "tower_n_03",
-      "sortId": 6,
-      "name": "格里布採礦平台",
-      "subName": "羅斯托夫實業",
-      "desc": "烏薩斯羅斯托夫實業旗下一座已經退役的移動採礦平台，為節約成本，羅斯托夫實業欲將其整修後重新投入使用，經早露與羅德島取得聯繫，請求羅德島協助進行相關清理工作。",
-      "towerType": "NORMAL",
-      "levels": [
-        "lt_03_01",
-        "lt_03_02",
-        "lt_03_03",
-        "lt_03_04",
-        "lt_03_05",
-        "lt_03_06",
-        "lt_03_07",
-        "lt_03_08"
-      ],
-      "taskInfo": [
-        {
-          "levelNum": 1,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 2,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 2,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 3,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 4,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
           "levelNum": 5,
           "rewards": [
             {
               "id": "mod_update_token_1",
-              "count": 4,
+              "count": 6,
               "type": "MATERIAL"
             },
             {
               "id": "mod_update_token_2",
-              "count": 1,
+              "count": 3,
               "type": "MATERIAL"
             },
             {
@@ -464,47 +329,7 @@
           "rewards": [
             {
               "id": "mod_update_token_1",
-              "count": 4,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 2,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 7,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 5,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 2,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 8,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 8,
+              "count": 10,
               "type": "MATERIAL"
             },
             {
@@ -514,175 +339,25 @@
             },
             {
               "id": "mod_unlock_token",
-              "count": 1,
+              "count": 2,
               "type": "MATERIAL"
             }
           ]
         }
       ],
       "preTowerId": null,
-      "medalId": "medal_tower_complete_03",
-      "hiddenMedalId": "medal_hidden_tower_03",
-      "bossId": "enemy_6007_mtslm"
-    },
-    "tower_n_04": {
-      "id": "tower_n_04",
-      "sortId": 7,
-      "name": "斯沃瑪加工平台",
-      "subName": "斯沃瑪食品",
-      "desc": "一起原料洩漏事故導致斯沃瑪食品徹底棄用這座食品加工平台，平台中儲存的廢棄原料讓這裡成了感染生物與暴徒的巢穴，嚴重影響附近航道安全。商業聯合會勒令斯沃瑪處理此事，而斯沃瑪向羅德島發出了平台清理委託。",
-      "towerType": "NORMAL",
-      "levels": [
-        "lt_04_01",
-        "lt_04_02",
-        "lt_04_03",
-        "lt_04_04",
-        "lt_04_05",
-        "lt_04_06",
-        "lt_04_07",
-        "lt_04_08"
+      "medalId": "medal_tower_complete_06",
+      "hiddenMedalId": "medal_hidden_tower_06",
+      "hardModeMedalId": "medal_hardtower_complete_06",
+      "bossId": "enemy_6011_planty",
+      "cardId": "card_tower_06",
+      "curseCardIds": [
+        "cursecard_01",
+        "cursecard_01",
+        "cursecard_01"
       ],
-      "taskInfo": [
-        {
-          "levelNum": 1,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 2,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 2,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 3,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 4,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 5,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 4,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 1,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 6,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 4,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 2,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 7,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 5,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 2,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        },
-        {
-          "levelNum": 8,
-          "rewards": [
-            {
-              "id": "mod_update_token_1",
-              "count": 8,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_update_token_2",
-              "count": 3,
-              "type": "MATERIAL"
-            },
-            {
-              "id": "mod_unlock_token",
-              "count": 1,
-              "type": "MATERIAL"
-            }
-          ]
-        }
-      ],
-      "preTowerId": null,
-      "medalId": "medal_tower_complete_04",
-      "hiddenMedalId": "medal_hidden_tower_04",
-      "bossId": "enemy_6009_nlkgtbs"
+      "dangerDesc": "<color=#FF4200>危險等級效果：</color>\n敵人的生命、攻擊力、移動速度提升",
+      "hardModeDesc": "<color=#EB2829>應急補給條件：</color>\n所有敵人被擊倒時對周圍我方單位造成自身攻擊力50%的物理傷害\n初始危險等級提升"
     }
   },
   "levels": {
@@ -699,8 +374,7 @@
       "dropInfo": {
         "displayRewards": null,
         "displayDetailRewards": null
-      },
-      "offers": []
+      }
     },
     "lt_tr_02": {
       "id": "lt_tr_02",
@@ -715,8 +389,7 @@
       "dropInfo": {
         "displayRewards": null,
         "displayDetailRewards": null
-      },
-      "offers": []
+      }
     },
     "lt_tr_03": {
       "id": "lt_tr_03",
@@ -731,19 +404,18 @@
       "dropInfo": {
         "displayRewards": null,
         "displayDetailRewards": null
-      },
-      "offers": []
+      }
     },
-    "lt_01_01": {
-      "id": "lt_01_01",
-      "levelId": "Obt/Legion/LT01/level_lt01_01",
-      "towerId": "tower_n_01",
+    "lt_05_01": {
+      "id": "lt_05_01",
+      "levelId": "Obt/Legion/LT05/level_lt05_01",
+      "towerId": "tower_n_05",
       "layerNum": 1,
       "code": "LT-1",
-      "name": "五號礦洞",
-      "desc": "<@lv.fs>初始危險等級：</>0\n一小股來歷不明的工程人員藏身於廢棄礦洞，尾隨而至的糾察官發現了他們的行蹤，雙方爆發衝突，嚴重影響了礦場的清理進度。",
+      "name": "蜂擁而上",
+      "desc": "<@lv.fs>初始危險等級：</>0\n對荒野上的暴徒來說，肉排是誰搶來的無關緊要，重點是誰能在其他人反應過來之前將肉排吃進肚裡。",
       "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_IC",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
@@ -764,30 +436,32 @@
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
-            "maxCount": 1,
-            "minCount": 1
+            "maxCount": 2,
+            "minCount": 2
           }
         }
-      },
-      "offers": [
-        "lt_01_low_01"
-      ]
+      }
     },
-    "lt_01_02": {
-      "id": "lt_01_02",
-      "levelId": "Obt/Legion/LT01/level_lt01_02",
-      "towerId": "tower_n_01",
+    "lt_05_02": {
+      "id": "lt_05_02",
+      "levelId": "Obt/Legion/LT05/level_lt05_02",
+      "towerId": "tower_n_05",
       "layerNum": 2,
       "code": "LT-2",
-      "name": "唯利是圖",
-      "desc": "<@lv.fs>初始危險等級：</>1\n幾家臭名昭著的礦業承包商因屢次違反黑曜石採賣條例而被汐斯塔市驅逐。但他們似乎並沒有吸取什麼教訓，很快打起了其他地方的壞主意。",
+      "name": "見者有份",
+      "desc": "<@lv.fs>初始危險等級：</>1\n沒有哪個敘拉古的家族會坐視其他人獨吞有利可圖的產業。就算他們今時不復往日，那顆唯利是圖的心也從未改變。",
       "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_IC",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
             "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -797,518 +471,50 @@
             "type": "MATERIAL",
             "id": "mod_update_token_1",
             "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          }
-        }
-      },
-      "offers": [
-        "lt_01_low_01"
-      ]
-    },
-    "lt_01_03": {
-      "id": "lt_01_03",
-      "levelId": "Obt/Legion/LT01/level_lt01_03",
-      "towerId": "tower_n_01",
-      "layerNum": 3,
-      "code": "LT-3",
-      "name": "惡勢力",
-      "desc": "<@lv.fs>初始危險等級：</>2\n當地的黑幫和無賴盯上了礦場，隔三差五便過來“看看有什麼可以幫忙的”，這幫人可比獵狗還要難纏。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_IC",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          }
-        }
-      },
-      "offers": [
-        "lt_01_low_01",
-        "lt_01_high_01"
-      ]
-    },
-    "lt_01_04": {
-      "id": "lt_01_04",
-      "levelId": "Obt/Legion/LT01/level_lt01_04",
-      "towerId": "tower_n_01",
-      "layerNum": 4,
-      "code": "LT-4",
-      "name": "無效組織",
-      "desc": "<@lv.fs>初始危險等級：</>3\n散亂的暴徒們反而習慣以“組織”的名義行事，他們不知從何處弄來了整合運動的服裝，像模像樣地開展起活動。章程？章程是破壞。",
-      "levelType": "HIGHLEVEL",
-      "loadingPicId": "loading_TW_IC",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_01_low_01",
-        "lt_01_high_01"
-      ]
-    },
-    "lt_01_05": {
-      "id": "lt_01_05",
-      "levelId": "Obt/Legion/LT01/level_lt01_05",
-      "towerId": "tower_n_01",
-      "layerNum": 5,
-      "code": "LT-5",
-      "name": "沙地獸穴",
-      "desc": "<@lv.fs>初始危險等級：</>4\n一群流亡的雇傭兵將這裡當作了豢養場。沙地獸以異化的源石蟲為食，飽餐後的它們異常興奮，在礦洞中往來奔突。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_IC",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_01_low_01",
-        "lt_01_high_01"
-      ]
-    },
-    "lt_01_06": {
-      "id": "lt_01_06",
-      "levelId": "Obt/Legion/LT01/level_lt01_06",
-      "towerId": "tower_n_01",
-      "layerNum": 6,
-      "code": "LT-6",
-      "name": "設備驗收",
-      "desc": "<@lv.fs>初始危險等級：</>5\n礦場從其他城市訂購了一批新的載具，計畫改造後用於礦料的運輸。交接的過程很順利，直到有人闖進了最後的驗收現場。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_IC",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_01_low_01",
-        "lt_01_high_01"
-      ]
-    },
-    "lt_01_07": {
-      "id": "lt_01_07",
-      "levelId": "Obt/Legion/LT01/level_lt01_07",
-      "towerId": "tower_n_01",
-      "layerNum": 7,
-      "code": "LT-7",
-      "name": "秘密基地",
-      "desc": "<@lv.fs>初始危險等級：</>6\n重裝精英正掘開岩壁擴大空間，工程人員則在破壞並重組原有的機電設備，這群偽裝成整合運動的暴徒肆無忌憚地霸佔了礦洞，準備將它改造成秘密基地。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_IC",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_01_low_01",
-        "lt_01_high_01"
-      ]
-    },
-    "lt_01_08": {
-      "id": "lt_01_08",
-      "levelId": "Obt/Legion/LT01/level_lt01_08",
-      "towerId": "tower_n_01",
-      "layerNum": 8,
-      "code": "LT-8",
-      "name": "自然之殤",
-      "desc": "<@lv.fs>初始危險等級：</>7\n它在黑暗中睜開了眼睛，礦渣從它的眼皮上垂落，如同墨色的瀑布。它一直棲息在這礦洞的最深處，是自然孕育的生靈，還是文明開拓的受害者？",
-      "levelType": "BOSS",
-      "loadingPicId": "loading_TW_IC",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
             "maxCount": 3,
             "minCount": 3
-          }
-        }
-      },
-      "offers": [
-        "lt_01_low_01",
-        "lt_01_high_01"
-      ]
-    },
-    "lt_02_01": {
-      "id": "lt_02_01",
-      "levelId": "Obt/Legion/LT02/level_lt02_01",
-      "towerId": "tower_n_02",
-      "layerNum": 1,
-      "code": "LT-1",
-      "name": "好鄰居",
-      "desc": "<@lv.fs>初始危險等級：</>0\n在礦場停工的這段時間，隔壁的林場已經“合法”擴張了地盤。你們前往交涉，但對方的巡邏犬和安保人員並不友好。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_TO",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
             "type": 3,
             "maxCount": 1,
             "minCount": 1
           }
         }
-      },
-      "offers": [
-        "lt_02_low_01"
-      ]
+      }
     },
-    "lt_02_02": {
-      "id": "lt_02_02",
-      "levelId": "Obt/Legion/LT02/level_lt02_02",
-      "towerId": "tower_n_02",
-      "layerNum": 2,
-      "code": "LT-2",
-      "name": "開工儀式",
-      "desc": "<@lv.fs>初始危險等級：</>1\n開工儀式現場的禮炮聲未落，成群的磐蟹和持械的暴徒便從四周湧了過來。他們肯定不是來祝賀的。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_TO",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          }
-        }
-      },
-      "offers": [
-        "lt_02_low_01"
-      ]
-    },
-    "lt_02_03": {
-      "id": "lt_02_03",
-      "levelId": "Obt/Legion/LT02/level_lt02_03",
-      "towerId": "tower_n_02",
+    "lt_05_03": {
+      "id": "lt_05_03",
+      "levelId": "Obt/Legion/LT05/level_lt05_03",
+      "towerId": "tower_n_05",
       "layerNum": 3,
       "code": "LT-3",
-      "name": "流浪之所",
-      "desc": "<@lv.fs>初始危險等級：</>2\n對於這群失去家鄉、流浪到此的薩卡茲雇傭兵來說，被搶奪地盤是莫大的恥辱。你們被視作擅闖領地的入侵者。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_TO",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          }
-        }
-      },
-      "offers": [
-        "lt_02_low_01",
-        "lt_02_high_01"
-      ]
-    },
-    "lt_02_04": {
-      "id": "lt_02_04",
-      "levelId": "Obt/Legion/LT02/level_lt02_04",
-      "towerId": "tower_n_02",
-      "layerNum": 4,
-      "code": "LT-4",
-      "name": "“競技場”",
-      "desc": "<@lv.fs>初始危險等級：</>3\n本地的狂熱分子模仿著卡西米爾騎士的打扮，不務正業，爭勇鬥狠......他們將礦場選作決鬥的競技場。",
+      "name": "產業升級",
+      "desc": "<@lv.fs>初始危險等級：</>2\n作為劫奪在建地塊一案的主謀，桑德爾深諳與時俱進的道理。不過，在購置了卡西米爾的先進經驗與全套設備之後，他本就不充裕的小金庫已經空了。",
       "levelType": "HIGHLEVEL",
-      "loadingPicId": "loading_TW_TO",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -1316,419 +522,52 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_02_low_01",
-        "lt_02_high_01"
-      ]
-    },
-    "lt_02_05": {
-      "id": "lt_02_05",
-      "levelId": "Obt/Legion/LT02/level_lt02_05",
-      "towerId": "tower_n_02",
-      "layerNum": 5,
-      "code": "LT-5",
-      "name": "背井離鄉",
-      "desc": "<@lv.fs>初始危險等級：</>4\n離開家鄉的提亞卡烏戰士與盾衛想要謀求一份好工作，他們受雇來到礦場“打擊邪惡”。顯然，有人欺騙了他們。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_TO",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_02_low_01",
-        "lt_02_high_01"
-      ]
-    },
-    "lt_02_06": {
-      "id": "lt_02_06",
-      "levelId": "Obt/Legion/LT02/level_lt02_06",
-      "towerId": "tower_n_02",
-      "layerNum": 6,
-      "code": "LT-6",
-      "name": "源石污染",
-      "desc": "<@lv.fs>初始危險等級：</>5\n礦工曾意外掘開了源石蟲的巢穴，致使礦場嚴重污染。現在，清理礦場的動靜再次驚擾了被感染的生物，它們紛紛湧上地面，向野外逃竄。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_TO",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_02_low_01",
-        "lt_02_high_01"
-      ]
-    },
-    "lt_02_07": {
-      "id": "lt_02_07",
-      "levelId": "Obt/Legion/LT02/level_lt02_07",
-      "towerId": "tower_n_02",
-      "layerNum": 7,
-      "code": "LT-7",
-      "name": "惡性競爭",
-      "desc": "<@lv.fs>初始危險等級：</>6\n大量雇傭兵和流浪的感染者衝進了礦場，他們有組織有計劃地製造著騷亂。經過調查，是同城的另一家礦場雇傭了他們。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_TO",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_02_low_01",
-        "lt_02_high_01"
-      ]
-    },
-    "lt_02_08": {
-      "id": "lt_02_08",
-      "levelId": "Obt/Legion/LT02/level_lt02_08",
-      "towerId": "tower_n_02",
-      "layerNum": 8,
-      "code": "LT-8",
-      "name": "捲土而來",
-      "desc": "<@lv.fs>初始危險等級：</>7\n來歷不明的巨型生物破開泥土和岩層，黑幫和打手們在它身邊聚集，以極快的速度逼近剛剛清理好的礦區。究竟是惡徒們控制著它，還是它驅使著這些惡徒？",
-      "levelType": "BOSS",
-      "loadingPicId": "loading_TW_TO",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
             "maxCount": 3,
             "minCount": 3
-          }
-        }
-      },
-      "offers": [
-        "lt_02_low_01",
-        "lt_02_high_01"
-      ]
-    },
-    "lt_03_01": {
-      "id": "lt_03_01",
-      "levelId": "Obt/Legion/LT03/level_lt03_01",
-      "towerId": "tower_n_03",
-      "layerNum": 1,
-      "code": "LT-1",
-      "name": "借道",
-      "desc": "<@lv.fs>初始危險等級：</>0\n一群全副武裝的工程人員宣稱採礦平台擋住了他們的行進路線，要嘛採礦平台緊急挪動位置，要嘛允許他們登上平台“借道”而行。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_GM",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          }
-        }
-      },
-      "offers": [
-        "lt_03_low_01"
-      ]
-    },
-    "lt_03_02": {
-      "id": "lt_03_02",
-      "levelId": "Obt/Legion/LT03/level_lt03_02",
-      "towerId": "tower_n_03",
-      "layerNum": 2,
-      "code": "LT-2",
-      "name": "有備而來",
-      "desc": "<@lv.fs>初始危險等級：</>1\n重裝者吸引注意力，幫助同伴越過防線潛入採礦層，一群尋釁滋事者竟然有著如此嚴密的分工，顯然是有備而來。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_GM",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          }
-        }
-      },
-      "offers": [
-        "lt_03_low_01"
-      ]
-    },
-    "lt_03_03": {
-      "id": "lt_03_03",
-      "levelId": "Obt/Legion/LT03/level_lt03_03",
-      "towerId": "tower_n_03",
-      "layerNum": 3,
-      "code": "LT-3",
-      "name": "軍容整肅",
-      "desc": "<@lv.fs>初始危險等級：</>2\n工程隊與盾衛產生了些誤會。這群脫離了整合運動的戰士並未失去方向，他們的軍紀依然整肅，戰術配合依然默契，他們仍以自己的方式守衛著烏薩斯。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_GM",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
           },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
           "mod_update_token_2": {
             "itemId": "mod_update_token_2",
             "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
+            "maxCount": 2,
+            "minCount": 2
           }
         }
-      },
-      "offers": [
-        "lt_03_low_01",
-        "lt_03_high_01"
-      ]
+      }
     },
-    "lt_03_04": {
-      "id": "lt_03_04",
-      "levelId": "Obt/Legion/LT03/level_lt03_04",
-      "towerId": "tower_n_03",
+    "lt_05_04": {
+      "id": "lt_05_04",
+      "levelId": "Obt/Legion/LT05/level_lt05_04",
+      "towerId": "tower_n_05",
       "layerNum": 4,
       "code": "LT-4",
-      "name": "“烏薩斯競技”",
-      "desc": "<@lv.fs>初始危險等級：</>3\n這幫不法分子不知道從哪里弄來了卡西米爾各騎士團的套裝，他們簡化了競技規則，生存即是積分，膽怯者只配作為觀眾歡呼。採礦平台復工似乎打擾了他們的“賽事”。",
-      "levelType": "HIGHLEVEL",
-      "loadingPicId": "loading_TW_GM",
+      "name": "同流合污",
+      "desc": "<@lv.fs>初始危險等級：</>3\n在找上羅德島之前，坎黛拉女士並非沒有考慮過更隱秘的手段。但在她派出的別動隊眼中，與桑德爾許諾的入夥分紅相比，拿錢辦事多少顯得有些寒酸。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -1736,56 +575,52 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
             "type": 3,
             "maxCount": 2,
             "minCount": 2
           }
         }
-      },
-      "offers": [
-        "lt_03_low_01",
-        "lt_03_high_01"
-      ]
+      }
     },
-    "lt_03_05": {
-      "id": "lt_03_05",
-      "levelId": "Obt/Legion/LT03/level_lt03_05",
-      "towerId": "tower_n_03",
+    "lt_05_05": {
+      "id": "lt_05_05",
+      "levelId": "Obt/Legion/LT05/level_lt05_05",
+      "towerId": "tower_n_05",
       "layerNum": 5,
       "code": "LT-5",
-      "name": "“烏合之眾”",
-      "desc": "<@lv.fs>初始危險等級：</>4\n打手、無賴、流浪者......平臺清理進程過半，如此多的好事之徒同一時間找上門來，當心，事情並不只是“收收保護費”那麼簡單。",
+      "name": "酩酊之旅",
+      "desc": "<@lv.fs>初始危險等級：</>4\n事後，經過鴻雪的動之以情和嘉維爾的曉之以理，這些杜林人終於保證不再酗酒，至少不在酒後隨隨便便答應跟別人走。",
       "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_GM",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -1793,170 +628,52 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
             "type": 3,
             "maxCount": 2,
             "minCount": 2
           }
         }
-      },
-      "offers": [
-        "lt_03_low_01",
-        "lt_03_high_01"
-      ]
+      }
     },
-    "lt_03_06": {
-      "id": "lt_03_06",
-      "levelId": "Obt/Legion/LT03/level_lt03_06",
-      "towerId": "tower_n_03",
+    "lt_05_06": {
+      "id": "lt_05_06",
+      "levelId": "Obt/Legion/LT05/level_lt05_06",
+      "towerId": "tower_n_05",
       "layerNum": 6,
       "code": "LT-6",
-      "name": "工程檢查",
-      "desc": "<@lv.fs>初始危險等級：</>5\n採礦平台與移動城市對接進行常規檢查時，工程隊中混入了來歷不明的武裝人員，他們隱藏身份，在無人機的掩護下肆意破壞著平台設備。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_GM",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_03_low_01",
-        "lt_03_high_01"
-      ]
-    },
-    "lt_03_07": {
-      "id": "lt_03_07",
-      "levelId": "Obt/Legion/LT03/level_lt03_07",
-      "towerId": "tower_n_03",
-      "layerNum": 7,
-      "code": "LT-7",
-      "name": "突然造訪",
-      "desc": "<@lv.fs>初始危險等級：</>6\n“線報稱這裡藏著整合運動的殘部”，一群自稱是烏薩斯軍方與感染者糾察官的隊伍突然造訪，準備封鎖這座正在清理的採礦平台......他們態度惡劣，而且拿不出有效的證件。",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_GM",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_03_low_01",
-        "lt_03_high_01"
-      ]
-    },
-    "lt_03_08": {
-      "id": "lt_03_08",
-      "levelId": "Obt/Legion/LT03/level_lt03_08",
-      "towerId": "tower_n_03",
-      "layerNum": 8,
-      "code": "LT-8",
-      "name": "漫長的旅行",
-      "desc": "<@lv.fs>初始危險等級：</>7\n它背著碩大的“小屋”緩慢地爬出，螢光一路灑落，生機點綴著漆黑的地底。採礦平台本來制定了周詳的計畫幫助它搬遷，但不相關人士的介入讓事情變得複雜了起來。",
+      "name": "一塊肉排",
+      "desc": "<@lv.fs>初始危險等級：</>5\n年老的桑德爾不必為了餓著肚子輸掉一場拳賽在更衣室裡掩面痛哭。因為他足夠聰明，足夠大膽，足夠卑劣，所以他還有路可走。",
       "levelType": "BOSS",
-      "loadingPicId": "loading_TW_GM",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -1964,46 +681,42 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
             "type": 3,
             "maxCount": 3,
             "minCount": 3
           }
         }
-      },
-      "offers": [
-        "lt_03_low_01",
-        "lt_03_high_01"
-      ]
+      }
     },
-    "lt_04_01": {
-      "id": "lt_04_01",
-      "levelId": "Obt/Legion/LT04/level_lt04_01",
-      "towerId": "tower_n_04",
+    "lt_05_01_ex": {
+      "id": "lt_05_01_ex",
+      "levelId": "Obt/Legion/LT05/level_lt05_01_ex",
+      "towerId": "tower_n_05",
       "layerNum": 1,
       "code": "LT-1",
-      "name": "無心插柳",
-      "desc": "<@lv.fs>初始危險等級：</>0\n斯沃瑪食品把平台上的競技騎士表演賽當作員工福利之一，但少有競技騎士願意來這種逼仄的競技場。諷刺的是，平台廢棄後，這裡反而成了一些失意之人的落腳點。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "name": "蜂擁而上",
+      "desc": "<@lv.fs>初始危險等級：</>2\n對荒野上的暴徒來說，肉排是誰搶來的無關緊要，重點是誰能在其他人反應過來之前將肉排吃進肚裡。",
       "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_SM",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
@@ -2024,30 +737,32 @@
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
-            "maxCount": 1,
-            "minCount": 1
+            "maxCount": 4,
+            "minCount": 4
           }
         }
-      },
-      "offers": [
-        "lt_04_low_01"
-      ]
+      }
     },
-    "lt_04_02": {
-      "id": "lt_04_02",
-      "levelId": "Obt/Legion/LT04/level_lt04_02",
-      "towerId": "tower_n_04",
+    "lt_05_02_ex": {
+      "id": "lt_05_02_ex",
+      "levelId": "Obt/Legion/LT05/level_lt05_02_ex",
+      "towerId": "tower_n_05",
       "layerNum": 2,
       "code": "LT-2",
-      "name": "真假難辨",
-      "desc": "<@lv.fs>初始危險等級：</>1\n鏽銅騎士銷聲匿跡以來，不斷有人聲稱在某處看到了他，不過最後都被證明是他人假扮的，想必眼前這位也不例外。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "name": "見者有份",
+      "desc": "<@lv.fs>初始危險等級：</>3\n沒有哪個敘拉古的家族會坐視其他人獨吞有利可圖的產業。就算他們今時不復往日，那顆唯利是圖的心也從未改變。",
       "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_SM",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
             "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -2057,41 +772,50 @@
             "type": "MATERIAL",
             "id": "mod_update_token_1",
             "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
           }
         ],
         "displayDropInfo": {
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
-            "maxCount": 1,
-            "minCount": 1
+            "maxCount": 6,
+            "minCount": 6
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
           }
         }
-      },
-      "offers": [
-        "lt_04_low_01"
-      ]
+      }
     },
-    "lt_04_03": {
-      "id": "lt_04_03",
-      "levelId": "Obt/Legion/LT04/level_lt04_03",
-      "towerId": "tower_n_04",
+    "lt_05_03_ex": {
+      "id": "lt_05_03_ex",
+      "levelId": "Obt/Legion/LT05/level_lt05_03_ex",
+      "towerId": "tower_n_05",
       "layerNum": 3,
       "code": "LT-3",
-      "name": "夜色溫柔",
-      "desc": "<@lv.fs>初始危險等級：</>2\n城市的霓虹難以照亮盤踞於此的黑暗。燭光或許能夠做到，或許不能。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_SM",
+      "name": "產業升級",
+      "desc": "<@lv.fs>初始危險等級：</>4\n作為劫奪在建地塊一案的主謀，桑德爾深諳與時俱進的道理。不過，在購置了卡西米爾的先進經驗與全套設備之後，他本就不充裕的小金庫已經空了。",
+      "levelType": "HIGHLEVEL",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -2099,56 +823,52 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
-            "maxCount": 1,
-            "minCount": 1
+            "maxCount": 6,
+            "minCount": 6
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
           }
         }
-      },
-      "offers": [
-        "lt_04_low_01",
-        "lt_04_high_01"
-      ]
+      }
     },
-    "lt_04_04": {
-      "id": "lt_04_04",
-      "levelId": "Obt/Legion/LT04/level_lt04_04",
-      "towerId": "tower_n_04",
+    "lt_05_04_ex": {
+      "id": "lt_05_04_ex",
+      "levelId": "Obt/Legion/LT05/level_lt05_04_ex",
+      "towerId": "tower_n_05",
       "layerNum": 4,
       "code": "LT-4",
-      "name": "左支右絀",
-      "desc": "<@lv.fs>初始危險等級：</>3\n退役的競技騎士會被大多數人遺忘。當然，也有人對偶像的退役耿耿於懷，而這對騎士本人來說未必是好事。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
-      "levelType": "HIGHLEVEL",
-      "loadingPicId": "loading_TW_SM",
+      "name": "同流合污",
+      "desc": "<@lv.fs>初始危險等級：</>5\n在找上羅德島之前，坎黛拉女士並非沒有考慮過更隱秘的手段。但在她派出的別動隊眼中，與桑德爾許諾的入夥分紅相比，拿錢辦事多少顯得有些寒酸。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -2156,56 +876,52 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
-            "maxCount": 2,
-            "minCount": 2
+            "maxCount": 8,
+            "minCount": 8
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
           }
         }
-      },
-      "offers": [
-        "lt_04_low_01",
-        "lt_04_high_01"
-      ]
+      }
     },
-    "lt_04_05": {
-      "id": "lt_04_05",
-      "levelId": "Obt/Legion/LT04/level_lt04_05",
-      "towerId": "tower_n_04",
+    "lt_05_05_ex": {
+      "id": "lt_05_05_ex",
+      "levelId": "Obt/Legion/LT05/level_lt05_05_ex",
+      "towerId": "tower_n_05",
       "layerNum": 5,
       "code": "LT-5",
-      "name": "殘枝敗葉",
-      "desc": "<@lv.fs>初始危險等級：</>4\n食品加工平台內部的結構龐大而複雜，即使親密如雙胞胎，也會在不經意間走散。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "name": "酩酊之旅",
+      "desc": "<@lv.fs>初始危險等級：</>6\n事後，經過鴻雪的動之以情和嘉維爾的曉之以理，這些杜林人終於保證不再酗酒，至少不在酒後隨隨便便答應跟別人走。",
       "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_SM",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
@@ -2213,167 +929,97 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_1",
+            "id": "mod_update_token_2",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
-            "maxCount": 2,
-            "minCount": 2
+            "maxCount": 8,
+            "minCount": 8
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
           }
         }
-      },
-      "offers": [
-        "lt_04_low_01",
-        "lt_04_high_01"
-      ]
+      }
     },
-    "lt_04_06": {
-      "id": "lt_04_06",
-      "levelId": "Obt/Legion/LT04/level_lt04_06",
-      "towerId": "tower_n_04",
+    "lt_05_06_ex": {
+      "id": "lt_05_06_ex",
+      "levelId": "Obt/Legion/LT05/level_lt05_06_ex",
+      "towerId": "tower_n_05",
       "layerNum": 6,
       "code": "LT-6",
-      "name": "旅途小憩",
-      "desc": "<@lv.fs>初始危險等級：</>5\n在卡西米爾，“文明”的氣息無孔不入。你越是嗤之以鼻，它越是如影隨形。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_SM",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_04_low_01",
-        "lt_04_high_01"
-      ]
-    },
-    "lt_04_07": {
-      "id": "lt_04_07",
-      "levelId": "Obt/Legion/LT04/level_lt04_07",
-      "towerId": "tower_n_04",
-      "layerNum": 7,
-      "code": "LT-7",
-      "name": "泥塵零落",
-      "desc": "<@lv.fs>初始危險等級：</>6\n商品被選中，商品被造就，商品被拋棄。生產線和商品都不需要主體性。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
-      "levelType": "NORMAL",
-      "loadingPicId": "loading_TW_SM",
-      "dropInfo": {
-        "displayRewards": [
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDetailRewards": [
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
-            "id": "mod_update_token_1",
-            "dropType": 2
-          }
-        ],
-        "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
-            "type": 3,
-            "maxCount": 1,
-            "minCount": 1
-          },
-          "mod_update_token_1": {
-            "itemId": "mod_update_token_1",
-            "type": 3,
-            "maxCount": 2,
-            "minCount": 2
-          }
-        }
-      },
-      "offers": [
-        "lt_04_low_01",
-        "lt_04_high_01"
-      ]
-    },
-    "lt_04_08": {
-      "id": "lt_04_08",
-      "levelId": "Obt/Legion/LT04/level_lt04_08",
-      "towerId": "tower_n_04",
-      "layerNum": 8,
-      "code": "LT-8",
-      "name": "無底洞",
-      "desc": "<@lv.fs>初始危險等級：</>7\n用於戰鬥的硬螯萎縮退化，用於進食的口器則變異成扭曲的觸鬚。這只因攝入過量工業食品原料而急劇異化的鉗獸已經失去了原本的樣貌與習性，只能不停抓取食物以試圖填滿那永不滿足的胃。\n<@lv.item><黑夜></>幹員無法被部署在沒有視野的地塊上，怪物處於沒有視野的區域中擁有隱匿特性",
+      "name": "一塊肉排",
+      "desc": "<@lv.fs>初始危險等級：</>7\n年老的桑德爾不必為了餓著肚子輸掉一場拳賽在更衣室裡掩面痛哭。因為他足夠聰明，足夠大膽，足夠卑劣，所以他還有路可走。",
       "levelType": "BOSS",
-      "loadingPicId": "loading_TW_SM",
+      "loadingPicId": "loading_TW_AD",
       "dropInfo": {
         "displayRewards": [
           {
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
+            "id": "mod_update_token_1",
             "dropType": 2
           },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 8,
+            "minCount": 8
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 6,
+            "minCount": 6
+          }
+        }
+      }
+    },
+    "lt_06_01": {
+      "id": "lt_06_01",
+      "levelId": "Obt/Legion/LT06/level_lt06_01",
+      "towerId": "tower_n_06",
+      "layerNum": 1,
+      "code": "LT-1",
+      "name": "叢林式寒暄",
+      "desc": "<@lv.fs>初始危險等級：</>0\n這種用拳頭表達歡迎的打招呼方式，提亞卡烏已經習慣了，你也已經習慣了。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
           {
             "type": "MATERIAL",
             "id": "mod_update_token_1",
@@ -2384,243 +1030,583 @@
           {
             "occPercent": 0,
             "type": "MATERIAL",
-            "id": "mod_update_token_2",
-            "dropType": 2
-          },
-          {
-            "occPercent": 0,
-            "type": "MATERIAL",
             "id": "mod_update_token_1",
             "dropType": 2
           }
         ],
         "displayDropInfo": {
-          "mod_update_token_2": {
-            "itemId": "mod_update_token_2",
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
             "type": 3,
             "maxCount": 2,
             "minCount": 2
+          }
+        }
+      }
+    },
+    "lt_06_02": {
+      "id": "lt_06_02",
+      "levelId": "Obt/Legion/LT06/level_lt06_02",
+      "towerId": "tower_n_06",
+      "layerNum": 2,
+      "code": "LT-2",
+      "name": "生物多樣性",
+      "desc": "<@lv.fs>初始危險等級：</>1\n面對著洶湧的感染生物狂潮，你注意到裡面有些不太常見的品種——但你已經無暇他顧，因為裡面還混了一幫好戰的提亞卡烏。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
           },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
           "mod_update_token_1": {
             "itemId": "mod_update_token_1",
             "type": 3,
             "maxCount": 3,
             "minCount": 3
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 1,
+            "minCount": 1
           }
         }
-      },
-      "offers": [
-        "lt_04_low_01",
-        "lt_04_high_01"
-      ]
-    }
-  },
-  "offers": {
-    "lt_01_low_01": {
-      "id": "lt_01_low_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 0,
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_1": {
-          "itemId": "mod_update_token_1",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 1
+      }
+    },
+    "lt_06_03": {
+      "id": "lt_06_03",
+      "levelId": "Obt/Legion/LT06/level_lt06_03",
+      "towerId": "tower_n_06",
+      "layerNum": 3,
+      "code": "LT-3",
+      "name": "習以為常",
+      "desc": "<@lv.fs>初始危險等級：</>2\n見識了阿卡胡拉過分繁榮的生態系統之後，你已經不想對那些混在感染生物堆裡的好事之徒發表什麼感想了。",
+      "levelType": "HIGHLEVEL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 3,
+            "minCount": 3
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
         }
       }
     },
-    "lt_01_high_01": {
-      "id": "lt_01_high_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
-        }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 2,
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
-        }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_2": {
-          "itemId": "mod_update_token_2",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 0
-        }
-      }
-    },
-    "lt_02_low_01": {
-      "id": "lt_02_low_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 0,
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_1": {
-          "itemId": "mod_update_token_1",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 1
-        }
-      }
-    },
-    "lt_02_high_01": {
-      "id": "lt_02_high_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
-        }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 2,
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
-        }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_2": {
-          "itemId": "mod_update_token_2",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 0
+    "lt_06_04": {
+      "id": "lt_06_04",
+      "levelId": "Obt/Legion/LT06/level_lt06_04",
+      "towerId": "tower_n_06",
+      "layerNum": 4,
+      "code": "LT-4",
+      "name": "林間空地",
+      "desc": "<@lv.fs>初始危險等級：</>3\n你找到一片林間空地，清除了上面的源石蟲，打算讓隊伍在此休整。不過，你的行動好像打擾到了一群同樣打算在此處歇腳的外來者。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
         }
       }
     },
-    "lt_03_low_01": {
-      "id": "lt_03_low_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 0,
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_1": {
-          "itemId": "mod_update_token_1",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 1
-        }
-      }
-    },
-    "lt_03_high_01": {
-      "id": "lt_03_high_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
-        }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 2,
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
-        }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_2": {
-          "itemId": "mod_update_token_2",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 0
-        }
-      }
-    },
-    "lt_04_low_01": {
-      "id": "lt_04_low_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 0,
-          "type": "MATERIAL",
-          "id": "mod_update_token_1",
-          "dropType": 4
-        }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_1": {
-          "itemId": "mod_update_token_1",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 1
+    "lt_06_05": {
+      "id": "lt_06_05",
+      "levelId": "Obt/Legion/LT06/level_lt06_05",
+      "towerId": "tower_n_06",
+      "layerNum": 5,
+      "code": "LT-5",
+      "name": "糾纏不休",
+      "desc": "<@lv.fs>初始危險等級：</>4\n外來者鍥而不捨的進攻讓你不勝其煩。你決定先將他們徹底擊潰，然後再去對付導致雨林生物異常繁盛的罪魁禍首。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
         }
       }
     },
-    "lt_04_high_01": {
-      "id": "lt_04_high_01",
-      "displayRewards": [
-        {
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
+    "lt_06_06": {
+      "id": "lt_06_06",
+      "levelId": "Obt/Legion/LT06/level_lt06_06",
+      "towerId": "tower_n_06",
+      "layerNum": 6,
+      "code": "LT-6",
+      "name": "人與自然",
+      "desc": "<@lv.fs>初始危險等級：</>5\n你以為自己已經在阿卡胡拉見得多了，但顯露出狂野一面的自然仍讓你一時語塞。面對眼前這片極具侵略性的花海，你只能祈禱自己少打幾個噴嚏了。",
+      "levelType": "BOSS",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 3,
+            "minCount": 3
+          }
         }
-      ],
-      "displayDetailRewards": [
-        {
-          "occPercent": 2,
-          "type": "MATERIAL",
-          "id": "mod_update_token_2",
-          "dropType": 4
+      }
+    },
+    "lt_06_01_ex": {
+      "id": "lt_06_01_ex",
+      "levelId": "Obt/Legion/LT06/level_lt06_01_ex",
+      "towerId": "tower_n_06",
+      "layerNum": 1,
+      "code": "LT-1",
+      "name": "叢林式寒暄",
+      "desc": "<@lv.fs>初始危險等級：</>2\n這種用拳頭表達歡迎的打招呼方式，提亞卡烏已經習慣了，你也已經習慣了。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          }
         }
-      ],
-      "displayDropInfo": {
-        "mod_update_token_2": {
-          "itemId": "mod_update_token_2",
-          "type": 3,
-          "maxCount": 1,
-          "minCount": 0
+      }
+    },
+    "lt_06_02_ex": {
+      "id": "lt_06_02_ex",
+      "levelId": "Obt/Legion/LT06/level_lt06_02_ex",
+      "towerId": "tower_n_06",
+      "layerNum": 2,
+      "code": "LT-2",
+      "name": "生物多樣性",
+      "desc": "<@lv.fs>初始危險等級：</>3\n面對著洶湧的感染生物狂潮，你注意到裡面有些不太常見的品種——但你已經無暇他顧，因為裡面還混了一幫好戰的提亞卡烏。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 6,
+            "minCount": 6
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 2,
+            "minCount": 2
+          }
+        }
+      }
+    },
+    "lt_06_03_ex": {
+      "id": "lt_06_03_ex",
+      "levelId": "Obt/Legion/LT06/level_lt06_03_ex",
+      "towerId": "tower_n_06",
+      "layerNum": 3,
+      "code": "LT-3",
+      "name": "習以為常",
+      "desc": "<@lv.fs>初始危險等級：</>4\n見識了阿卡胡拉過分繁榮的生態系統之後，你已經不想對那些混在感染生物堆裡的好事之徒發表什麼感想了。",
+      "levelType": "HIGHLEVEL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 6,
+            "minCount": 6
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          }
+        }
+      }
+    },
+    "lt_06_04_ex": {
+      "id": "lt_06_04_ex",
+      "levelId": "Obt/Legion/LT06/level_lt06_04_ex",
+      "towerId": "tower_n_06",
+      "layerNum": 4,
+      "code": "LT-4",
+      "name": "林間空地",
+      "desc": "<@lv.fs>初始危險等級：</>5\n你找到一片林間空地，清除了上面的源石蟲，打算讓隊伍在此休整。不過，你的行動好像打擾到了一群同樣打算在此處歇腳的外來者。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 8,
+            "minCount": 8
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          }
+        }
+      }
+    },
+    "lt_06_05_ex": {
+      "id": "lt_06_05_ex",
+      "levelId": "Obt/Legion/LT06/level_lt06_05_ex",
+      "towerId": "tower_n_06",
+      "layerNum": 5,
+      "code": "LT-5",
+      "name": "糾纏不休",
+      "desc": "<@lv.fs>初始危險等級：</>6\n外來者鍥而不捨的進攻讓你不勝其煩。你決定先將他們徹底擊潰，然後再去對付導致雨林生物異常繁盛的罪魁禍首。",
+      "levelType": "NORMAL",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 8,
+            "minCount": 8
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 4,
+            "minCount": 4
+          }
+        }
+      }
+    },
+    "lt_06_06_ex": {
+      "id": "lt_06_06_ex",
+      "levelId": "Obt/Legion/LT06/level_lt06_06_ex",
+      "towerId": "tower_n_06",
+      "layerNum": 6,
+      "code": "LT-6",
+      "name": "人與自然",
+      "desc": "<@lv.fs>初始危險等級：</>7\n你以為自己已經在阿卡胡拉見得多了，但顯露出狂野一面的自然仍讓你一時語塞。面對眼前這片極具侵略性的花海，你只能祈禱自己少打幾個噴嚏了。",
+      "levelType": "BOSS",
+      "loadingPicId": "loading_TW_AJ",
+      "dropInfo": {
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_1",
+            "dropType": 2
+          },
+          {
+            "occPercent": 0,
+            "type": "MATERIAL",
+            "id": "mod_update_token_2",
+            "dropType": 2
+          }
+        ],
+        "displayDropInfo": {
+          "mod_update_token_1": {
+            "itemId": "mod_update_token_1",
+            "type": 3,
+            "maxCount": 8,
+            "minCount": 8
+          },
+          "mod_update_token_2": {
+            "itemId": "mod_update_token_2",
+            "type": 3,
+            "maxCount": 6,
+            "minCount": 6
+          }
         }
       }
     }
@@ -2755,27 +1741,1212 @@
       "buffType": "B"
     }
   },
-  "towerNoticeList": [
-    {
-      "startTime": 1684180800,
-      "endTime": 1685563199
+  "mainCards": {
+    "card_01": {
+      "id": "card_01",
+      "type": "SEASON",
+      "linkedTowerId": null,
+      "sortId": 1,
+      "name": "阿戈爾示波器",
+      "desc": "<color=#FF4200>被動效果：</color>深海獵人幹員戰術裝備上限+3（同種戰術裝備最多生效5件），生命值+40%，攻擊力+20%，防禦力+20%\n\n<color=#FF4200>主動效果：</color>從預備區的4名單位中選擇0-2名消失，並令場上所有深海獵人幹員獲得其職業的戰術裝備；若場上沒有深海幹員則改為從預備區隨機調度一名深海獵人幹員",
+      "subCardIds": [
+        "subcard_01_01",
+        "subcard_01_02"
+      ],
+      "runeData": {
+        "id": "legion_card_01",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "深海獵人幹員戰術裝備上限+5，生命值+40%，攻擊力+20%，防禦力+20%",
+        "runes": [
+          {
+            "key": "char_attribute_mul",
+            "selector": {
+              "professionMask": 767,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "max_hp",
+                "value": 1.4
+              },
+              {
+                "key": "tag",
+                "valueStr": "abyssal"
+              },
+              {
+                "key": "atk",
+                "value": 1.2
+              },
+              {
+                "key": "def",
+                "value": 1.2
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_700_cdabyss"
+      ]
     },
-    {
-      "startTime": 1690833600,
-      "endTime": 1692129599
+    "card_02": {
+      "id": "card_02",
+      "type": "SEASON",
+      "linkedTowerId": null,
+      "sortId": 2,
+      "name": "自適應補給元件",
+      "desc": "<color=#FF4200>被動效果：</color>所有幹員初始技力+15，戰鬥開始時必定出現在待部署區\n\n<color=#FF4200>主動效果：</color>放置【自適應補給元件】，其技能開啟時可提供等同於執勤小隊人數的調用憑證",
+      "subCardIds": [
+        "subcard_02_01",
+        "subcard_02_02"
+      ],
+      "runeData": {
+        "id": "legion_card_02",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "所有幹員的初始技力+15",
+        "runes": [
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 639,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "modify_sp[born]"
+              },
+              {
+                "key": "sp",
+                "value": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_703_cdcredit"
+      ]
+    },
+    "card_tower_05": {
+      "id": "card_tower_05",
+      "type": "TOWER",
+      "linkedTowerId": "tower_n_05",
+      "sortId": 101,
+      "name": "鍍膜裝置導能閥",
+      "desc": "<color=#FF4200>被動效果：</color>重裝和近衛幹員生命值+50%，防禦力+30%；所有被阻擋的敵人每5秒降低5%的攻擊和防禦，最多降低50%\n\n<color=#FF4200>主動效果：</color>放置【鍍膜裝置導能閥】，可以為前方的幹員添加其生命上限100%的屏障（可充能2次），並使其阻擋數+2",
+      "subCardIds": [
+        "subtowercard_05_01",
+        "subtowercard_05_02"
+      ],
+      "runeData": {
+        "id": "legion_tower_card_05",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "重裝和近衛幹員的生命值+50%，防禦力+30%；敵人被阻擋時，每5秒降低5%的攻擊和防禦，最多降低50%",
+        "runes": [
+          {
+            "key": "char_attribute_mul",
+            "selector": {
+              "professionMask": 5,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "max_hp",
+                "value": 1.5
+              },
+              {
+                "key": "def",
+                "value": 1.3
+              }
+            ]
+          },
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 0,
+              "buildableMask": 0,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_enemy_blocked_buff"
+              },
+              {
+                "key": "interval",
+                "value": 5.0
+              },
+              {
+                "key": "max_stack_cnt",
+                "value": 10.0
+              },
+              {
+                "key": "atk",
+                "value": -0.05
+              },
+              {
+                "key": "def",
+                "value": -0.05
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_706_cdshield"
+      ]
+    },
+    "card_tower_06": {
+      "id": "card_tower_06",
+      "type": "TOWER",
+      "linkedTowerId": "tower_n_06",
+      "sortId": 102,
+      "name": "叢林用示蹤信標",
+      "desc": "<color=#FF4200>被動效果：</color>我方高台單位每對一個單位造成傷害，攻擊力+5%，持續1秒，最多可疊加10次（每次疊加刷新持續時間）\n\n<color=#FF4200>主動效果：</color>放置【叢林用示蹤信標】，容易受到我方攻擊，被我方幹員攻擊時，為其回復1點技力，並提高目標的攻擊速度",
+      "subCardIds": [
+        "subtowercard_06_01",
+        "subtowercard_06_02"
+      ],
+      "runeData": {
+        "id": "legion_tower_card_06",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "我方高台單位每對一個單位造成傷害，攻擊力+5%，持續1秒，最多可疊加10次",
+        "runes": [
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 639,
+              "buildableMask": 2,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_atk_up_on_output_damage[stack]"
+              },
+              {
+                "key": "atk",
+                "value": 0.05
+              },
+              {
+                "key": "max_stack_cnt",
+                "value": 10.0
+              },
+              {
+                "key": "duration",
+                "value": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_709_cdbeacon"
+      ]
     }
-  ],
+  },
+  "subCards": {
+    "subcard_01_01": {
+      "id": "subcard_01_01",
+      "mainCardId": "card_01",
+      "sortId": 1,
+      "name": "強攻電路晶片",
+      "desc": "<color=#FF4200>被動效果升級：</color>深海獵人幹員戰術裝備上限+5（同種戰術裝備最多生效5件），深海獵人幹員每次獲得戰術裝備時獲得額外一件",
+      "runeData": {
+        "id": "legion_card_01",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "深海獵人幹員戰術裝備上限+5，生命值+40%，攻擊力+20%，防禦力+20%",
+        "runes": [
+          {
+            "key": "char_attribute_mul",
+            "selector": {
+              "professionMask": 767,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "max_hp",
+                "value": 1.4
+              },
+              {
+                "key": "tag",
+                "valueStr": "abyssal"
+              },
+              {
+                "key": "atk",
+                "value": 1.2
+              },
+              {
+                "key": "def",
+                "value": 1.2
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_701_cdabyssa"
+      ]
+    },
+    "subcard_01_02": {
+      "id": "subcard_01_02",
+      "mainCardId": "card_01",
+      "sortId": 2,
+      "name": "伏擊電路晶片",
+      "desc": "<color=#FF4200>被動效果升級：</color>【阿戈爾示波器】會持續存在20秒，期間全場所有被深海獵人阻擋的敵人陷入暈眩",
+      "runeData": {
+        "id": "legion_card_01",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "深海獵人幹員戰術裝備上限+5，生命值+40%，攻擊力+20%，防禦力+20%",
+        "runes": [
+          {
+            "key": "char_attribute_mul",
+            "selector": {
+              "professionMask": 767,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "max_hp",
+                "value": 1.4
+              },
+              {
+                "key": "tag",
+                "valueStr": "abyssal"
+              },
+              {
+                "key": "atk",
+                "value": 1.2
+              },
+              {
+                "key": "def",
+                "value": 1.2
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_702_cdabyssb"
+      ]
+    },
+    "subcard_02_01": {
+      "id": "subcard_02_01",
+      "mainCardId": "card_02",
+      "sortId": 1,
+      "name": "武裝補給系統",
+      "desc": "<color=#FF4200>被動效果升級：</color>所有術師和狙擊幹員部署後15秒內攻擊力+100%",
+      "runeData": {
+        "id": "legion_card_02_a",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "所有術師和狙擊幹員部署後15秒內攻擊力+100%",
+        "runes": [
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 32,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_caster_attr_up[limited]"
+              },
+              {
+                "key": "duration",
+                "value": 15.0
+              },
+              {
+                "key": "atk",
+                "value": 1.0
+              }
+            ]
+          },
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 2,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_sniper_attr_up[limited]"
+              },
+              {
+                "key": "duration",
+                "value": 15.0
+              },
+              {
+                "key": "atk",
+                "value": 1.0
+              }
+            ]
+          },
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 639,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "modify_sp[born]"
+              },
+              {
+                "key": "sp",
+                "value": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_704_cdcredita"
+      ]
+    },
+    "subcard_02_02": {
+      "id": "subcard_02_02",
+      "mainCardId": "card_02",
+      "sortId": 2,
+      "name": "定向部署支援系統",
+      "desc": "<color=#FF4200>被動效果升級：</color>所有重裝和特種幹員不再消耗費用；當有幹員進入求援時立刻進行一次幹員調度（每場戰鬥最多觸發3次）",
+      "runeData": {
+        "id": "legion_card_02_b",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "所有重裝和特種幹員不再消耗費用",
+        "runes": [
+          {
+            "key": "char_attribute_mul",
+            "selector": {
+              "professionMask": 68,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "cost",
+                "value": 0.0
+              }
+            ]
+          },
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 0,
+              "buildableMask": 0,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "modify_sp[born]"
+              },
+              {
+                "key": "sp",
+                "value": 15.0
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_705_cdcreditb"
+      ]
+    },
+    "subtowercard_05_01": {
+      "id": "subtowercard_05_01",
+      "mainCardId": "card_tower_05",
+      "sortId": 1,
+      "name": "重整導能組件",
+      "desc": "<color=#FF4200>【重整導能元件】</color>處於待部署區時，使其他幹員和導能單元的部署費用-3；部署後立即為【鍍膜裝置導能閥】回復一次充能，並進行一次幹員調度",
+      "runeData": {
+        "id": "legion_tower_card_05",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "重裝和近衛幹員的生命值+50%，防禦力+30%；敵人被阻擋時，每5秒降低5%的攻擊和防禦，最多降低50%",
+        "runes": [
+          {
+            "key": "char_attribute_mul",
+            "selector": {
+              "professionMask": 5,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "max_hp",
+                "value": 1.5
+              },
+              {
+                "key": "def",
+                "value": 1.3
+              }
+            ]
+          },
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 0,
+              "buildableMask": 0,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_enemy_blocked_buff"
+              },
+              {
+                "key": "interval",
+                "value": 5.0
+              },
+              {
+                "key": "max_stack_cnt",
+                "value": 10.0
+              },
+              {
+                "key": "atk",
+                "value": -0.05
+              },
+              {
+                "key": "def",
+                "value": -0.05
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_706_cdshield",
+        "trap_707_cdshielda"
+      ]
+    },
+    "subtowercard_05_02": {
+      "id": "subtowercard_05_02",
+      "mainCardId": "card_tower_05",
+      "sortId": 2,
+      "name": "反制導能組件",
+      "desc": "<color=#FF4200>被動效果升級：</color>所有被阻擋的敵人每5秒降低8%的攻擊和防禦，最多降低80%；【鍍膜裝置導能閥】技能所需技力降低，不再增加目標阻擋數",
+      "runeData": {
+        "id": "legion_tower_card_05_b",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "重裝和近衛幹員的生命值+50%，防禦力+30%；敵人被阻擋時，每5秒降低8%的攻擊和防禦，最多降低80%",
+        "runes": [
+          {
+            "key": "char_attribute_mul",
+            "selector": {
+              "professionMask": 5,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "max_hp",
+                "value": 1.5
+              },
+              {
+                "key": "def",
+                "value": 1.3
+              }
+            ]
+          },
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 0,
+              "buildableMask": 0,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_enemy_blocked_buff"
+              },
+              {
+                "key": "interval",
+                "value": 5.0
+              },
+              {
+                "key": "max_stack_cnt",
+                "value": 10.0
+              },
+              {
+                "key": "atk",
+                "value": -0.08
+              },
+              {
+                "key": "def",
+                "value": -0.08
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_708_cdshieldb"
+      ]
+    },
+    "subtowercard_06_01": {
+      "id": "subtowercard_06_01",
+      "mainCardId": "card_tower_06",
+      "sortId": 1,
+      "name": "阻斷波長",
+      "desc": "<color=#FF4200>【阻斷波長】：</color>【叢林用示蹤信標】周圍的敵人減速30%；部署後立即獲得15點調用憑證，【叢林用示蹤信標】周圍的敵人停頓，持續10秒",
+      "runeData": {
+        "id": "legion_tower_card_06",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "我方高台單位每對一個單位造成傷害，攻擊力+5%，持續1秒，最多可疊加10次",
+        "runes": [
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 639,
+              "buildableMask": 2,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_atk_up_on_output_damage[stack]"
+              },
+              {
+                "key": "atk",
+                "value": 0.05
+              },
+              {
+                "key": "max_stack_cnt",
+                "value": 10.0
+              },
+              {
+                "key": "duration",
+                "value": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_709_cdbeacon",
+        "trap_710_cdbeacona"
+      ]
+    },
+    "subtowercard_06_02": {
+      "id": "subtowercard_06_02",
+      "mainCardId": "card_tower_06",
+      "sortId": 2,
+      "name": "干擾波長",
+      "desc": "<color=#FF4200>【干擾波長】：</color>未被阻擋的敵人受到的傷害提升20%；部署後立即進行一次幹員調用，【叢林用示蹤信標】周圍的敵人獲得100%的脆弱效果，持續10秒",
+      "runeData": {
+        "id": "legion_tower_card_06_b",
+        "points": 1.0,
+        "mutexGroupKey": null,
+        "description": "未被阻擋的敵人受到的傷害提升20%",
+        "runes": [
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 767,
+              "buildableMask": 3,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "blocked",
+                "value": 0.0
+              },
+              {
+                "key": "damage_scale",
+                "value": 1.2
+              },
+              {
+                "key": "key",
+                "valueStr": "enemy_damage_scale_when_whether_blocked"
+              }
+            ]
+          },
+          {
+            "key": "env_gbuff_new",
+            "selector": {
+              "professionMask": 639,
+              "buildableMask": 2,
+              "charIdFilter": null,
+              "enemyIdFilter": null,
+              "enemyIdExcludeFilter": null,
+              "skillIdFilter": null,
+              "tileKeyFilter": null,
+              "groupTagFilter": null,
+              "filterTagFilter": null
+            },
+            "blackboard": [
+              {
+                "key": "key",
+                "valueStr": "legion_atk_up_on_output_damage[stack]"
+              },
+              {
+                "key": "atk",
+                "value": 0.1
+              },
+              {
+                "key": "max_stack_cnt",
+                "value": 10.0
+              },
+              {
+                "key": "duration",
+                "value": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      "trapIds": [
+        "trap_709_cdbeacon",
+        "trap_711_cdbeaconb"
+      ]
+    }
+  },
+  "curseCards": {
+    "cursecard_01": {
+      "id": "cursecard_01",
+      "towerIdList": [
+        "tower_n_06",
+        "tower_n_06",
+        "tower_n_06"
+      ],
+      "name": "超重絕緣水泥",
+      "desc": "位於待部署區時，其他單位部署費用+2；部署後無法撤退",
+      "trapId": "trap_712_cdhvrk"
+    },
+    "cursecard_02": {
+      "id": "cursecard_02",
+      "towerIdList": [
+        "tower_n_05",
+        "tower_n_05",
+        "tower_n_05"
+      ],
+      "name": "劣質閃光彈",
+      "desc": "被調度時使場上所有我方高台單位暈眩8秒",
+      "trapId": "trap_713_cdflsb"
+    }
+  },
+  "seasonInfos": {
+    "tower_season_1": {
+      "id": "tower_season_1",
+      "name": "極西安保派駐",
+      "startTs": 1697695200,
+      "endTs": 1708027199,
+      "towers": [
+        "tower_n_05",
+        "tower_n_06"
+      ],
+      "seasonCards": [
+        "card_01",
+        "card_02"
+      ],
+      "seasonColor": "#e5e54a"
+    }
+  },
   "detailConst": {
     "unlockLevelId": "main_01-05",
     "unlockModuleNumRequirement": 1,
     "lowerItemId": "mod_update_token_1",
-    "lowerItemLimit": 30,
+    "lowerItemLimit": 60,
     "higherItemId": "mod_update_token_2",
-    "higherItemLimit": 12,
-    "initCharCount": 14,
+    "higherItemLimit": 24,
+    "initCharCount": 20,
+    "recruitStageSort": [
+      2,
+      3,
+      5,
+      6
+    ],
     "charRecruitTimes": 2,
-    "charRecruitChoiceCount": 4,
+    "charRecruitChoiceCount": 5,
+    "subcardStageSort": 4,
     "assistCharLimit": 1,
-    "firstClearTaskDesc": "單次作戰清理進度達到第{0}階段"
+    "firstClearTaskDesc": "單次作戰清理進度達到第{0}階段",
+    "subCardObtainDesc": "將在第四層戰鬥前進行定向導能配件甄選",
+    "subGodCardUnlockDesc": "<color=#828282>在導能配件甄選中選擇該配件後可查看詳情</color>"
+  },
+  "rewardInfoList": [
+    {
+      "stageSort": 1,
+      "lowerItemCount": 2,
+      "higherItemCount": 0
+    },
+    {
+      "stageSort": 2,
+      "lowerItemCount": 3,
+      "higherItemCount": 1
+    },
+    {
+      "stageSort": 3,
+      "lowerItemCount": 3,
+      "higherItemCount": 2
+    },
+    {
+      "stageSort": 4,
+      "lowerItemCount": 4,
+      "higherItemCount": 2
+    },
+    {
+      "stageSort": 5,
+      "lowerItemCount": 4,
+      "higherItemCount": 2
+    },
+    {
+      "stageSort": 6,
+      "lowerItemCount": 4,
+      "higherItemCount": 3
+    }
+  ],
+  "missionData": {
+    "tower_season1_1": {
+      "bindGodCardId": "card_01",
+      "missionBkg": "missionbkg_season_1",
+      "id": "tower_season1_1",
+      "sortId": 1,
+      "description": "使用[阿戈爾示波器]進行任意保全作戰，並且清理進度達到5層或以上",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerCardPassLayer",
+      "templateType": "0",
+      "param": [
+        "0",
+        "card_01",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "30084",
+          "count": 2
+        },
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 20000
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    "tower_season1_2": {
+      "bindGodCardId": "card_01",
+      "missionBkg": "missionbkg_season_1",
+      "id": "tower_season1_2",
+      "sortId": 2,
+      "description": "使用[阿戈爾示波器]通關任意保全作戰，且擁有2名或者以上的深海獵人幹員",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerCardSquad",
+      "templateType": "0",
+      "param": [
+        "0",
+        "card_01",
+        "2",
+        "abyssal"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "30125",
+          "count": 1
+        },
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 60000
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    "tower_season1_3": {
+      "bindGodCardId": "card_02",
+      "missionBkg": "missionbkg_season_1",
+      "id": "tower_season1_3",
+      "sortId": 3,
+      "description": "使用[自適應補給元件]進行任意保全作戰，並且清理進度達到5層或以上",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerCardPassLayer",
+      "templateType": "0",
+      "param": [
+        "0",
+        "card_02",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "31044",
+          "count": 2
+        },
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 20000
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    "tower_season1_4": {
+      "bindGodCardId": "card_02",
+      "missionBkg": "missionbkg_season_1",
+      "id": "tower_season1_4",
+      "sortId": 4,
+      "description": "使用[自適應補給元件]通關任意保全作戰，且擁有12名或者以上的重裝或特種幹員",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerCardSquadWithProfession",
+      "templateType": "0",
+      "param": [
+        "0",
+        "card_02",
+        "12",
+        "TANK^SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "30135",
+          "count": 1
+        },
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 60000
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    "tower_season1_5": {
+      "bindGodCardId": "card_tower_05",
+      "missionBkg": "missionbkg_tower_05",
+      "id": "tower_season1_5",
+      "sortId": 5,
+      "description": "使用[鍍膜裝置導能閥]通關多索雷斯在建地塊",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerCardChallenge",
+      "templateType": "0",
+      "param": [
+        "0",
+        "card_tower_05",
+        "tower_n_05"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "30104",
+          "count": 2
+        },
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 20000
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    "tower_season1_6": {
+      "bindGodCardId": "card_tower_06",
+      "missionBkg": "missionbkg_tower_06",
+      "id": "tower_season1_6",
+      "sortId": 6,
+      "description": "使用[叢林用示蹤信標]通關阿卡胡拉叢林",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerCardChallenge",
+      "templateType": "0",
+      "param": [
+        "0",
+        "card_tower_06",
+        "tower_n_06"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "30044",
+          "count": 2
+        },
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 20000
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    "tower_season1_7": {
+      "bindGodCardId": null,
+      "missionBkg": "missionbkg_season_1",
+      "id": "tower_season1_7",
+      "sortId": 7,
+      "description": "在臨時增調中累計招募15次術師幹員",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerRecruit",
+      "templateType": "0",
+      "param": [
+        "0",
+        "15",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "30013",
+          "count": 5
+        },
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    "tower_season1_8": {
+      "bindGodCardId": null,
+      "missionBkg": "missionbkg_season_1",
+      "id": "tower_season1_8",
+      "sortId": 8,
+      "description": "在臨時增調中累計招募15次近衛幹員",
+      "type": "TOWERSEASON",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "TowerRecruit",
+      "templateType": "0",
+      "param": [
+        "0",
+        "15",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "tower_season_1",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "30023",
+          "count": 5
+        },
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    }
+  },
+  "missionGroup": {
+    "tower_season_1": {
+      "id": "tower_season_1",
+      "title": null,
+      "type": "TOWERSEASON",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": [],
+      "missionIds": [
+        "tower_season1_1",
+        "tower_season1_2",
+        "tower_season1_3",
+        "tower_season1_4",
+        "tower_season1_5",
+        "tower_season1_6",
+        "tower_season1_7",
+        "tower_season1_8"
+      ],
+      "startTs": 1697695200,
+      "endTs": 1708027199
+    }
   }
 }
