@@ -17236,6 +17236,39 @@
             }
           ],
           "charId": "char_252_bibeak"
+        },
+        {
+          "storySetId": "story_bibeak_set_2",
+          "storySetName": "走出那條長長的走廊",
+          "sortId": 2,
+          "storyGetTime": 1698910200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "60",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "200",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_bibeak_set_2_story_1",
+              "storySetId": "story_bibeak_set_2",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "柏喙收到兩封信，一封來自她的父母，另一封來自那個傷害了她的人。",
+              "storyInfo": "info/obt/memory/story_bibeak_2_1",
+              "storyTxt": "obt/memory/story_bibeak_2_1"
+            }
+          ],
+          "charId": "char_252_bibeak"
         }
       ]
     },
@@ -23118,7 +23151,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_archet_set_1",
+          "storySetName": "偶像宣傳",
+          "sortId": 1,
+          "storyGetTime": 1698910200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_archet_set_1_story_1",
+              "storySetId": "story_archet_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "商業宣傳總是需要一個形象代言人，而為了維持形象，代言人總是身不由己。",
+              "storyInfo": "info/obt/memory/story_archet_1_1",
+              "storyTxt": "obt/memory/story_archet_1_1"
+            }
+          ],
+          "charId": "char_332_archet"
+        }
+      ]
     },
     "char_338_iris": {
       "charID": "char_338_iris",
@@ -24868,7 +24935,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_zebra_set_1",
+          "storySetName": "不合時宜",
+          "sortId": 1,
+          "storyGetTime": 1698910200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_zebra_set_1_story_1",
+              "storySetId": "story_zebra_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "士兵手中的長刀本應劃開敵人的堅盾，可如今卻要指向戰友的後背。",
+              "storyInfo": "info/obt/memory/story_zebra_1_1",
+              "storyTxt": "obt/memory/story_zebra_1_1"
+            }
+          ],
+          "charId": "char_304_zebra"
+        }
+      ]
     },
     "char_1012_skadi2": {
       "charID": "char_1012_skadi2",
@@ -27893,7 +27994,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_serum_set_1",
+          "storySetName": "蝕清的工牌",
+          "sortId": 1,
+          "storyGetTime": 1698910200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_serum_set_1_story_1",
+              "storySetId": "story_serum_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "夢想、激情、理想、意志都是不耐腐蝕的材料，所以請各位在工作中注意自身的防護，謝謝。",
+              "storyInfo": "info/obt/memory/story_serum_1_1",
+              "storyTxt": "obt/memory/story_serum_1_1"
+            }
+          ],
+          "charId": "char_489_serum"
+        }
+      ]
     },
     "char_449_glider": {
       "charID": "char_449_glider",
@@ -38980,6 +39115,122 @@
       "zoneNameForShow": "龍門",
       "picId": "story_loading_LM_rain",
       "stageGetTime": 1697695200
+    },
+    "char_332_archet": {
+      "charId": "char_332_archet",
+      "stageId": "mem_archet_1",
+      "levelId": "Obt/Memory/level_memory_archet_1",
+      "zoneId": "storyMission",
+      "code": "mem_archet_1",
+      "name": "箭指遠方",
+      "loadingPicId": "loading_DM",
+      "description": "無論是跟著父親學習射箭，還是在修道院學習戰鬥技巧，空弦總是習慣用更高的標準要求自己。為了打到更多的獵物，也為了更好地捍衛修道院的榮譽。當她走出修道院，見識過更寬廣的大地後，空弦更加清楚地認識到，自己的箭矢可以承載的意義。拉弓，蓄力，在瞄準目標後，將手中的箭矢再抬高一點，箭就會射向更遠的地方。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "荒野",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading_DM",
+      "stageGetTime": 1698910200
+    },
+    "char_2023_ling": {
+      "charId": "char_2023_ling",
+      "stageId": "mem_ling_1",
+      "levelId": "Obt/Memory/level_memory_ling_1",
+      "zoneId": "storyMission",
+      "code": "mem_ling_1",
+      "name": "有無",
+      "loadingPicId": "loading_IW_Mountain",
+      "description": "擲盞生倀，落筆有靈，你把創造它們的人都找來，也未必能有什麼說法。只記得當年尋醉，罈子空了，走筆興盡，如此而已。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "忘水坪",
+      "zoneNameForShow": "尚蜀",
+      "picId": "story_loading_IW_Mountain",
+      "stageGetTime": 1698910200
+    },
+    "char_489_serum": {
+      "charId": "char_489_serum",
+      "stageId": "mem_serum_1",
+      "levelId": "Obt/Memory/level_memory_serum_1",
+      "zoneId": "storyMission",
+      "code": "mem_serum_1",
+      "name": "勇往直前",
+      "loadingPicId": "loading_iceforest_2",
+      "description": "自以為是地向著前方直線突破，以為只要一刻不停就能快速實現目標，真的是這樣嗎？",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "烏薩斯凍土",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading_iceforest_2",
+      "stageGetTime": 1698910200
+    },
+    "char_304_zebra": {
+      "charId": "char_304_zebra",
+      "stageId": "mem_zebra_1",
+      "levelId": "Obt/Memory/level_memory_zebra_1",
+      "zoneId": "storyMission",
+      "code": "mem_zebra_1",
+      "name": "猶豫不決",
+      "loadingPicId": "loading_iceforest_2",
+      "description": "這一次，站在這裡？我真的......做了正確的選擇嗎？",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "烏薩斯凍土",
+      "zoneNameForShow": "切爾諾伯格",
+      "picId": "story_loading_iceforest_2",
+      "stageGetTime": 1698910200
     }
   },
   "handbookStageTime": [
@@ -39273,6 +39524,15 @@
         "char_479_sleach",
         "char_133_mm",
         "char_185_frncat"
+      ]
+    },
+    {
+      "timestamp": 1698910200,
+      "charSet": [
+        "char_332_archet",
+        "char_2023_ling",
+        "char_489_serum",
+        "char_304_zebra"
       ]
     }
   ]

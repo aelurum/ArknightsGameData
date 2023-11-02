@@ -1520,6 +1520,25 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_camp_rotate_14",
+      "medalName": "實驗基地機庫行動獎章",
+      "medalType": "campMedal",
+      "slotId": 18,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CampaignsComplete",
+      "unlockParam": [
+        "camp_r_14"
+      ],
+      "getMethod": "完全通關剿滅作戰實驗基地機庫，並領取全部獎勵",
+      "description": "代表您完成哥倫比亞實驗基地機庫剿滅委託或模擬戰的蝕刻章。\n陣雨暫歇，銀色的河流漸漸乾涸，只剩從未來吹向過去的風。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1700078400,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_tower_complete_01",
       "medalName": "鋼鐵蘿蔔安全認證章",
       "medalType": "towerMedal",
@@ -6091,6 +6110,86 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_story_archet_1",
+      "medalName": "“偶像宣傳”",
+      "medalType": "storyMedal",
+      "slotId": 163,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_332_archet",
+        "story_archet_set_1"
+      ],
+      "getMethod": "解鎖幹員空弦的幹員密錄《偶像宣傳》",
+      "description": "信仰不能用來販賣，正如虔誠不能用金錢來估價。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1698910200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_serum_1",
+      "medalName": "“蝕清的工牌”",
+      "medalType": "storyMedal",
+      "slotId": 164,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_489_serum",
+        "story_serum_set_1"
+      ],
+      "getMethod": "解鎖幹員蝕清的幹員密錄《蝕清的工牌》",
+      "description": "羅德島配發的工牌，不知是否是因為保管不當，放照片的位置磨損嚴重。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1698910200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_zebra_1",
+      "medalName": "“不合時宜”",
+      "medalType": "storyMedal",
+      "slotId": 165,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_304_zebra",
+        "story_zebra_set_1"
+      ],
+      "getMethod": "解鎖幹員暴雨的幹員密錄《不合時宜》",
+      "description": "暴雨是一個好孩子，只是這份善良放在當下，多少有些不合時宜。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1698910200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_bibeak_2",
+      "medalName": "“走出那條長長的走廊”",
+      "medalType": "storyMedal",
+      "slotId": 166,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_252_bibeak",
+        "story_bibeak_set_2"
+      ],
+      "getMethod": "解鎖幹員柏喙的幹員密錄《走出那條長長的走廊》",
+      "description": "柏喙往門外走，走出那條長長的走廊。 外面陽光很亮。她看著天空，呼出一口氣。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1698910200,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_rogue_2_01",
       "medalName": "“滄海之藍”",
       "medalType": "rogueMedal",
@@ -7464,6 +7563,59 @@
       "expireTimes": [
         {
           "start": 1688673600,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_2bossrush_01",
+      "medalName": "可露希爾小獎章·β",
+      "medalType": "activityMedal",
+      "slotId": 34,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "MissionCompleteSome",
+      "unlockParam": [
+        "2bossrushActivity_5;2bossrushActivity_6;2bossrushActivity_7",
+        "3"
+      ],
+      "getMethod": "解鎖遏制單元[維續補丁]、[減退模組]和[調優重載]",
+      "description": "由“引航者試煉”開發者可露希爾親手製作的獎章。\n無論面對何種考驗，她始終與您站在同一邊。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1699948800,
+      "expireTimes": [
+        {
+          "start": 1700769599,
+          "end": -1,
+          "type": "PERM"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_2bossrush_02",
+      "medalName": "恢宏試煉獎章·β",
+      "medalType": "activityMedal",
+      "slotId": 35,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageWithBossRush",
+      "unlockParam": [
+        "2",
+        "act2bossrush_ex04",
+        "1"
+      ],
+      "getMethod": "通關TN-4驕陽之影的恢宏試煉",
+      "description": "以在辦公室裡徹夜工作的引航者為印象製作的獎章。\n試煉的內容時有變化，而您始終如一的堅持令人肅然起敬。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1699948800,
+      "expireTimes": [
+        {
+          "start": 1700769599,
           "end": -1,
           "type": "PERM"
         }
@@ -10091,7 +10243,7 @@
       "template": "GotCharsBeforeTime",
       "unlockParam": [
         "char_1021_kroos2",
-        "1668628799"
+        "1700078399"
       ],
       "getMethod": "將進酒活動期間，獲得幹員寒芒克洛絲",
       "description": "“舉起弩瞄準之後，眼中就只剩下瞄具和目標了。但在扣下扳機前，還需要思考很多。”弩箭並不只是一件武器，箭頭與目標之間，有更複雜的聯繫。對於這一點的思考，意味著成長。",
@@ -10121,11 +10273,11 @@
       "rarity": 0,
       "template": "ActivityCoinCost",
       "unlockParam": [
-        "act15side",
-        "act15side_token_tea",
-        "4000"
+        "act15sre",
+        "act15side_token_tea_rep_1",
+        "2400"
       ],
-      "getMethod": "將進酒活動期間，在[行裕客棧]中消耗4000罐裝晌午茶",
+      "getMethod": "將進酒活動期間，在[行裕客棧]中消耗2400罐裝晌午茶",
       "description": "您在付酒資茶錢時頗為慷慨。\n尚蜀風情與別處不同，閒時登山訪石，乏時飲茶品酒，您豪氣灑脫，盤桓多日間和掌櫃夥計們都已熟絡起來。",
       "advancedMedal": null,
       "originMedal": null,
@@ -10153,7 +10305,7 @@
       "rarity": 2,
       "template": "MissionCompleteSome",
       "unlockParam": [
-        "15sideActivity_1;15sideActivity_2;15sideActivity_3;15sideActivity_4;15sideActivity_5;15sideActivity_6;15sideActivity_7;15sideActivity_8;15sideActivity_9;15sideActivity_10;15sideActivity_11;15sideActivity_12;15sideActivity_13;15sideActivity_14;15sideActivity_15;15sideActivity_16;15sideActivity_17;15sideActivity_18;15sideActivity_19;15sideActivity_20;15sideActivity_21;15sideActivity_22;15sideActivity_23;15sideActivity_24;15sideActivity_25",
+        "15sreActivity_1;15sreActivity_2;15sreActivity_3;15sreActivity_4;15sreActivity_5;15sreActivity_6;15sreActivity_7;15sreActivity_8;15sreActivity_9;15sreActivity_10;15sreActivity_11;15sreActivity_12;15sreActivity_13;15sreActivity_14;15sreActivity_15;15sreActivity_16;15sreActivity_17;15sreActivity_18;15sreActivity_19;15sreActivity_20;15sreActivity_21;15sreActivity_22;15sreActivity_23;15sreActivity_24;15sreActivity_25",
         "25"
       ],
       "getMethod": "完成[接鏢買賣]全部內容，並領取獎勵",

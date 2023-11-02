@@ -7779,6 +7779,96 @@
       }
     },
     {
+      "tagId": "tag_266",
+      "displayType": "block_1",
+      "tagName": "0011製造/VII",
+      "itemTag": "DEADLINE",
+      "orderNum": 1,
+      "startDatetime": 1698910200,
+      "endDatetime": 1700078399,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag266_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_266",
+        "text": "博士，這件衣服穿在克洛絲小姐身上真的很適合！我不騙你！"
+      }
+    },
+    {
+      "tagId": "tag_267",
+      "displayType": "block_1",
+      "tagName": "0011系列/III",
+      "itemTag": "DEADLINE",
+      "orderNum": 2,
+      "startDatetime": 1698910200,
+      "endDatetime": 1700078399,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag267_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_267",
+        "text": "這次又從龍門訂了幾件衣服，你一定喜歡。先別看價格，來，試試，合不合身？"
+      }
+    },
+    {
+      "tagId": "tag_268",
+      "displayType": "block_1",
+      "tagName": "山城茶館",
+      "itemTag": "DEADLINE",
+      "orderNum": 3,
+      "startDatetime": 1698910200,
+      "endDatetime": 1700078399,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag268_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": "teaHouse_2022",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_268",
+        "text": "你覺得把茶做成飲料會好賣嗎，博士？"
+      }
+    },
+    {
       "tagId": "tag_292",
       "displayType": "block_1",
       "tagName": "黎明前奏組合包",
@@ -12629,6 +12719,63 @@
           "param1": "GP_Once_70",
           "skinId": "",
           "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_kroos2_nian#8",
+          "startTime": 1698910200,
+          "endTime": 1700078399,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_1021_kroos2@nian#8",
+          "skinId": "char_1021_kroos2@nian#8",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_nian_nian#4_r2",
+          "startTime": 1698910200,
+          "endTime": 1700078399,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_2014_nian@nian#4_r2",
+          "skinId": "char_2014_nian@nian#4",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_haak_nian#4_r2",
+          "startTime": 1698910200,
+          "endTime": 1700078399,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_225_haak@nian#4_r2",
+          "skinId": "char_225_haak@nian#4",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_hmau_nian#4_r2",
+          "startTime": 1698910200,
+          "endTime": 1700078399,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_226_hmau@nian#4_r2",
+          "skinId": "char_226_hmau@nian#4",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_teaHouse_2022_r1",
+          "startTime": 1698910200,
+          "endTime": 1700078399,
+          "cmd": "FURNSHOP",
+          "param1": "teaHouse_2022",
+          "skinId": "",
+          "furniId": "teaHouse_2022"
         }
       ]
     },

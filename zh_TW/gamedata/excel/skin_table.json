@@ -36168,6 +36168,154 @@
         "onPeriod": 12
       }
     },
+    "char_1021_kroos2@nian#8": {
+      "skinId": "char_1021_kroos2@nian#8",
+      "charId": "char_1021_kroos2",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_1021_kroos2_nian#8",
+      "dynIllustId": null,
+      "avatarId": "char_1021_kroos2_nian#8",
+      "portraitId": "char_1021_kroos2_nian#8",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_1021_kroos2_nian#8",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_1021_kroos2_nian#8"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "廊下遊",
+        "colorList": [
+          "#32383f",
+          "#edeef1",
+          "#69758a",
+          "#4a5982",
+          "#000000",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Kroos the Keen Glint",
+        "drawerList": [
+          "下野宏銘"
+        ],
+        "designerList": null,
+        "skinGroupId": "2023#nian",
+        "skinGroupName": "0011製造/VII",
+        "skinGroupSortIndex": 35,
+        "content": "0011新款/廊下游。龍門手工匠製，選用尚蜀特產錦緞製作而成，裙面上的暗紋典雅古樸，綴以青藍色內襯，穿在身上更顯氣質落落大方。",
+        "dialog": "0011新款/廊下游。龍門手工匠製，選用尚蜀特產錦緞製作而成，裙面上的暗紋典雅古樸，綴以青藍色內襯，穿在身上更顯氣質落落大方。",
+        "usage": "寒芒克洛絲的私服之一。",
+        "description": "曉霧藏青瓦，暖風擷黃花。泠泠穿廊去，款款踏歌來。——克洛絲第一次試寫的炎國詩。",
+        "obtainApproach": "採購中心",
+        "sortId": 66,
+        "displayTagId": null,
+        "getTime": 1698910200,
+        "onYear": 3,
+        "onPeriod": 8
+      }
+    },
+    "token_10021_blkngt_hypnos_nian#8": {
+      "skinId": "token_10021_blkngt_hypnos_nian#8",
+      "charId": "token_10021_blkngt_hypnos",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10021_blkngt_hypnos_nian#8",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10021_blkngt_hypnos_nian#8"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerList": null,
+        "designerList": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_476_blkngt@nian#8": {
+      "skinId": "char_476_blkngt@nian#8",
+      "charId": "char_476_blkngt",
+      "tokenSkinMap": [
+        {
+          "tokenId": "token_10021_blkngt_hypnos",
+          "tokenSkinId": "token_10021_blkngt_hypnos_nian#8"
+        }
+      ],
+      "illustId": "illust_char_476_blkngt_nian#8",
+      "dynIllustId": null,
+      "avatarId": "char_476_blkngt_nian#8",
+      "portraitId": "char_476_blkngt_nian#8",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_476_blkngt_nian#8",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_476_blkngt_nian#8"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "枝頭馥",
+        "colorList": [
+          "#a46c74",
+          "#f07e8a",
+          "#362617",
+          "#ebcec6",
+          "#000000",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Blacknight",
+        "drawerList": [
+          "溫泉瓜"
+        ],
+        "designerList": null,
+        "skinGroupId": "2023#nian",
+        "skinGroupName": "0011製造/VII",
+        "skinGroupSortIndex": 35,
+        "content": "0011新款/枝頭馥。剪裁俐落的短裙完美貼合身形，搭配獨具個性的飾品更顯層次感，柔軟的毛絨外套兼具保暖性，抵擋了來自早春的寒意。",
+        "dialog": "0011新款/枝頭馥。剪裁俐落的短裙完美貼合身形，搭配獨具個性的飾品更顯層次感，柔軟的毛絨外套兼具保暖性，抵擋了來自早春的寒意。",
+        "usage": "夜半的私服之一。",
+        "description": "春意隨風，拂開了掛在枝頭的花苞；酒意闌珊，散去了藏在眉梢的無措。",
+        "obtainApproach": "活動獲得",
+        "sortId": 67,
+        "displayTagId": "活動獲得",
+        "getTime": 1699948800,
+        "onYear": 3,
+        "onPeriod": 8
+      }
+    },
     "char_2013_cerber@whirlwind#2": {
       "skinId": "char_2013_cerber@whirlwind#2",
       "charId": "char_2013_cerber",
@@ -45914,6 +46062,7 @@
     "nian": {
       "brandId": "nian",
       "groupList": [
+        "2023#nian",
         "2022#nian#2",
         "2022#nian",
         "2021#nian#2",
@@ -45929,7 +46078,7 @@
       "brandName": "0011製造",
       "brandCapitalName": "0011 CRAFT",
       "description": "始於慶元十一年\n為了慶祝戰勝年獸，織工每年都會為戰士編織有年獸形象、顏色的衣服讓他們穿上。用如同爆竹般的熱烈與喜慶，一年又一年的到來。",
-      "sortId": 34
+      "sortId": 35
     },
     "whirlwind": {
       "brandId": "whirlwind",
