@@ -549,6 +549,22 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "LMTGS_COIN_3501": {
+      "itemId": "LMTGS_COIN_3501",
+      "name": "尋訪數據契約",
+      "description": "與獵頭公司長久且穩定的合作關係帶來的回報，可有效控制支出。不過，但願不是每次都需要用到這個手段。",
+      "rarity": 4,
+      "iconId": "LMTGS_COIN_3501",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 10019,
+      "usage": "新型招聘合約所約定的一種時限貨幣，累積一定數量後可在指定時期內招聘指定幹員。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "NORMAL",
+      "itemType": "LMTGS_COIN",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "EPGS_COIN": {
       "itemId": "EPGS_COIN",
       "name": "尋訪參數模型",
@@ -997,6 +1013,86 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "ap_supply_lt_100_2023_1": {
+      "itemId": "ap_supply_lt_100_2023_1",
+      "name": "摘自畫卷的柿子",
+      "description": "看得見，也摸得著，你確信自己也能嘗到它們的甜香，即使你知道那只是夕畫卷中的一滴墨。\t",
+      "rarity": 4,
+      "iconId": "ap_supply_lt_100_2023_1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30002,
+      "usage": "兩個品相過於完美的柿子，可用於恢復理智。\t",
+      "obtainApproach": "贈送",
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "ap_supply_lt_100_2023_2": {
+      "itemId": "ap_supply_lt_100_2023_2",
+      "name": "香脆桃酥餅",
+      "description": "老鯉知道，團聚的日子大家都會在桌上吃得很飽，所以他的手藝只用在了一些方便保存的點心上。",
+      "rarity": 4,
+      "iconId": "ap_supply_lt_100_2023_2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30003,
+      "usage": "一盒傳統包裝的自製點心，可用於恢復理智。",
+      "obtainApproach": "贈送",
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "ap_supply_lt_100_2023_3": {
+      "itemId": "ap_supply_lt_100_2023_3",
+      "name": "香辣火爐",
+      "description": "年挑選了自己最中意的食材，附贈一件造型極其古樸的青銅器具。這真的是煮食物用的器皿嗎？",
+      "rarity": 4,
+      "iconId": "ap_supply_lt_100_2023_3",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30004,
+      "usage": "一份裝在小冶煉爐裡的底料和食材，可用於恢復理智。",
+      "obtainApproach": "贈送",
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "ap_supply_lt_100_2023_4": {
+      "itemId": "ap_supply_lt_100_2023_4",
+      "name": "金糖年糕",
+      "description": "烏有沒有透露自己的年糕用的是什麼配方，也許普普通通的甘甜就是最適合這個節日的味道。",
+      "rarity": 4,
+      "iconId": "ap_supply_lt_100_2023_4",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30005,
+      "usage": "一份色澤金黃的炎國點心，可用於恢復理智。",
+      "obtainApproach": "贈送",
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "ap_supply_lt_100_2023_5": {
+      "itemId": "ap_supply_lt_100_2023_5",
+      "name": "木瓜葉餡餅",
+      "description": "阿米婭在廚房裡炎國幹員的鼓勵下，將某種葉類蔬菜加入了自己的餡餅料。她自己試過了，希望你也喜歡。",
+      "rarity": 4,
+      "iconId": "ap_supply_lt_100_2023_5",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30006,
+      "usage": "一份按照個人口味添加了配料的餡餅，可用於恢復理智。",
+      "obtainApproach": "贈送",
+      "classifyType": "CONSUME",
+      "itemType": "AP_SUPPLY",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "EXTERMINATION_AGENT": {
       "itemId": "EXTERMINATION_AGENT",
       "name": "PRTS剿滅代理卡",
@@ -1195,6 +1291,22 @@
       "description": "為了確保人才擴展而應博士要求準備的應急手段，該批尋訪條目具有一定的針對性與時效性，以及，小小的風險。",
       "rarity": 4,
       "iconId": "LIMITED_TKT_GACHA_10_3301",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 40003,
+      "usage": "羅德島人事部特別批發的許可書，在特殊的時間點上招攬特殊的人才，一次可招聘十位幹員。",
+      "obtainApproach": "贈送",
+      "classifyType": "NORMAL",
+      "itemType": "LIMITED_TKT_GACHA_10",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "LIMITED_TKT_GACHA_10_3501": {
+      "itemId": "LIMITED_TKT_GACHA_10_3501",
+      "name": "長風萬里尋訪憑證",
+      "description": "為了確保人才擴展而應博士要求準備的應急手段，該批尋訪條目具有一定的針對性與時效性，以及，小小的風險。",
+      "rarity": 4,
+      "iconId": "LIMITED_TKT_GACHA_10_3501",
       "overrideBkg": null,
       "stackIconId": null,
       "sortId": 40003,
@@ -1698,6 +1810,150 @@
       "obtainApproach": "活動獲得",
       "classifyType": "CONSUME",
       "itemType": "OPTIONAL_VOUCHER_PICK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "voucher_chipPackage": {
+      "itemId": "voucher_chipPackage",
+      "name": "自助晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "voucher_chipPackage",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 60002,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據幹員們的不同需求，可以輕鬆印刻出任意職業的晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "OPTIONAL_VOUCHER_PICK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_7": {
+      "itemId": "itempack_mod_7",
+      "name": "先鋒晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_7",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_8": {
+      "itemId": "itempack_mod_8",
+      "name": "近衛晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_8",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_9": {
+      "itemId": "itempack_mod_9",
+      "name": "重裝晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_9",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_10": {
+      "itemId": "itempack_mod_10",
+      "name": "狙擊晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_10",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_11": {
+      "itemId": "itempack_mod_11",
+      "name": "術士晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_11",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_12": {
+      "itemId": "itempack_mod_12",
+      "name": "醫療晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_12",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_13": {
+      "itemId": "itempack_mod_13",
+      "name": "輔助晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_13",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "itempack_mod_14": {
+      "itemId": "itempack_mod_14",
+      "name": "特種晶片組印刻儀",
+      "description": "面對訓練數據不足的問題，工程部生產了全新的晶片印刻儀以供幹員們自行列印。",
+      "rarity": 4,
+      "iconId": "itempack_mod_14",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一次性自助晶片印刻器械，存儲了大量訓練記錄與材料，根據先鋒幹員們的需求，可以輕鬆印刻出晶片組合。",
+      "obtainApproach": "採購中心",
+      "classifyType": "CONSUME",
+      "itemType": "ITEM_PACK",
       "stageDropList": [],
       "buildingProductList": []
     },
@@ -2810,7 +3066,11 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act10mini_02",
+          "stageId": "act16side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -2850,11 +3110,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_03",
+          "stageId": "act13side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13side_03",
+          "stageId": "act18d3_01",
           "occPer": "OFTEN"
         },
         {
@@ -2894,19 +3154,31 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_01",
+          "stageId": "act10mini_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11d0_02",
-          "occPer": "USUAL"
+          "stageId": "act10mini_01",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act7d5_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16side_03",
+          "stageId": "act16side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_03",
           "occPer": "OFTEN"
         },
         {
@@ -2934,19 +3206,19 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act11d0_02",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act12mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act12mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -2982,11 +3254,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12mini_04",
+          "stageId": "act12mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -3067,12 +3335,12 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "a001_04",
+          "stageId": "act4d0_03",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act20side_05",
-          "occPer": "ALWAYS"
+          "stageId": "a001_04",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act13mini_05",
@@ -3083,8 +3351,12 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act4d0_03",
+          "stageId": "act23side_05",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act20side_05",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "sub_07-1-2",
@@ -3149,11 +3421,15 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act20side_07",
-          "occPer": "USUAL"
+          "stageId": "act6d5_06",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act11mini_07",
+          "stageId": "act13d0_07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15d0_07",
           "occPer": "USUAL"
         },
         {
@@ -3161,35 +3437,27 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15d0_07",
+          "stageId": "act11mini_07",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act13d0_07",
-          "occPer": "OFTEN"
+          "stageId": "act20side_07",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_07",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act11d0_07",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act6d5_06",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "main_03-01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_04-05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_05-08",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_06-07",
+          "stageId": "main_08-17",
           "occPer": "OFTEN"
         },
         {
@@ -3197,7 +3465,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_08-17",
+          "stageId": "main_06-07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_05-08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_04-05",
           "occPer": "OFTEN"
         },
         {
@@ -3269,7 +3545,15 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act10mini_01",
+          "stageId": "act16side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -3305,15 +3589,15 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act10mini_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act13side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13side_03",
+          "stageId": "act18d3_01",
           "occPer": "OFTEN"
         },
         {
@@ -3353,19 +3637,31 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act18d3_01",
+          "stageId": "act13side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_02",
-          "occPer": "OFTEN"
+          "stageId": "act11d0_03",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act6d5_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16side_03",
+          "stageId": "act16side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_03",
           "occPer": "OFTEN"
         },
         {
@@ -3393,11 +3689,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_01",
+          "stageId": "act16side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_02",
+          "stageId": "act12mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -3405,11 +3701,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11d0_03",
-          "occPer": "ALWAYS"
+          "stageId": "act12mini_04",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_04",
+          "stageId": "act20side_01",
           "occPer": "OFTEN"
         },
         {
@@ -3441,15 +3737,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act20side_01",
+          "stageId": "act12mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -3530,12 +3818,12 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "a001_03",
-          "occPer": "ALMOST"
+          "stageId": "act4d0_04",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act19side_04",
-          "occPer": "OFTEN"
+          "stageId": "a001_03",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act20side_06",
@@ -3550,8 +3838,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act4d0_04",
-          "occPer": "ALWAYS"
+          "stageId": "act23side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act19side_04",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_08-12",
@@ -3748,8 +4040,16 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act10mini_04",
+          "stageId": "act10mini_03",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act15side_03",
@@ -3788,16 +4088,16 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "act10mini_04",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act18d3_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d3_02",
-          "occPer": "USUAL"
+          "stageId": "act16d5_01",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act15d5_03",
@@ -3840,20 +4140,32 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16d5_01",
-          "occPer": "ALWAYS"
+          "stageId": "act18d3_02",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act15side_01",
-          "occPer": "OFTEN"
+          "stageId": "act4d0_01",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "a001_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act10mini_03",
-          "occPer": "USUAL"
+          "stageId": "act10mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_03",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act22side_01",
@@ -3884,23 +4196,23 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_02",
+          "stageId": "act10mini_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_03",
-          "occPer": "USUAL"
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act12mini_04",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act4d0_01",
-          "occPer": "ALWAYS"
+          "stageId": "act20side_01",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act20side_01",
+          "stageId": "act20side_02",
           "occPer": "OFTEN"
         },
         {
@@ -3936,16 +4248,8 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act20side_02",
-          "occPer": "OFTEN"
+          "stageId": "act12mini_03",
+          "occPer": "USUAL"
         },
         {
           "stageId": "sub_02-06",
@@ -3973,7 +4277,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act15side_05",
+          "stageId": "act16side_05",
           "occPer": "USUAL"
         },
         {
@@ -4033,11 +4337,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "a001_03",
+          "stageId": "act15side_05",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act16side_05",
+          "stageId": "a001_03",
           "occPer": "USUAL"
         },
         {
@@ -4061,19 +4365,15 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act23side_06",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_04",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act6d5_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_08-05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "main_07-05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_07-02",
           "occPer": "ALWAYS"
         },
         {
@@ -4081,8 +4381,20 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "main_07-02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_07-05",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_02-02",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "main_08-05",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "main_11-02",
@@ -4259,8 +4571,12 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act10mini_02",
+          "stageId": "act16side_03",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act10mini_04",
@@ -4299,12 +4615,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13side_03",
+          "stageId": "act10mini_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d3_01",
-          "occPer": "USUAL"
+          "stageId": "act13side_03",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act18d3_02",
@@ -4347,19 +4663,31 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act10mini_03",
+          "stageId": "act18d3_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act6d5_01",
-          "occPer": "ALWAYS"
+          "stageId": "act10mini_01",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "a001_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16side_03",
+          "stageId": "act16side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_03",
           "occPer": "OFTEN"
         },
         {
@@ -4391,20 +4719,20 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act6d5_01",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "act12mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12mini_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_01",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act12mini_04",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "act20side_01",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act20side_02",
@@ -4439,12 +4767,8 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act20side_01",
-          "occPer": "OFTEN"
+          "stageId": "act12mini_03",
+          "occPer": "USUAL"
         },
         {
           "stageId": "sub_02-07",
@@ -4710,7 +5034,15 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act10mini_04",
+          "stageId": "act10mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_02",
           "occPer": "OFTEN"
         },
         {
@@ -4750,15 +5082,15 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act10mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act18d3_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act18d3_02",
+          "stageId": "act18d0_01",
           "occPer": "OFTEN"
         },
         {
@@ -4802,19 +5134,31 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18d0_01",
+          "stageId": "act18d3_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_01",
-          "occPer": "OFTEN"
+          "stageId": "act7d5_01",
+          "occPer": "USUAL"
         },
         {
           "stageId": "a001_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act10mini_03",
+          "stageId": "act10mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_03",
           "occPer": "OFTEN"
         },
         {
@@ -4846,11 +5190,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_02",
+          "stageId": "act10mini_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_03",
+          "stageId": "act12mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -4858,11 +5202,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act7d5_01",
-          "occPer": "USUAL"
+          "stageId": "act20side_01",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act20side_01",
+          "stageId": "act20side_02",
           "occPer": "OFTEN"
         },
         {
@@ -4898,15 +5242,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act20side_02",
+          "stageId": "act12mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -4935,7 +5271,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act16side_04",
+          "stageId": "act18side_03",
           "occPer": "USUAL"
         },
         {
@@ -4991,16 +5327,16 @@
           "occPer": "ALMOST"
         },
         {
+          "stageId": "act16side_04",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act11d0_05",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act6d5_05",
           "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act19side_05",
-          "occPer": "OFTEN"
         },
         {
           "stageId": "act19side_03",
@@ -5023,8 +5359,16 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18side_03",
+          "stageId": "act23side_06",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19side_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_08-09",
@@ -5201,7 +5545,11 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act15side_01",
+          "stageId": "act10mini_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act15side_02",
           "occPer": "USUAL"
         },
         {
@@ -5245,11 +5593,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_03",
-          "occPer": "ALWAYS"
+          "stageId": "act15side_01",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act16d5_03",
+          "stageId": "act18d3_03",
           "occPer": "ALWAYS"
         },
         {
@@ -5297,20 +5645,32 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act15side_02",
-          "occPer": "USUAL"
+          "stageId": "act16d5_03",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act4d0_02",
-          "occPer": "ALWAYS"
+          "stageId": "act10mini_04",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "a001_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act10mini_03",
-          "occPer": "ALMOST"
+          "stageId": "act10mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_03",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act22side_01",
@@ -5345,19 +5705,19 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act4d0_02",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "act12mini_03",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act12mini_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act10mini_04",
-          "occPer": "ALMOST"
-        },
-        {
           "stageId": "act20side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act20side_02",
           "occPer": "USUAL"
         },
         {
@@ -5397,12 +5757,8 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act10mini_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act20side_02",
-          "occPer": "USUAL"
+          "stageId": "act12mini_04",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "sub_02-05",
@@ -5950,6 +6306,10 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act23side_08",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act17d0_07",
           "occPer": "USUAL"
         },
@@ -6473,6 +6833,10 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "act23side_09",
+          "occPer": "ALMOST"
+        },
         {
           "stageId": "act12mini_07",
           "occPer": "USUAL"
@@ -11498,6 +11862,38 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "p_char_4078_bdhkgt": {
+      "itemId": "p_char_4078_bdhkgt",
+      "name": "截雲的信物",
+      "description": "一壇味道辛辣的濁酒。夜晚的沙漠溫度驟降，喝下它能夠驅走些許寒意。",
+      "rarity": 4,
+      "iconId": "p_char_4078_bdhkgt",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 700115,
+      "usage": "用於提升截雲的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "p_char_493_firwhl": {
+      "itemId": "p_char_493_firwhl",
+      "name": "火哨的信物",
+      "description": "一台看起來平平無奇的打火機。你從未想過一束火苗居然能在別人手裡玩出數十種花樣。",
+      "rarity": 4,
+      "iconId": "p_char_493_firwhl",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 700116,
+      "usage": "用於提升火哨的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "p_char_103_angel": {
       "itemId": "p_char_103_angel",
       "name": "能天使的信物",
@@ -12570,6 +12966,38 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "p_char_4080_lin": {
+      "itemId": "p_char_4080_lin",
+      "name": "林的信物",
+      "description": "一個精緻小巧的沙漏，玻璃晶瑩，流沙細膩。時間在翻覆顛倒中流逝，有些事物卻從未改變。",
+      "rarity": 5,
+      "iconId": "p_char_4080_lin",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 600068,
+      "usage": "用於提升林的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "p_char_2024_chyue": {
+      "itemId": "p_char_2024_chyue",
+      "name": "重岳的信物",
+      "description": "一封拜帖。那是他頭一回知道戰鬥對於人類而言如此具有儀式感，他已經忘了那一戰的輸贏。",
+      "rarity": 5,
+      "iconId": "p_char_2024_chyue",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 600069,
+      "usage": "用於提升重岳的潛能。",
+      "obtainApproach": "幹員入職的饋贈",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "voucher_full_ceylon": {
       "itemId": "voucher_full_ceylon",
       "name": "錫蘭的私人信件",
@@ -12772,6 +13200,22 @@
       "stackIconId": null,
       "sortId": 5000013,
       "usage": "發送給博士的私人信件，用於將羅賓的潛能提升至滿級。",
+      "obtainApproach": "記錄修復獲得",
+      "classifyType": "MATERIAL",
+      "itemType": "VOUCHER_FULL_POTENTIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "voucher_full_lava2": {
+      "itemId": "voucher_full_lava2",
+      "name": "炎獄炎熔的私人信件",
+      "description": "信中談及了她最近在源石技藝鑽研上所獲的成果，結尾處附加了幾句對姐姐的抱怨。",
+      "rarity": 4,
+      "iconId": "voucher_full_lava2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 5000014,
+      "usage": "發送給博士的私人信件，用於將炎獄炎熔的潛能提升至滿級。",
       "obtainApproach": "記錄修復獲得",
       "classifyType": "MATERIAL",
       "itemType": "VOUCHER_FULL_POTENTIAL",
@@ -16363,6 +16807,22 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "uni_set_inkArt": {
+      "itemId": "uni_set_inkArt",
+      "name": "畫中人傢俱收藏包",
+      "description": "採購部重新聯繫供應商，補齊了當初限量的部分傢俱，感謝可露希爾吧！",
+      "rarity": 4,
+      "iconId": "uni_set_inkArt",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "獲得所有尚未取得且僅可在畫中人活動中得到的傢俱。",
+      "obtainApproach": "記錄修復獲得",
+      "classifyType": "NONE",
+      "itemType": "UNI_COLLECTION",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "uni_set_reception": {
       "itemId": "uni_set_reception",
       "name": "龍門風情茶室傢俱收藏包",
@@ -16377,6 +16837,59 @@
       "classifyType": "NONE",
       "itemType": "UNI_COLLECTION",
       "stageDropList": [],
+      "buildingProductList": []
+    },
+    "act23side_token_spirit": {
+      "itemId": "act23side_token_spirit",
+      "name": "新釀烈刀子",
+      "description": "玉門特產的高純度烈酒。人人好飲，家家會釀。取塞上風沙、長空烈日、胡楊飛絮一同釀入酒，一口入喉，仿佛吞刀飲火，再冷的寒夜也不用怕。",
+      "rarity": 4,
+      "iconId": "act23side_token_spirit",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "帶上一罈新釀的烈酒，去和老鐵匠換一把新開刃的好劍。“血換水，酒換刀，適逢知己，快意恩仇”。",
+      "obtainApproach": "活動關卡掉落、活動任務獲得",
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [
+        {
+          "stageId": "act23side_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_08",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act23side_09",
+          "occPer": "ALWAYS"
+        }
+      ],
       "buildingProductList": []
     }
   },
@@ -17143,11 +17656,14 @@
     "furni_act25d0_decoration_01": 1,
     "furni_act27d0_prizeWheel_01": 1,
     "furni_act30d0_fan_01": 1,
+    "furni_rogue2_stone_01": 1,
     "furni_foolsDay_penguin_01": 1,
     "furni_tangyuan_ceiling_01": 1,
     "furni_tangyuan_priceList_01": 1,
     "furni_NY2020_wallpaper_01": 1,
     "furni_NY2020_floor_01": 1,
+    "furni_SF2023_vase_01": 1,
+    "furni_SF2023_weaponRack_01": 1,
     "furni_obsidianFestival_DJBooth_01": 1,
     "furni_obsidianFestival_soundSystem_01": 1,
     "furni_obsidianFestival_portableSpeaker_01": 1,
@@ -17205,6 +17721,7 @@
     "furni_dropS024_twinPeaks_01": 1,
     "furni_dropS025_mahjong_01": 1,
     "furni_dropS025_cai_01": 1,
+    "furni_dropS025_cnKnot_01": 1,
     "furni_dropS026_seven_01": 1,
     "furni_dropS026_gluttony_01": 1,
     "furni_dropS026_greed_01": 1,
@@ -17321,6 +17838,9 @@
     "char_469_indigo@nian#7": 1,
     "char_1021_kroos2@nian#8": 1,
     "char_476_blkngt@nian#8": 1,
+    "char_2023_ling@nian#9": 1,
+    "char_497_ctable@nian#9": 1,
+    "char_473_mberry@nian#9": 1,
     "char_2013_cerber@whirlwind#2": 1,
     "char_243_waaifu@whirlwind#2": 1,
     "char_347_jaksel@whirlwind#2": 1,
@@ -18049,6 +18569,81 @@
         }
       ]
     },
+    "uni_set_inkArt": {
+      "uniCollectionItemId": "uni_set_inkArt",
+      "uniqueItem": [
+        {
+          "id": "furni_inkArt_tube_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_vase_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_bonsai_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_aquarium_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_bed_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_floorLamp_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_carpet2_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_rollerBlind1_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_rollerBlind2_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_screen2_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_fluorescentLamp_01",
+          "count": 2,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_ceilingLight_01",
+          "count": 2,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_wallpaper_01",
+          "count": 1,
+          "type": "FURN"
+        },
+        {
+          "id": "furni_inkArt_floor_01",
+          "count": 1,
+          "type": "FURN"
+        }
+      ]
+    },
     "uni_set_castle_2": {
       "uniCollectionItemId": "uni_set_castle_2",
       "uniqueItem": [
@@ -18420,6 +19015,126 @@
           "type": "MATERIAL"
         }
       ]
+    },
+    "itempack_mod_7": {
+      "packId": "itempack_mod_7",
+      "content": [
+        {
+          "id": "3212",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3211",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
+    },
+    "itempack_mod_8": {
+      "packId": "itempack_mod_8",
+      "content": [
+        {
+          "id": "3222",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3221",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
+    },
+    "itempack_mod_9": {
+      "packId": "itempack_mod_9",
+      "content": [
+        {
+          "id": "3232",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3231",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
+    },
+    "itempack_mod_10": {
+      "packId": "itempack_mod_10",
+      "content": [
+        {
+          "id": "3242",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3241",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
+    },
+    "itempack_mod_11": {
+      "packId": "itempack_mod_11",
+      "content": [
+        {
+          "id": "3252",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3251",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
+    },
+    "itempack_mod_12": {
+      "packId": "itempack_mod_12",
+      "content": [
+        {
+          "id": "3262",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3261",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
+    },
+    "itempack_mod_13": {
+      "packId": "itempack_mod_13",
+      "content": [
+        {
+          "id": "3272",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3271",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
+    },
+    "itempack_mod_14": {
+      "packId": "itempack_mod_14",
+      "content": [
+        {
+          "id": "3282",
+          "count": 8,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "3281",
+          "count": 5,
+          "type": "MATERIAL"
+        }
+      ]
     }
   },
   "fullPotentialCharacters": {
@@ -18474,6 +19189,10 @@
     "char_451_robin": {
       "itemId": "voucher_full_robin",
       "ts": 1698307200
+    },
+    "char_1011_lava2": {
+      "itemId": "voucher_full_lava2",
+      "ts": 1701158400
     }
   },
   "activityPotentialCharacters": {

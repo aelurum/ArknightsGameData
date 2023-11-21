@@ -6190,6 +6190,106 @@
       "medalRewardGroup": []
     },
     {
+      "medalId": "medal_story_chyue_1",
+      "medalName": "“昔我往矣”",
+      "medalType": "storyMedal",
+      "slotId": 167,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_2024_chyue",
+        "story_chyue_set_1"
+      ],
+      "getMethod": "解鎖幹員重岳的幹員密錄《昔我往矣》",
+      "description": "昔我往矣，與君攜行。今我來思，君何獨之？",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1700551800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_dusk_1",
+      "medalName": "“旦夕”",
+      "medalType": "storyMedal",
+      "slotId": 168,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_2015_dusk",
+        "story_dusk_set_1"
+      ],
+      "getMethod": "解鎖幹員夕的幹員密錄《旦夕》",
+      "description": "“二十餘年如一夢，此身雖在堪驚。”",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1700551800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_haak_1",
+      "medalName": "“驚弓一夜”",
+      "medalType": "storyMedal",
+      "slotId": 169,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_225_haak",
+        "story_haak_set_1"
+      ],
+      "getMethod": "解鎖幹員阿的幹員密錄《驚弓一夜》",
+      "description": "因為不安定，所以不安分。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1700551800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_lmlee_1",
+      "medalName": "“三餐一日”",
+      "medalType": "storyMedal",
+      "slotId": 170,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_322_lmlee",
+        "story_lmlee_set_1"
+      ],
+      "getMethod": "解鎖幹員老鯉的幹員密錄《三餐一日》",
+      "description": "瓜果菜蔬，油鹽醬醋，杯碟碗盞，從它們身上，你能看到時間流淌的痕跡。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1700551800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_story_mberry_1",
+      "medalName": "“平安祈願”",
+      "medalType": "storyMedal",
+      "slotId": 171,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "CharStoryUnlock",
+      "unlockParam": [
+        "char_473_mberry",
+        "story_mberry_set_1"
+      ],
+      "getMethod": "解鎖幹員桑葚的幹員密錄《平安祈願》",
+      "description": "一枚普通的，有些陳舊的平安符。最樸實的祝福，也是最有分量的期待。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": 1700551800,
+      "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
       "medalId": "medal_rogue_2_01",
       "medalName": "“滄海之藍”",
       "medalType": "rogueMedal",
@@ -6941,6 +7041,285 @@
       "originMedal": null,
       "displayTime": 1646712000,
       "expireTimes": [],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_01",
+      "medalName": "“裹風挾塵”",
+      "medalType": "activityMedal",
+      "slotId": 1,
+      "preMedalIdList": [
+        "medal_activity_23side_02",
+        "medal_activity_23side_03",
+        "medal_activity_23side_04",
+        "medal_activity_23side_05",
+        "medal_activity_23side_06",
+        "medal_activity_23side_07",
+        "medal_activity_23side_08",
+        "medal_activity_23side_09",
+        "medal_activity_23side_10"
+      ],
+      "rarity": 4,
+      "template": null,
+      "unlockParam": [],
+      "getMethod": null,
+      "description": "您完成了此次在玉門的行程。\n受傷的城市暫時停泊，找到答案的旅人重新啟程，一切都為時未晚。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_02",
+      "medalName": "“初出荒野”",
+      "medalType": "activityMedal",
+      "slotId": 2,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "GotCharsBeforeTime",
+      "unlockParam": [
+        "char_4078_bdhkgt",
+        "1702324799"
+      ],
+      "getMethod": "登臨意活動期間，獲得幹員截雲",
+      "description": "您偶遇了一位眼神清澈的阿納薩少女。\n她不理解師父的“念想”，但願意為此遠行，荒野上的石頭落進了移動城市。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_03",
+      "medalName": "老工坊新客獎章",
+      "medalType": "activityMedal",
+      "slotId": 3,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "ActivityCoinCost",
+      "unlockParam": [
+        "act23side",
+        "act23side_token_spirit",
+        "4000"
+      ],
+      "getMethod": "登臨意活動期間，在[鑄劍坊]中消耗4000份新釀烈刀子",
+      "description": "您觀摩了鑄劍坊的匠人鍛造武器，並收藏了不少珍品。\n故人已矣，而仍有刀劍新發於硎，江湖還在。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_04",
+      "medalName": "“天淨沙”",
+      "medalType": "activityMedal",
+      "slotId": 4,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act23side_01;act23side_02;act23side_03;act23side_04;act23side_05;act23side_06;act23side_07;act23side_08;act23side_09",
+        "9"
+      ],
+      "getMethod": "以3星評價完成[城中調查]內的全部關卡（不包含教學關與劇情關）",
+      "description": "您成功鎖定了混入城中的山海眾。\n見慣胡楊的人，熟悉每一道風、每一粒沙。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_05",
+      "medalName": "擂台稱雄獎章",
+      "medalType": "activityMedal",
+      "slotId": 5,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "MissionCompleteSome",
+      "unlockParam": [
+        "23sideActivity_1;23sideActivity_2;23sideActivity_3;23sideActivity_4;23sideActivity_5;23sideActivity_6;23sideActivity_7;23sideActivity_8;23sideActivity_9;23sideActivity_10;23sideActivity_11;23sideActivity_12;23sideActivity_13;23sideActivity_14;23sideActivity_15;23sideActivity_16;23sideActivity_17;23sideActivity_18;23sideActivity_19;23sideActivity_20;23sideActivity_21;23sideActivity_22;23sideActivity_23;23sideActivity_24;23sideActivity_25;23sideActivity_26",
+        "26"
+      ],
+      "getMethod": "完成[玉門擂台榜]中全部內容，並領取獎勵",
+      "description": "您在張懸多年的玉門擂台榜上佔據了一席之地。\n榜上有名，就像快意時有酒，只是豪興的添頭，保家衛國，匹夫有責。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_06",
+      "medalName": "“死生如晤”",
+      "medalType": "activityMedal",
+      "slotId": 6,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageWithKillSurvive",
+      "unlockParam": [
+        "3",
+        "act23side_09",
+        "enemy_1538_ymmons_3",
+        "enemy_1538_ymmons"
+      ],
+      "getMethod": "以3星評價通關WB-9，且在妄境存活時擊敗“睚”",
+      "description": "您拆穿了祂的來歷，知曉了祂的來意。\n憤怒、困惑、屈辱......無限幽微的情緒消失在某個匆匆而逝的彼時，又正存在於永不會過去的此刻。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_07",
+      "medalName": "“大顯身手”",
+      "medalType": "activityMedal",
+      "slotId": 7,
+      "preMedalIdList": [],
+      "rarity": 0,
+      "template": "PassStageWithTrapSurvived",
+      "unlockParam": [
+        "3",
+        "act23side_ex01",
+        "trap_097_hstone",
+        "3"
+      ],
+      "getMethod": "以3星評價通關WB-EX-1，且通關時場上至少存在3個“城防路障”",
+      "description": "您在協助巡防營佈防時出力頗多，驚豔眾人。\n玉門尚武，有句俗話說：“玉門習武多年少，練拳之日沒樁高。”",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_08",
+      "medalName": "“風起雲湧”",
+      "medalType": "activityMedal",
+      "slotId": 8,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageSome",
+      "unlockParam": [
+        "3",
+        "act23side_ex01#f#;act23side_ex02#f#;act23side_ex03#f#;act23side_ex04#f#;act23side_ex05#f#;act23side_ex06#f#;act23side_ex07#f#;act23side_ex08#f#",
+        "8"
+      ],
+      "getMethod": "完成[關外追凶]中全部關卡的突襲模式",
+      "description": "您看完了《玉門風雲》，弄清了劇裡劇外的亂局。\n風雲作舊，來者可追。不說難處，但正我心。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_09",
+      "medalName": "演武振威獎章",
+      "medalType": "activityMedal",
+      "slotId": 9,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageWithTrapSurvivedLess",
+      "unlockParam": [
+        "3",
+        "act23side_ex03",
+        "trap_096_gflag",
+        "1"
+      ],
+      "getMethod": "以3星評價通關WB-EX-3，且通關時場上存在的“山海密語儀”不多於1個",
+      "description": "您在玉門軍前的演武極大振奮了人心。\n且聽風擂鼓，擊鞘和凱歌。",
+      "advancedMedal": null,
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_10",
+      "medalName": "“破陣子”",
+      "medalType": "activityMedal",
+      "slotId": 10,
+      "preMedalIdList": [],
+      "rarity": 2,
+      "template": "PassStageWithSimpleCountLess",
+      "unlockParam": [
+        "3",
+        "act23side_ex04",
+        "enemy_1297_ymflag_2",
+        "land_highland",
+        "2"
+      ],
+      "getMethod": "以3星評價通關WB-EX-4，且登上玉門天災工事的山海眾掌令使數量不多於2名",
+      "description": "您記錄下了那位詩人獨對天災奇景時所作的詩歌。\n“天地入甕瓶，長夢悲古今。”",
+      "advancedMedal": "medal_activity_23side_105",
+      "originMedal": null,
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
       "medalRewardGroup": []
     },
     {
@@ -17557,6 +17936,35 @@
         }
       ],
       "medalRewardGroup": []
+    },
+    {
+      "medalId": "medal_activity_23side_105",
+      "medalName": "“破陣子”",
+      "medalType": "activityMedal",
+      "slotId": 10,
+      "preMedalIdList": null,
+      "rarity": 3,
+      "template": "PassStageWithSimpleCountLess",
+      "unlockParam": [
+        "3",
+        "act23side_ex04",
+        "enemy_1297_ymflag_2",
+        "land_highland",
+        "0"
+      ],
+      "getMethod": "以3星評價通關WB-EX-4，且關卡中沒有山海眾掌令使登上玉門天災工事",
+      "description": null,
+      "advancedMedal": null,
+      "originMedal": "medal_activity_23side_10",
+      "displayTime": -1,
+      "expireTimes": [
+        {
+          "start": 1702324800,
+          "end": -1,
+          "type": "TEMP"
+        }
+      ],
+      "medalRewardGroup": []
     }
   ],
   "medalTypeData": {
@@ -18450,6 +18858,33 @@
           "sharedExpireTimes": [
             {
               "start": 1699473599,
+              "end": -1,
+              "type": "TEMP"
+            }
+          ]
+        },
+        {
+          "groupId": "medalGroupActivity23side",
+          "groupName": "登臨意蝕刻章套組",
+          "groupDesc": "記錄玉門軍民迎戰天災全過程的蝕刻章套組。\n塞上人跡罕至，但總要有赤誠之士與風沙相對。\n人生當稱意，幾輩共登臨。",
+          "medalId": [
+            "medal_activity_23side_01",
+            "medal_activity_23side_02",
+            "medal_activity_23side_03",
+            "medal_activity_23side_04",
+            "medal_activity_23side_05",
+            "medal_activity_23side_06",
+            "medal_activity_23side_07",
+            "medal_activity_23side_08",
+            "medal_activity_23side_09",
+            "medal_activity_23side_10"
+          ],
+          "sortId": 32,
+          "groupBackColor": "a69c80",
+          "groupGetTime": 1700551800,
+          "sharedExpireTimes": [
+            {
+              "start": 1702324800,
               "end": -1,
               "type": "TEMP"
             }

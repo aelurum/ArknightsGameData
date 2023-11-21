@@ -16477,6 +16477,1161 @@
       "type": "ADVANCED",
       "uniEquipGetTime": 1697695200,
       "charEquipOrder": 2
+    },
+    "uniequip_001_amgoat": {
+      "uniEquipId": "uniequip_001_amgoat",
+      "uniEquipName": "艾雅法拉證章",
+      "uniEquipIcon": "uniequip_001_amgoat",
+      "uniEquipDesc": "幹員艾雅法拉擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_180_amgoat",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_amgoat": {
+      "uniEquipId": "uniequip_002_amgoat",
+      "uniEquipName": "“錯過的聲音”",
+      "uniEquipIcon": "uniequip_002_amgoat",
+      "uniEquipDesc": "親愛的孩子：\n當你能解讀這些天災研究資料的時候，你應該已經是一名可以獨當一面的科研學者了。我絲毫不為此擔心，因為我很確信，以你的努力和天賦，這只是一個時間問題。你是我最大的驕傲。\n所以在工作之餘，我想寫在這裡的，是一些別的話。\n我想你一定抱怨過，為什麼我和你的父親能陪伴在你身邊的時間總是那麼有限。請你相信，這也是我們最大的遺憾。對我們來說，每次看到你安詳的睡臉，離開家門都是一個困難的決定。我們都不知道這一次告別會不會是永別，更不知道該如何在這樣的前提下和你說再見。\n請你相信，我們為之付出一切的事業，是有意義的。\n比起大地的廣袤，人類是那樣的渺小，但又不甘於渺小。是對知識的探索，讓我們這樣渺小的生命有了意義。\n知識可以帶領人類超越眼前所見的侷限，洞穿泥土與岩層，窺見這片大地的真正面目，也從而讓我們瞭解自己是誰。所以即使是在火山口，看到眼前的萬丈深淵，我也在想，我們或許可以從這裡直接通往大地最深處的秘密。\n這是一件很危險的工作，我現在寫下這些文字，也是為了一定程度上寬解自己的恐懼。我總有堅持下去的理由。\n因為這是我與你父親共同的理想，我很幸運能與他組成家庭，而你的降臨是賜予我們的禮物。\n所以看到你自己選擇走上這條與我們一樣的道路，我們是那樣高興。\n我們當然不會將你視作我們的傳承，繼承我們的事業並不是你的義務，我們也相信你一定會取得遠在我們之上的成就。\n作為科研學者，我在自己的女兒身上看到了許多值得我學習的品質——細膩，專注，堅韌，勇敢。這是一件多麼幸福的事。我衷心地希望能看到你在科研道路上走下去，看到你的努力開花結果。\n我與你的父親留下了許多科研成果，但我們留在這世上最為珍貴的寶物，是你。\n我們想與你一同拓寬人類知識的邊界。\n我們在為此努力著，而你也一定可以站在我們的肩膀上，看到一片更清晰明瞭、更可愛的大地。\n\n——在一疊厚厚的科研檔中，夾入了這樣的一封信",
+      "typeIcon": "ccr-x",
+      "typeName1": "CCR",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_180_amgoat",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_amgoat_1",
+        "uniequip_002_amgoat_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_cerber": {
+      "uniEquipId": "uniequip_001_cerber",
+      "uniEquipName": "刻俄柏證章",
+      "uniEquipIcon": "uniequip_001_cerber",
+      "uniEquipDesc": "幹員刻俄柏擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_2013_cerber",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_cerber": {
+      "uniEquipId": "uniequip_002_cerber",
+      "uniEquipName": "“很乾的麵包”",
+      "uniEquipIcon": "uniequip_002_cerber",
+      "uniEquipDesc": "今天刻俄柏搞不懂的第一件事情是，為什麼這裡有很多麵包，自己卻不能拿。\n麵包在她手裡，她站在櫃檯前面，表情很凶的老闆在盯著她。她感覺肚子空空的，忍不住咬了一口麵包。\n老闆說拿麵包要付錢。刻俄柏掏不出錢，刻俄柏掏出斷掉的箭、不知道從哪裡掰下來的玻璃管。\n刻俄柏掏到一半，聽到外面有人在喊：“搶錢啦！”\n刻俄柏抓著麵包衝了出去。\n\n今天刻俄柏搞不懂的第二件事情是，為什麼壞人要搶大家的錢包，害得大家都吃不了麵包。\n她在追摩托車，摩托車在沿著田埂不停地往前跑，天色在一點一點變暗。她感覺追得有點累了，可是壞人還坐在摩托車上面。\n她聽到壞人在激動地大喊大叫：“她都追了我們大半天了，到底是什麼怪物！還是跟她打一架吧！”\n摩托車停了下來，壞人“啪嗒啪嗒”地拿著鐵棍跑過來，壞人“咚”地一下被打倒了。\n刻俄柏舉著麵包看著他。\n\n今天刻俄柏搞不懂的第三件事情是，為什麼其他人突然也能聽到武器說話了。\n拿回錢包的人圍著她，她站在老闆面前，說自己想要把這條麵包據為己有。因為她好像聽到麵包對自己說話了，麵包也是武器。\n“那麵包說什麼了呢？”表情很溫和的老闆問她。\n刻俄柏偏著頭想了想，又聽了一會兒：“麵包發出了肚子咕咕叫的聲音。”\n於是刻俄柏抱著一大袋麵包離開了那些房子和很平整的路。能用來打人的麵包不說話了，還變得咬不動了，太奇怪了。\n刻俄柏想，總有一天自己會搞清楚這些事情的。",
+      "typeIcon": "ccr-x",
+      "typeName1": "CCR",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_2013_cerber",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_cerber_1",
+        "uniequip_002_cerber_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_absin": {
+      "uniEquipId": "uniequip_001_absin",
+      "uniEquipName": "苦艾證章",
+      "uniEquipIcon": "uniequip_001_absin",
+      "uniEquipDesc": "幹員苦艾擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_405_absin",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_absin": {
+      "uniEquipId": "uniequip_002_absin",
+      "uniEquipName": "“監護者”單兵通訊單元",
+      "uniEquipIcon": "uniequip_002_absin",
+      "uniEquipDesc": "苦艾幹員本人在躲避整合運動的封鎖與搜捕的時候，曾數次試圖聯繫城外駐軍尋求支援，也無數次試圖呼叫不知在何處的父親，但從未得到過任何回應，只有蒼白絕望的雜音。就像在黑暗中手握著一支燭光搖曳微弱的蠟燭，看不清前路，也找不到來路，卻依舊執著地相信著手上虛假而冰冷的希望。\n根據苦艾幹員本人的回憶，她在即將陷入昏迷的一瞬間，似乎曾從通訊裝置內聽到了父親的聲音，從而驚醒過來並幸運地躲開了恰好路過的整合運動。但那一刻的訊息太短，以至於她自己都無法確定那到底是真實的聲音，還是自己在饑餓、恐懼和絕望中出現的幻想。\n\n而在來到羅德島以後，苦艾幹員時常會在無人的時候，用通訊器保持和父親的通話，彷彿他就在另一邊靜靜地聽著。\n“父親，你在嗎？我現在被帶到了一個叫羅德島的地方。他們和我說這裡很安全......希望是這樣。”\n“今天的晚飯有點硬，但我還是吃了好多。”\n“我已經在羅德島上開始接受訓練，杜賓老師......啊，就是我現在的教官。她說我已經做得很好，但是......我知道她只是在安慰和鼓勵我......”\n“我之後會跟這裡其他的幹員一起出任務，但我不知道自己能不做好......”\n“今天發現褲子有點短了，我好像長高了一點呢，父親。”\n“父親，你在聽嗎......”\n......\n\n“對於曾在通訊裝置中聽到父親聲音這件事，苦艾幹員幾乎在每一次心理治療時都會向醫療幹員提及。隨著不同的記憶碎片不斷被疊加拼湊，並根據後來在切爾諾伯格所搜集到的各項情報，我們的綜合判斷是這則通訊應該是真實發生過的，但是極有可能不是來自苦艾父親的通訊裝置，而是來自整合運動。當暴徒找到並衝入倖存平民警察的避難所時，在一片混亂中意外收入了苦艾父親的聲音。”\n“對於為什麼烏薩斯軍警的通訊裝置會接收到整合運動的訊號，姑且解釋為通訊裝置的頻道互串，並不是一件奇怪的事情，不再深究。”\n“上述醫療記錄應於當日進行銷毀。”",
+      "typeIcon": "ccr-x",
+      "typeName1": "CCR",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_405_absin",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_absin_1",
+        "uniequip_002_absin_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30084",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30094",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_nights": {
+      "uniEquipId": "uniequip_001_nights",
+      "uniEquipName": "夜煙證章",
+      "uniEquipIcon": "uniequip_001_nights",
+      "uniEquipDesc": "幹員夜煙擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_141_nights",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_nights": {
+      "uniEquipId": "uniequip_002_nights",
+      "uniEquipName": "女巫的帽子",
+      "uniEquipIcon": "uniequip_002_nights",
+      "uniEquipDesc": "她穿行於“森林”之中。她在裸露的鋼筋之間跳躍，從小徑的一頭來到另一頭，爬上一塊褪了色的看板的頂部。一個空罐頭在不遠處倒下了。她後退了一小步，在陰影裡躲了一會。直到確認月光下再沒有第二個影子，她才再度邁開步伐，輕巧得像一縷煙一樣，鑽進了一扇沒有玻璃的窗戶。\n地上有一汪積水，她小心翼翼地繞開了。可能是因為剛下過雨，這個夜晚格外明亮。這可不是什麼好兆頭。在過去，沒什麼人敢闖入濃霧繚繞的森林，因為那裡是女巫的領地。貪婪的商人想要獲得女巫的力量，卻只會被灰黑色的煙霧纏住脖頸。只有迷路的孩子才能在黑夜中獲得一些好運氣，她們中的大部分已經受到了另一種詛咒，而夜色與霧氣恰好能遮住那些不祥的石頭。\n最初的巫女林早已消失在大火中。在一座又一座不同的移動城市中，這些空屋只是霓虹與高樓倒影間的縫隙，遠遠稱不上安全的領地。\n她悄無聲息地巡視著自己的臨時居所，在一堆雜物之間找到了那頂帽子。寬寬的帽檐，層層疊疊的布料。帽子內側有許多補丁，她還記得把那些不同的料子縫上去的每一隻手。它們有的蒼老，有的年輕，無一例外都很柔軟。她跳進了帽子，讓布片環繞著自己的身軀，就像回到了她們的懷抱裡。\n另一隻手落在她頭頂。她記得那只手，那是她們中最年輕的一個，也是陪伴著她的最後一個。和她們一樣，那孩子的手上原本是乾淨的青草和紙張的味道，而現在卻常常帶著鐵銹味和血腥氣。\n“又被發現啦。”年輕的女巫將她抱了起來，戴上了另外一頂帽子，“猜猜看，在下一次被抓之前，我們還能跑多久呢？”\n黑色的生靈蹭了蹭女巫的臉頰。\n她和女孩一起跳進黑夜裡，穿行於森林之中。她們本該一樣自由。",
+      "typeIcon": "ccr-x",
+      "typeName1": "CCR",
+      "typeName2": "X",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_141_nights",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 40,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_nights_1",
+        "uniequip_002_nights_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30073",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 20000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 15,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31053",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 25000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30063",
+            "count": 6,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 30000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 1
+    },
+    "uniequip_001_qanik": {
+      "uniEquipId": "uniequip_001_qanik",
+      "uniEquipName": "雪絨證章",
+      "uniEquipIcon": "uniequip_001_qanik",
+      "uniEquipDesc": "幹員雪絨擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_466_qanik",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_qanik": {
+      "uniEquipId": "uniequip_002_qanik",
+      "uniEquipName": "自製登山杖",
+      "uniEquipIcon": "uniequip_002_qanik",
+      "uniEquipDesc": "爸爸媽媽拉起小雪絨的手，走在積雪沒過膝蓋的雪地上。\n用雙腳去丈量冰原的寬度，是部落的搜救隊中流傳了幾代人不變的傳統。它被寫成故事，編成歌謠，由父母在孩子們咿呀學語、蹣跚學步時，一點點地教給他們。\n代表著部落中的孩童不再稚嫩、成長為可以直面風雪的大人的，並不是可被計算的年歲，而是能夠做到孤身一人走入冰原，帶回由父母在他出生時綁在冰原凍枝上的祈福繩結。哥哥姐姐無數次地和他半炫耀半認真地講起自己在冰原上的所見，這令小雪絨無比嚮往。\n晶瑩剔透的凍枝孤獨地矗立，十人難以圍抱的巨冰會呈現出淡淡的藍色，他們把自己的足跡描繪成一棵生長在冰原上的巨樹，一點點伸展自己的枝椏，伸向未知的地方。\n當他有一天豪言壯志地說自己長大後也要當一個搜救隊員時，爸爸給他用木棍削出了一個小小的登山杖。他興奮地拿著它四處亂跑，在雪地上結結實實地摔了一跤。小雪絨抬頭往上看，爸爸笑著拉他起來，天上的星星閃閃發亮，雪花落在他的鼻尖上。\n\n他獨自走在積雪沒過膝蓋的雪地上。\n他走到了比哥哥和爸爸去過的更遠的地方，但他知道那是因為爸爸的生命最終停留在了冰原，而哥哥因為腿傷再也不能承擔任務。其他隊員擔憂他年紀小，但他總是會站在最前面。\n他記下那些奇特的天象，回去仔細描述給部落中編撰歌謠的老人；為了報答他的救命之恩，那些哥倫比亞的隨隊醫生留在部落，主動幫人們檢查起了病痛；他趴在老人的腿邊甜甜地勸說，那個經常來看望媽媽的黎博利姐姐終於能和部落中最固執也是見識最多的老人搭上話，一起交流一些她最新的發現。\n他從自己的部落中走了出來，又帶著更多的東西回去。當他一次又一次地往返奔波，終於因為筋疲力盡而摔倒，周圍人擔心地想要扶起他時，雪絨抹了一把臉，躺在地上看著天上正在落下的雪花。\n“如果有風雪飛上我的鼻尖，那就是爸爸來看我啦。”\n爸爸的雪花落下來了。",
+      "typeIcon": "ccr-y",
+      "typeName1": "CCR",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_466_qanik",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_qanik_1",
+        "uniequip_002_qanik_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30074",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30104",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_nightm": {
+      "uniEquipId": "uniequip_001_nightm",
+      "uniEquipName": "夜魔證章",
+      "uniEquipIcon": "uniequip_001_nightm",
+      "uniEquipDesc": "幹員夜魔擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_164_nightm",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_nightm": {
+      "uniEquipId": "uniequip_002_nightm",
+      "uniEquipName": "“兩生花”",
+      "uniEquipIcon": "uniequip_002_nightm",
+      "uniEquipDesc": "訪談錄音 N-02 20:37\n葛羅莉亞，你感覺好些了嗎？\n好一點了。對不起，我又......\n沒事。這些花和香味能讓你感到平靜嗎？\n是......\n你的恐慌是“夜魔”造成的嗎？\n我不知道。\n葛羅莉亞，這次訪談我想和你聊聊，需要你努力不讓“夜魔”出來，能做到嗎？\n我......試試。\n好，我信任你。如果她要出來了，你就大聲提醒我，好嗎？\n嗯。我們開始吧。上次訪談中，你說在“夜魔”出來時你是清醒的，那時你有什麼感受？\n感覺......就像坐在一面大螢幕前。所有的聲音、畫面......很清晰，可什麼都做不了。\n你有奪回身體控制權的行為，是怎麼做到的？\n我跑啊跑啊，有很多線在拉扯著我，黏黏的，黑色的，我扯那些線......咳、咳！\n葛羅莉亞，你還好嗎？你咳得厲害。\n醫生，可以給我一杯水嗎？\n給你。\n謝謝。\n我們繼續。讓你這麼做的原因是你不喜歡“夜魔”佔據你的身體？所以你很排斥她？\n不是，我只是覺得......很無力。不這麼做，有什麼會消失。\n你怎麼看待“夜魔”？\n和我不一樣，她會做我做不到的事，我有些害怕。\n你認為你們兩個彼此獨立嗎？\n應該吧。\n假如，我說假如，某一天你們兩個中只有你會留下，你會怎麼想？\n我不知道......咳，抱歉，我再喝口水。\n放鬆，接下來我們換個方式聊吧。\n我會讓你回憶起一些深處的記憶。別擔心，這不會給你帶來傷害。\n嗯。看著這三根手指，它們會依次彎曲，慢慢潛入你的內心深處。\n三。\n二。\n一。\n你是葛羅莉亞嗎？\n我是。\n葛羅莉亞，你能回憶起“夜魔”第一次出來是什麼時候嗎？\n不記得準確時間，只記得......那天，我做了一場噩夢。\n噩夢？\n嗯，我夢見白色的牆，走廊的燈光好亮，好多人，還有好多血......然後她出現了。\n她是先在夢裡出現的嗎？\n是的。\n她有做什麼嗎？\n我記得，在夢裡她......救了我。\n救了你？她還有做什麼嗎？\n啊......咳！水，我要......\n別急，慢慢說。\n給你——啊！我的手！\n呵、呵呵。\n“夜魔”！可為什麼沒有任何跡象？\n葛羅莉亞明明提醒你啦，只是你沒有注意到。怎麼樣？我模仿她模仿得還不錯吧？\n請求援助！“夜魔”——\n噓，不要吵哦。你以為那真是一場噩夢嗎？究竟是誰需要源石呢？\n雙生的花啊......真實與謊言，你該如何分辨？\n好啦，聽我的，把源石交給我吧......\n——錄音到此結束。",
+      "typeIcon": "ccr-y",
+      "typeName1": "CCR",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_164_nightm",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_nightm_1",
+        "uniequip_002_nightm_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30104",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_tomimi": {
+      "uniEquipId": "uniequip_001_tomimi",
+      "uniEquipName": "特米米證章",
+      "uniEquipIcon": "uniequip_001_tomimi",
+      "uniEquipDesc": "幹員特米米擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_411_tomimi",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_tomimi": {
+      "uniEquipId": "uniequip_002_tomimi",
+      "uniEquipName": "損壞的尾尾佳",
+      "uniEquipIcon": "uniequip_002_tomimi",
+      "uniEquipDesc": "（舒緩的音樂聲）\n“螢幕前的你，在開始冥想之前，請找一把坐起來最舒服的椅子，舒服地坐在上面。”\n就是這一把了，正好可以把尾巴從靠背和座面之間的空隙伸出去。\n稍微有點擠，但是沒關係。雜誌上說冥想可以減肥，要是同時夾住想瘦的地方，效果肯定更好。\n\n“保持身體挺直，不要靠住椅背。尾巴自然下垂，雙手可以放在腿上。放鬆肩膀，打開胸腔，放鬆腹部。”\n不行，還是得坐得緊繃一點。\n昨天偷偷把嘉維爾在病歷本上的簽名剪下來了。萬一嘉維爾找過來，我得做好準備。\n\n“首先，做一組深呼吸。吸氣，呼氣。吸氣，呼氣。”\n吸——呼——吸——呼——\n\n“重複這一過程，一共十二次。吸氣，呼氣。”\n十二次，好多——不行，不能走神！吸、呼！吸、呼！\n\n“感受，內部的，平靜。”\n臉蛋熱熱的，這樣算是平靜嗎？算是吧。\n\n“閉上雙眼，放下所有的壓力，然後，心中生起美好的願望。”\n美好的願望？我希望自己能幫上嘉維爾的忙！\n嘉維爾想當醫生，我就替她擺平別的事情，統領部族也好，當王酋也好，打不願意打的架也好！\n\n“然後，在心裡保持這種美好的感覺。”\n然後嘉維爾就會誇我做得好，她會說，特米米，還是你最可靠了，你總能幫上我的忙——\n\n“你的眼前浮現出美好場景的畫面。”\n嘉維爾......在我眼前說......特米米最可靠？！\n嗚啊啊啊啊！\n\n“把注意力轉向呼吸......”\n“喲，特米米，你在這啊。”\n“嘉嘉嘉嘉嘉維爾！我有沒有幫上你的忙？”\n\n“不要刻意控制呼吸，注意和呼吸有關的感覺......”\n“啊？還挺多的吧。”\n“真的？！”\n\n“不要追隨任何生起的念頭......”\n“用火箭筒那次就算了，不過在際崖城，還有回到阿卡胡拉的時候，你不都幫我——等等，你別亂甩尾巴，椅子要被你的尾巴頂壞了——”\n轟。\n\n“想像自己吸入純淨的能量，呼出渾濁的、負面的感受......”\n“嘉維爾昨天剛給我配的尾尾佳啊啊啊啊！”",
+      "typeIcon": "ccr-y",
+      "typeName1": "CCR",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_411_tomimi",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_tomimi_1",
+        "uniequip_002_tomimi_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30064",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31024",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30034",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_amiya": {
+      "uniEquipId": "uniequip_001_amiya",
+      "uniEquipName": "阿米婭證章",
+      "uniEquipIcon": "uniequip_001_amiya",
+      "uniEquipDesc": "阿米婭擅長對敵人造成法術殺傷\n根據外勤部門決議\n在外勤任務中劃分為術師幹員，行使中堅術師職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_002_amiya",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_amiya": {
+      "uniEquipId": "uniequip_002_amiya",
+      "uniEquipName": "DWDB-221E",
+      "uniEquipIcon": "uniequip_002_amiya",
+      "uniEquipDesc": "最初是幾個模糊人影，隨後是耀眼的光，光漸漸遠離，升到天上，留下一片斑駁。不多久這些光點同樣迅速遠去，就只剩一片無意義的漆黑。\n你想起那些斑駁皆是天體，你想起星星們的家園名為宇宙。\n緊接著，你的視野忽然清晰起來，光滑的金屬、密閉的空間、透明的窗口成了你的第三隻眼——你透過它，看著窗外巨大的灰色球體，在那些常人無法理解的巨構之中，它安靜地等待著自己的生父......\n你突然有些感動，某些體液打濕了視野。你開始尋找這份情緒的根源，你看到了一個孩子的誕生，那是你的孩子。全新的命運，靈魂的寄託......可這樣一個小小的生命與那個虛空的巨構相比，是多麼微不足道。\n你回到眼下，看著那些大大小小的工程艦船，作為數學家的你迅速進行了一個可笑的對比——其中最小的艦船，都數千萬倍於一個人類嬰兒的大小。\n但你們做到了。從遠古的遠古開始，從火或者一次狩獵開始，你們走到了今天。\n你很自豪。不知怎地，你對這份自豪感同身受，於是更多的訊息湧入了你的腦海。你想起了自己的身份，你明白了自己就是那顆人造衛星的設計者。而在漫長的亞空間旅行之後，你終於迎來了親眼目睹它竣工的那一刻。\n榮譽，財富，家人，理想.....這些詞彙閃爍、盤旋、消散，最終只剩下一個，且僅有一個......\n......\n...\n“未來......”\n“什麼？你看到了什麼？”\n“......”\n“喂，回話！喂！”\n眾人陷入了沉默。一旁的年輕女性著急了起來。\n“檢查他的大腦，我早說了不該這麼著急，我們才建立起與數據庫通訊的協議管道！這才剛完成第一例成功的輸送！”\n“......抱歉。”\n“等等。你說什麼？”\n“我說......我以前其實一直不太喜歡你們這些行星工程師，我覺得你們做的事情華而不實......但我看見了。我看見了你的過去，我共用了你的過去，我感受到了你的情感，這是......無與倫比的。”\n“你......”\n“是。我感到你像個普通的父親那樣回想起孩子和家庭，看著那顆確實有些驚人的人造月亮，而且，這種感覺超乎想像......我們成功了。”\n眾人再次沉默。\n“那麼......”打破沉默的是個相對年輕些的紅髮女人，“它會怎麼記錄我們的時代，往後的時代？”\n“大概是一堆蠢事的大合集。”有人漫不經心地回答，“我們已經領教得夠多了，只不過以後，他們再也找不到修飾歷史的藉口了。”\n“對人類更有信心一點吧，朋友們。”另一位老人索性坐了下來，為自己挑了個更舒服的姿勢，“我們已經吸取了足夠多的教訓了，我們的後人不會重蹈覆轍。”\n有人露出苦笑，當然，這只是個美好的祝願。\n“......所以我們確實成功了？DWDB-221E項目居然這麼快就取得成果......天哪。”\n捲頭髮的人猛然站起身來。\n“我們還要叫它DWDB-221E嗎？我知道，項目編號有規定的格式，就和AMa一樣，冷冰冰的簡稱......但我們的工作值得一個更莊重的正式命名！”他再次拋出了那個業已鍥而不捨了大半年的提議，“我希望叫它......‘命運’！或者‘世界真理’？”\n這次是尷尬的沉默。\n“‘黑王冠’怎麼樣？畢竟從部分現象的直觀視覺印象來講，確實像個黑王冠。”\n“不怎麼樣，聽起來像個無聊的歷史劇集。”\n“那麼......”\n老人打斷了即將陷入無止境爭吵的屬下們，她看向窗外的星辰，有些不好的消息在傳來，但一切艱險終將被人類逾越，就和以往的無數時刻一樣。\n“我有個提議......”\n“我們該叫它，‘文明的存續’。”",
+      "typeIcon": "ccr-y",
+      "typeName1": "CCR",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_002_amiya",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_amiya_1",
+        "uniequip_002_amiya_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30034",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 2
+    },
+    "uniequip_001_bdhkgt": {
+      "uniEquipId": "uniequip_001_bdhkgt",
+      "uniEquipName": "截雲證章",
+      "uniEquipIcon": "uniequip_001_bdhkgt",
+      "uniEquipDesc": "幹員截雲擅長對複數敵人造成物理殺傷\n根據外勤部門決議\n在外勤任務中劃分為狙擊幹員，行使炮手職責\n特別頒發此證章\n以茲證明",
+      "typeIcon": "original",
+      "typeName1": "ORIGINAL",
+      "typeName2": null,
+      "equipShiningColor": "grey",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 0,
+      "charId": "char_4078_bdhkgt",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 0,
+      "unlockFavorPoint": 0,
+      "missionList": [],
+      "itemCost": null,
+      "type": "INITIAL",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 0
+    },
+    "uniequip_002_bdhkgt": {
+      "uniEquipId": "uniequip_002_bdhkgt",
+      "uniEquipName": "小石頭",
+      "uniEquipIcon": "uniequip_002_bdhkgt",
+      "uniEquipDesc": "太陽落下，明早還從東邊升起來\n月亮升起，明早會從西邊落下去\n戈壁上面的裂紋長滿了\n會有來年的雨水滋潤它\n沙漠深處的沙拐棗枯死了\n會有地下的泉水救活它\n阿媽你的眼淚不要掉下來\n我的褂子不能被淚水打濕\n阿爸你的眉頭不要皺起來\n我的帽子不能被煙味燻染\n阿哥啊阿哥\n你的木笛不要再響了\n我這一路不能走不安\n\n來日我做一朵嬌豔的小花\n待在阿媽鬢髮間悄悄地笑\n來日我做一隻強壯的小獸\n馱著阿爸朝東邊遠遠地走\n阿哥啊阿哥\n你把木笛再吹響吧\n來日我做一顆地上小小的石頭\n風吹我滴溜溜地轉\n回到你身體轉悠悠\n——生活在炎國西北部的阿納薩部族傳唱的一首歌謠，據說親朋離世後，整個族群便會在埋葬他們的地方唱起這支歌。\n來到羅德島後，每當有病患逝去，截雲便會來到甲板，為他們放聲歌唱。",
+      "typeIcon": "art-y",
+      "typeName1": "ART",
+      "typeName2": "Y",
+      "equipShiningColor": "red",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_4078_bdhkgt",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 50,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_002_bdhkgt_1",
+        "uniequip_002_bdhkgt_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30084",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 40000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 50000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 8,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 60000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 2
+    },
+    "uniequip_003_lumen": {
+      "uniEquipId": "uniequip_003_lumen",
+      "uniEquipName": "“幸運”",
+      "uniEquipIcon": "uniequip_003_lumen",
+      "uniEquipDesc": "審判庭來了一個阿戈爾人。\n我可以保證，往前數至少三十年......不，四十年！都沒有任何一個阿戈爾人曾以受審以外的身份踏足過審判庭，這聽起來就很荒唐。\n那是一個看不出有什麼特別之處的年輕人。個頭尚可，但身形不算挺拔。面容算得上端正，但沒什麼氣勢。不管怎麼看都不是什麼特別值得關注的人物。如果不是因為他是一個阿戈爾人，還如此堂而皇之地出現在審判庭，恐怕連我這樣的新人也不會特地多看他一眼。\n但現在整個審判庭內，四處都充斥著與這個阿戈爾人相關的流言。\n有人說他是某個邪惡罪犯的相關者，只是被暫時拘押在此。可這個年輕人——對了，他叫喬迪·方塔納羅薩——分明沒有受到任何行動上的限制。也有人認為這是卡門閣下釋放的某種信號，審判庭接下來將要重新接納甚至重用一部分島民。但喬迪·方塔納羅薩瘦弱無力，學識平平，平時只能做點文書工作，看起來也不像是得到了重用的樣子。\n因為工作場所距離很近，所以我有機會對其展開觀察。\n這個阿戈爾人每天早晨會在上班前二十分鐘準時打卡，有時候稍微遲一點，不過不會真的遲到。他偶爾有點笨手笨腳，曾經誤操作機器導致文件印刷出錯，浪費了幾十張公務用紙。如果不是我路過停下機器，誰知道他還會出什麼問題。\n我當然不是特地幫他，只是出於對工作負責的態度。儘管我這麼解釋了，但那個阿戈爾人卻還是一直笑，他明顯誤會了什麼，真是討厭的笑容！\n有一次，涉及一場重要行動，我和其他同僚集體加班到深夜。阿戈爾人提了一桶飲料過來，說是自己調配的什麼花草茶。本來我是不想喝的，但這東西在提神方面確實有效，為了工作，也顧不上其他的了。\n我們加完班時，已經差不多是凌晨，大家饑腸轆轆，肚子裡除了茶水外什麼都沒有。黑暗中，我忽然聽到有一個腳步聲由遠及近，然後就看到有人點亮了一盞小燈。是那個阿戈爾人，他竟然也還沒走，手裡還端著一個小鍋，手腕上掛著幾個明顯是裝了食物的袋子。\n“啊，大家已經結束工作了嗎？真是辛苦了。”\n這個傢伙好像很抱歉似的看著我們，“對不起，各位的工作我幫不上什麼忙，只能準備一點對胃負擔不重的食物......”\n我懶得聽他習慣性地自我貶低和自謙的那套說辭，直接動手把鍋接過來。\n裡面是一鍋香草粥，恐怕又是什麼對健康有益的配方。\n說什麼卡門閣下已將這名阿戈爾人收為弟子，這種荒謬的傳聞我是絕對不會信的。不過，如果審判庭真的決定重新接納島民，依我所見，這倒並不是一件壞事。",
+      "typeIcon": "WAH-Y",
+      "typeName1": "WAH",
+      "typeName2": "Y",
+      "equipShiningColor": "blue",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_4042_lumen",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_lumen_1",
+        "uniequip_003_lumen_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30145",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 2
+    },
+    "uniequip_003_demkni": {
+      "uniEquipId": "uniequip_003_demkni",
+      "uniEquipName": "科技新星",
+      "uniEquipIcon": "uniequip_003_demkni",
+      "uniEquipDesc": "“這篇文章的所有論證都基於海量的實驗數據得出，涉及的工程菌和工程細胞株的培養數量堪比國家級科研項目的投入......‘以生物材料替換或誘導再生、定向改造生物的部分機能，從而在一個長周期內創造出具有超遠緣性狀的新物種’的設想，雖然還存在諸多技術難題，但無疑是一個值得展望的方向。”\n......\n“除了本身的學術價值，我們能從文章中看到一個科研者難能可貴的品質：敏銳的眼光，客觀、嚴謹、審慎的態度，以及貫穿始終的對科學倫理本身的思考，作者甚至在最後，花了整整一個章節來論證如果生物工程技術照自己所想的那般發展，可能會對泰拉現有生命科學、生物學、病理學、臨床醫學造成的衝擊，以及必要的管控手段，比如拉緊程式的韁繩。”\n“‘科學的前瞻性意味著未知和破壞。科學將拓寬我們的視野、延展我們的腳步、豐富我們的形態，但它不應該成為讓一切都崩壞的力量。’我很難想像，在一個如此年輕的學生身上，能看到如此突出的科研人的自省精神，這彌足珍貴，令人欣喜。”\n“我甚至能想像到一個戴著眼鏡、眼神憂戚的，瘦弱的年輕人的模樣。或許明天的研討會上，我們可以見見這個名叫塞雷婭的年輕人。”\n“期待她在領域內繼續深耕，實驗室無疑是最適合她成長的土壤，她會成為非常優秀的科學家。”\n......\n“說起來，你們覺得這篇論文怎麼樣？和塞雷婭的像是兩個極端。”\n“哪有人以‘本文的所有觀點，來源於對我們所身處的一切的懷疑’來作為論文的開頭的？”\n......\n\n——摘自某屆梅蘭德基金會學術研討會公開評審階段的發言記錄",
+      "typeIcon": "gua-y",
+      "typeName1": "GUA",
+      "typeName2": "Y",
+      "equipShiningColor": "yellow",
+      "showEvolvePhase": 2,
+      "unlockEvolvePhase": 2,
+      "charId": "char_202_demkni",
+      "tmplId": null,
+      "showLevel": 1,
+      "unlockLevel": 60,
+      "unlockFavorPoint": 10070,
+      "missionList": [
+        "uniequip_003_demkni_1",
+        "uniequip_003_demkni_2"
+      ],
+      "itemCost": {
+        "1": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30135",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 80000,
+            "type": "GOLD"
+          }
+        ],
+        "2": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_1",
+            "count": 60,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30115",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100000,
+            "type": "GOLD"
+          }
+        ],
+        "3": [
+          {
+            "id": "mod_unlock_token",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "mod_update_token_2",
+            "count": 20,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30125",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 120000,
+            "type": "GOLD"
+          }
+        ]
+      },
+      "type": "ADVANCED",
+      "uniEquipGetTime": 1700551800,
+      "charEquipOrder": 2
     }
   },
   "missionList": {
@@ -20766,6 +21921,311 @@
       "uniEquipMissionSort": 2,
       "uniEquipId": "uniequip_003_mizuki",
       "jumpStageId": "main_04-05"
+    },
+    "uniequip_002_amgoat_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "由非助戰艾雅法拉累計造成100000點傷害",
+      "paramList": [
+        "char_180_amgoat",
+        "100000"
+      ],
+      "uniEquipMissionId": "uniequip_002_amgoat_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_amgoat",
+      "jumpStageId": null
+    },
+    "uniequip_002_amgoat_2": {
+      "template": "EquipmentSquadNum",
+      "desc": "3星通關別傳OF-5；必須編入非助戰艾雅法拉並上場，其他成員僅可編入3名幹員",
+      "paramList": [
+        "3",
+        "a003_05",
+        "char_180_amgoat",
+        "3"
+      ],
+      "uniEquipMissionId": "uniequip_002_amgoat_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_amgoat",
+      "jumpStageId": "a003_05"
+    },
+    "uniequip_002_cerber_1": {
+      "template": "EquipmentEventTotal",
+      "desc": "由非助戰刻俄柏累計殲滅10個精英或領袖敵人",
+      "paramList": [
+        "char_2013_cerber",
+        "DEATHDETAIL,char_2013_cerber,BOSS,ELITE",
+        "10"
+      ],
+      "uniEquipMissionId": "uniequip_002_cerber_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_cerber",
+      "jumpStageId": null
+    },
+    "uniequip_002_cerber_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關別傳RI-6；必須編入非助戰刻俄柏並上場，且使用刻俄柏殲滅至少2個提亞卡烏破壞者",
+      "paramList": [
+        "3",
+        "act12d0_06",
+        "char_2013_cerber",
+        "DEATHDETAIL,char_2013_cerber,enemy_1097_cclmbjk",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_cerber_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_cerber",
+      "jumpStageId": "act12d0_06"
+    },
+    "uniequip_002_absin_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰苦艾並上場，且每次戰鬥至少釋放1次終結連射",
+      "paramList": [
+        "5",
+        "skchr_absin_2",
+        "1",
+        "char_405_absin"
+      ],
+      "uniEquipMissionId": "uniequip_002_absin_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_absin",
+      "jumpStageId": null
+    },
+    "uniequip_002_absin_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲3-4；必須編入非助戰苦艾並上場，且不編入其他術師幹員",
+      "paramList": [
+        "3",
+        "main_03-04",
+        "char_405_absin",
+        "CASTER"
+      ],
+      "uniEquipMissionId": "uniequip_002_absin_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_absin",
+      "jumpStageId": "main_03-04"
+    },
+    "uniequip_002_nights_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "由非助戰夜煙累計造成80000點傷害",
+      "paramList": [
+        "char_141_nights",
+        "80000"
+      ],
+      "uniEquipMissionId": "uniequip_002_nights_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_nights",
+      "jumpStageId": null
+    },
+    "uniequip_002_nights_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲S2-4；必須編入非助戰夜煙並上場，且使用夜煙殲滅至少2名重裝防禦者",
+      "paramList": [
+        "3",
+        "sub_02-04",
+        "char_141_nights",
+        "DEATHDETAIL,char_141_nights,enemy_1006_shield",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_nights_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_nights",
+      "jumpStageId": "sub_02-04"
+    },
+    "uniequip_002_qanik_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰雪絨累計使用墜雪10次",
+      "paramList": [
+        "char_466_qanik",
+        "skchr_qanik_2",
+        "10",
+        "char_466_qanik"
+      ],
+      "uniEquipMissionId": "uniequip_002_qanik_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_qanik",
+      "jumpStageId": null
+    },
+    "uniequip_002_qanik_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲2-3；必須編入非助戰雪絨並上場，且使用雪絨殲滅至少2名重裝防禦者",
+      "paramList": [
+        "3",
+        "main_02-03",
+        "char_466_qanik",
+        "DEATHDETAIL,char_466_qanik,enemy_1006_shield",
+        "2"
+      ],
+      "uniEquipMissionId": "uniequip_002_qanik_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_qanik",
+      "jumpStageId": "main_02-03"
+    },
+    "uniequip_002_nightm_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰夜魔累計使用夜魘魔影12次",
+      "paramList": [
+        "char_164_nightm",
+        "skchr_nightm_2",
+        "12",
+        "char_164_nightm"
+      ],
+      "uniEquipMissionId": "uniequip_002_nightm_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_nightm",
+      "jumpStageId": null
+    },
+    "uniequip_002_nightm_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲S4-1；必須編入非助戰夜魔並上場，且不編入其他術師幹員",
+      "paramList": [
+        "3",
+        "sub_04-1-1",
+        "char_164_nightm",
+        "CASTER"
+      ],
+      "uniEquipMissionId": "uniequip_002_nightm_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_nightm",
+      "jumpStageId": "sub_04-1-1"
+    },
+    "uniequip_002_tomimi_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰特米米並上場，且每次戰鬥至少釋放1次嘉維爾保護方案",
+      "paramList": [
+        "5",
+        "skchr_tomimi_2",
+        "1",
+        "char_411_tomimi"
+      ],
+      "uniEquipMissionId": "uniequip_002_tomimi_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_tomimi",
+      "jumpStageId": null
+    },
+    "uniequip_002_tomimi_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關別傳RI-2；必須編入非助戰特米米並上場，且不編入其他術師幹員",
+      "paramList": [
+        "3",
+        "act12d0_02",
+        "char_411_tomimi",
+        "CASTER"
+      ],
+      "uniEquipMissionId": "uniequip_002_tomimi_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_tomimi",
+      "jumpStageId": "act12d0_02"
+    },
+    "uniequip_002_amiya_1": {
+      "template": "EquipmentEventTotal",
+      "desc": "由非助戰阿米婭累計殲滅10個精英或領袖敵人",
+      "paramList": [
+        "char_002_amiya",
+        "DEATHDETAIL,char_002_amiya,BOSS,ELITE",
+        "10"
+      ],
+      "uniEquipMissionId": "uniequip_002_amiya_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_amiya",
+      "jumpStageId": null
+    },
+    "uniequip_002_amiya_2": {
+      "template": "EquipmentEventStageMore",
+      "desc": "3星通關主題曲3-8；必須編入非助戰中堅術師狀態的阿米婭並上場，且使用中堅術師狀態的阿米婭殲滅碎骨",
+      "paramList": [
+        "3",
+        "main_03-08",
+        "char_002_amiya",
+        "DEATHDETAIL,char_002_amiya,enemy_1500_skulsr",
+        "1"
+      ],
+      "uniEquipMissionId": "uniequip_002_amiya_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_amiya",
+      "jumpStageId": "main_03-08"
+    },
+    "uniequip_003_lumen_1": {
+      "template": "EquipmentSkillCast",
+      "desc": "戰鬥中非助戰流明累計使用沛霖10次",
+      "paramList": [
+        "char_4042_lumen",
+        "skchr_lumen_2",
+        "10",
+        "char_4042_lumen"
+      ],
+      "uniEquipMissionId": "uniequip_003_lumen_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_lumen",
+      "jumpStageId": null
+    },
+    "uniequip_003_lumen_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關別傳OF-5；必須編入非助戰流明並上場，且不編入其他醫療幹員",
+      "paramList": [
+        "3",
+        "a003_05",
+        "char_4042_lumen",
+        "MEDIC"
+      ],
+      "uniEquipMissionId": "uniequip_003_lumen_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_lumen",
+      "jumpStageId": "a003_05"
+    },
+    "uniequip_003_demkni_1": {
+      "template": "EquipmentSkillCastBattle",
+      "desc": "完成5次戰鬥；必須編入非助戰塞雷婭並上場，且每次戰鬥至少釋放3次藥物配置",
+      "paramList": [
+        "5",
+        "skchr_demkni_2",
+        "3",
+        "char_202_demkni"
+      ],
+      "uniEquipMissionId": "uniequip_003_demkni_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_003_demkni",
+      "jumpStageId": null
+    },
+    "uniequip_003_demkni_2": {
+      "template": "EquipmentSquadProEx",
+      "desc": "3星通關主題曲4-6；必須編入非助戰塞雷婭並上場，且不編入其他醫療幹員",
+      "paramList": [
+        "3",
+        "main_04-06",
+        "char_202_demkni",
+        "MEDIC"
+      ],
+      "uniEquipMissionId": "uniequip_003_demkni_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_003_demkni",
+      "jumpStageId": "main_04-06"
+    },
+    "uniequip_002_bdhkgt_1": {
+      "template": "EquipmentDamageTotal",
+      "desc": "由非助戰截雲累計造成100000點傷害",
+      "paramList": [
+        "char_4078_bdhkgt",
+        "100000"
+      ],
+      "uniEquipMissionId": "uniequip_002_bdhkgt_1",
+      "uniEquipMissionSort": 1,
+      "uniEquipId": "uniequip_002_bdhkgt",
+      "jumpStageId": null
+    },
+    "uniequip_002_bdhkgt_2": {
+      "template": "EquipmentCharKilledStage",
+      "desc": "3星通關主題曲S2-2；必須編入非助戰截雲並上場，且使用截雲至少殲滅10名敵人",
+      "paramList": [
+        "3",
+        "sub_02-02",
+        "char_4078_bdhkgt",
+        "10",
+        "char_4078_bdhkgt"
+      ],
+      "uniEquipMissionId": "uniequip_002_bdhkgt_2",
+      "uniEquipMissionSort": 2,
+      "uniEquipId": "uniequip_002_bdhkgt",
+      "jumpStageId": "sub_02-02"
     }
   },
   "subProfDict": {
@@ -21355,7 +22815,8 @@
     ],
     "char_4042_lumen": [
       "uniequip_001_lumen",
-      "uniequip_002_lumen"
+      "uniequip_002_lumen",
+      "uniequip_003_lumen"
     ],
     "char_348_ceylon": [
       "uniequip_001_ceylon",
@@ -21397,7 +22858,8 @@
     ],
     "char_202_demkni": [
       "uniequip_001_demkni",
-      "uniequip_002_demkni"
+      "uniequip_002_demkni",
+      "uniequip_003_demkni"
     ],
     "char_423_blemsh": [
       "uniequip_001_blemsh",
@@ -21649,6 +23111,42 @@
     "char_297_hamoni": [
       "uniequip_001_hamoni",
       "uniequip_002_hamoni"
+    ],
+    "char_180_amgoat": [
+      "uniequip_001_amgoat",
+      "uniequip_002_amgoat"
+    ],
+    "char_2013_cerber": [
+      "uniequip_001_cerber",
+      "uniequip_002_cerber"
+    ],
+    "char_405_absin": [
+      "uniequip_001_absin",
+      "uniequip_002_absin"
+    ],
+    "char_141_nights": [
+      "uniequip_001_nights",
+      "uniequip_002_nights"
+    ],
+    "char_466_qanik": [
+      "uniequip_001_qanik",
+      "uniequip_002_qanik"
+    ],
+    "char_164_nightm": [
+      "uniequip_001_nightm",
+      "uniequip_002_nightm"
+    ],
+    "char_411_tomimi": [
+      "uniequip_001_tomimi",
+      "uniequip_002_tomimi"
+    ],
+    "char_002_amiya": [
+      "uniequip_001_amiya",
+      "uniequip_002_amiya"
+    ],
+    "char_4078_bdhkgt": [
+      "uniequip_001_bdhkgt",
+      "uniequip_002_bdhkgt"
     ]
   },
   "equipTrackDict": [
@@ -22905,6 +24403,91 @@
         {
           "charId": "char_437_mizuki",
           "equipId": "uniequip_003_mizuki"
+        }
+      ]
+    },
+    {
+      "timeStamp": 1700551800,
+      "trackList": [
+        {
+          "charId": "char_180_amgoat",
+          "equipId": "uniequip_001_amgoat"
+        },
+        {
+          "charId": "char_180_amgoat",
+          "equipId": "uniequip_002_amgoat"
+        },
+        {
+          "charId": "char_2013_cerber",
+          "equipId": "uniequip_001_cerber"
+        },
+        {
+          "charId": "char_2013_cerber",
+          "equipId": "uniequip_002_cerber"
+        },
+        {
+          "charId": "char_405_absin",
+          "equipId": "uniequip_001_absin"
+        },
+        {
+          "charId": "char_405_absin",
+          "equipId": "uniequip_002_absin"
+        },
+        {
+          "charId": "char_141_nights",
+          "equipId": "uniequip_001_nights"
+        },
+        {
+          "charId": "char_141_nights",
+          "equipId": "uniequip_002_nights"
+        },
+        {
+          "charId": "char_466_qanik",
+          "equipId": "uniequip_001_qanik"
+        },
+        {
+          "charId": "char_466_qanik",
+          "equipId": "uniequip_002_qanik"
+        },
+        {
+          "charId": "char_164_nightm",
+          "equipId": "uniequip_001_nightm"
+        },
+        {
+          "charId": "char_164_nightm",
+          "equipId": "uniequip_002_nightm"
+        },
+        {
+          "charId": "char_411_tomimi",
+          "equipId": "uniequip_001_tomimi"
+        },
+        {
+          "charId": "char_411_tomimi",
+          "equipId": "uniequip_002_tomimi"
+        },
+        {
+          "charId": "char_002_amiya",
+          "equipId": "uniequip_001_amiya"
+        },
+        {
+          "charId": "char_002_amiya",
+          "equipId": "uniequip_002_amiya"
+        },
+        {
+          "charId": "char_4078_bdhkgt",
+          "equipId": "uniequip_001_bdhkgt"
+        },
+        {
+          "charId": "char_4078_bdhkgt",
+          "equipId": "uniequip_002_bdhkgt"
+        },
+        {
+          "charId": "char_4042_lumen",
+          "equipId": "uniequip_003_lumen"
+        },
+        {
+          "charId": "char_202_demkni",
+          "equipId": "uniequip_003_demkni"
         }
       ]
     }

@@ -572,6 +572,32 @@
       "lockedText": null,
       "canPreview": false
     },
+    "act23side_zone1": {
+      "zoneID": "act23side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "城中調查",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act23side_zone2": {
+      "zoneID": "act23side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "關外追凶",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "act15sre_zone1": {
       "zoneID": "act15sre_zone1",
       "zoneIndex": 0,
@@ -2571,6 +2597,14 @@
     }
   },
   "zoneValidInfo": {
+    "act23side_zone1": {
+      "startTs": 1700551800,
+      "endTs": 1701719999
+    },
+    "act23side_zone2": {
+      "startTs": 1701158400,
+      "endTs": 1701719999
+    },
     "act15sre_zone1": {
       "startTs": 1698910200,
       "endTs": 1699732799

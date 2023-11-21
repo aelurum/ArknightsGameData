@@ -1,5 +1,58 @@
 {
   "basicInfo": {
+    "act33sign": {
+      "id": "act33sign",
+      "type": "CHECKIN_ONLY",
+      "name": "限時累計簽到",
+      "startTime": 1700551800,
+      "endTime": 1702324799,
+      "rewardEndTime": 1702324799,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
+    "act5pray": {
+      "id": "act5pray",
+      "type": "PRAY_ONLY",
+      "name": "龍門幸運牆登入活動",
+      "startTime": 1700551800,
+      "endTime": 1701719999,
+      "rewardEndTime": 1701719999,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
+    "act13login": {
+      "id": "act13login",
+      "type": "LOGIN_ONLY",
+      "name": "登入領取獎勵",
+      "startTime": 1700551800,
+      "endTime": 1701719999,
+      "rewardEndTime": 1701719999,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "isReplicate": false
+    },
+    "act23side": {
+      "id": "act23side",
+      "type": "TYPE_ACT9D0",
+      "displayType": "SIDESTORY",
+      "name": "登臨意",
+      "startTime": 1700551800,
+      "endTime": 1701719999,
+      "rewardEndTime": 1702324799,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act23side",
+      "medalGroupId": "medalGroupActivity23side",
+      "isReplicate": false
+    },
     "act15sre": {
       "id": "act15sre",
       "type": "TYPE_ACT9D0",
@@ -1570,6 +1623,27 @@
     }
   },
   "homeActConfig": {
+    "act33sign": {
+      "actId": "act33sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "B32534",
+      "actTopBarText": "羅德島福運簽到活動"
+    },
+    "act5pray": {
+      "actId": "act5pray",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "df462d",
+      "actTopBarText": "幸運牆登入活動"
+    },
+    "act13login": {
+      "actId": "act13login",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "ff6c00",
+      "actTopBarText": "萬象伶仃登入活動"
+    },
     "act1float": {
       "actId": "act1float",
       "isPopupAfterCheckin": false,
@@ -1978,6 +2052,8 @@
     }
   },
   "zoneToActivity": {
+    "act23side_zone1": "act23side",
+    "act23side_zone2": "act23side",
     "act15sre_zone1": "act15sre",
     "act15sre_zone2": "act15sre",
     "act22side_zone1": "act22side",
@@ -2087,6 +2163,846 @@
     "A001_zone2": "1stact"
   },
   "missionData": [
+    {
+      "id": "23sideActivity_1",
+      "sortId": 1,
+      "description": "通關WB-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_drum_01",
+          "count": 1
+        },
+        {
+          "type": "NONE",
+          "id": "“鼓聲爭鳴”",
+          "count": 0
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_2",
+      "sortId": 2,
+      "description": "通關WB-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_floorLamp_01",
+          "count": 1
+        },
+        {
+          "type": "NONE",
+          "id": "“終覺淺”",
+          "count": 0
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_3",
+      "sortId": 3,
+      "description": "通關WB-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_chair_01",
+          "count": 1
+        },
+        {
+          "type": "NONE",
+          "id": "“冥心坐忘”",
+          "count": 0
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_4",
+      "sortId": 4,
+      "description": "通關WB-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 70
+        },
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_wallpaper_01",
+          "count": 1
+        },
+        {
+          "type": "NONE",
+          "id": "“且去也”",
+          "count": 0
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_5",
+      "sortId": 5,
+      "description": "通關WB-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 70
+        },
+        {
+          "type": "CHAR",
+          "id": "char_4078_bdhkgt",
+          "count": 1
+        },
+        {
+          "type": "NONE",
+          "id": "截雲",
+          "count": 0
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_6",
+      "sortId": 6,
+      "description": "以3星評價完成WB-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_05",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_7",
+      "sortId": 7,
+      "description": "通關WB-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_floor_01",
+          "count": 1
+        },
+        {
+          "type": "NONE",
+          "id": "“念歸人”",
+          "count": 0
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_8",
+      "sortId": 8,
+      "description": "以3星評價完成WB-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_06",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_plantShelf_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_9",
+      "sortId": 9,
+      "description": "通關WB-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_10",
+      "sortId": 10,
+      "description": "以3星評價完成WB-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_07",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_pillar_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_11",
+      "sortId": 11,
+      "description": "通關WB-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_12",
+      "sortId": 12,
+      "description": "以3星評價完成WB-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_08",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_martialClub_washtub_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_13",
+      "sortId": 13,
+      "description": "通關WB-9",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_09",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_14",
+      "sortId": 14,
+      "description": "以3星評價完成WB-9",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_09",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_15",
+      "sortId": 15,
+      "description": "通關WB-EX-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_16",
+      "sortId": 16,
+      "description": "通關WB-EX-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_17",
+      "sortId": 17,
+      "description": "通關WB-EX-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_18",
+      "sortId": 18,
+      "description": "通關WB-EX-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_19",
+      "sortId": 19,
+      "description": "通關WB-EX-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_20",
+      "sortId": 20,
+      "description": "通關WB-EX-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_21",
+      "sortId": 21,
+      "description": "通關WB-EX-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_22",
+      "sortId": 22,
+      "description": "通關WB-EX-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_23",
+      "sortId": 23,
+      "description": "通關WB-EX-8突襲模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_ex08#f#",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_dropS025_cnKnot_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_24",
+      "sortId": 24,
+      "description": "通關活動關卡15次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_01^act23side_02^act23side_03^act23side_04^act23side_05^act23side_06^act23side_07^act23side_08^act23side_09^act23side_ex01^act23side_ex01#f#^act23side_ex02^act23side_ex02#f#^act23side_ex03^act23side_ex03#f#^act23side_ex04^act23side_ex04#f#^act23side_ex05^act23side_ex05#f#^act23side_ex06^act23side_ex06#f#^act23side_ex07^act23side_ex07#f#^act23side_ex08^act23side_ex08#f#",
+        "15"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_25",
+      "sortId": 25,
+      "description": "通關活動關卡45次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_01^act23side_02^act23side_03^act23side_04^act23side_05^act23side_06^act23side_07^act23side_08^act23side_09^act23side_ex01^act23side_ex01#f#^act23side_ex02^act23side_ex02#f#^act23side_ex03^act23side_ex03#f#^act23side_ex04^act23side_ex04#f#^act23side_ex05^act23side_ex05#f#^act23side_ex06^act23side_ex06#f#^act23side_ex07^act23side_ex07#f#^act23side_ex08^act23side_ex08#f#",
+        "45"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "23sideActivity_26",
+      "sortId": 26,
+      "description": "通關活動關卡85次,不含教學關",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act23side_01^act23side_02^act23side_03^act23side_04^act23side_05^act23side_06^act23side_07^act23side_08^act23side_09^act23side_ex01^act23side_ex01#f#^act23side_ex02^act23side_ex02#f#^act23side_ex03^act23side_ex03#f#^act23side_ex04^act23side_ex04#f#^act23side_ex05^act23side_ex05#f#^act23side_ex06^act23side_ex06#f#^act23side_ex07^act23side_ex07#f#^act23side_ex08^act23side_ex08#f#",
+        "85"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act23side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act23side_token_spirit",
+          "count": 120
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
     {
       "id": "15sreActivity_1",
       "sortId": 1,
@@ -39342,6 +40258,44 @@
   ],
   "missionGroup": [
     {
+      "id": "act23side",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": [],
+      "missionIds": [
+        "23sideActivity_1",
+        "23sideActivity_2",
+        "23sideActivity_3",
+        "23sideActivity_4",
+        "23sideActivity_5",
+        "23sideActivity_6",
+        "23sideActivity_7",
+        "23sideActivity_8",
+        "23sideActivity_9",
+        "23sideActivity_10",
+        "23sideActivity_11",
+        "23sideActivity_12",
+        "23sideActivity_13",
+        "23sideActivity_14",
+        "23sideActivity_15",
+        "23sideActivity_16",
+        "23sideActivity_17",
+        "23sideActivity_18",
+        "23sideActivity_19",
+        "23sideActivity_20",
+        "23sideActivity_21",
+        "23sideActivity_22",
+        "23sideActivity_23",
+        "23sideActivity_24",
+        "23sideActivity_25",
+        "23sideActivity_26"
+      ],
+      "startTs": 1700551800,
+      "endTs": 1702324799
+    },
+    {
       "id": "act15sre",
       "title": null,
       "type": "ACTIVITY",
@@ -41112,6 +42066,356 @@
       }
     },
     "CHECKIN_ONLY": {
+      "act33sign": {
+        "checkInList": {
+          "0": {
+            "itemList": [
+              {
+                "id": "furni_SF2023_vase_01",
+                "count": 1,
+                "type": "FURN"
+              },
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              }
+            ],
+            "order": 1,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 1,
+            "isDynItem": false
+          },
+          "1": {
+            "itemList": [
+              {
+                "id": "31063",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 2,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "2": {
+            "itemList": [
+              {
+                "id": "mod_update_token_1",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "7001",
+                "count": 5,
+                "type": "TKT_RECRUIT"
+              }
+            ],
+            "order": 3,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "3": {
+            "itemList": [
+              {
+                "id": "3303",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              }
+            ],
+            "order": 4,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "4": {
+            "itemList": [
+              {
+                "id": "31053",
+                "count": 3,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2002",
+                "count": 25,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 5,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "5": {
+            "itemList": [
+              {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3302",
+                "count": 20,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 6,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "6": {
+            "itemList": [
+              {
+                "id": "mod_update_token_1",
+                "count": 10,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "7002",
+                "count": 5,
+                "type": "TKT_INST_FIN"
+              }
+            ],
+            "order": 7,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "7": {
+            "itemList": [
+              {
+                "id": "31064",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3401",
+                "count": 200,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 8,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "8": {
+            "itemList": [
+              {
+                "id": "furni_SF2023_weaponRack_01",
+                "count": 1,
+                "type": "FURN"
+              },
+              {
+                "id": "7001",
+                "count": 5,
+                "type": "TKT_RECRUIT"
+              }
+            ],
+            "order": 9,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 2,
+            "isDynItem": false
+          },
+          "9": {
+            "itemList": [
+              {
+                "id": "mod_update_token_2",
+                "count": 5,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3003",
+                "count": 20,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 10,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "10": {
+            "itemList": [
+              {
+                "id": "31054",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 11,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "11": {
+            "itemList": [
+              {
+                "id": "2004",
+                "count": 15,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              }
+            ],
+            "order": 12,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "12": {
+            "itemList": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3401",
+                "count": 200,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 13,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "13": {
+            "itemList": [
+              {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "7002",
+                "count": 5,
+                "type": "TKT_INST_FIN"
+              }
+            ],
+            "order": 14,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "14": {
+            "itemList": [
+              {
+                "id": "3303",
+                "count": 8,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 15,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          }
+        },
+        "apSupplyOutOfDateDict": {
+          "ap_supply_lt_120": 1702843199
+        },
+        "extraCheckinList": [
+          {
+            "order": 1,
+            "blessing": "吉人天相",
+            "absolutData": 1700551800,
+            "adTip": "第一日可領取",
+            "relativeData": 1,
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 800,
+                "type": "DIAMOND_SHD"
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "blessing": "福星高照",
+            "absolutData": 1700856000,
+            "adTip": "第五日可領取",
+            "relativeData": 5,
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 580,
+                "type": "DIAMOND_SHD"
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "blessing": "道同志合",
+            "absolutData": 1701028800,
+            "adTip": "第七日可領取",
+            "relativeData": 7,
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "blessing": "和氣致祥",
+            "absolutData": 1701720000,
+            "adTip": "第十五日可領取",
+            "relativeData": 15,
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 660,
+                "type": "DIAMOND_SHD"
+              }
+            ]
+          }
+        ]
+      },
       "act31sign": {
         "checkInList": {
           "0": {
@@ -59036,6 +60340,28 @@
       }
     },
     "TYPE_ACT9D0": {
+      "act23side": {
+        "tokenItemId": "act23side_token_spirit",
+        "zoneDescList": {
+          "act23side_zone1": {
+            "zoneId": "act23side_zone1",
+            "unlockText": "尚未解鎖",
+            "displayStartTime": 1700551800
+          },
+          "act23side_zone2": {
+            "zoneId": "act23side_zone2",
+            "unlockText": "完成「城中調查」後解鎖",
+            "displayStartTime": 1700551800
+          }
+        },
+        "favorUpList": {},
+        "subMissionInfo": null,
+        "hasSubMission": false,
+        "apSupplyOutOfDateDict": {},
+        "newsInfoList": null,
+        "newsServerInfoList": null,
+        "miscHub": {}
+      },
       "act15sre": {
         "tokenItemId": "act15side_token_tea_rep_1",
         "zoneDescList": {
@@ -79337,6 +80663,17 @@
       }
     },
     "LOGIN_ONLY": {
+      "act13login": {
+        "description": "<color value=#898989>該物品過期時間</color>\n<color value=#ff6c00>2023/12/05 03:59</color>",
+        "itemList": [
+          {
+            "id": "LIMITED_TKT_GACHA_10_3501",
+            "count": 1,
+            "type": "LIMITED_TKT_GACHA_10"
+          }
+        ],
+        "apSupplyOutOfDateDict": {}
+      },
       "act12login": {
         "description": "<color value=#898989>該物品過期時間</color>\n<color value=#9baaff>2023/09/26 03:59</color>",
         "itemList": [
@@ -86661,6 +87998,9 @@
     "SANDBOX": {}
   },
   "activityItems": {
+    "act23side": [
+      "act23side_token_spirit"
+    ],
     "act15sre": [
       "act15side_token_tea_rep_1"
     ],
@@ -86894,6 +88234,10 @@
       1623304800,
       1624219199
     ],
+    "act23side": [
+      1700551800,
+      1701719999
+    ],
     "act15sre": [
       1698910200,
       1699732799
@@ -87035,6 +88379,11 @@
     ]
   },
   "dynActs": {
+    "act5pray": {
+      "slotCount": 12,
+      "rule1": "用盡當日次數選取的所有幸運籤中，合成玉數量最多的1張幸運籤為當日最終獎勵。",
+      "rule2": "當日幸運籤合成玉獎勵不足400時，次日可選擇3張幸運籤。"
+    },
     "act4pray": {
       "slotCount": 12,
       "rule1": "用盡當日次數選取的所有心動券中，合成玉數量最多的1張心動券為當日最終獎勵。",
@@ -89423,6 +90772,25 @@
         }
       ],
       "startTs": 1699948800
+    },
+    {
+      "id": "dis_side_23",
+      "type": "ACTIVITY",
+      "funcId": "act23side",
+      "endTs": 1701719999,
+      "sortId": 41,
+      "itemId": "act23side_token_spirit",
+      "timeNodes": [
+        {
+          "title": "<登臨意>活動已開放",
+          "ts": 1700551800
+        },
+        {
+          "title": "\"關外追凶\"內關卡已開放",
+          "ts": 1701158400
+        }
+      ],
+      "startTs": 1700551800
     }
   ],
   "actFunData": {

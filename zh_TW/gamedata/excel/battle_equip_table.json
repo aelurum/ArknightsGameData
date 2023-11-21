@@ -43311,5 +43311,2995 @@
         "tokenAttributeBlackboard": {}
       }
     ]
+  },
+  "uniequip_002_amgoat": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "amgoat_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 130.0
+          },
+          {
+            "key": "atk",
+            "value": 40.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "amgoat_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": "amgoat_equip_1_2_p2",
+            "target": "TALENT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攜帶時，所有友方【術師】職業幹員的攻擊力+18%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "炎息",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.18
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攜帶時，所有友方【術師】職業幹員的攻擊力+20%<@ba.talpu>（+2%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 5,
+                  "prefabKey": "1",
+                  "name": "炎息",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.2
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 160.0
+          },
+          {
+            "key": "atk",
+            "value": 55.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "amgoat_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": "amgoat_equip_1_3_p2",
+            "target": "TALENT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攜帶時，所有友方【術師】職業幹員的攻擊力+22%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "炎息",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.22
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攜帶時，所有友方【術師】職業幹員的攻擊力+24%<@ba.talpu>（+2%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 5,
+                  "prefabKey": "1",
+                  "name": "炎息",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.24
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 180.0
+          },
+          {
+            "key": "atk",
+            "value": 65.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_cerber": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "cerber_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 130.0
+          },
+          {
+            "key": "atk",
+            "value": 40.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "cerber_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": "cerber_equip_1_2_p2",
+            "target": "TALENT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊時對目標額外造成相當於其防禦力45%的法術傷害，連續攻擊同一目標時該比例逐次提升，最多提升至70%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "剝殼",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "basic_atk_scale",
+                      "value": 0.45
+                    },
+                    {
+                      "key": "atk_scale",
+                      "value": 0.45
+                    },
+                    {
+                      "key": "max_atk_scale",
+                      "value": 0.7
+                    },
+                    {
+                      "key": "delta_atk_scale",
+                      "value": 0.05
+                    },
+                    {
+                      "key": "target_uid",
+                      "value": 0.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊時對目標額外造成相當於其防禦力49%<@ba.talpu>（+4%）</>的法術傷害，連續攻擊同一目標時該比例逐次提升，最多提升至74%<@ba.talpu>（+4%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "剝殼",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "basic_atk_scale",
+                      "value": 0.49
+                    },
+                    {
+                      "key": "atk_scale",
+                      "value": 0.49
+                    },
+                    {
+                      "key": "max_atk_scale",
+                      "value": 0.74
+                    },
+                    {
+                      "key": "delta_atk_scale",
+                      "value": 0.05
+                    },
+                    {
+                      "key": "target_uid",
+                      "value": 0.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 160.0
+          },
+          {
+            "key": "atk",
+            "value": 55.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "cerber_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": "cerber_equip_1_3_p2",
+            "target": "TALENT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊時對目標額外造成相當於其防禦力50%的法術傷害，連續攻擊同一目標時該比例逐次提升，最多提升至75%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "剝殼",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "basic_atk_scale",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "atk_scale",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "max_atk_scale",
+                      "value": 0.75
+                    },
+                    {
+                      "key": "delta_atk_scale",
+                      "value": 0.05
+                    },
+                    {
+                      "key": "target_uid",
+                      "value": 0.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊時對目標額外造成相當於其防禦力54%<@ba.talpu>（+4%）</>的法術傷害，連續攻擊同一目標時該比例逐次提升，最多提升至79%<@ba.talpu>（+4%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "剝殼",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "basic_atk_scale",
+                      "value": 0.54
+                    },
+                    {
+                      "key": "atk_scale",
+                      "value": 0.54
+                    },
+                    {
+                      "key": "max_atk_scale",
+                      "value": 0.79
+                    },
+                    {
+                      "key": "delta_atk_scale",
+                      "value": 0.05
+                    },
+                    {
+                      "key": "target_uid",
+                      "value": 0.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 180.0
+          },
+          {
+            "key": "atk",
+            "value": 65.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_absin": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "absin_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 100.0
+          },
+          {
+            "key": "atk",
+            "value": 30.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "absin_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊生命值低於50%的敵人傷害提高29%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "執法者",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "hp_ratio",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "damage_scale",
+                      "value": 1.29
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊生命值低於50%的敵人傷害提高35%<@ba.talpu>（+6%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "執法者",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "hp_ratio",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "damage_scale",
+                      "value": 1.35
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 130.0
+          },
+          {
+            "key": "atk",
+            "value": 40.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "absin_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊生命值低於50%的敵人傷害提高32%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "執法者",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "hp_ratio",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "damage_scale",
+                      "value": 1.32
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊生命值低於50%的敵人傷害提高38%<@ba.talpu>（+6%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "執法者",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "hp_ratio",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "damage_scale",
+                      "value": 1.38
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 150.0
+          },
+          {
+            "key": "atk",
+            "value": 50.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_nights": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "nights_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 40
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 20.0
+          },
+          {
+            "key": "def",
+            "value": 15.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "nights_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 40
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊使目標法術抗性-24%，持續1秒",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 40
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "黑色迷霧",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "duration",
+                      "value": 1.0
+                    },
+                    {
+                      "key": "magic_resistance",
+                      "value": -0.24
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊使目標法術抗性-27%<@ba.talpu>（+3%）</>，持續1秒",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 40
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "黑色迷霧",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "duration",
+                      "value": 1.0
+                    },
+                    {
+                      "key": "magic_resistance",
+                      "value": -0.27
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 30.0
+          },
+          {
+            "key": "def",
+            "value": 20.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "nights_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "無視目標<@ba.kw>{magic_resist_penetrate_fixed}</>點法術抗性",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 40
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "magic_resist_penetrate_fixed",
+                      "value": 10.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊使目標法術抗性-27%，持續1秒",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 40
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "黑色迷霧",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "duration",
+                      "value": 1.0
+                    },
+                    {
+                      "key": "magic_resistance",
+                      "value": -0.27
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊使目標法術抗性-30%<@ba.talpu>（+3%）</>，持續1秒",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 40
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "黑色迷霧",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "duration",
+                      "value": 1.0
+                    },
+                    {
+                      "key": "magic_resistance",
+                      "value": -0.3
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 40.0
+          },
+          {
+            "key": "def",
+            "value": 25.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_qanik": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "qanik_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 100.0
+          },
+          {
+            "key": "atk",
+            "value": 30.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "qanik_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的所有空中單位獲得25%的<$ba.magicfragile>【法術脆弱】</>效果",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "冰原生存",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "damage_scale",
+                      "value": 1.25
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的所有空中單位獲得27%<@ba.talpu>（+2%）</>的<$ba.magicfragile>【法術脆弱】</>效果",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "冰原生存",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "damage_scale",
+                      "value": 1.27
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 130.0
+          },
+          {
+            "key": "atk",
+            "value": 40.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "qanik_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的所有空中單位獲得28%的<$ba.magicfragile>【法術脆弱】</>效果",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "冰原生存",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "damage_scale",
+                      "value": 1.28
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的所有空中單位獲得30%<@ba.talpu>（+2%）</>的<$ba.magicfragile>【法術脆弱】</>效果",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "冰原生存",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "damage_scale",
+                      "value": 1.3
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 150.0
+          },
+          {
+            "key": "atk",
+            "value": 50.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_nightm": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": null,
+            "target": "DISPLAY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>1</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": "nightm_equip_1_1_p1",
+            "target": "TALENT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "10",
+                  "name": null,
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 30.0
+          },
+          {
+            "key": "attack_speed",
+            "value": 3.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": null,
+            "target": "DISPLAY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>1</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": "nightm_equip_1_2_p1",
+            "target": "TALENT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "10",
+                  "name": null,
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "裝備技能1時獲得45%的物理和法術閃避，裝備技能2時獲得+18%攻擊力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "表裡人格",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "prob",
+                      "value": 0.45
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.18
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "裝備技能1時獲得50%<@ba.talpu>（+5%）</>的物理和法術閃避，裝備技能2時獲得+21%<@ba.talpu>（+3%）</>攻擊力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "表裡人格",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "prob",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.21
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 40.0
+          },
+          {
+            "key": "attack_speed",
+            "value": 4.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": null,
+            "target": "DISPLAY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>1</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": "nightm_equip_1_3_p1",
+            "target": "TALENT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "10",
+                  "name": null,
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "裝備技能1時獲得50%的物理和法術閃避，裝備技能2時獲得+20%攻擊力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "表裡人格",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "prob",
+                      "value": 0.5
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.2
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "裝備技能1時獲得55%<@ba.talpu>（+5%）</>的物理和法術閃避，裝備技能2時獲得+23%<@ba.talpu>（+3%）</>攻擊力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "表裡人格",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "prob",
+                      "value": 0.55
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.23
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 50.0
+          },
+          {
+            "key": "attack_speed",
+            "value": 5.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_amiya": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "amiya_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 100.0
+          },
+          {
+            "key": "atk",
+            "value": 30.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "amiya_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊敵人時額外回復3點技力，消滅敵人後額外獲得8點技力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "情緒吸收",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "amiya_t_1[atk].sp",
+                      "value": 3.0
+                    },
+                    {
+                      "key": "amiya_t_1[kill].sp",
+                      "value": 8.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊敵人時額外回復4<@ba.talpu>（+1）</>點技力，消滅敵人後額外獲得10<@ba.talpu>（+2）</>點技力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 5,
+                  "prefabKey": "1",
+                  "name": "情緒吸收",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "amiya_t_1[atk].sp",
+                      "value": 4.0
+                    },
+                    {
+                      "key": "amiya_t_1[kill].sp",
+                      "value": 10.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 130.0
+          },
+          {
+            "key": "atk",
+            "value": 40.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "amiya_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊敵人時額外回復3點技力，消滅敵人後額外獲得10點技力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "情緒吸收",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "amiya_t_1[atk].sp",
+                      "value": 3.0
+                    },
+                    {
+                      "key": "amiya_t_1[kill].sp",
+                      "value": 10.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊敵人時額外回復4<@ba.talpu>（+1）</>點技力，消滅敵人後額外獲得12<@ba.talpu>（+2）</>點技力",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 5,
+                  "prefabKey": "1",
+                  "name": "情緒吸收",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "amiya_t_1[atk].sp",
+                      "value": 4.0
+                    },
+                    {
+                      "key": "amiya_t_1[kill].sp",
+                      "value": 12.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 150.0
+          },
+          {
+            "key": "atk",
+            "value": 50.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_tomimi": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "tomimi_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 30.0
+          },
+          {
+            "key": "def",
+            "value": 15.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "tomimi_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "技能開啟時，攻擊範圍小幅縮小，攻擊變為物理傷害（只攻擊地面敵人），攻擊力+105%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "荒野法術",
+                  "description": null,
+                  "rangeId": "1-4",
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 1.05
+                    },
+                    {
+                      "key": "talent_override_rangeid_flag",
+                      "value": 1.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "技能開啟時，攻擊範圍小幅縮小，攻擊變為物理傷害（只攻擊地面敵人），攻擊力+125%<@ba.talpu>（+20%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "荒野法術",
+                  "description": null,
+                  "rangeId": "1-4",
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 1.25
+                    },
+                    {
+                      "key": "talent_override_rangeid_flag",
+                      "value": 1.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 40.0
+          },
+          {
+            "key": "def",
+            "value": 20.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "tomimi_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "普通攻擊命中精英或領袖敵人時獲得<@ba.kw>{sp}</>點技力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "sp",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "技能開啟時，攻擊範圍小幅縮小，攻擊變為物理傷害（只攻擊地面敵人），攻擊力+110%",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "荒野法術",
+                  "description": null,
+                  "rangeId": "1-4",
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 1.1
+                    },
+                    {
+                      "key": "talent_override_rangeid_flag",
+                      "value": 1.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "技能開啟時，攻擊範圍小幅縮小，攻擊變為物理傷害（只攻擊地面敵人），攻擊力+130%<@ba.talpu>（+20%）</>",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "荒野法術",
+                  "description": null,
+                  "rangeId": "1-4",
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 1.3
+                    },
+                    {
+                      "key": "talent_override_rangeid_flag",
+                      "value": 1.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 50.0
+          },
+          {
+            "key": "def",
+            "value": 25.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_003_lumen": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": null,
+            "target": "TRAIT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": null,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "heal_scale",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": "擁有較大治療範圍，治療較遠目標時治療量<@ba.kw>不再降低</>",
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 30.0
+          },
+          {
+            "key": "def",
+            "value": 20.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": null,
+            "target": "TRAIT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": null,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "heal_scale",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": "擁有較大治療範圍，治療較遠目標時治療量<@ba.kw>不再降低</>",
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的友方受到異常狀態時，立刻治療目標相當於流明攻擊力90%的生命，該效果有11秒冷卻時間",
+                  "talentIndex": 1,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "2",
+                  "name": "應急處理",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "heal_scale",
+                      "value": 0.9
+                    },
+                    {
+                      "key": "duration",
+                      "value": 11.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的友方受到異常狀態時，立刻治療目標相當於流明攻擊力90%的生命，該效果有9<@ba.talpu>（-2）</>秒冷卻時間",
+                  "talentIndex": 1,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "2",
+                  "name": "應急處理",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "heal_scale",
+                      "value": 0.9
+                    },
+                    {
+                      "key": "duration",
+                      "value": 9.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 40.0
+          },
+          {
+            "key": "def",
+            "value": 25.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": null,
+            "target": "TRAIT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": null,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "heal_scale",
+                      "value": 1.0
+                    }
+                  ],
+                  "overrideDescripton": "擁有較大治療範圍，治療較遠目標時治療量<@ba.kw>不再降低</>",
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的友方受到異常狀態時，立刻治療目標相當於流明攻擊力100%的生命，該效果有10秒冷卻時間",
+                  "talentIndex": 1,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "2",
+                  "name": "應急處理",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "heal_scale",
+                      "value": 1.0
+                    },
+                    {
+                      "key": "duration",
+                      "value": 10.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "攻擊範圍內的友方受到異常狀態時，立刻治療目標相當於流明攻擊力100%的生命，該效果有8<@ba.talpu>（-2）</>秒冷卻時間",
+                  "talentIndex": 1,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "2",
+                  "name": "應急處理",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "heal_scale",
+                      "value": 1.0
+                    },
+                    {
+                      "key": "duration",
+                      "value": 8.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "atk",
+            "value": 45.0
+          },
+          {
+            "key": "def",
+            "value": 28.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_003_demkni": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "demkni_equip_2_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "受到的傷害減少<@ba.kw>15%</>",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "damage_resistance",
+                      "value": 0.15
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 160.0
+          },
+          {
+            "key": "atk",
+            "value": 35.0
+          },
+          {
+            "key": "def",
+            "value": 35.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "demkni_equip_2_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "受到的傷害減少<@ba.kw>15%</>",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "damage_resistance",
+                      "value": 0.15
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "每在場上停留18秒，攻擊力+6%，防禦力+5%，最多疊加5層",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "萊茵充能護服",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "max_stack_cnt",
+                      "value": 5.0
+                    },
+                    {
+                      "key": "interval",
+                      "value": 18.0
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.06
+                    },
+                    {
+                      "key": "def",
+                      "value": 0.05
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "每在場上停留18秒，攻擊力+7%<@ba.talpu>（+1%）</>，防禦力+6%<@ba.talpu>（+1%）</>，最多疊加5層",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "萊茵充能護服",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "max_stack_cnt",
+                      "value": 5.0
+                    },
+                    {
+                      "key": "interval",
+                      "value": 18.0
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.07
+                    },
+                    {
+                      "key": "def",
+                      "value": 0.06
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 210.0
+          },
+          {
+            "key": "atk",
+            "value": 43.0
+          },
+          {
+            "key": "def",
+            "value": 43.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "demkni_equip_2_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "受到的傷害減少<@ba.kw>15%</>",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "damage_resistance",
+                      "value": 0.15
+                    }
+                  ],
+                  "overrideDescripton": null,
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "每在場上停留18秒，攻擊力+7%，防禦力+6%，最多疊加5層",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "萊茵充能護服",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "max_stack_cnt",
+                      "value": 5.0
+                    },
+                    {
+                      "key": "interval",
+                      "value": 18.0
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.07
+                    },
+                    {
+                      "key": "def",
+                      "value": 0.06
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "每在場上停留18秒，攻擊力+8%<@ba.talpu>（+1%）</>，防禦力+7%<@ba.talpu>（+1%）</>，最多疊加5層",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 60
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "萊茵充能護服",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "max_stack_cnt",
+                      "value": 5.0
+                    },
+                    {
+                      "key": "interval",
+                      "value": 18.0
+                    },
+                    {
+                      "key": "atk",
+                      "value": 0.08
+                    },
+                    {
+                      "key": "def",
+                      "value": 0.07
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 270.0
+          },
+          {
+            "key": "atk",
+            "value": 50.0
+          },
+          {
+            "key": "def",
+            "value": 50.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
+  },
+  "uniequip_002_bdhkgt": {
+    "phases": [
+      {
+        "equipLevel": 1,
+        "parts": [
+          {
+            "resKey": "bdhkgt_equip_1_1_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "攻擊時無視敵人<@ba.vup>{def_penetrate_fixed}</>點的防禦力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "def_penetrate_fixed",
+                      "value": 100.0
+                    }
+                  ],
+                  "overrideDescripton": "攻擊造成<@ba.kw>群體物理傷害</>",
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 100.0
+          },
+          {
+            "key": "atk",
+            "value": 37.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 2,
+        "parts": [
+          {
+            "resKey": "bdhkgt_equip_1_2_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "攻擊時無視敵人<@ba.vup>{def_penetrate_fixed}</>點的防禦力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "def_penetrate_fixed",
+                      "value": 100.0
+                    }
+                  ],
+                  "overrideDescripton": "攻擊造成<@ba.kw>群體物理傷害</>",
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "首次部署時，攻擊力+16%，費用-3",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "初出荒野",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.16
+                    },
+                    {
+                      "key": "runtime_cost",
+                      "value": -3.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "首次部署時，攻擊力+18%<@ba.talpu>（+2%）</>，費用-3",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "初出荒野",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.18
+                    },
+                    {
+                      "key": "runtime_cost",
+                      "value": -3.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 150.0
+          },
+          {
+            "key": "atk",
+            "value": 52.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      },
+      {
+        "equipLevel": 3,
+        "parts": [
+          {
+            "resKey": "bdhkgt_equip_1_3_p1",
+            "target": "TRAIT",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": null
+            },
+            "overrideTraitDataBundle": {
+              "candidates": [
+                {
+                  "additionalDescription": "攻擊時無視敵人<@ba.vup>{def_penetrate_fixed}</>點的防禦力",
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "blackboard": [
+                    {
+                      "key": "def_penetrate_fixed",
+                      "value": 100.0
+                    }
+                  ],
+                  "overrideDescripton": "攻擊造成<@ba.kw>群體物理傷害</>",
+                  "prefabKey": null,
+                  "rangeId": null
+                }
+              ]
+            }
+          },
+          {
+            "resKey": null,
+            "target": "TALENT_DATA_ONLY",
+            "isToken": false,
+            "addOrOverrideTalentDataBundle": {
+              "candidates": [
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "首次部署時，攻擊力+18%，費用-3",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 0,
+                  "prefabKey": "1",
+                  "name": "初出荒野",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.18
+                    },
+                    {
+                      "key": "runtime_cost",
+                      "value": -3.0
+                    }
+                  ]
+                },
+                {
+                  "displayRangeId": false,
+                  "upgradeDescription": "首次部署時，攻擊力+20%<@ba.talpu>（+2%）</>，費用-3",
+                  "talentIndex": 0,
+                  "unlockCondition": {
+                    "phase": 2,
+                    "level": 50
+                  },
+                  "requiredPotentialRank": 4,
+                  "prefabKey": "1",
+                  "name": "初出荒野",
+                  "description": null,
+                  "rangeId": null,
+                  "blackboard": [
+                    {
+                      "key": "atk",
+                      "value": 0.2
+                    },
+                    {
+                      "key": "runtime_cost",
+                      "value": -3.0
+                    }
+                  ]
+                }
+              ]
+            },
+            "overrideTraitDataBundle": {
+              "candidates": null
+            }
+          }
+        ],
+        "attributeBlackboard": [
+          {
+            "key": "max_hp",
+            "value": 180.0
+          },
+          {
+            "key": "atk",
+            "value": 65.0
+          }
+        ],
+        "tokenAttributeBlackboard": {}
+      }
+    ]
   }
 }

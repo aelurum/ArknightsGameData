@@ -303,6 +303,16 @@
         "obtainApproach": "記錄修復獲得"
       },
       {
+        "avatarId": "avatar_activity_WR",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 23,
+        "avatarIdDesc": "【畫中人】記錄修復\n“畫中人”",
+        "avatarItemName": "“畫中人”",
+        "avatarItemDesc": "一隻蝴蝶輕輕振翅，掙脫畫卷，飛向窗外。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "記錄修復獲得"
+      },
+      {
         "avatarId": "avatar_def_01",
         "avatarType": "DEFAULT",
         "avatarIdSort": 1,
@@ -499,7 +509,8 @@
           "avatar_activity_MN",
           "avatar_activity_RL2_1",
           "avatar_activity_PL",
-          "avatar_activity_MB"
+          "avatar_activity_MB",
+          "avatar_activity_WR"
         ]
       },
       "DEFAULT": {

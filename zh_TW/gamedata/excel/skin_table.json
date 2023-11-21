@@ -10769,6 +10769,110 @@
         "onPeriod": 0
       }
     },
+    "char_4078_bdhkgt#1": {
+      "skinId": "char_4078_bdhkgt#1",
+      "charId": "char_4078_bdhkgt",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4078_bdhkgt_1",
+      "dynIllustId": null,
+      "avatarId": "char_4078_bdhkgt",
+      "portraitId": "char_4078_bdhkgt_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#6c8b92",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Jieyun",
+        "drawerList": [
+          "伍秋秋秋秋"
+        ],
+        "designerList": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4078_bdhkgt#2": {
+      "skinId": "char_4078_bdhkgt#2",
+      "charId": "char_4078_bdhkgt",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4078_bdhkgt_2",
+      "dynIllustId": null,
+      "avatarId": "char_4078_bdhkgt_2",
+      "portraitId": "char_4078_bdhkgt_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#488d8d",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Jieyun",
+        "drawerList": [
+          "伍秋秋秋秋"
+        ],
+        "designerList": null,
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_279_excu#1": {
       "skinId": "char_279_excu#1",
       "charId": "char_279_excu",
@@ -15826,6 +15930,110 @@
         "modelName": "Ashlock",
         "drawerList": [
           "NoriZC"
+        ],
+        "designerList": null,
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_493_firwhl#1": {
+      "skinId": "char_493_firwhl#1",
+      "charId": "char_493_firwhl",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_493_firwhl_1",
+      "dynIllustId": null,
+      "avatarId": "char_493_firwhl",
+      "portraitId": "char_493_firwhl_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#f9b742",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Firewhistle",
+        "drawerList": [
+          "IRIS_囈"
+        ],
+        "designerList": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_493_firwhl#2": {
+      "skinId": "char_493_firwhl#2",
+      "charId": "char_493_firwhl",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_493_firwhl_2",
+      "dynIllustId": null,
+      "avatarId": "char_493_firwhl_2",
+      "portraitId": "char_493_firwhl_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#df450b",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Firewhistle",
+        "drawerList": [
+          "IRIS_囈"
         ],
         "designerList": null,
         "skinGroupId": "ILLUST_2",
@@ -21355,6 +21563,114 @@
         "onPeriod": 0
       }
     },
+    "char_4080_lin#1": {
+      "skinId": "char_4080_lin#1",
+      "charId": "char_4080_lin",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4080_lin_1",
+      "dynIllustId": null,
+      "avatarId": "char_4080_lin",
+      "portraitId": "char_4080_lin_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#644890",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Lin",
+        "drawerList": [
+          "三目YYB"
+        ],
+        "designerList": [
+          "Liduke"
+        ],
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_4080_lin#2": {
+      "skinId": "char_4080_lin#2",
+      "charId": "char_4080_lin",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_4080_lin_2",
+      "dynIllustId": null,
+      "avatarId": "char_4080_lin_2",
+      "portraitId": "char_4080_lin_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#834ada",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Lin",
+        "drawerList": [
+          "三目YYB"
+        ],
+        "designerList": [
+          "Liduke"
+        ],
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "char_377_gdglow#1": {
       "skinId": "char_377_gdglow#1",
       "charId": "char_377_gdglow",
@@ -24666,6 +24982,110 @@
         "modelName": "Mountain",
         "drawerList": [
           "WincalBlanke"
+        ],
+        "designerList": null,
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -1,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_2024_chyue#1": {
+      "skinId": "char_2024_chyue#1",
+      "charId": "char_2024_chyue",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_2024_chyue_1",
+      "dynIllustId": null,
+      "avatarId": "char_2024_chyue",
+      "portraitId": "char_2024_chyue_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#8d7659",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Chongyue",
+        "drawerList": [
+          "KuroBlood"
+        ],
+        "designerList": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_2024_chyue#2": {
+      "skinId": "char_2024_chyue#2",
+      "charId": "char_2024_chyue",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_2024_chyue_2",
+      "dynIllustId": "dyn_illust_char_2024_chyue_2",
+      "avatarId": "char_2024_chyue_2",
+      "portraitId": "char_2024_chyue_2",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "DefaultSkin"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#efaa2a",
+          "",
+          ""
+        ],
+        "titleList": [
+          "",
+          ""
+        ],
+        "modelName": "Chongyue",
+        "drawerList": [
+          "KuroBlood"
         ],
         "designerList": null,
         "skinGroupId": "ILLUST_2",
@@ -31967,6 +32387,129 @@
         "onPeriod": 0
       }
     },
+    "trap_096_gflag#1": {
+      "skinId": "trap_096_gflag#1",
+      "charId": "trap_096_gflag",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_096_gflag_1",
+      "dynIllustId": null,
+      "avatarId": "trap_096_gflag",
+      "portraitId": "trap_096_gflag_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerList": null,
+        "designerList": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_097_hstone#1": {
+      "skinId": "trap_097_hstone#1",
+      "charId": "trap_097_hstone",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_097_hstone_1",
+      "dynIllustId": null,
+      "avatarId": "trap_097_hstone",
+      "portraitId": "trap_097_hstone_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerList": null,
+        "designerList": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "trap_103_ymdgct#1": {
+      "skinId": "trap_103_ymdgct#1",
+      "charId": "trap_103_ymdgct",
+      "tokenSkinMap": null,
+      "illustId": "illust_trap_103_ymdgct_1",
+      "dynIllustId": null,
+      "avatarId": "trap_103_ymdgct",
+      "portraitId": "trap_103_ymdgct_1",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerList": null,
+        "designerList": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": -3,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
     "trap_104_dplant#1": {
       "skinId": "trap_104_dplant#1",
       "charId": "trap_104_dplant",
@@ -36314,6 +36857,295 @@
         "getTime": 1699948800,
         "onYear": 3,
         "onPeriod": 8
+      }
+    },
+    "token_10020_ling_soul1_nian#9": {
+      "skinId": "token_10020_ling_soul1_nian#9",
+      "charId": "token_10020_ling_soul1",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10020_ling_soul1_nian#9",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10020_ling_soul1_nian#9"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerList": null,
+        "designerList": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "token_10020_ling_soul2_nian#9": {
+      "skinId": "token_10020_ling_soul2_nian#9",
+      "charId": "token_10020_ling_soul2",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10020_ling_soul2_nian#9",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10020_ling_soul2_nian#9"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerList": null,
+        "designerList": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "token_10020_ling_soul3_nian#9": {
+      "skinId": "token_10020_ling_soul3_nian#9",
+      "charId": "token_10020_ling_soul3",
+      "tokenSkinMap": null,
+      "illustId": null,
+      "dynIllustId": null,
+      "avatarId": "token_10020_ling_soul3_nian#9",
+      "portraitId": null,
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10020_ling_soul3_nian#9"
+      },
+      "isBuySkin": false,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerList": null,
+        "designerList": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0,
+        "displayTagId": null,
+        "getTime": 0,
+        "onYear": 0,
+        "onPeriod": 0
+      }
+    },
+    "char_2023_ling@nian#9": {
+      "skinId": "char_2023_ling@nian#9",
+      "charId": "char_2023_ling",
+      "tokenSkinMap": [
+        {
+          "tokenId": "token_10020_ling_soul1",
+          "tokenSkinId": "token_10020_ling_soul1_nian#9"
+        },
+        {
+          "tokenId": "token_10020_ling_soul2",
+          "tokenSkinId": "token_10020_ling_soul2_nian#9"
+        },
+        {
+          "tokenId": "token_10020_ling_soul3",
+          "tokenSkinId": "token_10020_ling_soul3_nian#9"
+        }
+      ],
+      "illustId": "illust_char_2023_ling_nian#9",
+      "dynIllustId": "dyn_illust_char_2023_ling_nian#9",
+      "avatarId": "char_2023_ling_nian#9",
+      "portraitId": "char_2023_ling_nian#9",
+      "dynPortraitId": "dyn_portrait_char_2023_ling_nian#9",
+      "dynEntranceId": null,
+      "buildingId": "char_2023_ling_nian#9",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_2023_ling_nian#9"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "濯纓",
+        "colorList": [
+          "#222f4e",
+          "#dbe0ed",
+          "#2c489b",
+          "#7d8998",
+          "#2c489b",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Ling",
+        "drawerList": [
+          "下野宏銘"
+        ],
+        "designerList": null,
+        "skinGroupId": "2023#nian#2",
+        "skinGroupName": "0011製造/VIII",
+        "skinGroupSortIndex": 36,
+        "content": "0011新款/濯纓。素白布帛製成的羽衣，大袖及膝，裙裳上繡有某種瑞獸圖案。據說設計靈感出自客戶舊夢中的一段經歷。",
+        "dialog": "0011新款/濯纓。素白布帛製成的羽衣，大袖及膝，裙裳上繡有某種瑞獸圖案。據說設計靈感出自客戶舊夢中的一段經歷。",
+        "usage": "令的私服之一。",
+        "description": "“我是誰？”“我正何道？”“我法何物？”風雷闃起雨不喧，骷髏粉黛成莫逆，沽夢者醒，靜心者亂，何苦問來？",
+        "obtainApproach": "採購中心",
+        "sortId": 68,
+        "displayTagId": null,
+        "getTime": 1700551800,
+        "onYear": 3,
+        "onPeriod": 9
+      }
+    },
+    "char_497_ctable@nian#9": {
+      "skinId": "char_497_ctable@nian#9",
+      "charId": "char_497_ctable",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_497_ctable_nian#9",
+      "dynIllustId": null,
+      "avatarId": "char_497_ctable_nian#9",
+      "portraitId": "char_497_ctable_nian#9",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_497_ctable_nian#9",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_497_ctable_nian#9"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "燈如晝",
+        "colorList": [
+          "#6c6d57",
+          "#b2755b",
+          "#4d4e43",
+          "#5b4941",
+          "#b2755b",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Cantabile",
+        "drawerList": [
+          "溫泉瓜"
+        ],
+        "designerList": null,
+        "skinGroupId": "2023#nian#2",
+        "skinGroupName": "0011製造/VIII",
+        "skinGroupSortIndex": 36,
+        "content": "<color name=#ffffff>0011新款/燈如晝。龍門手工匠製，短裙底擺銜接了一片薄紗，俐落感被中和，搭配的乳白色披肩更增添了許多柔美的感覺。</color>",
+        "dialog": "0011新款/燈如晝。龍門手工匠製，短裙底擺銜接了一片薄紗，俐落感被中和，搭配的乳白色披肩更增添了許多柔美的感覺。",
+        "usage": "曉歌的私服之一。",
+        "description": "半點春寒，沾向人間火樹；一晚風暖，吹落腮邊銀花。",
+        "obtainApproach": "採購中心",
+        "sortId": 69,
+        "displayTagId": null,
+        "getTime": 1700551800,
+        "onYear": 3,
+        "onPeriod": 9
+      }
+    },
+    "char_473_mberry@nian#9": {
+      "skinId": "char_473_mberry@nian#9",
+      "charId": "char_473_mberry",
+      "tokenSkinMap": null,
+      "illustId": "illust_char_473_mberry_nian#9",
+      "dynIllustId": null,
+      "avatarId": "char_473_mberry_nian#9",
+      "portraitId": "char_473_mberry_nian#9",
+      "dynPortraitId": null,
+      "dynEntranceId": null,
+      "buildingId": "char_473_mberry_nian#9",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_473_mberry_nian#9"
+      },
+      "isBuySkin": true,
+      "tmplId": null,
+      "voiceId": null,
+      "voiceType": "NONE",
+      "displaySkin": {
+        "skinName": "照冰輪",
+        "colorList": [
+          "#244886",
+          "#fcfcfc",
+          "#222b40",
+          "#8eb3d2",
+          "#244886",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Mulberry",
+        "drawerList": [
+          "Jacknife"
+        ],
+        "designerList": null,
+        "skinGroupId": "2023#nian#2",
+        "skinGroupName": "0011製造/VIII",
+        "skinGroupSortIndex": 36,
+        "content": "0011新款/照冰輪。龍門手工匠製，設計靈感來源於姜齊城內的水景，通過特殊剪裁和輕軟紗料，還原出了月圓時分蓮花挺立水中的清新模樣。",
+        "dialog": "0011新款/照冰輪。龍門手工匠製，設計靈感來源於姜齊城內的水景，通過特殊剪裁和輕軟紗料，還原出了月圓時分蓮花挺立水中的清新模樣。",
+        "usage": "桑葚的私服之一。",
+        "description": "蓮步粼粼一點水，圓月與燈兩相明。",
+        "obtainApproach": "採購中心",
+        "sortId": 70,
+        "displayTagId": null,
+        "getTime": 1700551800,
+        "onYear": 3,
+        "onPeriod": 9
       }
     },
     "char_2013_cerber@whirlwind#2": {
@@ -44953,6 +45785,10 @@
       "0": "char_379_sesa#1",
       "2": "char_379_sesa#2"
     },
+    "char_4078_bdhkgt": {
+      "0": "char_4078_bdhkgt#1",
+      "2": "char_4078_bdhkgt#2"
+    },
     "char_279_excu": {
       "0": "char_279_excu#1",
       "2": "char_279_excu#2"
@@ -45150,6 +45986,10 @@
     "char_431_ashlok": {
       "0": "char_431_ashlok#1",
       "2": "char_431_ashlok#2"
+    },
+    "char_493_firwhl": {
+      "0": "char_493_firwhl#1",
+      "2": "char_493_firwhl#2"
     },
     "char_422_aurora": {
       "0": "char_422_aurora#1",
@@ -45363,6 +46203,10 @@
       "0": "char_426_billro#1",
       "2": "char_426_billro#2"
     },
+    "char_4080_lin": {
+      "0": "char_4080_lin#1",
+      "2": "char_4080_lin#2"
+    },
     "char_377_gdglow": {
       "0": "char_377_gdglow#1",
       "2": "char_377_gdglow#2"
@@ -45490,6 +46334,10 @@
     "char_264_f12yin": {
       "0": "char_264_f12yin#1",
       "2": "char_264_f12yin#2"
+    },
+    "char_2024_chyue": {
+      "0": "char_2024_chyue#1",
+      "2": "char_2024_chyue#2"
     },
     "char_172_svrash": {
       "0": "char_172_svrash#1",
@@ -45953,6 +46801,15 @@
     "trap_098_mire": {
       "0": "trap_098_mire#1"
     },
+    "trap_096_gflag": {
+      "0": "trap_096_gflag#1"
+    },
+    "trap_097_hstone": {
+      "0": "trap_097_hstone#1"
+    },
+    "trap_103_ymdgct": {
+      "0": "trap_103_ymdgct#1"
+    },
     "trap_104_dplant": {
       "0": "trap_104_dplant#1"
     },
@@ -46062,6 +46919,7 @@
     "nian": {
       "brandId": "nian",
       "groupList": [
+        "2023#nian#2",
         "2023#nian",
         "2022#nian#2",
         "2022#nian",
@@ -46071,6 +46929,7 @@
         "2019#nian"
       ],
       "kvImgIdList": [
+        "kv_0011_4",
         "kv_0011_3",
         "kv_0011_2",
         "kv_0011_1"
@@ -46078,7 +46937,7 @@
       "brandName": "0011製造",
       "brandCapitalName": "0011 CRAFT",
       "description": "始於慶元十一年\n為了慶祝戰勝年獸，織工每年都會為戰士編織有年獸形象、顏色的衣服讓他們穿上。用如同爆竹般的熱烈與喜慶，一年又一年的到來。",
-      "sortId": 35
+      "sortId": 36
     },
     "whirlwind": {
       "brandId": "whirlwind",

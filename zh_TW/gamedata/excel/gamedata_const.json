@@ -992,7 +992,7 @@
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
   "voucherDiv": 5,
-  "recruitPoolVersion": 10,
+  "recruitPoolVersion": 11,
   "v006RecruitTimeStep1Refresh": 1577172600,
   "v006RecruitTimeStep2Check": 1577154600,
   "v006RecruitTimeStep2Flush": 1577649600,
@@ -1472,6 +1472,6 @@
     }
   },
   "storyReviewUnlockItemLackTip": "事相碎片數量不足，請前往採購憑證區或活動期間商店獲取",
-  "dataVersion": "31.2.0",
-  "resPrefVersion": "34d0d0"
+  "dataVersion": "31.3.0",
+  "resPrefVersion": "35d0d0"
 }
