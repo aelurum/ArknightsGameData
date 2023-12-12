@@ -73,6 +73,16 @@
         "obtainApproach": "特殊方式獲得"
       },
       {
+        "avatarId": "avatar_special_07",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 7,
+        "avatarIdDesc": "購買禮包獲得\n「尋火之葉」",
+        "avatarItemName": "「尋火之葉」",
+        "avatarItemDesc": "「你必須直視那團火焰。」",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "特殊方式獲得"
+      },
+      {
         "avatarId": "avatar_special_08",
         "avatarType": "SPECIAL",
         "avatarIdSort": 8,
@@ -283,6 +293,16 @@
         "obtainApproach": "在集成戰略模式中獲得"
       },
       {
+        "avatarId": "avatar_activity_RL2_2",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 20,
+        "avatarIdDesc": "【水月與深藍之樹】生態譜系\n“循環”",
+        "avatarItemName": "“循環”",
+        "avatarItemDesc": "終點即是起點，進化永無止盡。",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "在集成戰略模式中獲得"
+      },
+      {
         "avatarId": "avatar_activity_PL",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 21,
@@ -311,6 +331,16 @@
         "avatarItemDesc": "一隻蝴蝶輕輕振翅，掙脫畫卷，飛向窗外。",
         "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
         "obtainApproach": "記錄修復獲得"
+      },
+      {
+        "avatarId": "avatar_activity_HLL",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 25,
+        "avatarIdDesc": "嘩啦啦祈願牌活動\n「蒼暮印象」",
+        "avatarItemName": "「蒼暮印象」",
+        "avatarItemDesc": "「蒼山秋色下，斜陽紅葉中。」",
+        "avatarItemUsage": "用來彰顯個性的圖案，能夠將之設置為頭像。",
+        "obtainApproach": "嘩啦啦祈願牌活動獲得"
       },
       {
         "avatarId": "avatar_def_01",
@@ -481,6 +511,7 @@
           "avatar_special_04",
           "avatar_special_05",
           "avatar_special_06",
+          "avatar_special_07",
           "avatar_special_08",
           "avatar_special_09"
         ]
@@ -508,9 +539,11 @@
           "avatar_activity_EP11",
           "avatar_activity_MN",
           "avatar_activity_RL2_1",
+          "avatar_activity_RL2_2",
           "avatar_activity_PL",
           "avatar_activity_MB",
-          "avatar_activity_WR"
+          "avatar_activity_WR",
+          "avatar_activity_HLL"
         ]
       },
       "DEFAULT": {

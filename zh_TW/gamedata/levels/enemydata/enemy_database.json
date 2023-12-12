@@ -58027,7 +58027,7 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "潛水夫"
+              "m_value": "潛水員"
             },
             "description": {
               "m_defined": true,
@@ -111746,7 +111746,7 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "紮羅，“狼之主”"
+              "m_value": "扎羅，“狼之主”"
             },
             "description": {
               "m_defined": true,
@@ -119815,6 +119815,6894 @@
               }
             ],
             "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7001_blwzad",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "部族巫術師"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "攻擊使目標<@eb.key>10秒內</>每秒受到50%攻擊力的法術傷害（可疊加）"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7001_blwzad"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 5000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 100
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 50.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 2.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "blwzad[dot].atk_scale",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "blwzad[dot].duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "blwzad[dot].max_stack_cnt",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7001_blwzad_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "王酋巫術師"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "攻擊使目標<@eb.key>10秒內</>每秒受到50%攻擊力的法術傷害（可疊加）"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7001_blwzad_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 6000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 150
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 50.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 2.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "blwzad[dot].atk_scale",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "blwzad[dot].duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "blwzad[dot].max_stack_cnt",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7002_veingd",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "礦脈守衛"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "更容易受到我方的攻擊，受到攻擊時對目標造成<@eb.key>200點</>的法術傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7002_veingd"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 25000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 400
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 300
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 10.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.6
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 4
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "taunt.value",
+                "value": 200.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7002_veingd_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "狂化礦脈守衛"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "更容易受到我方的攻擊，受到攻擊時對目標造成<@eb.key>200點</>的法術傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7002_veingd_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 40000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 500
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 300
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 10.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.6
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 4
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "taunt.value",
+                "value": 200.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7003_catapt",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“都可以砸”"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "優先攻擊<@eb.key>建築</>單位，攻擊建築單位時攻擊力提升至<@eb.key>150%</>"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7003_catapt"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 10000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 500
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 400
+              },
+              "magicResistance": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 3.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": true,
+              "m_value": 3.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "factorySlayer.atk_scale",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7003_catapt_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“都應該砸”"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "優先攻擊<@eb.key>建築</>單位，攻擊建築單位時攻擊力提升至<@eb.key>180%</>"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7003_catapt_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 20000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 550
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 400
+              },
+              "magicResistance": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 3.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": true,
+              "m_value": 3.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "factorySlayer.atk_scale",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7004_xbdeer",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "小角跳獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "不攻擊，被攻擊後會隨機往遠處逃跑並休息一段時間。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7004_xbdeer"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 5000
+              },
+              "atk": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Run.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Run.move_speed",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTile.range_radius",
+                "value": 4.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7004_xbdeer_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "大角跳獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "不攻擊，被攻擊後會隨機往遠處逃跑並休息一段時間。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7004_xbdeer_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 10000
+              },
+              "atk": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Run.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Run.move_speed",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTile.range_radius",
+                "value": 4.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7005_xbbull",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "苔生獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "平時不攻擊，受到攻擊時反擊。會逐漸恢復生命值。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7005_xbbull"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 15000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 800
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.1
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 250.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7005_xbbull_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "茂密苔生獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "平時不攻擊，受到攻擊時反擊。會逐漸恢復生命值。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7005_xbbull_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 24000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 800
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.1
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": true,
+                "m_value": 350.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7006_xbcrab",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "岩殼蟹"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "平時不攻擊，受到攻擊時反擊。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7006_xbcrab"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 3000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 400
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 800
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 70.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.9
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7006_xbcrab_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "結晶岩殼蟹"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "平時不攻擊，受到攻擊時反擊。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7006_xbcrab_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 5000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 450
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 1000
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 80.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.9
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7015_xbcrab2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“鉗鉗生風”"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "平時不攻擊，受到攻擊時反擊。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7015_xbcrab2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 17000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1300
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 2500
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 90.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.9
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7008_wrkwrk",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "採集專員"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "自動尋找礦石進行攻擊，並搬運回採集站。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7008_wrkwrk"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 5000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.5
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.3
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": null,
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7009_mtmoun",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“不朽之人”"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "身穿奢華但殘破的甲胄，來歷不明的戰士。戰士兀自前行，手中捧著沙土，不會給予任何人回應。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7009_mtmoun"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 600000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 4500
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 1000
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.5
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 7.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 6
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 1.5
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Trace.view_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "Heal.range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "Heal.hp_ratio",
+                "value": 0.02,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7010_bldrgn",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "巨翼獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "受到攻擊後一段時間會進行飛行形態且切換成遠程攻擊附帶<@eb.key>灼燃</>損傷"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7010_bldrgn"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 450000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 2000
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 700
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 50.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 6
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 3.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Trace.view_radius",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTime.duration",
+                "value": 20.0,
+                "valueStr": null
+              },
+              {
+                "key": "EpDamage.attack@ep_damage_ratio",
+                "value": 0.1,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "Fly",
+                "priority": 0,
+                "cooldown": 0.0,
+                "initCooldown": 0.0,
+                "spCost": 60,
+                "blackboard": [
+                  {
+                    "key": "duration",
+                    "value": 50.0,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "Walk",
+                "priority": 0,
+                "cooldown": 5.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": null
+              }
+            ],
+            "spData": {
+              "spType": 1,
+              "maxSp": 60,
+              "initSp": 0,
+              "increment": 1.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7011_paki",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "薩爾貢契約刺客"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "隱匿，被阻擋時向前閃爍一段距離"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7011_paki"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 50000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 400
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 120
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 50.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.3
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 0.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": null,
+            "skills": [
+              {
+                "prefabKey": "Blink",
+                "priority": 0,
+                "cooldown": 15.0,
+                "initCooldown": 15.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "dist",
+                    "value": 1.5,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7007_xbbird",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "落沙晶蹄獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "不攻擊，被攻擊後會隨機往遠處逃跑並休息一段時間。在不同區域中移動。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7007_xbbird"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 50000
+              },
+              "atk": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 400
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 20.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Run.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Run.move_speed",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "TraceTile.range_radius",
+                "value": 6.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7012_wilder",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "無阻衝鋒官"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "薩爾貢王酋麾下的先遣衝鋒官，一心只想剷除路上的一切阻礙，不畏生死。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7012_wilder"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 700000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1100
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 400
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 10.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 6
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 30
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Reborn.duration",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.wildmn_invinsible.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "SDamageScale.damage_resistance",
+                "value": 0.5,
+                "valueStr": null
+              },
+              {
+                "key": "S2Passive.atk",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "S2Passive.attack_speed",
+                "value": 100.0,
+                "valueStr": null
+              },
+              {
+                "key": "S2Passive.move_speed",
+                "value": 1.5,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7013_slwazd",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“召毀者”"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "受當地王酋禮遇的精英術師，能夠操縱感染生物進行戰鬥。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7013_slwazd"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 400000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 600
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 500
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 70.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 6
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": true,
+                "m_value": -1
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": true
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 30
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 2.5
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Reborn.wildmn_invinsible.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.duration",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "SummonEnemyS1",
+                "priority": 0,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "slward_s1_1.enemy_key",
+                    "value": 0.0,
+                    "valueStr": "enemy_1021_bslime"
+                  },
+                  {
+                    "key": "slward_s1_1.cnt",
+                    "value": 2.0,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "SummonEnemyS2",
+                "priority": 1,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "slward_s2_1.enemy_key",
+                    "value": 0.0,
+                    "valueStr": "enemy_1021_bslime"
+                  },
+                  {
+                    "key": "slward_s2_1.cnt",
+                    "value": 2.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "slward_s2_2.enemy_key",
+                    "value": 0.0,
+                    "valueStr": "enemy_1021_bslime_2"
+                  },
+                  {
+                    "key": "slward_s2_2.cnt",
+                    "value": 2.0,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_7014_dva",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "“搭檔”"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "王酋軍精銳裝甲師，所操縱的裝甲由本人親手拼裝而成。"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_7014_dva"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 500000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1000
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 1200
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 30.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.9
+              },
+              "attackSpeed": {
+                "m_defined": true,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 6
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": true
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 30
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "S1Reborn.duration",
+                "value": 3.5,
+                "valueStr": null
+              },
+              {
+                "key": "S1Reborn.range_radius",
+                "value": 1.5,
+                "valueStr": null
+              },
+              {
+                "key": "S1Reborn.stun",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "S1Reborn.atk_scale",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "S2Reborn.duration",
+                "value": 1.7,
+                "valueStr": null
+              },
+              {
+                "key": "S2Recover.duration",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "S2Recover.atk",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "CheckSp.sp",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "S2Recover.max_hp",
+                "value": -0.8,
+                "valueStr": null
+              },
+              {
+                "key": "S2Recover.atk_scale",
+                "value": 0.5,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "PowerAttack",
+                "priority": 1,
+                "cooldown": 1.0,
+                "initCooldown": 1.0,
+                "spCost": 3,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 3.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "range_radius",
+                    "value": 0.8,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": {
+              "spType": 2,
+              "maxSp": 3,
+              "initSp": 0,
+              "increment": 1.0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1303_mhshep",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "角獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "山地常見的草食動物。初始處於<@eb.key>休憩</>狀態，受攻擊後與周圍其他角獸一同進入<@eb.key>臨戰</>狀態"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1303_mhshep"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 5000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 250
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.3
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Revive.hp_ratio",
+                "value": 0.999,
+                "valueStr": null
+              },
+              {
+                "key": "Revive.unmovable_duration",
+                "value": 150.0,
+                "valueStr": null
+              },
+              {
+                "key": "Revive.move_speed",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1303_mhshep_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "亢角獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "山地常見的草食動物。初始處於<@eb.key>休憩</>狀態，受攻擊後與周圍其他亢角獸一同進入<@eb.key>臨戰</>狀態"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1303_mhshep_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 6500
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 320
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.3
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Revive.hp_ratio",
+                "value": 0.999,
+                "valueStr": null
+              },
+              {
+                "key": "Revive.unmovable_duration",
+                "value": 150.0,
+                "valueStr": null
+              },
+              {
+                "key": "Revive.move_speed",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1304_mhwolf",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "鬣犄獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "山地常見的肉食動物。優先攻擊<@eb.key>角獸</>"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1304_mhwolf"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 4500
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 310
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.5
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.8
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Revive.hp_ratio",
+                "value": 0.999,
+                "valueStr": null
+              },
+              {
+                "key": "Revive.unmovable_duration",
+                "value": 150.0,
+                "valueStr": null
+              },
+              {
+                "key": "Revive.move_speed",
+                "value": 2.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1304_mhwolf_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "利齒鬣犄獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "山地常見的肉食動物。優先攻擊<@eb.key>亢角獸</>"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1304_mhwolf_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 6500
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 380
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 1.5
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.8
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 1
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": null,
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1305_mhslim",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "灼熱源石蟲"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "野生的被感染生物，能將灼熱的體液噴向敵人。攻擊造成法術傷害和<@eb.key>灼燃損傷</>"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1305_mhslim"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 1200
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 50
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 1.8
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "EpDamage.attack@ep_damage_ratio",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1305_mhslim_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "熾焰源石蟲"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "野生的被感染生物，能將灼熱的體液噴向敵人。攻擊造成法術傷害和<@eb.key>灼燃損傷</>"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1305_mhslim_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 1800
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 80
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.8
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 1.8
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "EpDamage.attack@ep_damage_ratio",
+                "value": 1.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1306_mhtrtl",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "硬甲爪獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "背後生有足以抵擋落石的硬質甲殼，腹部卻異常柔軟。<@eb.key>弱點部位</>位於<@eb.key>正面</>，背面所受傷害大幅降低"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1306_mhtrtl"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 14000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 600
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 120
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1306_mhtrtl_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "剛甲爪獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "堅固的甲殼能夠抵擋劇烈的衝擊。<@eb.key>弱點部位</>位於<@eb.key>正面</>，背面所受傷害大幅降低"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1306_mhtrtl_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 18000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 680
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 130
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1307_mhrhcr",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "岩冠獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "其頭冠上有用於自衛的岩石。<@eb.key>弱點部位</>位於<@eb.key>背面</>，正面所受傷害大幅降低"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1307_mhrhcr"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 12000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 600
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 140
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1307_mhrhcr_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "堅岩冠獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "自幼年起就砥礪頭冠使其堅固異常。<@eb.key>弱點部位</>位於<@eb.key>背面</>，正面所受傷害大幅降低"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1307_mhrhcr_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 16000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 750
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 160
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1308_mheagl",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "鋒羽獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "性情兇猛的大型羽獸。偶爾會投擲死去的鬣犄獸造成物理傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1308_mheagl"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 9000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 450
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 50
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.65
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Stun.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Mode.mode",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "Mode.attack@atk_scale",
+                "value": 4.5,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1308_mheagl_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "迅猛鋒羽獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "部分地區特有的鋒羽獸亞種。偶爾會向投擲死去的鬣犄獸造成物理傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1308_mheagl_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 12000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 550
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 80
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.65
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Stun.duration",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Mode.mode",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "Mode.attack@atk_scale",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1309_mhboar",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "凶豕獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "佔用<@eb.key>2阻擋數</>；衝撞時逐漸<@eb.key>加速</>，並對經過與阻擋自身的目標根據<@eb.key>移動速度</>造成傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1309_mhboar"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 25000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 600
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 20
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.35
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Rush.mhboar_t[trigger].move_speed",
+                "value": 0.333,
+                "valueStr": null
+              },
+              {
+                "key": "Rush.mhboar_t[trigger].interval",
+                "value": 0.333,
+                "valueStr": null
+              },
+              {
+                "key": "Rush.mhboar_t[trigger].trig_cnt",
+                "value": 30.0,
+                "valueStr": null
+              },
+              {
+                "key": "Rush.mhboar_t_predelay.predelay",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "FirstAttack.atk_scale",
+                "value": 500.0,
+                "valueStr": null
+              },
+              {
+                "key": "Crash.atk_scale",
+                "value": 700.0,
+                "valueStr": null
+              },
+              {
+                "key": "Crash.stun",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1309_mhboar_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "狂暴凶豕獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "佔用<@eb.key>2阻擋數</>；衝撞時逐漸<@eb.key>加速</>，並對經過與阻擋自身的目標根據<@eb.key>移動速度</>造成傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1309_mhboar_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 32000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 700
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 50
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.4
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 4.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 2
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Rush.mhboar_t[trigger].move_speed",
+                "value": 0.333,
+                "valueStr": null
+              },
+              {
+                "key": "Rush.mhboar_t[trigger].interval",
+                "value": 0.333,
+                "valueStr": null
+              },
+              {
+                "key": "Rush.mhboar_t[trigger].trig_cnt",
+                "value": 35.0,
+                "valueStr": null
+              },
+              {
+                "key": "Rush.mhboar_t_predelay.predelay",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "FirstAttack.atk_scale",
+                "value": 600.0,
+                "valueStr": null
+              },
+              {
+                "key": "Crash.atk_scale",
+                "value": 800.0,
+                "valueStr": null
+              },
+              {
+                "key": "Crash.stun",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1310_mhprpn",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "棘獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "<@eb.key>弱點部位</>位於<@eb.key>正面</>，背面所受傷害降低；每損失一定生命值向<@eb.key>背面半圓範圍</>造成傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1310_mhprpn"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 25000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 580
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 130
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.7
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 0.5
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.75,
+                "valueStr": null
+              },
+              {
+                "key": "QuillSpray.hp_ratio",
+                "value": 0.12,
+                "valueStr": null
+              },
+              {
+                "key": "QuillSpray.atk_scale",
+                "value": 1.2,
+                "valueStr": null
+              },
+              {
+                "key": "QuillSpray.range_radius",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1310_mhprpn_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "箭棘獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "<@eb.key>弱點部位</>位於<@eb.key>正面</>，背面所受傷害降低；每損失一定生命值向<@eb.key>背面半圓範圍</>造成傷害"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1310_mhprpn_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 35000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 720
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 150
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 8.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.3
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 3.5
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": true,
+              "m_value": 0.5
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.75,
+                "valueStr": null
+              },
+              {
+                "key": "QuillSpray.hp_ratio",
+                "value": 0.1,
+                "valueStr": null
+              },
+              {
+                "key": "QuillSpray.atk_scale",
+                "value": 1.1,
+                "valueStr": null
+              },
+              {
+                "key": "QuillSpray.range_radius",
+                "value": 1.8,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": null,
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1311_mhkryk",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "狡獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "<@eb.key>捕食硬甲爪獸</>後，會留下其<@eb.key>甲殼充當防禦工具</>，總是面向我方幹員較多的一側並使正面所受傷害大幅降低"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1311_mhkryk"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 20000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1090
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 480
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.75
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.8
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Shield.max_hp_ratio",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "Mode.mode",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "DropShield",
+                "priority": 0,
+                "cooldown": 5.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": null
+              },
+              {
+                "prefabKey": "ShieldUp",
+                "priority": 0,
+                "cooldown": 5.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": null
+              }
+            ],
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1311_mhkryk_2",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "惡狡獸"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "<@eb.key>捕食剛甲爪獸</>後，會留下其<@eb.key>甲殼充當防禦工具</>，總是面向我方幹員較多的一側並使正面所受傷害大幅降低"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1311_mhkryk_2"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 27000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1260
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 550
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 1.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.75
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 1.8
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 1
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Shield.max_hp_ratio",
+                "value": 1.0,
+                "valueStr": null
+              },
+              {
+                "key": "Weakness.damage_resistance",
+                "value": 0.8,
+                "valueStr": null
+              },
+              {
+                "key": "Mode.mode",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "DropShield",
+                "priority": 0,
+                "cooldown": 5.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": null
+              },
+              {
+                "prefabKey": "ShieldUp",
+                "priority": 0,
+                "cooldown": 5.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": null
+              }
+            ],
+            "spData": null
+          }
+        }
+      ]
+    },
+    {
+      "Key": "enemy_1537_mhrors",
+      "Value": [
+        {
+          "level": 0,
+          "enemyData": {
+            "name": {
+              "m_defined": true,
+              "m_value": "火龍"
+            },
+            "description": {
+              "m_defined": true,
+              "m_value": "身覆赤色甲殼，掌控火焰的火龍。由於其統治天空的驚人實力，它也被譽為“天空王者”"
+            },
+            "prefabKey": {
+              "m_defined": true,
+              "m_value": "enemy_1537_mhrors"
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 20000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 900
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 200
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 0.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": true,
+                "m_value": 0.65
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 100.0
+              },
+              "baseAttackTime": {
+                "m_defined": true,
+                "m_value": 2.8
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": true,
+                "m_value": 3
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "silenceImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "sleepImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "frozenImmune": {
+                "m_defined": true,
+                "m_value": true
+              },
+              "levitateImmune": {
+                "m_defined": true,
+                "m_value": true
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "levelType": {
+              "m_defined": true,
+              "m_value": 2
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "Reborn.duration",
+                "value": 7.6,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.rest_duration",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.stun",
+                "value": 5.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.max_hp",
+                "value": 320000.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.atk",
+                "value": 300.0,
+                "valueStr": null
+              },
+              {
+                "key": "TailCut.max_hp_ratio",
+                "value": 6.0,
+                "valueStr": null
+              },
+              {
+                "key": "Stun.duration",
+                "value": 12.0,
+                "valueStr": null
+              },
+              {
+                "key": "Stun.duration_2",
+                "value": 10.0,
+                "valueStr": null
+              },
+              {
+                "key": "Stun.duration_3",
+                "value": 8.0,
+                "valueStr": null
+              },
+              {
+                "key": "Stun.damage_scale",
+                "value": 2.0,
+                "valueStr": null
+              },
+              {
+                "key": "SleepListener.check_point",
+                "value": 999.0,
+                "valueStr": null
+              },
+              {
+                "key": "EpDamage.attack@ep_damage_ratio",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "BornMode.mode",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "FlyMoveSpeed.move_speed",
+                "value": 3.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.atk_scale",
+                "value": 0.6,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.ep_damage_ratio",
+                "value": 0.05,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.continuousdamage.projectile_life_time",
+                "value": 4.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.continuousdamage.atk_scale",
+                "value": 0.2,
+                "valueStr": null
+              },
+              {
+                "key": "WeaknessUI.value",
+                "value": 0.0,
+                "valueStr": null
+              },
+              {
+                "key": "DamageCounter.hp",
+                "value": 40000.0,
+                "valueStr": null
+              },
+              {
+                "key": "WakeUp.wakeup_delay",
+                "value": 600.0,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "LandSwingTail",
+                "priority": 0,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.5,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "LandSwingTail_Cut",
+                "priority": 0,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.6,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "LandFireBall",
+                "priority": 0,
+                "cooldown": 3.6,
+                "initCooldown": 2.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "LandFireBall",
+                    "value": 0.8,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "Roar",
+                "priority": 1,
+                "cooldown": 9999.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "stun",
+                    "value": 5.0,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyAttack",
+                "priority": 0,
+                "cooldown": 3.0,
+                "initCooldown": 20.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.8,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.03,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 4.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.2,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlySwingTail",
+                "priority": 3,
+                "cooldown": 13.0,
+                "initCooldown": 8.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.6,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlySwingTail_Cut",
+                "priority": 3,
+                "cooldown": 13.0,
+                "initCooldown": 8.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.9,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyFireCircle",
+                "priority": 2,
+                "cooldown": 30.0,
+                "initCooldown": 25.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 8.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.3,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyFireLane",
+                "priority": 1,
+                "cooldown": 40.0,
+                "initCooldown": 35.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.8,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 8.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.3,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": null
+          }
+        },
+        {
+          "level": 1,
+          "enemyData": {
+            "name": {
+              "m_defined": false,
+              "m_value": null
+            },
+            "description": {
+              "m_defined": false,
+              "m_value": null
+            },
+            "prefabKey": {
+              "m_defined": false,
+              "m_value": null
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 26000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1050
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 205
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 3.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "baseAttackTime": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "DamageCounter.hp",
+                "value": 40000.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.max_hp",
+                "value": 390000.0,
+                "valueStr": null
+              },
+              {
+                "key": "TailCut.max_hp_ratio",
+                "value": 5.5,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "LandSwingTail",
+                "priority": 0,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.5,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "LandSwingTail_Cut",
+                "priority": 0,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.6,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "LandFireBall",
+                "priority": 0,
+                "cooldown": 3.6,
+                "initCooldown": 2.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "LandFireBall",
+                    "value": 0.8,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "Roar",
+                "priority": 1,
+                "cooldown": 9999.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "stun",
+                    "value": 5.0,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyAttack",
+                "priority": 0,
+                "cooldown": 3.0,
+                "initCooldown": 20.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.8,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.03,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 4.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.2,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlySwingTail",
+                "priority": 3,
+                "cooldown": 13.0,
+                "initCooldown": 8.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.6,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlySwingTail_Cut",
+                "priority": 3,
+                "cooldown": 13.0,
+                "initCooldown": 8.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.9,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyFireCircle",
+                "priority": 2,
+                "cooldown": 30.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 8.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.3,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyFireLane",
+                "priority": 1,
+                "cooldown": 40.0,
+                "initCooldown": 35.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.8,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 8.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.3,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
+            "spData": null
+          }
+        },
+        {
+          "level": 2,
+          "enemyData": {
+            "name": {
+              "m_defined": false,
+              "m_value": null
+            },
+            "description": {
+              "m_defined": false,
+              "m_value": null
+            },
+            "prefabKey": {
+              "m_defined": false,
+              "m_value": null
+            },
+            "attributes": {
+              "maxHp": {
+                "m_defined": true,
+                "m_value": 30000
+              },
+              "atk": {
+                "m_defined": true,
+                "m_value": 1150
+              },
+              "def": {
+                "m_defined": true,
+                "m_value": 210
+              },
+              "magicResistance": {
+                "m_defined": true,
+                "m_value": 5.0
+              },
+              "cost": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "blockCnt": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "moveSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "attackSpeed": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "baseAttackTime": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "respawnTime": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "hpRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "spRecoveryPerSec": {
+                "m_defined": false,
+                "m_value": 0.0
+              },
+              "maxDeployCount": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "massLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "baseForceLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "tauntLevel": {
+                "m_defined": false,
+                "m_value": 0
+              },
+              "stunImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "silenceImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "sleepImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "frozenImmune": {
+                "m_defined": false,
+                "m_value": false
+              },
+              "levitateImmune": {
+                "m_defined": false,
+                "m_value": false
+              }
+            },
+            "lifePointReduce": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "levelType": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "rangeRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "numOfExtraDrops": {
+              "m_defined": false,
+              "m_value": 0
+            },
+            "viewRadius": {
+              "m_defined": false,
+              "m_value": 0.0
+            },
+            "talentBlackboard": [
+              {
+                "key": "DamageCounter.hp",
+                "value": 45000.0,
+                "valueStr": null
+              },
+              {
+                "key": "Reborn.max_hp",
+                "value": 470000.0,
+                "valueStr": null
+              },
+              {
+                "key": "TailCut.max_hp_ratio",
+                "value": 5.0,
+                "valueStr": null
+              }
+            ],
+            "skills": [
+              {
+                "prefabKey": "LandSwingTail",
+                "priority": 0,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.5,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "LandSwingTail_Cut",
+                "priority": 0,
+                "cooldown": 10.0,
+                "initCooldown": 10.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.6,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "LandFireBall",
+                "priority": 0,
+                "cooldown": 3.6,
+                "initCooldown": 2.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "LandFireBall",
+                    "value": 0.8,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "Roar",
+                "priority": 1,
+                "cooldown": 9999.0,
+                "initCooldown": 5.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "stun",
+                    "value": 5.0,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyAttack",
+                "priority": 0,
+                "cooldown": 3.0,
+                "initCooldown": 20.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.8,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.03,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 4.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.2,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlySwingTail",
+                "priority": 3,
+                "cooldown": 13.0,
+                "initCooldown": 8.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 1.6,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlySwingTail_Cut",
+                "priority": 3,
+                "cooldown": 13.0,
+                "initCooldown": 8.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.9,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyFireCircle",
+                "priority": 2,
+                "cooldown": 30.0,
+                "initCooldown": 25.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 8.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.3,
+                    "valueStr": null
+                  }
+                ]
+              },
+              {
+                "prefabKey": "FlyFireLane",
+                "priority": 1,
+                "cooldown": 40.0,
+                "initCooldown": 15.0,
+                "spCost": 0,
+                "blackboard": [
+                  {
+                    "key": "atk_scale",
+                    "value": 0.8,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "ep_damage_ratio",
+                    "value": 0.5,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.projectile_life_time",
+                    "value": 8.0,
+                    "valueStr": null
+                  },
+                  {
+                    "key": "continuousdamage.atk_scale",
+                    "value": 0.3,
+                    "valueStr": null
+                  }
+                ]
+              }
+            ],
             "spData": null
           }
         }

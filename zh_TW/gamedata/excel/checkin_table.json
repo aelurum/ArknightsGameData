@@ -4029,6 +4029,1944 @@
           "count": 3
         }
       ]
+    },
+    "signin50": {
+      "groupId": "signin50",
+      "title": "一月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1704052800,
+      "signEndTime": 1706731199,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 3
+        }
+      ]
+    },
+    "signin51": {
+      "groupId": "signin51",
+      "title": "二月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1706731200,
+      "signEndTime": 1709236799,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        }
+      ]
+    },
+    "signin52": {
+      "groupId": "signin52",
+      "title": "三月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1709236800,
+      "signEndTime": 1711915199,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 3
+        }
+      ]
+    },
+    "signin53": {
+      "groupId": "signin53",
+      "title": "四月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1711915200,
+      "signEndTime": 1714507199,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        }
+      ]
+    },
+    "signin54": {
+      "groupId": "signin54",
+      "title": "五月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1714507200,
+      "signEndTime": 1717185599,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 3
+        }
+      ]
+    },
+    "signin55": {
+      "groupId": "signin55",
+      "title": "六月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1717185600,
+      "signEndTime": 1719777599,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        }
+      ]
+    },
+    "signin56": {
+      "groupId": "signin56",
+      "title": "七月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1719777600,
+      "signEndTime": 1722455999,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 3
+        }
+      ]
+    },
+    "signin57": {
+      "groupId": "signin57",
+      "title": "八月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1722456000,
+      "signEndTime": 1725134399,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 3
+        }
+      ]
+    },
+    "signin58": {
+      "groupId": "signin58",
+      "title": "九月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1725134400,
+      "signEndTime": 1727726399,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        }
+      ]
+    },
+    "signin59": {
+      "groupId": "signin59",
+      "title": "十月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1727726400,
+      "signEndTime": 1730404799,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 3
+        }
+      ]
+    },
+    "signin60": {
+      "groupId": "signin60",
+      "title": "十一月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1730404800,
+      "signEndTime": 1732996799,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        }
+      ]
+    },
+    "signin61": {
+      "groupId": "signin61",
+      "title": "十二月簽到",
+      "description": "一日之計在於晨。羅德島後勤部將為博士提供多樣的每日簽到物資。",
+      "signStartTime": 1732996800,
+      "signEndTime": 1735675199,
+      "items": [
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 2000
+        },
+        {
+          "itemId": "2001",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 2
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 8
+        },
+        {
+          "itemId": "3112",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 4000
+        },
+        {
+          "itemId": "2002",
+          "itemType": "CARD_EXP",
+          "count": 10
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 2
+        },
+        {
+          "itemId": "4005",
+          "itemType": "LGG_SHD",
+          "count": 10
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 40
+        },
+        {
+          "itemId": "3301",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 10
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 6000
+        },
+        {
+          "itemId": "2003",
+          "itemType": "CARD_EXP",
+          "count": 6
+        },
+        {
+          "itemId": "7003",
+          "itemType": "TKT_GACHA",
+          "count": 1
+        },
+        {
+          "itemId": "4006",
+          "itemType": "MATERIAL",
+          "count": 25
+        },
+        {
+          "itemId": "3113",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "3302",
+          "itemType": "MATERIAL",
+          "count": 5
+        },
+        {
+          "itemId": "3003",
+          "itemType": "MATERIAL",
+          "count": 15
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 8000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 4
+        },
+        {
+          "itemId": "7001",
+          "itemType": "TKT_RECRUIT",
+          "count": 3
+        },
+        {
+          "itemId": "4004",
+          "itemType": "HGG_SHD",
+          "count": 5
+        },
+        {
+          "itemId": "3401",
+          "itemType": "MATERIAL",
+          "count": 100
+        },
+        {
+          "itemId": "3303",
+          "itemType": "MATERIAL",
+          "count": 6
+        },
+        {
+          "itemId": "32001",
+          "itemType": "MATERIAL",
+          "count": 1
+        },
+        {
+          "itemId": "4001",
+          "itemType": "GOLD",
+          "count": 10000
+        },
+        {
+          "itemId": "2004",
+          "itemType": "CARD_EXP",
+          "count": 5
+        },
+        {
+          "itemId": "7002",
+          "itemType": "TKT_INST_FIN",
+          "count": 3
+        }
+      ]
     }
   },
   "monthlySubItem": {

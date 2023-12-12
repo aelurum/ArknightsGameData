@@ -572,6 +572,32 @@
       "lockedText": null,
       "canPreview": false
     },
+    "act24side_zone1": {
+      "zoneID": "act24side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "蒼暮山地",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act24side_zone2": {
+      "zoneID": "act24side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "艾路的委託櫃檯",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "act23side_zone1": {
       "zoneID": "act23side_zone1",
       "zoneIndex": 0,
@@ -2597,6 +2623,14 @@
     }
   },
   "zoneValidInfo": {
+    "act24side_zone1": {
+      "startTs": 1702360800,
+      "endTs": 1703534399
+    },
+    "act24side_zone2": {
+      "startTs": 1702972800,
+      "endTs": 1703534399
+    },
     "act23side_zone1": {
       "startTs": 1700551800,
       "endTs": 1701719999

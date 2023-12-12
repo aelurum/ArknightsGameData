@@ -1,8 +1,9 @@
+require "Feature/ResDefines"
+require "Feature/AudioConsts"
+require "Feature/Supportor/SupportorModule"
+
 require "Feature/Main/MainDlg"
 require "Feature/Main/TestDlg"
-
-require "Feature/ResDefines"
-require "Feature/Supportor/SupportorModule"
 
 require "Feature/Activity/Collection/CollectionItem"
 require "Feature/Activity/Collection/CollectionMainDlg"
@@ -17,6 +18,8 @@ require "Feature/Activity/LoginOnly/NoEntryLoginOnlyDlg"
 require "Feature/Activity/PrayOnly/PrayOnlyDefine"
 require "Feature/Activity/PrayOnly/PrayOnlyMainDlg"
 require "Feature/Activity/PrayOnly/PrayOnlyActDefines"
+
+require "Feature/Activity/ActFlip/ActFlipMainDlg"
 
 require "Feature/Activity/LuaActivityUtil"
 
@@ -41,7 +44,21 @@ require "Feature/Activity/FloatParade/FloatParadeRecycleDayListAdapter"
 require "Feature/Activity/FloatParade/FloatParadeTacticTab"
 require "Feature/Activity/FloatParade/FloatParadeMainDlg"
 
+require "Feature/Activity/CheckinAllPlayer/CheckinAllPlayerMainDlg"
+require "Feature/Activity/CheckinVs/CheckinVsMainDlg"
+
+require "Feature/Activity/MainlineBuff/MainlineBuffDefine"
+require "Feature/Activity/MainlineBuff/MainlineBuffMainDlg"
+
 require "Feature/Wardrobe/WardrobeModule"
+
+require "Feature/Operation/ReturnV2/ReturnV2Model";
+require "Feature/Operation/ReturnV2/ReturnV2MainDlgViewModel"
+require "Feature/Operation/ReturnV2/ReturnV2MainDlg";
+require "Feature/Operation/ReturnV2/ReturnV2Define";
+require "Feature/Operation/ReturnV2/ReturnV2WelcomeDlg"
+require "Feature/Operation/ReturnV2/ReturnV2RewardsDlg"
+require "Feature/Operation/ReturnV2/ReturnV2TrackPoint";
 
 require "Feature/Operation/Returnning/ReturnDefine"
 require "Feature/Operation/Returnning/ReturnService"
@@ -53,3 +70,15 @@ require "Feature/Operation/Returnning/ReturnWelcomeDlg"
 require "Feature/Operation/Returnning/ReturnRewardsDlg"
 
 require "Feature/Operation/ActFun/ActFunModule"
+
+require "Feature/Activity/SwitchOnly/SwitchOnlyDefine"
+require "Feature/Activity/SwitchOnly/SwitchOnlyDlg"
+require "Feature/Activity/SwitchOnly/SwitchOnlyItemView"
+
+require "Feature/Activity/UniqueOnly/UniqueOnlyDefine"
+require "Feature/Activity/UniqueOnly/UniqueOnlyDlg"
+require "Feature/Activity/UniqueOnly/UniqueOnlyUtil"
+
+require "Feature/Activity/MainlineBp/MainlineBpDefine";
+require "Feature/Activity/MainlineBp/MainlineBpUtil";
+require "Feature/Activity/MainlineBp/MainlineBpMainDlg";

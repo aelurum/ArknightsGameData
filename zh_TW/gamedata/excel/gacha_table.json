@@ -2379,6 +2379,36 @@
       "gachaRuleType": "NORMAL"
     },
     {
+      "gachaPoolId": "NORM_TC_22_1_2",
+      "gachaIndex": 9,
+      "openTime": 1702929600,
+      "endTime": 1704139199,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於1月2日 03:59",
+      "gachaPoolDetail": "-",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "NORMAL"
+    },
+    {
+      "gachaPoolId": "NORM_TC_22_1_4",
+      "gachaIndex": 8,
+      "openTime": 1704139200,
+      "endTime": 1705348799,
+      "gachaPoolName": "適合多種場合的強力幹員",
+      "gachaPoolSummary": "結束於1月16日 03:59",
+      "gachaPoolDetail": "-",
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "NORMAL"
+    },
+    {
       "gachaPoolId": "LIMITED_TC_4_3_1",
       "gachaIndex": 1,
       "openTime": 1622100600,
@@ -2578,8 +2608,27 @@
       }
     },
     {
-      "gachaPoolId": "ATTAIN_TC_15_2_1",
+      "gachaPoolId": "LINKAGE_TC_22_1_1",
       "gachaIndex": 1,
+      "openTime": 1702360800,
+      "endTime": 1703534399,
+      "gachaPoolName": "礪火成鋒",
+      "gachaPoolSummary": "結束於12月26日03:59",
+      "gachaPoolDetail": null,
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "LINKAGE",
+      "linkageRuleId": "LINKAGE_MH_01",
+      "linkageParam": {
+        "guaranteeTarget6Count": 120
+      }
+    },
+    {
+      "gachaPoolId": "ATTAIN_TC_15_2_1",
+      "gachaIndex": 2,
       "openTime": 1665646200,
       "endTime": 1666814399,
       "gachaPoolName": "金秋紀念·回首",
@@ -2624,6 +2673,67 @@
           "char_423_blemsh",
           "char_311_mudrok",
           "char_264_f12yin"
+        ]
+      }
+    },
+    {
+      "gachaPoolId": "ATTAIN_TC_22_1_3",
+      "gachaIndex": 1,
+      "openTime": 1703577600,
+      "endTime": 1704743999,
+      "gachaPoolName": "跨年歡慶·相逢",
+      "gachaPoolSummary": "結束於1月9日03:59",
+      "gachaPoolDetail": null,
+      "guarantee5Avail": 1,
+      "guarantee5Count": 10,
+      "CDPrimColor": null,
+      "CDSecColor": null,
+      "LMTGSID": null,
+      "gachaRuleType": "ATTAIN",
+      "dynMeta": {
+        "attainRare6Num": 1,
+        "attainRare6CharList": [
+          "char_103_angel",
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_180_amgoat",
+          "char_291_aglina",
+          "char_147_shining",
+          "char_179_cgbird",
+          "char_136_hsguma",
+          "char_202_demkni",
+          "char_172_svrash",
+          "char_263_skadi",
+          "char_010_chen",
+          "char_340_shwaz",
+          "char_188_helage",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_017_huang",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_222_bpipe",
+          "char_250_phatom",
+          "char_400_weedy",
+          "char_197_poca",
+          "char_358_lisa",
+          "char_293_thorns",
+          "char_416_zumama",
+          "char_350_surtr",
+          "char_423_blemsh",
+          "char_311_mudrok",
+          "char_264_f12yin",
+          "char_332_archet",
+          "char_362_saga",
+          "char_472_pasngr",
+          "char_003_kalts",
+          "char_426_billro",
+          "char_485_pallas",
+          "char_437_mizuki",
+          "char_479_sleach",
+          "char_430_fartth",
+          "char_420_flamtl",
+          "char_206_gnosis"
         ]
       }
     }
@@ -3202,1144 +3312,1172 @@
     },
     {
       "poolId": "NORM_TC_0_1_1",
-      "index": 163,
+      "index": 174,
       "startTime": 1593388800,
       "endTime": 1594065599,
       "spriteId": "picNorm_tc_0_1_1"
     },
     {
       "poolId": "NORM_TC_0_1_2",
-      "index": 162,
+      "index": 173,
       "startTime": 1594065600,
       "endTime": 1595275199,
       "spriteId": "picNorm_tc_0_1_2"
     },
     {
       "poolId": "NORM_TC_0_1_3",
-      "index": 161,
+      "index": 172,
       "startTime": 1594281600,
       "endTime": 1595447999,
       "spriteId": "picNorm_tc_0_1_3"
     },
     {
       "poolId": "NORM_TC_1_0_1",
-      "index": 160,
+      "index": 171,
       "startTime": 1595275200,
       "endTime": 1596484799,
       "spriteId": "picNorm_tc_1_0_1"
     },
     {
       "poolId": "NORM_TC_1_0_2",
-      "index": 159,
+      "index": 170,
       "startTime": 1595491200,
       "endTime": 1596657599,
       "spriteId": "picNorm_tc_1_0_2"
     },
     {
       "poolId": "NORM_TC_2_0_1",
-      "index": 158,
+      "index": 169,
       "startTime": 1596484800,
       "endTime": 1597694399,
       "spriteId": "picNorm_tc_2_0_1"
     },
     {
       "poolId": "NORM_TC_2_0_2",
-      "index": 157,
+      "index": 168,
       "startTime": 1597303800,
       "endTime": 1598471999,
       "spriteId": "picNorm_tc_2_0_2"
     },
     {
       "poolId": "NORM_TC_2_0_3",
-      "index": 156,
+      "index": 167,
       "startTime": 1597694400,
       "endTime": 1598903999,
       "spriteId": "picNorm_tc_2_0_3"
     },
     {
       "poolId": "NORM_TC_2_0_4",
-      "index": 155,
+      "index": 166,
       "startTime": 1598515200,
       "endTime": 1599681599,
       "spriteId": "picNorm_tc_2_0_4"
     },
     {
       "poolId": "NORM_TC_2_0_5",
-      "index": 154,
+      "index": 165,
       "startTime": 1598904000,
       "endTime": 1600113599,
       "spriteId": "picNorm_tc_2_0_5"
     },
     {
       "poolId": "NORM_TC_3_0_1",
-      "index": 153,
+      "index": 164,
       "startTime": 1599717600,
       "endTime": 1600891199,
       "spriteId": "picNorm_tc_3_0_1"
     },
     {
       "poolId": "NORM_TC_3_0_2",
-      "index": 152,
+      "index": 163,
       "startTime": 1600113600,
       "endTime": 1601323199,
       "spriteId": "picNorm_tc_3_0_2"
     },
     {
       "poolId": "NORM_TC_3_0_3",
-      "index": 151,
+      "index": 162,
       "startTime": 1601323200,
       "endTime": 1602532799,
       "spriteId": "picNorm_tc_3_0_3"
     },
     {
       "poolId": "NORM_TC_4_0_1",
-      "index": 150,
+      "index": 161,
       "startTime": 1601452800,
       "endTime": 1602619199,
       "spriteId": "picNorm_tc_4_0_1"
     },
     {
       "poolId": "NORM_TC_4_0_2",
-      "index": 149,
+      "index": 160,
       "startTime": 1602532800,
       "endTime": 1603742399,
       "spriteId": "picNorm_tc_4_0_2"
     },
     {
       "poolId": "NORM_TC_4_0_3",
-      "index": 148,
+      "index": 159,
       "startTime": 1602662400,
       "endTime": 1603828799,
       "spriteId": "picNorm_tc_4_0_3"
     },
     {
       "poolId": "NORM_TC_4_0_4",
-      "index": 147,
+      "index": 158,
       "startTime": 1603742400,
       "endTime": 1604951999,
       "spriteId": "picNorm_tc_4_0_4"
     },
     {
       "poolId": "NORM_TC_4_0_5",
-      "index": 146,
+      "index": 157,
       "startTime": 1603958400,
       "endTime": 1605124799,
       "spriteId": "picNorm_tc_4_0_5"
     },
     {
       "poolId": "NORM_TC_4_0_6",
-      "index": 145,
+      "index": 156,
       "startTime": 1604952000,
       "endTime": 1606161599,
       "spriteId": "picNorm_tc_4_0_6"
     },
     {
       "poolId": "NORM_TC_5_0_1",
-      "index": 144,
+      "index": 155,
       "startTime": 1605765600,
       "endTime": 1606939199,
       "spriteId": "picNorm_tc_5_0_1"
     },
     {
       "poolId": "NORM_TC_5_0_2",
-      "index": 143,
+      "index": 154,
       "startTime": 1606161600,
       "endTime": 1607371199,
       "spriteId": "picNorm_tc_5_0_2"
     },
     {
       "poolId": "NORM_TC_5_0_3",
-      "index": 142,
+      "index": 153,
       "startTime": 1606980600,
       "endTime": 1608148799,
       "spriteId": "picNorm_tc_5_0_3"
     },
     {
       "poolId": "NORM_TC_5_0_4",
-      "index": 141,
+      "index": 152,
       "startTime": 1607371200,
       "endTime": 1608580799,
       "spriteId": "picNorm_tc_5_0_4"
     },
     {
       "poolId": "NORM_TC_5_0_5",
-      "index": 140,
+      "index": 151,
       "startTime": 1608580800,
       "endTime": 1609790399,
       "spriteId": "picNorm_tc_5_0_5"
     },
     {
       "poolId": "NORM_TC_6_0_1",
-      "index": 139,
+      "index": 150,
       "startTime": 1608795000,
       "endTime": 1609963199,
       "spriteId": "picNorm_tc_6_0_1"
     },
     {
       "poolId": "NORM_TC_6_0_2",
-      "index": 138,
+      "index": 149,
       "startTime": 1609790400,
       "endTime": 1610999999,
       "spriteId": "picNorm_tc_6_0_2"
     },
     {
       "poolId": "NORM_TC_6_0_3",
-      "index": 137,
+      "index": 148,
       "startTime": 1610006400,
       "endTime": 1611172799,
       "spriteId": "picNorm_tc_6_0_3"
     },
     {
       "poolId": "NORM_TC_6_0_4",
-      "index": 136,
+      "index": 147,
       "startTime": 1611000000,
       "endTime": 1612209599,
       "spriteId": "picNorm_tc_6_0_4"
     },
     {
       "poolId": "NORM_TC_7_0_1",
-      "index": 135,
+      "index": 146,
       "startTime": 1611214200,
       "endTime": 1612382399,
       "spriteId": "picNorm_tc_7_0_1"
     },
     {
       "poolId": "NORM_TC_7_0_2",
-      "index": 134,
+      "index": 145,
       "startTime": 1612209600,
       "endTime": 1613419199,
       "spriteId": "picNorm_tc_7_0_2"
     },
     {
       "poolId": "NORM_TC_7_0_3",
-      "index": 133,
+      "index": 144,
       "startTime": 1612423800,
       "endTime": 1613591999,
       "spriteId": "picNorm_tc_7_0_3"
     },
     {
       "poolId": "NORM_TC_7_0_4",
-      "index": 132,
+      "index": 143,
       "startTime": 1613419200,
       "endTime": 1614628799,
       "spriteId": "picNorm_tc_7_0_4"
     },
     {
       "poolId": "NORM_TC_8_0_1",
-      "index": 131,
+      "index": 142,
       "startTime": 1614628800,
       "endTime": 1615838399,
       "spriteId": "picNorm_tc_8_0_1"
     },
     {
       "poolId": "NORM_TC_8_0_2",
-      "index": 130,
+      "index": 141,
       "startTime": 1614843000,
       "endTime": 1616011199,
       "spriteId": "picNorm_tc_8_0_2"
     },
     {
       "poolId": "NORM_TC_8_0_3",
-      "index": 129,
+      "index": 140,
       "startTime": 1615838400,
       "endTime": 1617047999,
       "spriteId": "picNorm_tc_8_0_3"
     },
     {
       "poolId": "NORM_TC_3_1_1",
-      "index": 128,
+      "index": 139,
       "startTime": 1616047200,
       "endTime": 1617220799,
       "spriteId": "picNorm_tc_3_1_1"
     },
     {
       "poolId": "NORM_TC_3_1_2",
-      "index": 127,
+      "index": 138,
       "startTime": 1617048000,
       "endTime": 1618257599,
       "spriteId": "picNorm_tc_3_1_2"
     },
     {
       "poolId": "NORM_TC_3_2_1",
-      "index": 126,
+      "index": 137,
       "startTime": 1617262200,
       "endTime": 1618430399,
       "spriteId": "picNorm_tc_3_2_1"
     },
     {
       "poolId": "NORM_TC_3_2_2",
-      "index": 125,
+      "index": 136,
       "startTime": 1618257600,
       "endTime": 1619467199,
       "spriteId": "picNorm_tc_3_2_2"
     },
     {
       "poolId": "NORM_TC_3_3_1",
-      "index": 124,
+      "index": 135,
       "startTime": 1618471800,
       "endTime": 1619639999,
       "spriteId": "picNorm_tc_3_3_1"
     },
     {
       "poolId": "NORM_TC_3_3_2",
-      "index": 123,
+      "index": 134,
       "startTime": 1619467200,
       "endTime": 1620676799,
       "spriteId": "picNorm_tc_3_3_2"
     },
     {
       "poolId": "NORM_TC_4_1_1",
-      "index": 122,
+      "index": 133,
       "startTime": 1619676000,
       "endTime": 1620849599,
       "spriteId": "picNorm_tc_4_1_1"
     },
     {
       "poolId": "NORM_TC_4_1_2",
-      "index": 121,
+      "index": 132,
       "startTime": 1619676000,
       "endTime": 1620849599,
       "spriteId": "picNorm_tc_4_1_2"
     },
     {
       "poolId": "NORM_TC_4_1_3",
-      "index": 120,
+      "index": 131,
       "startTime": 1620676800,
       "endTime": 1621886399,
       "spriteId": "picNorm_tc_4_1_3"
     },
     {
       "poolId": "NORM_TC_4_2_1",
-      "index": 119,
+      "index": 130,
       "startTime": 1620891000,
       "endTime": 1622059199,
       "spriteId": "picNorm_tc_4_2_1"
     },
     {
       "poolId": "NORM_TC_4_2_2",
-      "index": 118,
+      "index": 129,
       "startTime": 1621886400,
       "endTime": 1623095999,
       "spriteId": "picNorm_tc_4_2_2"
     },
     {
       "poolId": "LIMITED_TC_4_3_1",
-      "index": 117,
+      "index": 128,
       "startTime": 1622100600,
       "endTime": 1623268799,
       "spriteId": "picLimited_tc_4_3_1"
     },
     {
       "poolId": "NORM_TC_4_3_2",
-      "index": 116,
+      "index": 127,
       "startTime": 1623096000,
       "endTime": 1624305599,
       "spriteId": "picNorm_tc_4_3_2"
     },
     {
       "poolId": "NORM_TC_5_1_1",
-      "index": 115,
+      "index": 126,
       "startTime": 1623304800,
       "endTime": 1625083199,
       "spriteId": "picNorm_tc_5_1_1"
     },
     {
       "poolId": "NORM_TC_5_1_2",
-      "index": 114,
+      "index": 125,
       "startTime": 1624305600,
       "endTime": 1625515199,
       "spriteId": "picNorm_tc_5_1_2"
     },
     {
       "poolId": "NORM_TC_5_2_1",
-      "index": 113,
+      "index": 124,
       "startTime": 1624519800,
       "endTime": 1626292799,
       "spriteId": "picNorm_tc_5_2_1"
     },
     {
       "poolId": "NORM_TC_5_2_2",
-      "index": 112,
+      "index": 123,
       "startTime": 1625515200,
       "endTime": 1626724799,
       "spriteId": "picNorm_tc_5_2_2"
     },
     {
       "poolId": "NORM_TC_5_3_1",
-      "index": 111,
+      "index": 122,
       "startTime": 1626334200,
       "endTime": 1627502399,
       "spriteId": "picNorm_tc_5_3_1"
     },
     {
       "poolId": "NORM_TC_5_3_2",
-      "index": 110,
+      "index": 121,
       "startTime": 1626724800,
       "endTime": 1627934399,
       "spriteId": "picNorm_tc_5_3_2"
     },
     {
       "poolId": "NORM_TC_6_1_1",
-      "index": 109,
+      "index": 120,
       "startTime": 1627538400,
       "endTime": 1628711999,
       "spriteId": "picNorm_tc_6_1_1"
     },
     {
       "poolId": "NORM_TC_6_1_2",
-      "index": 108,
+      "index": 119,
       "startTime": 1627934400,
       "endTime": 1629143999,
       "spriteId": "picNorm_tc_6_1_2"
     },
     {
       "poolId": "NORM_TC_6_2_1",
-      "index": 107,
+      "index": 118,
       "startTime": 1628753400,
       "endTime": 1629921599,
       "spriteId": "picNorm_tc_6_2_1"
     },
     {
       "poolId": "NORM_TC_6_2_2",
-      "index": 106,
+      "index": 117,
       "startTime": 1629144000,
       "endTime": 1630353599,
       "spriteId": "picNorm_tc_6_2_2"
     },
     {
       "poolId": "LIMITED_TC_7_1_1",
-      "index": 105,
+      "index": 116,
       "startTime": 1629957600,
       "endTime": 1631131199,
       "spriteId": "picLimited_tc_7_1_1"
     },
     {
       "poolId": "NORM_TC_7_1_2",
-      "index": 104,
+      "index": 115,
       "startTime": 1630353600,
       "endTime": 1631563199,
       "spriteId": "picNorm_tc_7_1_2"
     },
     {
       "poolId": "LINKAGE_TC_7_2_1",
-      "index": 103,
+      "index": 114,
       "startTime": 1631172600,
       "endTime": 1632340799,
       "spriteId": "picLinkage_tc_7_2_1"
     },
     {
       "poolId": "NORM_TC_7_2_2",
-      "index": 102,
+      "index": 113,
       "startTime": 1631563200,
       "endTime": 1632772799,
       "spriteId": "picNorm_tc_7_2_2"
     },
     {
       "poolId": "NORM_TC_7_3_1",
-      "index": 101,
+      "index": 112,
       "startTime": 1632382200,
       "endTime": 1633550399,
       "spriteId": "picNorm_tc_7_3_1"
     },
     {
       "poolId": "NORM_TC_7_3_2",
-      "index": 100,
+      "index": 111,
       "startTime": 1632772800,
       "endTime": 1633982399,
       "spriteId": "picNorm_tc_7_3_2"
     },
     {
       "poolId": "NORM_TC_7_3_3",
-      "index": 99,
+      "index": 110,
       "startTime": 1633982400,
       "endTime": 1635191999,
       "spriteId": "picNorm_tc_7_3_3"
     },
     {
       "poolId": "NORM_TC_8_1_1",
-      "index": 98,
+      "index": 109,
       "startTime": 1634191200,
       "endTime": 1635364799,
       "spriteId": "picNorm_tc_8_1_1"
     },
     {
       "poolId": "NORM_TC_8_1_2",
-      "index": 97,
+      "index": 108,
       "startTime": 1635192000,
       "endTime": 1636401599,
       "spriteId": "picNorm_tc_8_1_2"
     },
     {
       "poolId": "NORM_TC_8_2_1",
-      "index": 96,
+      "index": 107,
       "startTime": 1635406200,
       "endTime": 1636574399,
       "spriteId": "picNorm_tc_8_2_1"
     },
     {
       "poolId": "NORM_TC_8_2_2",
-      "index": 95,
+      "index": 106,
       "startTime": 1636401600,
       "endTime": 1637611199,
       "spriteId": "picNorm_tc_8_2_2"
     },
     {
       "poolId": "NORM_TC_8_3_1",
-      "index": 94,
+      "index": 105,
       "startTime": 1636615800,
       "endTime": 1637783999,
       "spriteId": "picNorm_tc_8_3_1"
     },
     {
       "poolId": "NORM_TC_8_3_2",
-      "index": 93,
+      "index": 104,
       "startTime": 1637611200,
       "endTime": 1638820799,
       "spriteId": "picNorm_tc_8_3_2"
     },
     {
       "poolId": "LIMITED_TC_9_1_1",
-      "index": 92,
+      "index": 103,
       "startTime": 1637647200,
       "endTime": 1638993599,
       "spriteId": "picLimited_tc_9_1_1"
     },
     {
       "poolId": "NORM_TC_9_1_2",
-      "index": 91,
+      "index": 102,
       "startTime": 1638820800,
       "endTime": 1640030399,
       "spriteId": "picNorm_tc_9_1_2"
     },
     {
       "poolId": "NORM_TC_9_2_1",
-      "index": 90,
+      "index": 101,
       "startTime": 1639035000,
       "endTime": 1640203199,
       "spriteId": "picNorm_tc_9_2_1"
     },
     {
       "poolId": "NORM_TC_9_2_2",
-      "index": 89,
+      "index": 100,
       "startTime": 1640030400,
       "endTime": 1641239999,
       "spriteId": "picNorm_tc_9_2_2"
     },
     {
       "poolId": "LIMITED_TC_9_3_1",
-      "index": 88,
+      "index": 99,
       "startTime": 1640244600,
       "endTime": 1641412799,
       "spriteId": "picLimited_tc_9_3_1"
     },
     {
       "poolId": "NORM_TC_9_3_2",
-      "index": 87,
+      "index": 98,
       "startTime": 1641240000,
       "endTime": 1642449599,
       "spriteId": "picNorm_tc_9_3_2"
     },
     {
       "poolId": "NORM_TC_10_1_1",
-      "index": 86,
+      "index": 97,
       "startTime": 1641880800,
       "endTime": 1643054399,
       "spriteId": "picNorm_tc_10_1_1"
     },
     {
       "poolId": "NORM_TC_10_1_2",
-      "index": 85,
+      "index": 96,
       "startTime": 1642449600,
       "endTime": 1643659199,
       "spriteId": "picNorm_tc_10_1_2"
     },
     {
       "poolId": "LIMITED_TC_10_2_1",
-      "index": 84,
+      "index": 95,
       "startTime": 1643182200,
       "endTime": 1644350399,
       "spriteId": "picLimited_tc_10_2_1"
     },
     {
       "poolId": "NORM_TC_10_2_2",
-      "index": 83,
+      "index": 94,
       "startTime": 1643659200,
       "endTime": 1644868799,
       "spriteId": "picNorm_tc_10_2_2"
     },
     {
       "poolId": "NORM_TC_10_2_3",
-      "index": 82,
+      "index": 93,
       "startTime": 1644868800,
       "endTime": 1646078399,
       "spriteId": "picNorm_tc_10_2_3"
     },
     {
       "poolId": "NORM_TC_10_3_1",
-      "index": 81,
+      "index": 92,
       "startTime": 1644910200,
       "endTime": 1646078399,
       "spriteId": "picNorm_tc_10_3_1"
     },
     {
       "poolId": "NORM_TC_10_3_2",
-      "index": 80,
+      "index": 91,
       "startTime": 1646078400,
       "endTime": 1647287999,
       "spriteId": "picNorm_tc_10_3_2"
     },
     {
       "poolId": "NORM_TC_11_1_1",
-      "index": 79,
+      "index": 90,
       "startTime": 1646719200,
       "endTime": 1647892799,
       "spriteId": "picNorm_tc_11_1_1"
     },
     {
       "poolId": "NORM_TC_11_1_2",
-      "index": 78,
+      "index": 89,
       "startTime": 1647288000,
       "endTime": 1648497599,
       "spriteId": "picNorm_tc_11_1_2"
     },
     {
       "poolId": "NORM_TC_11_2_1",
-      "index": 77,
+      "index": 88,
       "startTime": 1647934200,
       "endTime": 1649102399,
       "spriteId": "picNorm_tc_11_2_1"
     },
     {
       "poolId": "NORM_TC_11_2_2",
-      "index": 76,
+      "index": 87,
       "startTime": 1648497600,
       "endTime": 1649707199,
       "spriteId": "picNorm_tc_11_2_2"
     },
     {
       "poolId": "NORM_TC_11_3_1",
-      "index": 75,
+      "index": 86,
       "startTime": 1649230200,
       "endTime": 1650398399,
       "spriteId": "picNorm_tc_11_3_1"
     },
     {
       "poolId": "NORM_TC_11_3_2",
-      "index": 74,
+      "index": 85,
       "startTime": 1649707200,
       "endTime": 1650916799,
       "spriteId": "picNorm_tc_11_3_2"
     },
     {
       "poolId": "NORM_TC_11_3_3",
-      "index": 73,
+      "index": 84,
       "startTime": 1650916800,
       "endTime": 1652126399,
       "spriteId": "picNorm_tc_11_3_3"
     },
     {
       "poolId": "NORM_TC_12_1_1",
-      "index": 72,
+      "index": 83,
       "startTime": 1650952800,
       "endTime": 1652126399,
       "spriteId": "picNorm_tc_12_1_1"
     },
     {
       "poolId": "NORM_TC_12_1_2",
-      "index": 71,
+      "index": 82,
       "startTime": 1652126400,
       "endTime": 1653335999,
       "spriteId": "picNorm_tc_12_1_2"
     },
     {
       "poolId": "LIMITED_TC_12_2_1",
-      "index": 70,
+      "index": 81,
       "startTime": 1652167800,
       "endTime": 1653335999,
       "spriteId": "picLimited_tc_12_2_1"
     },
     {
       "poolId": "NORM_TC_12_2_2",
-      "index": 69,
+      "index": 80,
       "startTime": 1653336000,
       "endTime": 1654545599,
       "spriteId": "picNorm_tc_12_2_2"
     },
     {
       "poolId": "NORM_TC_12_3_1",
-      "index": 68,
+      "index": 79,
       "startTime": 1654068600,
       "endTime": 1655236799,
       "spriteId": "picNorm_tc_12_3_1"
     },
     {
       "poolId": "NORM_TC_12_3_2",
-      "index": 67,
+      "index": 78,
       "startTime": 1654545600,
       "endTime": 1655755199,
       "spriteId": "picNorm_tc_12_3_2"
     },
     {
       "poolId": "NORM_TC_12_3_3",
-      "index": 66,
+      "index": 77,
       "startTime": 1655755200,
       "endTime": 1656964799,
       "spriteId": "picNorm_tc_12_3_3"
     },
     {
       "poolId": "NORM_TC_13_1_1",
-      "index": 65,
+      "index": 76,
       "startTime": 1655791200,
       "endTime": 1656964799,
       "spriteId": "picNorm_tc_13_1_1"
     },
     {
       "poolId": "NORM_TC_13_1_2",
-      "index": 64,
+      "index": 75,
       "startTime": 1656964800,
       "endTime": 1658174399,
       "spriteId": "picNorm_tc_13_1_2"
     },
     {
       "poolId": "NORM_TC_13_2_1",
-      "index": 63,
+      "index": 74,
       "startTime": 1657092600,
       "endTime": 1658260799,
       "spriteId": "picNorm_tc_13_2_1"
     },
     {
       "poolId": "NORM_TC_13_2_2",
-      "index": 62,
+      "index": 73,
       "startTime": 1658174400,
       "endTime": 1659383999,
       "spriteId": "picNorm_tc_13_2_2"
     },
     {
       "poolId": "NORM_TC_13_3_1",
-      "index": 61,
+      "index": 72,
       "startTime": 1658302200,
       "endTime": 1659470399,
       "spriteId": "picNorm_tc_13_3_1"
     },
     {
       "poolId": "NORM_TC_13_3_2",
-      "index": 60,
+      "index": 71,
       "startTime": 1659384000,
       "endTime": 1660593599,
       "spriteId": "picNorm_tc_13_3_2"
     },
     {
       "poolId": "LIMITED_TC_14_1_1",
-      "index": 59,
+      "index": 70,
       "startTime": 1659592800,
       "endTime": 1660766399,
       "spriteId": "picLimited_tc_14_1_1"
     },
     {
       "poolId": "NORM_TC_14_1_2",
-      "index": 58,
+      "index": 69,
       "startTime": 1660593600,
       "endTime": 1661803199,
       "spriteId": "picNorm_tc_14_1_2"
     },
     {
       "poolId": "NORM_TC_14_1_3",
-      "index": 57,
+      "index": 68,
       "startTime": 1661803200,
       "endTime": 1663012799,
       "spriteId": "picNorm_tc_14_1_3"
     },
     {
       "poolId": "NORM_TC_14_2_1",
-      "index": 56,
+      "index": 67,
       "startTime": 1661844600,
       "endTime": 1663012799,
       "spriteId": "picNorm_tc_14_2_1"
     },
     {
       "poolId": "NORM_TC_14_2_2",
-      "index": 55,
+      "index": 66,
       "startTime": 1663012800,
       "endTime": 1664222399,
       "spriteId": "picNorm_tc_14_2_2"
     },
     {
       "poolId": "NORM_TC_14_3_1",
-      "index": 54,
+      "index": 65,
       "startTime": 1663140600,
       "endTime": 1664308799,
       "spriteId": "picNorm_tc_14_3_1"
     },
     {
       "poolId": "NORM_TC_14_3_2",
-      "index": 53,
+      "index": 64,
       "startTime": 1664222400,
       "endTime": 1665431999,
       "spriteId": "picNorm_tc_14_3_2"
     },
     {
       "poolId": "NORM_TC_15_1_1",
-      "index": 52,
+      "index": 63,
       "startTime": 1664431200,
       "endTime": 1665604799,
       "spriteId": "picNorm_tc_15_1_1"
     },
     {
       "poolId": "NORM_TC_15_1_2",
-      "index": 51,
+      "index": 62,
       "startTime": 1665432000,
       "endTime": 1666641599,
       "spriteId": "picNorm_tc_15_1_2"
     },
     {
       "poolId": "ATTAIN_TC_15_2_1",
-      "index": 50,
+      "index": 61,
       "startTime": 1665646200,
       "endTime": 1666814399,
       "spriteId": "picAttain_tc_15_2_1"
     },
     {
       "poolId": "NORM_TC_15_2_2",
-      "index": 49,
+      "index": 60,
       "startTime": 1666641600,
       "endTime": 1667851199,
       "spriteId": "picNorm_tc_15_2_2"
     },
     {
       "poolId": "LIMITED_TC_15_3_1",
-      "index": 48,
+      "index": 59,
       "startTime": 1666855800,
       "endTime": 1668023999,
       "spriteId": "picLimited_tc_15_3_1"
     },
     {
       "poolId": "NORM_TC_15_3_2",
-      "index": 47,
+      "index": 58,
       "startTime": 1667851200,
       "endTime": 1669060799,
       "spriteId": "picNorm_tc_15_3_2"
     },
     {
       "poolId": "NORM_TC_16_1_1",
-      "index": 46,
+      "index": 57,
       "startTime": 1668664800,
       "endTime": 1669838399,
       "spriteId": "picNorm_tc_16_1_1"
     },
     {
       "poolId": "NORM_TC_16_1_2",
-      "index": 45,
+      "index": 56,
       "startTime": 1669060800,
       "endTime": 1670270399,
       "spriteId": "picNorm_tc_16_1_2"
     },
     {
       "poolId": "NORM_TC_16_2_1",
-      "index": 44,
+      "index": 55,
       "startTime": 1670270400,
       "endTime": 1671479999,
       "spriteId": "picNorm_tc_16_2_1"
     },
     {
       "poolId": "NORM_TC_16_3_1",
-      "index": 43,
+      "index": 54,
       "startTime": 1671089400,
       "endTime": 1672257599,
       "spriteId": "picNorm_tc_16_3_1"
     },
     {
       "poolId": "NORM_TC_16_3_2",
-      "index": 42,
+      "index": 53,
       "startTime": 1671480000,
       "endTime": 1672689599,
       "spriteId": "picNorm_tc_16_3_2"
     },
     {
       "poolId": "NORM_TC_16_4_1",
-      "index": 41,
+      "index": 52,
       "startTime": 1672299000,
       "endTime": 1673467199,
       "spriteId": "picNorm_tc_16_4_1"
     },
     {
       "poolId": "NORM_TC_16_4_2",
-      "index": 40,
+      "index": 51,
       "startTime": 1672689600,
       "endTime": 1673899199,
       "spriteId": "picNorm_tc_16_4_2"
     },
     {
       "poolId": "NORM_TC_16_4_3",
-      "index": 39,
+      "index": 50,
       "startTime": 1673899200,
       "endTime": 1675108799,
       "spriteId": "picNorm_tc_16_4_3"
     },
     {
       "poolId": "NORM_TC_17_1_1",
-      "index": 38,
+      "index": 49,
       "startTime": 1673935200,
       "endTime": 1675108799,
       "spriteId": "picNorm_tc_17_1_1"
     },
     {
       "poolId": "NORM_TC_17_1_2",
-      "index": 37,
+      "index": 48,
       "startTime": 1675108800,
       "endTime": 1676318399,
       "spriteId": "picNorm_tc_17_1_2"
     },
     {
       "poolId": "LIMITED_TC_17_2_1",
-      "index": 36,
+      "index": 47,
       "startTime": 1675150200,
       "endTime": 1676318399,
       "spriteId": "picLimited_tc_17_2_1"
     },
     {
       "poolId": "NORM_TC_17_2_2",
-      "index": 35,
+      "index": 46,
       "startTime": 1676318400,
       "endTime": 1677527999,
       "spriteId": "picNorm_tc_17_2_2"
     },
     {
       "poolId": "NORM_TC_17_3_1",
-      "index": 34,
+      "index": 45,
       "startTime": 1677528000,
       "endTime": 1678737599,
       "spriteId": "picNorm_tc_17_3_1"
     },
     {
       "poolId": "NORM_TC_17_4_1",
-      "index": 33,
+      "index": 44,
       "startTime": 1678347000,
       "endTime": 1679515199,
       "spriteId": "picNorm_tc_17_4_1"
     },
     {
       "poolId": "NORM_TC_17_4_2",
-      "index": 32,
+      "index": 43,
       "startTime": 1678737600,
       "endTime": 1679947199,
       "spriteId": "picNorm_tc_17_4_2"
     },
     {
       "poolId": "NORM_TC_17_4_3",
-      "index": 31,
+      "index": 42,
       "startTime": 1679947200,
       "endTime": 1681156799,
       "spriteId": "picNorm_tc_17_4_3"
     },
     {
       "poolId": "NORM_TC_18_1_1",
-      "index": 30,
+      "index": 41,
       "startTime": 1679983200,
       "endTime": 1681156799,
       "spriteId": "picNorm_tc_18_1_1"
     },
     {
       "poolId": "NORM_TC_18_1_2",
-      "index": 29,
+      "index": 40,
       "startTime": 1681156800,
       "endTime": 1682366399,
       "spriteId": "picNorm_tc_18_1_2"
     },
     {
       "poolId": "NORM_TC_18_2_1",
-      "index": 28,
+      "index": 39,
       "startTime": 1681371000,
       "endTime": 1682539199,
       "spriteId": "picNorm_tc_18_2_1"
     },
     {
       "poolId": "NORM_TC_18_2_2",
-      "index": 27,
+      "index": 38,
       "startTime": 1682366400,
       "endTime": 1683575999,
       "spriteId": "picNorm_tc_18_2_2"
     },
     {
       "poolId": "NORM_TC_18_4_1",
-      "index": 26,
+      "index": 37,
       "startTime": 1683576000,
       "endTime": 1684785599,
       "spriteId": "picNorm_tc_18_4_1"
     },
     {
       "poolId": "NORM_TC_19_1_1",
-      "index": 25,
+      "index": 36,
       "startTime": 1684216800,
       "endTime": 1685390399,
       "spriteId": "picNorm_tc_19_1_1"
     },
     {
       "poolId": "NORM_TC_19_1_2",
-      "index": 24,
+      "index": 35,
       "startTime": 1684785600,
       "endTime": 1685995199,
       "spriteId": "picNorm_tc_19_1_2"
     },
     {
       "poolId": "NORM_TC_19_2_1",
-      "index": 23,
+      "index": 34,
       "startTime": 1685995200,
       "endTime": 1687204799,
       "spriteId": "picNorm_tc_19_2_1"
     },
     {
       "poolId": "NORM_TC_19_3_1",
-      "index": 22,
+      "index": 33,
       "startTime": 1687204800,
       "endTime": 1688414399,
       "spriteId": "picNorm_tc_19_3_1"
     },
     {
       "poolId": "LIMITED_TC_19_4_1",
-      "index": 21,
+      "index": 32,
       "startTime": 1687246200,
       "endTime": 1688414399,
       "spriteId": "picLimited_tc_19_4_1"
     },
     {
       "poolId": "NORM_TC_19_4_2",
-      "index": 20,
+      "index": 31,
       "startTime": 1688414400,
       "endTime": 1689623999,
       "spriteId": "picNorm_tc_19_4_2"
     },
     {
       "poolId": "NORM_TC_19_5_1",
-      "index": 19,
+      "index": 30,
       "startTime": 1689233400,
       "endTime": 1690401599,
       "spriteId": "picNorm_tc_19_5_1"
     },
     {
       "poolId": "NORM_TC_19_5_2",
-      "index": 18,
+      "index": 29,
       "startTime": 1689624000,
       "endTime": 1690833599,
       "spriteId": "picNorm_tc_19_5_2"
     },
     {
       "poolId": "NORM_TC_20_1_1",
-      "index": 17,
+      "index": 28,
       "startTime": 1690437600,
       "endTime": 1691611199,
       "spriteId": "picNorm_tc_20_1_1"
     },
     {
       "poolId": "NORM_TC_20_1_2",
-      "index": 16,
+      "index": 27,
       "startTime": 1690833600,
       "endTime": 1692043199,
       "spriteId": "picNorm_tc_20_1_2"
     },
     {
       "poolId": "NORM_TC_20_2_1",
-      "index": 15,
+      "index": 26,
       "startTime": 1691652600,
       "endTime": 1692820799,
       "spriteId": "picNorm_tc_20_2_1"
     },
     {
       "poolId": "NORM_TC_20_2_2",
-      "index": 14,
+      "index": 25,
       "startTime": 1692043200,
       "endTime": 1693252799,
       "spriteId": "picNorm_tc_20_2_2"
     },
     {
       "poolId": "NORM_TC_20_2_3",
-      "index": 13,
+      "index": 24,
       "startTime": 1693252800,
       "endTime": 1694462399,
       "spriteId": "picNorm_tc_20_2_3"
     },
     {
       "poolId": "NORM_TC_20_3_1",
-      "index": 12,
+      "index": 23,
       "startTime": 1693294200,
       "endTime": 1694462399,
       "spriteId": "picNorm_tc_20_3_1"
     },
     {
       "poolId": "NORM_TC_20_3_2",
-      "index": 11,
+      "index": 22,
       "startTime": 1694462400,
       "endTime": 1695671999,
       "spriteId": "picNorm_tc_20_3_2"
     },
     {
       "poolId": "LIMITED_TC_20_4_1",
-      "index": 10,
+      "index": 21,
       "startTime": 1694503800,
       "endTime": 1695671999,
       "spriteId": "picLimited_tc_20_4_1"
     },
     {
       "poolId": "NORM_TC_20_4_2",
-      "index": 9,
+      "index": 20,
       "startTime": 1695672000,
       "endTime": 1696881599,
       "spriteId": "picNorm_tc_20_4_2"
     },
     {
       "poolId": "NORM_TC_20_4_3",
-      "index": 8,
+      "index": 19,
       "startTime": 1696320000,
       "endTime": 1697486399,
       "spriteId": "picNorm_tc_20_4_3"
     },
     {
       "poolId": "NORM_TC_20_4_4",
-      "index": 7,
+      "index": 18,
       "startTime": 1696881600,
       "endTime": 1698091199,
       "spriteId": "picNorm_tc_20_4_4"
     },
     {
       "poolId": "NORM_TC_21_1_1",
-      "index": 2,
+      "index": 17,
       "startTime": 1697695200,
       "endTime": 1698868799,
       "spriteId": "picNorm_tc_21_1_1"
     },
     {
       "poolId": "NORM_TC_21_1_2",
-      "index": 6,
+      "index": 16,
       "startTime": 1698091200,
       "endTime": 1699300799,
       "spriteId": "picNorm_tc_21_1_2"
     },
     {
       "poolId": "NORM_TC_21_2_1",
-      "index": 5,
+      "index": 15,
       "startTime": 1699300800,
       "endTime": 1700510399,
       "spriteId": "picNorm_tc_21_2_1"
     },
     {
       "poolId": "NORM_TC_21_2_2",
-      "index": 4,
+      "index": 14,
       "startTime": 1700510400,
       "endTime": 1701719999,
       "spriteId": "picNorm_tc_21_2_2"
     },
     {
       "poolId": "LIMITED_TC_21_3_1",
-      "index": 1,
+      "index": 13,
       "startTime": 1700551800,
       "endTime": 1701719999,
       "spriteId": "picLimited_tc_21_3_1"
     },
     {
       "poolId": "NORM_TC_21_3_2",
-      "index": 3,
+      "index": 12,
       "startTime": 1701720000,
       "endTime": 1702929599,
       "spriteId": "picNorm_tc_21_3_2"
+    },
+    {
+      "poolId": "LINKAGE_TC_22_1_1",
+      "index": 1,
+      "startTime": 1702360800,
+      "endTime": 1703534399,
+      "spriteId": "picLinkage_tc_22_1_1"
+    },
+    {
+      "poolId": "NORM_TC_22_1_2",
+      "index": 11,
+      "startTime": 1702929600,
+      "endTime": 1704139199,
+      "spriteId": "picNorm_tc_22_1_2"
+    },
+    {
+      "poolId": "ATTAIN_TC_22_1_3",
+      "index": 3,
+      "startTime": 1703577600,
+      "endTime": 1704743999,
+      "spriteId": "picAttain_tc_22_1_3"
+    },
+    {
+      "poolId": "NORM_TC_22_1_4",
+      "index": 10,
+      "startTime": 1704139200,
+      "endTime": 1705348799,
+      "spriteId": "picNorm_tc_22_1_4"
     }
   ],
   "freeGacha": [
@@ -4467,6 +4605,17 @@
       "itemId": "LINKAGE_TKT_GACHA_10_1701",
       "endTime": 1632340799,
       "gachaPoolId": "LINKAGE_TC_7_2_1"
+    },
+    {
+      "itemId": "LINKAGE_TKT_GACHA_10_3601",
+      "endTime": 1703534399,
+      "gachaPoolId": "LINKAGE_TC_22_1_1"
+    },
+    {
+      "itemId": "LINKAGE_TKT_GACHA_10_3602",
+      "endTime": 1703534399,
+      "gachaPoolId": "LINKAGE_TC_22_1_1"
     }
-  ]
+  ],
+  "dicRecruit6StarHint": {}
 }

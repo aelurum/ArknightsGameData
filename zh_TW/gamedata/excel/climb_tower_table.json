@@ -1710,7 +1710,7 @@
     },
     "tatical_medic_01": {
       "id": "tatical_medic_01",
-      "desc": "全場單位受到的傷害減少<@ba.vup>10%</>",
+      "desc": "全場所有友方單位受到的物理與法術傷害減少<@ba.vup>10%</>",
       "profession": "MEDIC",
       "isDefaultActive": true,
       "sortId": 1,
@@ -2561,7 +2561,7 @@
       "id": "tower_season_1",
       "name": "極西安保派駐",
       "startTs": 1697695200,
-      "endTs": 1708027199,
+      "endTs": 1710532799,
       "towers": [
         "tower_n_05",
         "tower_n_06"
@@ -2946,7 +2946,7 @@
         "tower_season1_8"
       ],
       "startTs": 1697695200,
-      "endTs": 1708027199
+      "endTs": 1710532799
     }
   }
 }

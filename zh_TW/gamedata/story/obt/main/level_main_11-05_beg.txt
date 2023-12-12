@@ -381,7 +381,7 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.9, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="只有等到舊日的灰燼全部被吹散，原野上才能長出新的糧食，來喂飽我們的下一代。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="只有等到舊日的灰燼全部被吹散，原野上才能長出新的糧食，來餵飽我們的下一代。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
 [Dialog]
