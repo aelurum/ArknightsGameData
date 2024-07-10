@@ -3,9 +3,7 @@ local list =
 {
   
   "HotFixes/TestStubHotfixer",
-  "HotFixes/HandbookInfoAvgHotfixer",
-  "HotFixes/EnemyHotfixer",
-  "HotFixes/V051Hotfixer",
+  "HotFixes/CastSkillWithLimitTimesHotfixer"
 };
 
 return list;
