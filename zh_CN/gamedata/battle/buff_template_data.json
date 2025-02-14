@@ -139764,7 +139764,8 @@
             "_checkTileKey": true,
             "_tileKeys": [
               "tile_passable_wall",
-              "tile_stairs"
+              "tile_stairs",
+              "tile_passable_wall_forbidden"
             ]
           },
           "_succeedNodes": null,
@@ -256538,8 +256539,8 @@
           "_filterModifierCancelled": false
         },
         {
-          "$type": "Torappu.Battle.Action.Nodes+EnsureDmgOrHeal, Assembly-CSharp",
-          "_key": null
+          "$type": "Torappu.Battle.Action.Nodes+FilterLevelId, Assembly-CSharp",
+          "_levelIds": []
         }
       ]
     }
@@ -257105,7 +257106,7 @@
           "_damageType": "PURE",
           "_damageKey": "value",
           "_ignoreForSp": true,
-          "_damageWithoutModify": false,
+          "_damageWithoutModify": true,
           "_attackType": "NORMAL",
           "_isEnvDamage": false,
           "_isUndeadable": false,
