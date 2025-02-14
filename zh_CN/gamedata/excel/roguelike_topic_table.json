@@ -2388,6 +2388,12 @@
         "uniEquipId": null,
         "recruitType": "FREE"
       },
+      "char_4173_nowell": {
+        "charId": "char_4173_nowell",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_nowell",
+        "recruitType": "FREE"
+      },
       "char_4172_xingzh": {
         "charId": "char_4172_xingzh",
         "canBeFree": true,
@@ -2404,6 +2410,12 @@
         "charId": "char_2026_yu",
         "canBeFree": true,
         "uniEquipId": null,
+        "recruitType": "FREE"
+      },
+      "char_4010_etlchi": {
+        "charId": "char_4010_etlchi",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_etlchi",
         "recruitType": "FREE"
       }
     }

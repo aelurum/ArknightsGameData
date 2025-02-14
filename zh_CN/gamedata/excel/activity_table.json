@@ -80,6 +80,29 @@
       "isPageEntry": false,
       "isMagnify": false
     },
+    "act18mini": {
+      "id": "act18mini",
+      "type": "MINISTORY",
+      "displayType": "MINISTORY",
+      "name": "我们明日见",
+      "startTime": 1739520000,
+      "endTime": 1740081599,
+      "rewardEndTime": 1740340799,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act18mini",
+      "medalGroupId": null,
+      "ungroupedMedalIds": [
+        "medal_activity_18mini_01",
+        "medal_activity_18mini_02"
+      ],
+      "isReplicate": false,
+      "needFixedSync": false,
+      "trapDomainId": null,
+      "recType": "SPECIAL",
+      "isPageEntry": false,
+      "isMagnify": false
+    },
     "act2collection": {
       "id": "act2collection",
       "type": "COLLECTION",
@@ -5286,6 +5309,7 @@
     "act40side_zone1": "act40side",
     "act40side_zone2": "act40side",
     "act40side_zone3": "act40side",
+    "act18mini_zone1": "act18mini",
     "zone_1": "act1arcade",
     "zone_2": "act1arcade",
     "zone_3": "act1arcade",
@@ -139735,6 +139759,44 @@
       }
     },
     "MINISTORY": {
+      "act18mini": {
+        "tokenItemId": "act18mini_token_petals",
+        "zoneDescList": {
+          "act18mini_zone1": {
+            "zoneId": "act18mini_zone1",
+            "unlockText": "完成主线关卡1-10解锁"
+          }
+        },
+        "favorUpList": {},
+        "extraDropZoneList": [
+          "main_0",
+          "main_1",
+          "main_2",
+          "main_3",
+          "main_4",
+          "main_5",
+          "main_6",
+          "main_7",
+          "main_8",
+          "main_9",
+          "main_10",
+          "main_11",
+          "main_12",
+          "main_13",
+          "main_14",
+          "weekly_1",
+          "weekly_2",
+          "weekly_3",
+          "weekly_4",
+          "weekly_5",
+          "weekly_6",
+          "weekly_7",
+          "weekly_8",
+          "weekly_9",
+          "weekly_10",
+          "act18mini_zone1"
+        ]
+      },
       "act17mini": {
         "tokenItemId": "act17mini_token_ash",
         "zoneDescList": {
@@ -196178,6 +196240,9 @@
     "act40side": [
       "act40side_token_yumyum"
     ],
+    "act18mini": [
+      "act18mini_token_petals"
+    ],
     "act2collection": [
       "act2collection_point_token"
     ],
@@ -196762,6 +196827,10 @@
       1587441600,
       1588316400,
       1589486399
+    ],
+    "act18mini": [
+      1739520000,
+      1740081599
     ],
     "act17mini": [
       1720497600,
@@ -202739,6 +202808,21 @@
         }
       ],
       "startTs": 1738742400
+    },
+    {
+      "id": "dis_mini_18",
+      "type": "ACTIVITY",
+      "funcId": "act18mini",
+      "endTs": 1740081599,
+      "sortId": 104,
+      "itemId": "act18mini_token_petals",
+      "timeNodes": [
+        {
+          "title": "<我们明日见>活动已开放",
+          "ts": 1739520000
+        }
+      ],
+      "startTs": 1739520000
     }
   ],
   "actFunData": {

@@ -94644,6 +94644,800 @@
       }
     ]
   },
+  "skchr_nowell_1": {
+    "skillId": "skchr_nowell_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.15,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 15.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 20.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 25.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 25.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 30.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 30.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.35,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.35,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 40.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "步履不停",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，优先治疗处于<$ba.debuff>异常状态</>中的友方干员",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 40.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_nowell_2": {
+    "skillId": "skchr_nowell_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内两名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.35,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "生命不息",
+        "rangeId": null,
+        "description": "立即为攻击范围内三名友方干员施加一个增益（优先选择处于<$ba.debuff>异常状态</>中的干员），使其{status_resistance[limit]}秒内每秒受到一次相当于诺威尔攻击力<@ba.vup>{heal_scale:0%}</>的治疗并获得<$ba.buffres>抵抗</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nowell_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "status_resistance[limit]",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "nowell_s_2[immediately_heal].heal_scale",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "one_minus_status_resistance",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
   "skchr_mberry_1": {
     "skillId": "skchr_mberry_1",
     "iconId": null,
@@ -279928,6 +280722,1047 @@
           {
             "key": "attack@max_stack_cnt",
             "value": 30.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_etlchi_1": {
+    "skillId": "skchr_etlchi_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.1,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.15,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.2,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.25,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.3,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.35,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.45,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.55,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.65,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "玫影觅迹",
+        "rangeId": null,
+        "description": "下次攻击的攻击力提升至<@ba.vup>{atk_scale:0%}</>，并连续攻击两次",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_1",
+        "duration": 0.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.75,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_etlchi_2": {
+    "skillId": "skchr_etlchi_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.1,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.2,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.3,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.35,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.6,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.7,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.75,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 13,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.85,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "绯红壁合",
+        "rangeId": null,
+        "description": "停止攻击，在自身及<@ba.vup>1</>名其他地面单位处召唤血镰，对周围所有敌人进行切割，每<@ba.vup>0.5</>秒造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.95,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_etlchi_3": {
+    "skillId": "skchr_etlchi_3",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.7,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.9,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.1,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 21,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 21,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.3,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "灵与欲的惜别",
+        "rangeId": "2-5",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，立刻为攻击范围内最多<@ba.vup>3</>名生命值最高的地面敌人召唤对应的心烛，每次攻击对心烛至少造成<@ba.vup>35%</>攻击力的伤害，心烛继承原敌人当前<@ba.vdown>{attack@max_hp_scale:0%}</>的生命值，被攻击时原敌人也会流失同等生命值\\n<@ba.rem>心烛只受隐德来希攻击的影响</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 22,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_etlchi_3",
+        "duration": 20.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.35,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 100.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_target",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp_scale",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance_scale",
+            "value": 1.0,
             "valueStr": null
           }
         ]

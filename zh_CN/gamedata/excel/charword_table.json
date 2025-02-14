@@ -220500,6 +220500,1248 @@
       "placeType": "ANNIVERSARY",
       "voiceAsset": "char_1040_blaze2/CN_044"
     },
+    "char_4173_nowell_CN_001": {
+      "charWordId": "char_4173_nowell_CN_001",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_001",
+      "voiceText": "我什么都能做点，但都不精通。非要说的话，我唯一擅长的大概是打发时间。",
+      "voiceTitle": "任命助理",
+      "voiceIndex": 1,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4173_nowell/CN_001"
+    },
+    "char_4173_nowell_CN_002": {
+      "charWordId": "char_4173_nowell_CN_002",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_002",
+      "voiceText": "嗯？这些是验光用的镜片，我在整理顺序，按照度数高低排列......是，眼镜能帮助人看清事物，可就现实来说，只是眼睛能看清，还远远不够。",
+      "voiceTitle": "交谈1",
+      "voiceIndex": 2,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_002"
+    },
+    "char_4173_nowell_CN_003": {
+      "charWordId": "char_4173_nowell_CN_003",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_003",
+      "voiceText": "整合运动......我与他们曾短暂同路。毕竟，如果说人的一生总会燃烧，那他们还远没到燃尽的时刻，而我已是一捧灰，等着被吹散，或早或晚。",
+      "voiceTitle": "交谈2",
+      "voiceIndex": 3,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_003"
+    },
+    "char_4173_nowell_CN_004": {
+      "charWordId": "char_4173_nowell_CN_004",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_004",
+      "voiceText": "我又走神了？抱歉，只是看见窗外有雨雾。流浪者憎恨这样的天气，脚下泥泞，眼前迷蒙，走出的每一步都像陷在沼泽里——这不是比喻，是事实。",
+      "voiceTitle": "交谈3",
+      "voiceIndex": 4,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_004"
+    },
+    "char_4173_nowell_CN_005": {
+      "charWordId": "char_4173_nowell_CN_005",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_005",
+      "voiceText": "还在林贡斯当学徒时，我曾为了自保练过高卢拳术。这东西的路数与街头斗殴没什么两样，高卢覆灭前它就失传了。哈，我甚至可能是最后一个还记得它的人。",
+      "voiceTitle": "晋升后交谈1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_005"
+    },
+    "char_4173_nowell_CN_006": {
+      "charWordId": "char_4173_nowell_CN_006",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_006",
+      "voiceText": "只有一个方法可以使我获得解脱，而它正好是罗德岛的目标，这也是为什么我会选择留下，提供帮助，拯救他人......这样，每一天都能离“终点”更近些。",
+      "voiceTitle": "晋升后交谈2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_006"
+    },
+    "char_4173_nowell_CN_007": {
+      "charWordId": "char_4173_nowell_CN_007",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_007",
+      "voiceText": "我曾孙的眼睛，其实和他祖母的很像。这次他不为寻找家族中的异类而来，我也不为他苍老的面容而感到痛苦，彼此都有了长足的进步。见面，而后平静地告别，这也是我对你我之间结局的唯一设想。",
+      "voiceTitle": "信赖提升后交谈1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_007"
+    },
+    "char_4173_nowell_CN_008": {
+      "charWordId": "char_4173_nowell_CN_008",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_008",
+      "voiceText": "像这样，找准角度，适当倾斜镜片，照向可燃物......就点燃了。学会了吗？好的，但我不建议你用这招。烧烤的时候，比起想办法折射引火，看天吃饭，还是直接用电烤架更方便。",
+      "voiceTitle": "信赖提升后交谈2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_008"
+    },
+    "char_4173_nowell_CN_009": {
+      "charWordId": "char_4173_nowell_CN_009",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_009",
+      "voiceText": "那些不受控的记忆闪回，似乎已经开始影响我的工作。医疗部的小姑娘建议我随身携带记事本，记录关键词，再尝试串联。她同时也建议我寻找一名确证回忆内容的帮手，所以，我就在这里了。",
+      "voiceTitle": "信赖提升后交谈3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4173_nowell/CN_009"
+    },
+    "char_4173_nowell_CN_010": {
+      "charWordId": "char_4173_nowell_CN_010",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_010",
+      "voiceText": "博士，看不清楚字的话，我可以给你配一副眼镜——博士？",
+      "voiceTitle": "闲置",
+      "voiceIndex": 10,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4173_nowell/CN_010"
+    },
+    "char_4173_nowell_CN_011": {
+      "charWordId": "char_4173_nowell_CN_011",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_011",
+      "voiceText": "我是诺威尔，为你们的患者配过镜片，也会一些医术......接下来我会在这里停留一段时间。",
+      "voiceTitle": "干员报到",
+      "voiceIndex": 11,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GACHA",
+      "voiceAsset": "char_4173_nowell/CN_011"
+    },
+    "char_4173_nowell_CN_012": {
+      "charWordId": "char_4173_nowell_CN_012",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_012",
+      "voiceText": "那个人拿着伞，但战场没有下雨......哦，原来那是施术单元。",
+      "voiceTitle": "观看作战记录",
+      "voiceIndex": 12,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4173_nowell/CN_012"
+    },
+    "char_4173_nowell_CN_013": {
+      "charWordId": "char_4173_nowell_CN_013",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_013",
+      "voiceText": "我没做什么能配得上这枚勋章的事。但......谢谢你。",
+      "voiceTitle": "精英化晋升1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4173_nowell/CN_013"
+    },
+    "char_4173_nowell_CN_014": {
+      "charWordId": "char_4173_nowell_CN_014",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_014",
+      "voiceText": "我还是热切地盼望着死亡，也许最后都无法回报罗德岛给予的帮助。即使这样，你也要坚持你的褒奖吗？",
+      "voiceTitle": "精英化晋升2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4173_nowell/CN_014"
+    },
+    "char_4173_nowell_CN_017": {
+      "charWordId": "char_4173_nowell_CN_017",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_017",
+      "voiceText": "我没有太多配合其他人行动的经验。",
+      "voiceTitle": "编入队伍",
+      "voiceIndex": 17,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4173_nowell/CN_017"
+    },
+    "char_4173_nowell_CN_018": {
+      "charWordId": "char_4173_nowell_CN_018",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_018",
+      "voiceText": "我不用站在后方吗？",
+      "voiceTitle": "任命队长",
+      "voiceIndex": 18,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4173_nowell/CN_018"
+    },
+    "char_4173_nowell_CN_019": {
+      "charWordId": "char_4173_nowell_CN_019",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_019",
+      "voiceText": "唉，走吧。",
+      "voiceTitle": "行动出发",
+      "voiceIndex": 19,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4173_nowell/CN_019"
+    },
+    "char_4173_nowell_CN_020": {
+      "charWordId": "char_4173_nowell_CN_020",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_020",
+      "voiceText": "跟紧我。",
+      "voiceTitle": "行动开始",
+      "voiceIndex": 20,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4173_nowell/CN_020"
+    },
+    "char_4173_nowell_CN_021": {
+      "charWordId": "char_4173_nowell_CN_021",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_021",
+      "voiceText": "请说。",
+      "voiceTitle": "选中干员1",
+      "voiceIndex": 21,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4173_nowell/CN_021"
+    },
+    "char_4173_nowell_CN_022": {
+      "charWordId": "char_4173_nowell_CN_022",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_022",
+      "voiceText": "我准备好了。",
+      "voiceTitle": "选中干员2",
+      "voiceIndex": 22,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4173_nowell/CN_022"
+    },
+    "char_4173_nowell_CN_023": {
+      "charWordId": "char_4173_nowell_CN_023",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_023",
+      "voiceText": "嗯。",
+      "voiceTitle": "部署1",
+      "voiceIndex": 23,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4173_nowell/CN_023"
+    },
+    "char_4173_nowell_CN_024": {
+      "charWordId": "char_4173_nowell_CN_024",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_024",
+      "voiceText": "我会照看他们。",
+      "voiceTitle": "部署2",
+      "voiceIndex": 24,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4173_nowell/CN_024"
+    },
+    "char_4173_nowell_CN_025": {
+      "charWordId": "char_4173_nowell_CN_025",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_025",
+      "voiceText": "光照角度适宜。",
+      "voiceTitle": "作战中1",
+      "voiceIndex": 25,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4173_nowell/CN_025"
+    },
+    "char_4173_nowell_CN_026": {
+      "charWordId": "char_4173_nowell_CN_026",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_026",
+      "voiceText": "再坚持一下。",
+      "voiceTitle": "作战中2",
+      "voiceIndex": 26,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4173_nowell/CN_026"
+    },
+    "char_4173_nowell_CN_027": {
+      "charWordId": "char_4173_nowell_CN_027",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_027",
+      "voiceText": "伤者站到我身后。",
+      "voiceTitle": "作战中3",
+      "voiceIndex": 27,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4173_nowell/CN_027"
+    },
+    "char_4173_nowell_CN_028": {
+      "charWordId": "char_4173_nowell_CN_028",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_028",
+      "voiceText": "我在，我在。我会救你们。",
+      "voiceTitle": "作战中4",
+      "voiceIndex": 28,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4173_nowell/CN_028"
+    },
+    "char_4173_nowell_CN_029": {
+      "charWordId": "char_4173_nowell_CN_029",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_029",
+      "voiceText": "这样的争斗永无尽头，对吗？",
+      "voiceTitle": "完成高难行动",
+      "voiceIndex": 29,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4173_nowell/CN_029"
+    },
+    "char_4173_nowell_CN_030": {
+      "charWordId": "char_4173_nowell_CN_030",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_030",
+      "voiceText": "我们又救下了一些人。这很好。",
+      "voiceTitle": "3星结束行动",
+      "voiceIndex": 30,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4173_nowell/CN_030"
+    },
+    "char_4173_nowell_CN_031": {
+      "charWordId": "char_4173_nowell_CN_031",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_031",
+      "voiceText": "看来，你也只是普通人。",
+      "voiceTitle": "非3星结束行动",
+      "voiceIndex": 31,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4173_nowell/CN_031"
+    },
+    "char_4173_nowell_CN_032": {
+      "charWordId": "char_4173_nowell_CN_032",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_032",
+      "voiceText": "我殿后，你们先走。快走！",
+      "voiceTitle": "行动失败",
+      "voiceIndex": 32,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOSE",
+      "voiceAsset": "char_4173_nowell/CN_032"
+    },
+    "char_4173_nowell_CN_033": {
+      "charWordId": "char_4173_nowell_CN_033",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_033",
+      "voiceText": "有个能歇脚的地方就行。",
+      "voiceTitle": "进驻设施",
+      "voiceIndex": 33,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4173_nowell/CN_033"
+    },
+    "char_4173_nowell_CN_034": {
+      "charWordId": "char_4173_nowell_CN_034",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_034",
+      "voiceText": "很遗憾，我没有年龄所致的心脏疾病，博士。",
+      "voiceTitle": "戳一下",
+      "voiceIndex": 34,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4173_nowell/CN_034"
+    },
+    "char_4173_nowell_CN_036": {
+      "charWordId": "char_4173_nowell_CN_036",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_036",
+      "voiceText": "虽然我是一名配镜师，但自身并没有视力上的问题。我能看清你，博士，不用靠得这么近。",
+      "voiceTitle": "信赖触摸",
+      "voiceIndex": 36,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4173_nowell/CN_036"
+    },
+    "char_4173_nowell_CN_037": {
+      "charWordId": "char_4173_nowell_CN_037",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_037",
+      "voiceText": "明日方舟。",
+      "voiceTitle": "标题",
+      "voiceIndex": 37,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4173_nowell/CN_037"
+    },
+    "char_4173_nowell_CN_038": {
+      "charWordId": "char_4173_nowell_CN_038",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_038",
+      "voiceText": "新年快乐，博士。曾经，我路过那些装点着节日氛围的门庭，只觉得是种凌迟，即使避开，也会被反复提醒时间的流逝，无论哪种都与这日子应有的欢乐相去甚远。还好，今时不同往日。",
+      "voiceTitle": "新年祝福",
+      "voiceIndex": 38,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4173_nowell/CN_038"
+    },
+    "char_4173_nowell_CN_042": {
+      "charWordId": "char_4173_nowell_CN_042",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_042",
+      "voiceText": "你好，博士。",
+      "voiceTitle": "问候",
+      "voiceIndex": 42,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GREETING",
+      "voiceAsset": "char_4173_nowell/CN_042"
+    },
+    "char_4173_nowell_CN_043": {
+      "charWordId": "char_4173_nowell_CN_043",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_043",
+      "voiceText": "我听说今天是你的生日。如果你要吹蜡烛许愿的话，不要让你的愿望被有心人听见，以免被残酷地利用......哈哈，只是玩笑。博士，生日快乐。",
+      "voiceTitle": "生日",
+      "voiceIndex": 43,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BIRTHDAY",
+      "voiceAsset": "char_4173_nowell/CN_043"
+    },
+    "char_4173_nowell_CN_044": {
+      "charWordId": "char_4173_nowell_CN_044",
+      "wordKey": "char_4173_nowell",
+      "charId": "char_4173_nowell",
+      "voiceId": "CN_044",
+      "voiceText": "“罗德岛”，似乎的确是漫长苦旅中人们能借道靠岸的那艘船。登船的人此后便不必漂泊，不必再用双脚丈量余生。如果我能更早......不，没有那种可能。",
+      "voiceTitle": "周年庆典",
+      "voiceIndex": 44,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4173_nowell/CN_044"
+    },
+    "char_4010_etlchi_CN_001": {
+      "charWordId": "char_4010_etlchi_CN_001",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_001",
+      "voiceText": "只让我做材料整理不是什么高明的规划。别浪费人力，把那些表格扔过来，我给你重新安排......我已经坐在你的椅子上帮你解决困难了，你就安心休息一会儿，好吗？",
+      "voiceTitle": "任命助理",
+      "voiceIndex": 1,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4010_etlchi/CN_001"
+    },
+    "char_4010_etlchi_CN_002": {
+      "charWordId": "char_4010_etlchi_CN_002",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_002",
+      "voiceText": "“小石榴”可是相当精巧的法术造物。杀人也好，救人也好，它能让我少洒些血，做事干净漂亮些。不过，说到底它只是块鲜血结晶而已，你看得这么着迷，给你玩一会儿吧——怎么把手缩回去了？",
+      "voiceTitle": "交谈1",
+      "voiceIndex": 2,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_002"
+    },
+    "char_4010_etlchi_CN_003": {
+      "charWordId": "char_4010_etlchi_CN_003",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_003",
+      "voiceText": "这些任务我都顺手办好了。不用谢，别让我觉得自己好像费了点劲才搞定这种小事。顺带一提，小兔子什么时候才能不借你的口来托我帮忙？放心啦，我不会再像以前那样吓唬她了。",
+      "voiceTitle": "交谈2",
+      "voiceIndex": 3,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_003"
+    },
+    "char_4010_etlchi_CN_004": {
+      "charWordId": "char_4010_etlchi_CN_004",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_004",
+      "voiceText": "那几位姐妹又拒绝了我的探望，她们还是那么看不惯我......我可从没说过，玫瑰河畔的航船都是相亲相爱的呀。既然我们都能触知彼此心脏泵出血液时的搏动，那信任就不需要情感来维持。",
+      "voiceTitle": "交谈3",
+      "voiceIndex": 4,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_004"
+    },
+    "char_4010_etlchi_CN_005": {
+      "charWordId": "char_4010_etlchi_CN_005",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_005",
+      "voiceText": "没有别人，刚才我在和菈玛莲聊天——或者说得准确些，和女妖们编织的咒言聊天，怀念一下我去各地游历领略过的河畔风光。谁不是这样呢？拿些珍贵的东西做信物，代替自己陪在珍视的人身边。",
+      "voiceTitle": "晋升后交谈1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_005"
+    },
+    "char_4010_etlchi_CN_006": {
+      "charWordId": "char_4010_etlchi_CN_006",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_006",
+      "voiceText": "一些姐妹从来没有亲眼见过这艘船，有人想象，它是无数血管织成的一枚卵；有人以为，它是通信数据和电缆构建的幽灵。我为什么能清晰地知道她们的想象？是啊，为什么呢？",
+      "voiceTitle": "晋升后交谈2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_006"
+    },
+    "char_4010_etlchi_CN_007": {
+      "charWordId": "char_4010_etlchi_CN_007",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_007",
+      "voiceText": "我不会告诉任何人的——讲讲看，刚刚进办公室那位，和之前进来那位，关系不太一般吧？再看看你自己愁眉苦脸的样子......我没在打听情报，我在关心你呀。你可不要随便沾惹感情纠葛哦。",
+      "voiceTitle": "信赖提升后交谈1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_007"
+    },
+    "char_4010_etlchi_CN_008": {
+      "charWordId": "char_4010_etlchi_CN_008",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_008",
+      "voiceText": "退回别人的心意是最没礼貌的，你说是不是？有的人呀，看到自身出现了变化，就想和过去告别。但我总是记得我跟每个朋友最亲近的那一刻。那些记忆又不是假的，何必自顾自否认我们的友情呢？",
+      "voiceTitle": "信赖提升后交谈2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_008"
+    },
+    "char_4010_etlchi_CN_009": {
+      "charWordId": "char_4010_etlchi_CN_009",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_009",
+      "voiceText": "是啊，我的审讯可是很温柔的，只要一个人流的血够多，我就能翻遍那颗小心脏，挖出我好奇的一切秘密。可惜，你和你的血都太珍贵了。努力活吧，到你重伤濒死的那天，我会来见你的。",
+      "voiceTitle": "信赖提升后交谈3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4010_etlchi/CN_009"
+    },
+    "char_4010_etlchi_CN_010": {
+      "charWordId": "char_4010_etlchi_CN_010",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_010",
+      "voiceText": "嗯......脉搏很稳定，只是睡得很香，不是死了。",
+      "voiceTitle": "闲置",
+      "voiceIndex": 10,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4010_etlchi/CN_010"
+    },
+    "char_4010_etlchi_CN_011": {
+      "charWordId": "char_4010_etlchi_CN_011",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_011",
+      "voiceText": "代号，隐德来希。好久不见，这艘船上的战地指挥官——别为忘记我而愧疚，你不可能熟悉任何一艘航船。",
+      "voiceTitle": "干员报到",
+      "voiceIndex": 11,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GACHA",
+      "voiceAsset": "char_4010_etlchi/CN_011"
+    },
+    "char_4010_etlchi_CN_012": {
+      "charWordId": "char_4010_etlchi_CN_012",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_012",
+      "voiceText": "一台机器所记录的情形，真的比一个人心头涌现的记忆更接近事实吗？",
+      "voiceTitle": "观看作战记录",
+      "voiceIndex": 12,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4010_etlchi/CN_012"
+    },
+    "char_4010_etlchi_CN_013": {
+      "charWordId": "char_4010_etlchi_CN_013",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_013",
+      "voiceText": "作为感谢，我也该“提升”你，是不是？把你身体里的血净化一遍，看看你能不能变成纯粹的血魔——放心吧，你又不是混血萨卡兹，受不起这样的折磨。",
+      "voiceTitle": "精英化晋升1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4010_etlchi/CN_013"
+    },
+    "char_4010_etlchi_CN_014": {
+      "charWordId": "char_4010_etlchi_CN_014",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_014",
+      "voiceText": "这勋章，你想好了吗？我挑剔礼物，也挑剔赠礼人。有航船之间的誓言在先，我可不能为罗德岛做得太多——不过，如果朋友有私人委托，我不介意随时帮忙。",
+      "voiceTitle": "精英化晋升2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4010_etlchi/CN_014"
+    },
+    "char_4010_etlchi_CN_017": {
+      "charWordId": "char_4010_etlchi_CN_017",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_017",
+      "voiceText": "我不介意一次护送这么多人。",
+      "voiceTitle": "编入队伍",
+      "voiceIndex": 17,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4010_etlchi/CN_017"
+    },
+    "char_4010_etlchi_CN_018": {
+      "charWordId": "char_4010_etlchi_CN_018",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_018",
+      "voiceText": "小心些，别让自己的血流干了。",
+      "voiceTitle": "任命队长",
+      "voiceIndex": 18,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4010_etlchi/CN_018"
+    },
+    "char_4010_etlchi_CN_019": {
+      "charWordId": "char_4010_etlchi_CN_019",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_019",
+      "voiceText": "每一滴血都会说话。",
+      "voiceTitle": "行动出发",
+      "voiceIndex": 19,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4010_etlchi/CN_019"
+    },
+    "char_4010_etlchi_CN_020": {
+      "charWordId": "char_4010_etlchi_CN_020",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_020",
+      "voiceText": "我喜欢地面干净些，就送你们一个不用流血的死法吧。",
+      "voiceTitle": "行动开始",
+      "voiceIndex": 20,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4010_etlchi/CN_020"
+    },
+    "char_4010_etlchi_CN_021": {
+      "charWordId": "char_4010_etlchi_CN_021",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_021",
+      "voiceText": "你也有举棋不定的时候？",
+      "voiceTitle": "选中干员1",
+      "voiceIndex": 21,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4010_etlchi/CN_021"
+    },
+    "char_4010_etlchi_CN_022": {
+      "charWordId": "char_4010_etlchi_CN_022",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_022",
+      "voiceText": "你需要冷静的话，我可以让你的心脏跳得慢些。",
+      "voiceTitle": "选中干员2",
+      "voiceIndex": 22,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4010_etlchi/CN_022"
+    },
+    "char_4010_etlchi_CN_023": {
+      "charWordId": "char_4010_etlchi_CN_023",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_023",
+      "voiceText": "这种时候，“小石榴”的光泽是最美的。",
+      "voiceTitle": "部署1",
+      "voiceIndex": 23,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4010_etlchi/CN_023"
+    },
+    "char_4010_etlchi_CN_024": {
+      "charWordId": "char_4010_etlchi_CN_024",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_024",
+      "voiceText": "别误会，我不喜欢战场的气味。",
+      "voiceTitle": "部署2",
+      "voiceIndex": 24,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4010_etlchi/CN_024"
+    },
+    "char_4010_etlchi_CN_025": {
+      "charWordId": "char_4010_etlchi_CN_025",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_025",
+      "voiceText": "从心脏中涌现。",
+      "voiceTitle": "作战中1",
+      "voiceIndex": 25,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4010_etlchi/CN_025"
+    },
+    "char_4010_etlchi_CN_026": {
+      "charWordId": "char_4010_etlchi_CN_026",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_026",
+      "voiceText": "从皮肉中抽离。",
+      "voiceTitle": "作战中2",
+      "voiceIndex": 26,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4010_etlchi/CN_026"
+    },
+    "char_4010_etlchi_CN_027": {
+      "charWordId": "char_4010_etlchi_CN_027",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_027",
+      "voiceText": "从生回溯至死。",
+      "voiceTitle": "作战中3",
+      "voiceIndex": 27,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4010_etlchi/CN_027"
+    },
+    "char_4010_etlchi_CN_028": {
+      "charWordId": "char_4010_etlchi_CN_028",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_028",
+      "voiceText": "哎呀，别被自己的血呛到了，好吗？",
+      "voiceTitle": "作战中4",
+      "voiceIndex": 28,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4010_etlchi/CN_028"
+    },
+    "char_4010_etlchi_CN_029": {
+      "charWordId": "char_4010_etlchi_CN_029",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_029",
+      "voiceText": "还不错，我会把这一刻收存在记忆里。",
+      "voiceTitle": "完成高难行动",
+      "voiceIndex": 29,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4010_etlchi/CN_029"
+    },
+    "char_4010_etlchi_CN_030": {
+      "charWordId": "char_4010_etlchi_CN_030",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_030",
+      "voiceText": "感觉到血流加速了吗？觉得眼前的景象漂亮吗？要是你对这场战斗的结果满意，我就不算白跑一趟。",
+      "voiceTitle": "3星结束行动",
+      "voiceIndex": 30,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4010_etlchi/CN_030"
+    },
+    "char_4010_etlchi_CN_031": {
+      "charWordId": "char_4010_etlchi_CN_031",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_031",
+      "voiceText": "但凡流了血的，就逃不掉。",
+      "voiceTitle": "非3星结束行动",
+      "voiceIndex": 31,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4010_etlchi/CN_031"
+    },
+    "char_4010_etlchi_CN_032": {
+      "charWordId": "char_4010_etlchi_CN_032",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_032",
+      "voiceText": "走呀，别看这里的一片狼藉，别让自己留下伤痕。善后有我一个人就够了。",
+      "voiceTitle": "行动失败",
+      "voiceIndex": 32,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOSE",
+      "voiceAsset": "char_4010_etlchi/CN_032"
+    },
+    "char_4010_etlchi_CN_033": {
+      "charWordId": "char_4010_etlchi_CN_033",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_033",
+      "voiceText": "很眼熟。和我当时的猜测一样，没人能改变这艘船的机械结构。",
+      "voiceTitle": "进驻设施",
+      "voiceIndex": 33,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4010_etlchi/CN_033"
+    },
+    "char_4010_etlchi_CN_034": {
+      "charWordId": "char_4010_etlchi_CN_034",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_034",
+      "voiceText": "血液倒流的感觉舒服吗？",
+      "voiceTitle": "戳一下",
+      "voiceIndex": 34,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4010_etlchi/CN_034"
+    },
+    "char_4010_etlchi_CN_036": {
+      "charWordId": "char_4010_etlchi_CN_036",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_036",
+      "voiceText": "我愿意给你一点祝福，比如，给你的笔尖施加一个与“小石榴”相同的美化法术，怎么样？",
+      "voiceTitle": "信赖触摸",
+      "voiceIndex": 36,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4010_etlchi/CN_036"
+    },
+    "char_4010_etlchi_CN_037": {
+      "charWordId": "char_4010_etlchi_CN_037",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_037",
+      "voiceText": "明日方舟。",
+      "voiceTitle": "标题",
+      "voiceIndex": 37,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4010_etlchi/CN_037"
+    },
+    "char_4010_etlchi_CN_038": {
+      "charWordId": "char_4010_etlchi_CN_038",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_038",
+      "voiceText": "真难得，人人都有兴致庆祝一个节日，而不是在这一天为谁哀悼——也难得有一场宴会不害怕血魔入席。玫瑰河畔的姐妹们都做过不少败人兴致的事，谁叫宴会是最容易打探情报的地方呢？",
+      "voiceTitle": "新年祝福",
+      "voiceIndex": 38,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4010_etlchi/CN_038"
+    },
+    "char_4010_etlchi_CN_042": {
+      "charWordId": "char_4010_etlchi_CN_042",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_042",
+      "voiceText": "如果我也是一位被无数人惦记性命的指挥官，我会学着把脚步放轻些，博士。",
+      "voiceTitle": "问候",
+      "voiceIndex": 42,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GREETING",
+      "voiceAsset": "char_4010_etlchi/CN_042"
+    },
+    "char_4010_etlchi_CN_043": {
+      "charWordId": "char_4010_etlchi_CN_043",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_043",
+      "voiceText": "新生可向来是件鲜血淋漓的事，有些姐妹纪念仇敌被杀死的日子，也有姐妹将血液被净化、自己成为纯粹的血魔的那一天视作生日。你呢？来到这片大地上，你流过的血、受过的痛楚，你还记得多少？",
+      "voiceTitle": "生日",
+      "voiceIndex": 43,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BIRTHDAY",
+      "voiceAsset": "char_4010_etlchi/CN_043"
+    },
+    "char_4010_etlchi_CN_044": {
+      "charWordId": "char_4010_etlchi_CN_044",
+      "wordKey": "char_4010_etlchi",
+      "charId": "char_4010_etlchi",
+      "voiceId": "CN_044",
+      "voiceText": "告别很难，所以我们该努力让离别更少一些。这当然不是我的信念，但确实是当初玫瑰河畔支持特蕾西娅的原因，也是如今我给你们帮忙的理由。好了，开始念你的回顾报告吧，我喜欢听人追忆过去。",
+      "voiceTitle": "周年庆典",
+      "voiceIndex": 44,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4010_etlchi/CN_044"
+    },
     "char_4172_xingzh_CN_001": {
       "charWordId": "char_4172_xingzh_CN_001",
       "wordKey": "char_4172_xingzh",
@@ -261535,6 +262777,54 @@
         }
       }
     },
+    "char_4010_etlchi": {
+      "wordkeys": [
+        "char_4010_etlchi"
+      ],
+      "charId": "char_4010_etlchi",
+      "dict": {
+        "CN_MANDARIN": {
+          "wordkey": "char_4010_etlchi",
+          "voiceLangType": "CN_MANDARIN",
+          "cvName": [
+            "陈雨"
+          ],
+          "voicePath": null
+        },
+        "JP": {
+          "wordkey": "char_4010_etlchi",
+          "voiceLangType": "JP",
+          "cvName": [
+            "长谷川育美"
+          ],
+          "voicePath": null
+        }
+      }
+    },
+    "char_4173_nowell": {
+      "wordkeys": [
+        "char_4173_nowell"
+      ],
+      "charId": "char_4173_nowell",
+      "dict": {
+        "CN_MANDARIN": {
+          "wordkey": "char_4173_nowell",
+          "voiceLangType": "CN_MANDARIN",
+          "cvName": [
+            "刘垚"
+          ],
+          "voicePath": null
+        },
+        "JP": {
+          "wordkey": "char_4173_nowell",
+          "voiceLangType": "JP",
+          "cvName": [
+            "新垣樽助"
+          ],
+          "voicePath": null
+        }
+      }
+    },
     "char_311_mudrok#1": {
       "wordkeys": [
         "char_311_mudrok#1"
@@ -261945,7 +263235,9 @@
     "char_2026_yu",
     "char_1040_blaze2",
     "char_4052_surfer",
-    "char_4172_xingzh"
+    "char_4172_xingzh",
+    "char_4010_etlchi",
+    "char_4173_nowell"
   ],
   "voiceLangTypeDict": {
     "CN_MANDARIN": {
@@ -262390,7 +263682,9 @@
     "char_2026_yu": "JP",
     "char_1040_blaze2": "JP",
     "char_4052_surfer": "JP",
-    "char_4172_xingzh": "JP"
+    "char_4172_xingzh": "JP",
+    "char_4010_etlchi": "JP",
+    "char_4173_nowell": "JP"
   },
   "startTimeWithTypeDict": {
     "CN_TOPOLECT": [
