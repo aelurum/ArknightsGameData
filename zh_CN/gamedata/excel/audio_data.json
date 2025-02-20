@@ -186427,6 +186427,7 @@
     "battle.ON_GAME_READY.act30sre2": "battle.ON_GAME_READY.act30side2",
     "sys.ON_ACTIVITY_LOADED.act30sre": "sys.ON_ACTIVITY_LOADED.act30side",
     "sys.ON_RETRO_LOADED.permanent_sidestory_24_The_Rides_To_Lake_Silberneherze": "sys.ON_ACTIVITY_LOADED.act30side",
+    "sys.ON_ACTIVITY_LOADED.act31sre": "sys.ON_ACTIVITY_LOADED.act31side",
     "sys.ON_RETRO_LOADED.permanent_sidestory_25_Here_A_People_Sows": "sys.ON_ACTIVITY_LOADED.act31side",
     "battle.ON_GAME_READY.crisis_v2_season_3_1_main_challenge": "battle.ON_GAME_READY.crisis_v2_season_3_1_main"
   }

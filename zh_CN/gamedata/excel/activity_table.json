@@ -1,5 +1,25 @@
 {
   "basicInfo": {
+    "act3collection": {
+      "id": "act3collection",
+      "type": "COLLECTION",
+      "displayType": "NONE",
+      "name": "潮起潮又起",
+      "startTime": 1740038400,
+      "endTime": 1741204799,
+      "rewardEndTime": 1741204799,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "ungroupedMedalIds": null,
+      "isReplicate": false,
+      "needFixedSync": false,
+      "trapDomainId": null,
+      "recType": "CANNOT_COMPLETE",
+      "isPageEntry": false,
+      "isMagnify": false
+    },
     "act2blessing": {
       "id": "act2blessing",
       "type": "BLESS_ONLY",
@@ -97,6 +117,26 @@
         "medal_activity_18mini_02"
       ],
       "isReplicate": false,
+      "needFixedSync": false,
+      "trapDomainId": null,
+      "recType": "SPECIAL",
+      "isPageEntry": false,
+      "isMagnify": false
+    },
+    "act31sre": {
+      "id": "act31sre",
+      "type": "TYPE_ACT9D0",
+      "displayType": "SIDESTORY",
+      "name": "怀黍离·复刻",
+      "startTime": 1740384000,
+      "endTime": 1741204799,
+      "rewardEndTime": 1741550399,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act31sre",
+      "medalGroupId": "medalGroupActivity31side",
+      "ungroupedMedalIds": null,
+      "isReplicate": true,
       "needFixedSync": false,
       "trapDomainId": null,
       "recType": "SPECIAL",
@@ -4499,6 +4539,13 @@
     }
   },
   "homeActConfig": {
+    "act3collection": {
+      "actId": "act3collection",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "715aff",
+      "actTopBarText": "集成回顾\\n水月"
+    },
     "act2blessing": {
       "actId": "act2blessing",
       "isPopupAfterCheckin": false,
@@ -5310,6 +5357,9 @@
     "act40side_zone2": "act40side",
     "act40side_zone3": "act40side",
     "act18mini_zone1": "act18mini",
+    "act31sre_zone1": "act31sre",
+    "act31sre_zone2": "act31sre",
+    "act31sre_zone3": "act31sre",
     "zone_1": "act1arcade",
     "zone_2": "act1arcade",
     "zone_3": "act1arcade",
@@ -6449,6 +6499,973 @@
         {
           "type": "ACTIVITY_ITEM",
           "id": "act40side_token_yumyum",
+          "count": 120
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_1",
+      "sortId": 1,
+      "description": "通关HS-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_01",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_2",
+      "sortId": 2,
+      "description": "通关HS-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_02",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_stonecutoff_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_3",
+      "sortId": 3,
+      "description": "通关HS-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_03",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 50
+        },
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_cabinet_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_4",
+      "sortId": 4,
+      "description": "通关HS-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_04",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_walllamp_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_5",
+      "sortId": 5,
+      "description": "通关HS-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_05",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 80
+        },
+        {
+          "type": "CHAR",
+          "id": "char_4119_wanqin",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_6",
+      "sortId": 6,
+      "description": "通关HS-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_06",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 80
+        },
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_datashelf_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_7",
+      "sortId": 7,
+      "description": "以3星评价完成HS-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_06",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_8",
+      "sortId": 8,
+      "description": "通关HS-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_07",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 100
+        },
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_largelight_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_9",
+      "sortId": 9,
+      "description": "以3星评价完成HS-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_07",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_armchair_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_10",
+      "sortId": 10,
+      "description": "通关HS-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_08",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 120
+        },
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_querydevice_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_11",
+      "sortId": 11,
+      "description": "以3星评价完成HS-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_08",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_wallpaper_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_12",
+      "sortId": 12,
+      "description": "通关HS-9",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_09",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 120
+        },
+        {
+          "type": "FURN",
+          "id": "furni_TianshiMansion_floor_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_13",
+      "sortId": 13,
+      "description": "以3星评价完成HS-9",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_09",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_14",
+      "sortId": 14,
+      "description": "通关HS-EX-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex01",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_15",
+      "sortId": 15,
+      "description": "通关HS-EX-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex02",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_16",
+      "sortId": 16,
+      "description": "通关HS-EX-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex03",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_17",
+      "sortId": 17,
+      "description": "通关HS-EX-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex04",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_18",
+      "sortId": 18,
+      "description": "通关HS-EX-5",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex05",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_19",
+      "sortId": 19,
+      "description": "通关HS-EX-6",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex06",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_20",
+      "sortId": 20,
+      "description": "通关HS-EX-7",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex07",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_21",
+      "sortId": 21,
+      "description": "通关HS-EX-8",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex08",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_22",
+      "sortId": 22,
+      "description": "通关HS-EX-8突袭模式",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_ex08#f#",
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_terratimes_Yan_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_23",
+      "sortId": 23,
+      "description": "以3星评价完成HS-S-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_s01",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_24",
+      "sortId": 24,
+      "description": "以3星评价完成HS-S-2",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_s02",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 40
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_25",
+      "sortId": 25,
+      "description": "以3星评价完成HS-S-3",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_s03",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_26",
+      "sortId": 26,
+      "description": "以3星评价完成HS-S-4",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_s04",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_27",
+      "sortId": 27,
+      "description": "以3星评价完成HS-MO-1",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "1",
+      "param": [
+        "1",
+        "act31side_mo01",
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_28",
+      "sortId": 28,
+      "description": "通关活动关卡10次,不含教学关",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act31side_01^act31side_02^act31side_03^act31side_04^act31side_05^act31side_06^act31side_07^act31side_08^act31side_09^act31side_ex01^act31side_ex01#f#^act31side_ex02^act31side_ex02#f#^act31side_ex03^act31side_ex03#f#^act31side_ex04^act31side_ex04#f#^act31side_ex05^act31side_ex05#f#^act31side_ex06^act31side_ex06#f#^act31side_ex07^act31side_ex07#f#^act31side_ex08^act31side_ex08#f#^act31side_s01^act31side_s02^act31side_s03^act31side_s04",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_29",
+      "sortId": 29,
+      "description": "通关活动关卡25次,不含教学关",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act31side_01^act31side_02^act31side_03^act31side_04^act31side_05^act31side_06^act31side_07^act31side_08^act31side_09^act31side_ex01^act31side_ex01#f#^act31side_ex02^act31side_ex02#f#^act31side_ex03^act31side_ex03#f#^act31side_ex04^act31side_ex04#f#^act31side_ex05^act31side_ex05#f#^act31side_ex06^act31side_ex06#f#^act31side_ex07^act31side_ex07#f#^act31side_ex08^act31side_ex08#f#^act31side_s01^act31side_s02^act31side_s03^act31side_s04",
+        "25"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "31sreActivity_30",
+      "sortId": 30,
+      "description": "通关活动关卡40次,不含教学关",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act31side_01^act31side_02^act31side_03^act31side_04^act31side_05^act31side_06^act31side_07^act31side_08^act31side_09^act31side_ex01^act31side_ex01#f#^act31side_ex02^act31side_ex02#f#^act31side_ex03^act31side_ex03#f#^act31side_ex04^act31side_ex04#f#^act31side_ex05^act31side_ex05#f#^act31side_ex06^act31side_ex06#f#^act31side_ex07^act31side_ex07#f#^act31side_ex08^act31side_ex08#f#^act31side_s01^act31side_s02^act31side_s03^act31side_s04",
+        "40"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act31sre",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act31side_token_box_rep_1",
           "count": 120
         }
       ],
@@ -71333,6 +72350,1155 @@
       "haveSubMissionToUnlock": false
     },
     {
+      "id": "3clloctionActivity_1",
+      "sortId": 1,
+      "description": "累计消耗600点理智",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CostAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "600"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_2",
+      "sortId": 2,
+      "description": "累计消耗1200点理智",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CostAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1200"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_3",
+      "sortId": 3,
+      "description": "累计消耗1800点理智",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CostAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1800"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_4",
+      "sortId": 4,
+      "description": "累计消耗2400点理智",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CostAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "2400"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 200
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_5",
+      "sortId": 5,
+      "description": "在信用商店中累计消费800点信用点",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "3",
+      "param": [
+        "3",
+        "800"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_6",
+      "sortId": 6,
+      "description": "在信用商店中累计消费1600点信用点",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "3",
+      "param": [
+        "3",
+        "1600"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_7",
+      "sortId": 7,
+      "description": "在信用商店中累计消费2400点信用点",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "3",
+      "param": [
+        "3",
+        "2400"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_8",
+      "sortId": 8,
+      "description": "向好友赠送6份线索",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "SendClue",
+      "templateType": "0",
+      "param": [
+        "0",
+        "6"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_9",
+      "sortId": 9,
+      "description": "向好友赠送12份线索",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "SendClue",
+      "templateType": "0",
+      "param": [
+        "0",
+        "12"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_10",
+      "sortId": 10,
+      "description": "通关任意关卡20次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAnyType",
+      "templateType": "0",
+      "param": [
+        "0",
+        "20",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_11",
+      "sortId": 11,
+      "description": "通关任意关卡40次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAnyType",
+      "templateType": "0",
+      "param": [
+        "0",
+        "40",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_12",
+      "sortId": 12,
+      "description": "通关任意关卡60次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAnyType",
+      "templateType": "0",
+      "param": [
+        "0",
+        "60",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_13",
+      "sortId": 13,
+      "description": "累计歼灭任意500名敌兵",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "EnemyKillInAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "500",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_14",
+      "sortId": 14,
+      "description": "累计歼灭任意1000名敌兵",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "EnemyKillInAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1000",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_15",
+      "sortId": 15,
+      "description": "累计歼灭任意2000名敌兵",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "EnemyKillInAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "2000",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_16",
+      "sortId": 16,
+      "description": "累计公开招募10次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_17",
+      "sortId": 17,
+      "description": "累计公开招募20次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "20"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_18",
+      "sortId": 18,
+      "description": "累计公开招募40次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "40"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_19",
+      "sortId": 19,
+      "description": "让60名干员在宿舍中恢复心情",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "60"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_20",
+      "sortId": 20,
+      "description": "让120名干员在宿舍中恢复心情",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "120"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_21",
+      "sortId": 21,
+      "description": "让200名干员在宿舍中恢复心情",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "200"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_22",
+      "sortId": 22,
+      "description": "完成30笔订单",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "30"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_23",
+      "sortId": 23,
+      "description": "完成60笔订单",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "60"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_24",
+      "sortId": 24,
+      "description": "完成100笔订单",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "100"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_25",
+      "sortId": 25,
+      "description": "任务期间累积举行1次线索交流",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "StartInfoShare",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_26",
+      "sortId": 26,
+      "description": "任务期间累积举行3次线索交流",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "StartInfoShare",
+      "templateType": "1",
+      "param": [
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_27",
+      "sortId": 27,
+      "description": "在集成战略-水月与深蓝之树中，累计击败【圆仔】1次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2KillCertainEnemy",
+      "templateType": "0",
+      "param": [
+        "0",
+        "rogue_2",
+        "enemy_2085_skzjxd",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 200
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_28",
+      "sortId": 28,
+      "description": "在集成战略-水月与深蓝之树中，以常规行动模式的任意难度完成1次结局",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PassEnding",
+      "templateType": "0",
+      "param": [
+        "0",
+        "rogue_2",
+        "NORMAL",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_29",
+      "sortId": 29,
+      "description": "在集成战略-水月与深蓝之树中，以常规行动模式的任意难度完成2次结局",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PassEnding",
+      "templateType": "0",
+      "param": [
+        "0",
+        "rogue_2",
+        "NORMAL",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 250
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_30",
+      "sortId": 30,
+      "description": "在集成战略中，累计招募10次干员",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2RecruitChar",
+      "templateType": "0",
+      "param": [
+        "0",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_31",
+      "sortId": 31,
+      "description": "在集成战略中，累计招募30次干员",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2RecruitChar",
+      "templateType": "0",
+      "param": [
+        "0",
+        "30"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_32",
+      "sortId": 32,
+      "description": "在集成战略中，累计招募50次干员",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2RecruitChar",
+      "templateType": "0",
+      "param": [
+        "0",
+        "50"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_33",
+      "sortId": 33,
+      "description": "在集成战略中，累计通过5层区域",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PassZone",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_34",
+      "sortId": 34,
+      "description": "在集成战略中，累计通过10层区域",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PassZone",
+      "templateType": "0",
+      "param": [
+        "0",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_35",
+      "sortId": 35,
+      "description": "在集成战略中，累计经过5次紧急作战节点",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PassNodeType",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5",
+        "BATTLE_ELITE"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_36",
+      "sortId": 36,
+      "description": "在集成战略中，累计经过10次紧急作战节点",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PassNodeType",
+      "templateType": "0",
+      "param": [
+        "0",
+        "10",
+        "BATTLE_ELITE"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_37",
+      "sortId": 37,
+      "description": "在集成战略中，累计完美作战10次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PerfectBattle",
+      "templateType": "0",
+      "param": [
+        "0",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_38",
+      "sortId": 38,
+      "description": "在集成战略中，累计完美作战20次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2PerfectBattle",
+      "templateType": "0",
+      "param": [
+        "0",
+        "20"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "3clloctionActivity_39",
+      "sortId": 39,
+      "description": "在集成战略中，累计获得过收藏品50次",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "Rlv2GainItem",
+      "templateType": "0",
+      "param": [
+        "0",
+        "50",
+        "RELIC"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3collection",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act3collection_point_token",
+          "count": 150
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
       "id": "2clloctionActivity_1",
       "sortId": 1,
       "description": "累计消耗600点理智",
@@ -79229,6 +81395,48 @@
       "endTs": 1739908799
     },
     {
+      "id": "act31sre",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": [],
+      "missionIds": [
+        "31sreActivity_1",
+        "31sreActivity_2",
+        "31sreActivity_3",
+        "31sreActivity_4",
+        "31sreActivity_5",
+        "31sreActivity_6",
+        "31sreActivity_7",
+        "31sreActivity_8",
+        "31sreActivity_9",
+        "31sreActivity_10",
+        "31sreActivity_11",
+        "31sreActivity_12",
+        "31sreActivity_13",
+        "31sreActivity_14",
+        "31sreActivity_15",
+        "31sreActivity_16",
+        "31sreActivity_17",
+        "31sreActivity_18",
+        "31sreActivity_19",
+        "31sreActivity_20",
+        "31sreActivity_21",
+        "31sreActivity_22",
+        "31sreActivity_23",
+        "31sreActivity_24",
+        "31sreActivity_25",
+        "31sreActivity_26",
+        "31sreActivity_27",
+        "31sreActivity_28",
+        "31sreActivity_29",
+        "31sreActivity_30"
+      ],
+      "startTs": 1740384000,
+      "endTs": 1741550399
+    },
+    {
       "id": "act30sre",
       "title": null,
       "type": "ACTIVITY",
@@ -82262,6 +84470,57 @@
       ],
       "startTs": 1574150400,
       "endTs": 1575921599
+    },
+    {
+      "id": "act3collection",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "3clloctionActivity_1",
+        "3clloctionActivity_2",
+        "3clloctionActivity_3",
+        "3clloctionActivity_4",
+        "3clloctionActivity_5",
+        "3clloctionActivity_6",
+        "3clloctionActivity_7",
+        "3clloctionActivity_8",
+        "3clloctionActivity_9",
+        "3clloctionActivity_10",
+        "3clloctionActivity_11",
+        "3clloctionActivity_12",
+        "3clloctionActivity_13",
+        "3clloctionActivity_14",
+        "3clloctionActivity_15",
+        "3clloctionActivity_16",
+        "3clloctionActivity_17",
+        "3clloctionActivity_18",
+        "3clloctionActivity_19",
+        "3clloctionActivity_20",
+        "3clloctionActivity_21",
+        "3clloctionActivity_22",
+        "3clloctionActivity_23",
+        "3clloctionActivity_24",
+        "3clloctionActivity_25",
+        "3clloctionActivity_26",
+        "3clloctionActivity_27",
+        "3clloctionActivity_28",
+        "3clloctionActivity_29",
+        "3clloctionActivity_30",
+        "3clloctionActivity_31",
+        "3clloctionActivity_32",
+        "3clloctionActivity_33",
+        "3clloctionActivity_34",
+        "3clloctionActivity_35",
+        "3clloctionActivity_36",
+        "3clloctionActivity_37",
+        "3clloctionActivity_38",
+        "3clloctionActivity_39"
+      ],
+      "startTs": 1740038400,
+      "endTs": 1741204799
     },
     {
       "id": "act2collection",
@@ -104128,6 +106387,198 @@
     },
     "TYPE_ACT5D1": {},
     "COLLECTION": {
+      "act3collection": {
+        "collections": [
+          {
+            "id": 1,
+            "itemType": "CARD_EXP",
+            "itemId": "2003",
+            "itemCnt": 20,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 300,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 2,
+            "itemType": "MATERIAL",
+            "itemId": "3302",
+            "itemCnt": 10,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 600,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 3,
+            "itemType": "MATERIAL",
+            "itemId": "31063",
+            "itemCnt": 5,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 900,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 4,
+            "itemType": "MATERIAL",
+            "itemId": "32001",
+            "itemCnt": 1,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 1200,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 5,
+            "itemType": "TKT_RECRUIT",
+            "itemId": "7001",
+            "itemCnt": 5,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 1600,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 6,
+            "itemType": "MATERIAL",
+            "itemId": "30043",
+            "itemCnt": 5,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 2000,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 7,
+            "itemType": "GOLD",
+            "itemId": "4001",
+            "itemCnt": 30000,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 2400,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 8,
+            "itemType": "MATERIAL",
+            "itemId": "31024",
+            "itemCnt": 2,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 2800,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 9,
+            "itemType": "VOUCHER_LEVELMAX_5",
+            "itemId": "voucher_levelmax_5",
+            "itemCnt": 1,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 3200,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 10,
+            "itemType": "MATERIAL",
+            "itemId": "3003",
+            "itemCnt": 20,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 3600,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 11,
+            "itemType": "MATERIAL",
+            "itemId": "31053",
+            "itemCnt": 5,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 4000,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          },
+          {
+            "id": 12,
+            "itemType": "MATERIAL",
+            "itemId": "30135",
+            "itemCnt": 1,
+            "pointId": "act3collection_point_token",
+            "pointCnt": 4500,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true,
+            "isBonusShow": false
+          }
+        ],
+        "apSupplyOutOfDateDict": {},
+        "consts": {
+          "showJumpBtn": true,
+          "jumpBtnType": "ROGUE",
+          "jumpBtnParam1": "rogue_2",
+          "jumpBtnParam2": "main_03-08",
+          "dailyTaskStartTime": 1740081600
+        }
+      },
       "act2collection": {
         "collections": [
           {
@@ -105968,6 +108419,37 @@
         "constData": {
           "campaignEnemyCnt": 200,
           "campaignStageId": "act40side_mo01"
+        }
+      },
+      "act31sre": {
+        "tokenItemId": "act31side_token_box_rep_1",
+        "zoneDescList": {
+          "act31sre_zone1": {
+            "zoneId": "act31sre_zone1",
+            "unlockText": "尚未解锁",
+            "displayStartTime": 1740384000
+          },
+          "act31sre_zone2": {
+            "zoneId": "act31sre_zone2",
+            "unlockText": "完成「种植地块」后解锁",
+            "displayStartTime": 1740384000
+          },
+          "act31sre_zone3": {
+            "zoneId": "act31sre_zone3",
+            "unlockText": "完成「种植地块」后解锁",
+            "displayStartTime": 1740384000
+          }
+        },
+        "favorUpList": {},
+        "subMissionInfo": null,
+        "hasSubMission": false,
+        "apSupplyOutOfDateDict": {},
+        "newsInfoList": null,
+        "newsServerInfoList": null,
+        "miscHub": {},
+        "constData": {
+          "campaignEnemyCnt": 0,
+          "campaignStageId": null
         }
       },
       "act30sre": {
@@ -196237,11 +198719,17 @@
     }
   },
   "activityItems": {
+    "act3collection": [
+      "act3collection_point_token"
+    ],
     "act40side": [
       "act40side_token_yumyum"
     ],
     "act18mini": [
       "act18mini_token_petals"
+    ],
+    "act31sre": [
+      "act31side_token_box_rep_1"
     ],
     "act2collection": [
       "act2collection_point_token"
@@ -196646,6 +199134,10 @@
     "act40side": [
       1737518400,
       1739303999
+    ],
+    "act31sre": [
+      1740384000,
+      1741204799
     ],
     "act30sre": [
       1734595200,
@@ -202823,6 +205315,36 @@
         }
       ],
       "startTs": 1739520000
+    },
+    {
+      "id": "dis_rogue_2_enroll_3",
+      "type": "ROGUELIKE",
+      "funcId": "rogue_2_entry_display_4",
+      "endTs": 1741204799,
+      "sortId": 105,
+      "itemId": null,
+      "timeNodes": [
+        {
+          "title": "<水月与深蓝之树>集成回顾已开启",
+          "ts": 1740038400
+        }
+      ],
+      "startTs": 1740038400
+    },
+    {
+      "id": "dis_side_31_sre",
+      "type": "ACTIVITY",
+      "funcId": "act31sre",
+      "endTs": 1741204799,
+      "sortId": 106,
+      "itemId": "act31side_token_box_rep_1",
+      "timeNodes": [
+        {
+          "title": "<怀黍离·复刻>活动已开放",
+          "ts": 1740384000
+        }
+      ],
+      "startTs": 1740384000
     }
   ],
   "actFunData": {
@@ -230122,6 +232644,26 @@
       "titleType": "COMMON",
       "coinType": "COMMON",
       "coinBackColor": "8c2a2a"
+    },
+    "act31sre": {
+      "bigRewardType": "ILLUST_CHAR_REWARD",
+      "bigRewardParamList": [
+        "char_4119_wanqin",
+        "通关HS-5后可招募此干员",
+        "99785e"
+      ],
+      "isMissionListCommonType": true,
+      "isMissionItemCommonType": false,
+      "missionItemMainColor": "99785e",
+      "isMissionItemCompleteUseMainColor": true,
+      "missionItemCompleteColor": null,
+      "isMissionRewardItemCommonType": true,
+      "isClaimAllBtnCommonType": false,
+      "claimAllBtnMainColor": "99785e",
+      "claimAllBtnTips": null,
+      "titleType": "COMMON",
+      "coinType": "COMMON",
+      "coinBackColor": "afc04c"
     },
     "act30sre": {
       "bigRewardType": "ILLUST_CHAR_REWARD",

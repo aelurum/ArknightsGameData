@@ -67,6 +67,12 @@
           "displayId": "rogue_2_entry_display_3",
           "startTs": 1681545600,
           "endTs": 1681934399
+        },
+        {
+          "topicId": "rogue_2",
+          "displayId": "rogue_2_entry_display_4",
+          "startTs": 1740038400,
+          "endTs": 1741204799
         }
       ],
       "moduleTypes": [
@@ -34412,6 +34418,84 @@
           "hideEndingStory": false
         },
         {
+          "modeDifficulty": "NORMAL",
+          "grade": 16,
+          "name": "波涛迭起",
+          "subName": null,
+          "enrollId": "rogue_2_enroll_3",
+          "haveInitialRelicIcon": false,
+          "scoreFactor": 1.5,
+          "canUnlockItem": true,
+          "doMonthTask": true,
+          "ruleDesc": "获得收藏品【养育者基因种】",
+          "ruleDescReplacements": null,
+          "failTitle": "联系中断",
+          "failImageId": "image_rogue_2_fail_general",
+          "failForceDesc": "通过提升干员等级、技能等级或将干员精英化，可以在战斗中取得更大优势",
+          "sortId": 1,
+          "equivalentGrade": 16,
+          "color": "#411ab2",
+          "bpValue": 50,
+          "bossValue": 16,
+          "addDesc": "每进入新的区域，所有敌人攻击力和生命值额外+20%",
+          "warningType": "HARD",
+          "unlockText": "通过<波涛迭起·15>",
+          "displayIconId": null,
+          "hideEndingStory": false
+        },
+        {
+          "modeDifficulty": "NORMAL",
+          "grade": 17,
+          "name": "波涛迭起",
+          "subName": null,
+          "enrollId": "rogue_2_enroll_3",
+          "haveInitialRelicIcon": false,
+          "scoreFactor": 1.5,
+          "canUnlockItem": true,
+          "doMonthTask": true,
+          "ruleDesc": "组合排异反应将取代基础排异反应",
+          "ruleDescReplacements": null,
+          "failTitle": "联系中断",
+          "failImageId": "image_rogue_2_fail_general",
+          "failForceDesc": "通过提升干员等级、技能等级或将干员精英化，可以在战斗中取得更大优势",
+          "sortId": 1,
+          "equivalentGrade": 17,
+          "color": "#411ab2",
+          "bpValue": 50,
+          "bossValue": 17,
+          "addDesc": "每进入新的区域，所有敌人攻击力额外+20%，生命值额外+25%",
+          "warningType": "HARD",
+          "unlockText": "通过<波涛迭起·16>",
+          "displayIconId": null,
+          "hideEndingStory": false
+        },
+        {
+          "modeDifficulty": "NORMAL",
+          "grade": 18,
+          "name": "波涛迭起",
+          "subName": null,
+          "enrollId": "rogue_2_enroll_3",
+          "haveInitialRelicIcon": false,
+          "scoreFactor": 1.5,
+          "canUnlockItem": true,
+          "doMonthTask": true,
+          "ruleDesc": "所有精英和领袖单位登场后20秒内受到物理和法术伤害-50%，攻击力+30%",
+          "ruleDescReplacements": null,
+          "failTitle": "联系中断",
+          "failImageId": "image_rogue_2_fail_general",
+          "failForceDesc": "通过提升干员等级、技能等级或将干员精英化，可以在战斗中取得更大优势",
+          "sortId": 1,
+          "equivalentGrade": 18,
+          "color": "#411ab2",
+          "bpValue": 50,
+          "bossValue": 18,
+          "addDesc": "每进入新的区域，所有敌人攻击力额外+20%，生命值额外+30%",
+          "warningType": "HARD",
+          "unlockText": "通过<波涛迭起·17>",
+          "displayIconId": null,
+          "hideEndingStory": false
+        },
+        {
           "modeDifficulty": "MONTH_TEAM",
           "grade": 0,
           "name": "追忆映射",
@@ -36586,6 +36670,14 @@
               "orderId": "261",
               "isSpRelic": true,
               "enrollId": "rogue_2_enroll_2"
+            },
+            "rogue_2_relic_fight_159": {
+              "relicId": "rogue_2_relic_fight_159",
+              "relicSortId": 25,
+              "relicGroupId": 9,
+              "orderId": "262",
+              "isSpRelic": true,
+              "enrollId": "rogue_2_enroll_3"
             }
           }
         },
@@ -37065,6 +37157,66 @@
               "iconId": "pic_rogue_2_mutation_4",
               "usage": "产生排异反应的干员生命上限、防御力、攻击力、部署费用和再部署时间-50%",
               "desc": "体外细胞进入循环系统，电信号传递异位，体组织全面收缩",
+              "color": "#9266b2"
+            },
+            "rogue_2_mutation_13": {
+              "buffId": "rogue_2_mutation_13",
+              "buffGroupIndex": 2,
+              "innerSortId": 5,
+              "name": "退行与失调",
+              "iconId": "pic_rogue_2_mutation_5",
+              "usage": "产生排异反应的干员的所有技能自动开启、部署后陷入持续15秒的冻结",
+              "desc": "精神全面异化，失去自制力。",
+              "color": "#9266b2"
+            },
+            "rogue_2_mutation_14": {
+              "buffId": "rogue_2_mutation_14",
+              "buffGroupIndex": 2,
+              "innerSortId": 6,
+              "name": "退行与障碍",
+              "iconId": "pic_rogue_2_mutation_6",
+              "usage": "产生排异反应的干员在血量未满时不断流失生命值、部署后陷入持续15秒的冻结",
+              "desc": "体内各结构阻塞，思考无法转化为实践。",
+              "color": "#9266b2"
+            },
+            "rogue_2_mutation_15": {
+              "buffId": "rogue_2_mutation_15",
+              "buffGroupIndex": 2,
+              "innerSortId": 7,
+              "name": "退行与畸变",
+              "iconId": "pic_rogue_2_mutation_7",
+              "usage": "产生排异反应的干员生命上限、防御力、攻击力、部署费用和再部署时间-50%、部署后陷入持续15秒的冻结",
+              "desc": "躯体不可逆老化，极易受到外部伤害。",
+              "color": "#9266b2"
+            },
+            "rogue_2_mutation_16": {
+              "buffId": "rogue_2_mutation_16",
+              "buffGroupIndex": 2,
+              "innerSortId": 8,
+              "name": "失调与障碍",
+              "iconId": "pic_rogue_2_mutation_8",
+              "usage": "产生排异反应的干员的所有技能自动开启、在血量未满时不断流失生命值",
+              "desc": "意识浑浊，判断能力减弱。",
+              "color": "#9266b2"
+            },
+            "rogue_2_mutation_17": {
+              "buffId": "rogue_2_mutation_17",
+              "buffGroupIndex": 2,
+              "innerSortId": 9,
+              "name": "失调与畸变",
+              "iconId": "pic_rogue_2_mutation_9",
+              "usage": "产生排异反应的干员的所有技能自动开启、生命上限、防御力、攻击力、部署费用和再部署时间-50%",
+              "desc": "人体系统紊乱，不适感增强，行动困难。",
+              "color": "#9266b2"
+            },
+            "rogue_2_mutation_18": {
+              "buffId": "rogue_2_mutation_18",
+              "buffGroupIndex": 2,
+              "innerSortId": 10,
+              "name": "障碍与畸变",
+              "iconId": "pic_rogue_2_mutation_10",
+              "usage": "产生排异反应的干员在血量未满时不断流失生命值、生命上限、防御力、攻击力、部署费用和再部署时间-50%",
+              "desc": "肉体萎缩，无力对环境变化做出反应。",
               "color": "#9266b2"
             },
             "rogue_2_virtue_1": {
@@ -38564,6 +38716,135 @@
         {
           "modeId": "NORMAL",
           "modeGrade": 15,
+          "predefinedId": null,
+          "predefinedStyle": null,
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_14",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_18",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_22",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 6,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "NORMAL",
+          "modeGrade": 16,
+          "predefinedId": null,
+          "predefinedStyle": null,
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_14",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_18",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_22",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 6,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "NORMAL",
+          "modeGrade": 17,
+          "predefinedId": null,
+          "predefinedStyle": null,
+          "initialBandRelic": [
+            "rogue_2_band_11",
+            "rogue_2_band_12",
+            "rogue_2_band_13",
+            "rogue_2_band_14",
+            "rogue_2_band_15",
+            "rogue_2_band_16",
+            "rogue_2_band_17",
+            "rogue_2_band_18",
+            "rogue_2_band_19",
+            "rogue_2_band_20",
+            "rogue_2_band_21",
+            "rogue_2_band_22",
+            "rogue_2_band_1",
+            "rogue_2_band_2",
+            "rogue_2_band_3",
+            "rogue_2_band_4",
+            "rogue_2_band_5",
+            "rogue_2_band_6",
+            "rogue_2_band_7",
+            "rogue_2_band_8",
+            "rogue_2_band_9",
+            "rogue_2_band_10"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 6,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "NORMAL",
+          "modeGrade": 18,
           "predefinedId": null,
           "predefinedStyle": null,
           "initialBandRelic": [
@@ -51406,6 +51687,901 @@
               ]
             }
           ]
+        },
+        "rogue_2_feature_pill_1": {
+          "id": "rogue_2_feature_pill_1",
+          "buffs": [
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill,1"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill_elite,1"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill,1"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill_elite,1"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_feature_pill_2": {
+          "id": "rogue_2_feature_pill_2",
+          "buffs": [
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill,2"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.01,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill_elite,2"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.02,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill,2"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill_elite,2"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_feature_pill_3": {
+          "id": "rogue_2_feature_pill_3",
+          "buffs": [
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill,3"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.02,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill_elite,3"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.04,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill,3"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill_elite,3"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.01,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_feature_pill_4": {
+          "id": "rogue_2_feature_pill_4",
+          "buffs": [
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill,4"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.02,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill_elite,4"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.04,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill,4"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill_elite,4"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.02,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_feature_pill_5": {
+          "id": "rogue_2_feature_pill_5",
+          "buffs": [
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill,5"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.03,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill_elite,5"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.06,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill,5"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill_elite,5"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.02,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_feature_pill_6": {
+          "id": "rogue_2_feature_pill_6",
+          "buffs": [
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill,6"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.1,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill_elite,6"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.2,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill,6"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill_elite,6"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.1,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_feature_pill_7": {
+          "id": "rogue_2_feature_pill_7",
+          "buffs": [
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill,7"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.1,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_pill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_pill_elite,7"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.2,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill,7"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_NORMAL"
+                }
+              ]
+            },
+            {
+              "key": "battle_extra_drop",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_bigpill"
+                },
+                {
+                  "key": "count",
+                  "value": 1.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "uniq_id",
+                  "value": 0.0,
+                  "valueStr": "battle_bigpill_elite,7"
+                },
+                {
+                  "key": "rate",
+                  "value": 0.1,
+                  "valueStr": null
+                },
+                {
+                  "key": "node",
+                  "value": 0.0,
+                  "valueStr": "BATTLE_ELITE,BATTLE_BOSS"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_relic_fight_159": {
+          "id": "rogue_2_relic_fight_159",
+          "buffs": [
+            {
+              "key": "immediate_reward",
+              "blackboard": [
+                {
+                  "key": "id",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_shield"
+                },
+                {
+                  "key": "count",
+                  "value": 0.0,
+                  "valueStr": null
+                }
+              ]
+            }
+          ]
         }
       },
       "relicParams": {
@@ -53217,6 +54393,11 @@
         },
         "rogue_2_relic_fight_158": {
           "id": "rogue_2_relic_fight_158",
+          "checkCharBoxTypes": [],
+          "checkCharBoxParams": []
+        },
+        "rogue_2_relic_fight_159": {
+          "id": "rogue_2_relic_fight_159",
           "checkCharBoxTypes": [],
           "checkCharBoxParams": []
         }
@@ -61290,6 +62471,521 @@
               ]
             }
           ]
+        },
+        "rogue_2_mutation_9": {
+          "id": "rogue_2_mutation_9",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_1",
+          "outerName": "造血障碍",
+          "innerName": "造血障碍",
+          "functionDesc": "产生排异反应的干员在血量未满时不断流失生命值",
+          "desc": "血细胞凋亡加速，骨髓造血机能受抑制",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_bleed[core]"
+                },
+                {
+                  "key": "damage",
+                  "value": 150.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_10": {
+          "id": "rogue_2_mutation_10",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_2",
+          "outerName": "专注失调",
+          "innerName": "专注失调",
+          "functionDesc": "产生排异反应的干员的所有技能自动开启",
+          "desc": "感知机能减弱，丧失协调性，应激机制失控",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_auto[core]"
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_11": {
+          "id": "rogue_2_mutation_11",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_3",
+          "outerName": "神经退行",
+          "innerName": "神经退行",
+          "functionDesc": "产生排异反应的干员部署后陷入冻结，持续15秒（每名干员退场前只会生效一次）",
+          "desc": "大脑神经元萎缩，反应迟缓，意识游离",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_frozen[core]"
+                },
+                {
+                  "key": "freeze",
+                  "value": 15.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_12": {
+          "id": "rogue_2_mutation_12",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_4",
+          "outerName": "血肉畸变",
+          "innerName": "血肉畸变",
+          "functionDesc": "产生排异反应的干员生命上限、防御力、攻击力、部署费用和再部署时间-50%",
+          "desc": "体外细胞进入循环系统，电信号传递异位，体组织全面收缩",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_attribute[core]"
+                },
+                {
+                  "key": "max_hp",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "def",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "atk",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "cost",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "respawn_time",
+                  "value": 0.5,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_13": {
+          "id": "rogue_2_mutation_13",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_5",
+          "outerName": "退行与失调",
+          "innerName": "退行与失调",
+          "functionDesc": "产生排异反应的干员的所有技能自动开启、部署后陷入持续15秒的冻结",
+          "desc": "精神全面异化，失去自制力。",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_auto_frozen[core]"
+                },
+                {
+                  "key": "freeze",
+                  "value": 15.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_14": {
+          "id": "rogue_2_mutation_14",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_6",
+          "outerName": "退行与障碍",
+          "innerName": "退行与障碍",
+          "functionDesc": "产生排异反应的干员在血量未满时不断流失生命值、部署后陷入持续15秒的冻结",
+          "desc": "体内各结构阻塞，思考无法转化为实践。",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_bleed_frozen[core]"
+                },
+                {
+                  "key": "freeze",
+                  "value": 15.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "damage",
+                  "value": 150.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_15": {
+          "id": "rogue_2_mutation_15",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_7",
+          "outerName": "退行与畸变",
+          "innerName": "退行与畸变",
+          "functionDesc": "产生排异反应的干员生命上限、防御力、攻击力、部署费用和再部署时间-50%、部署后陷入持续15秒的冻结",
+          "desc": "躯体不可逆老化，极易受到外部伤害。",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_attribute_frozen[core]"
+                },
+                {
+                  "key": "freeze",
+                  "value": 15.0,
+                  "valueStr": null
+                },
+                {
+                  "key": "max_hp",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "def",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "atk",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "cost_scale",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "respawn_time",
+                  "value": 0.5,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_16": {
+          "id": "rogue_2_mutation_16",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_8",
+          "outerName": "失调与障碍",
+          "innerName": "失调与障碍",
+          "functionDesc": "产生排异反应的干员的所有技能自动开启、在血量未满时不断流失生命值",
+          "desc": "意识浑浊，判断能力减弱。",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_auto_bleed[core]"
+                },
+                {
+                  "key": "damage",
+                  "value": 150.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_17": {
+          "id": "rogue_2_mutation_17",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_9",
+          "outerName": "失调与畸变",
+          "innerName": "失调与畸变",
+          "functionDesc": "产生排异反应的干员的所有技能自动开启、生命上限、防御力、攻击力、部署费用和再部署时间-50%",
+          "desc": "人体系统紊乱，不适感增强，行动困难。",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_attribute_auto[core]"
+                },
+                {
+                  "key": "max_hp",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "def",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "atk",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "cost_scale",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "respawn_time",
+                  "value": 0.5,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_18": {
+          "id": "rogue_2_mutation_18",
+          "buffType": "MUTATION",
+          "iconId": "pic_rogue_2_mutation_10",
+          "outerName": "障碍与畸变",
+          "innerName": "障碍与畸变",
+          "functionDesc": "产生排异反应的干员在血量未满时不断流失生命值、生命上限、防御力、攻击力、部署费用和再部署时间-50%",
+          "desc": "肉体萎缩，无力对环境变化做出反应。",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_attribute_bleed[core]"
+                },
+                {
+                  "key": "max_hp",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "def",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "atk",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "cost_scale",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "respawn_time",
+                  "value": 0.5,
+                  "valueStr": null
+                },
+                {
+                  "key": "damage",
+                  "value": 150.0,
+                  "valueStr": null
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect",
+              "blackboard": []
+            },
+            {
+              "key": "char_ability_new_at_root",
+              "blackboard": [
+                {
+                  "key": "key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_infection_empty_ability"
+                }
+              ]
+            }
+          ]
+        },
+        "rogue_2_mutation_19": {
+          "id": "rogue_2_mutation_19",
+          "buffType": "EVOLUTION",
+          "iconId": "pic_rogue_2_evolution_1",
+          "outerName": "进化",
+          "innerName": "进化",
+          "functionDesc": "排异反应无效，获得35%的庇护，攻击无视目标35%的法术抗性和防御力",
+          "desc": "排异反应干员获得进化",
+          "buffs": [
+            {
+              "key": "char_shared_data",
+              "blackboard": [
+                {
+                  "key": "buff_key",
+                  "value": 0.0,
+                  "valueStr": "rogue_2_enroll_3_ascension[core]"
+                }
+              ]
+            },
+            {
+              "key": "deck_mutation_effect_2",
+              "blackboard": []
+            }
+          ]
         }
       },
       "squadBuffData": {
@@ -62499,6 +64195,36 @@
           "obtainApproach": "在集成战略模式中获得",
           "iconId": "rogue_2_shield",
           "type": "SHIELD",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_pill": {
+          "id": "rogue_2_pill",
+          "name": "改良基因",
+          "description": null,
+          "usage": "随机一名受到排异反应的干员永久获得【进化】",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_pill",
+          "type": "PILL",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_bigpill": {
+          "id": "rogue_2_bigpill",
+          "name": "改良基因组",
+          "description": null,
+          "usage": "所有受到排异反应的干员永久获得【进化】",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_bigpill",
+          "type": "BIGPILL",
           "subType": "NONE",
           "rarity": "NONE",
           "value": 0,
@@ -67681,6 +69407,21 @@
           "canSacrifice": true,
           "unlockCondDesc": "认知塑造中解锁【物由心生】"
         },
+        "rogue_2_relic_fight_159": {
+          "id": "rogue_2_relic_fight_159",
+          "name": "养育者基因种",
+          "description": "集体进化由个体突变推动，个体难题由集体智慧解决。陆对这一模型很有信心，如果养育者计划能有足够的时间，或许......",
+          "usage": "排异反应干员会同化周围2名正常干员，同化完成将临时获得【进化】：排异反应无效，获得35%的庇护，攻击无视目标35%的法术抗性和防御力",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_relic_fight_159",
+          "type": "RELIC",
+          "subType": "NONE",
+          "rarity": "SUPER_RARE",
+          "value": 16,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
         "rogue_2_treasure": {
           "id": "rogue_2_treasure",
           "name": "漂流秘匣",
@@ -67692,6 +69433,111 @@
           "subType": "NONE",
           "rarity": "NONE",
           "value": 8,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_feature_pill_1": {
+          "id": "rogue_2_feature_pill_1",
+          "name": "1层药水掉落控制",
+          "description": "机制物品",
+          "usage": "机制物品",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_feature_pill_1",
+          "type": "FEATURE",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_feature_pill_2": {
+          "id": "rogue_2_feature_pill_2",
+          "name": "2层药水掉落控制",
+          "description": "机制物品",
+          "usage": "机制物品",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_feature_pill_2",
+          "type": "FEATURE",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_feature_pill_3": {
+          "id": "rogue_2_feature_pill_3",
+          "name": "3层药水掉落控制",
+          "description": "机制物品",
+          "usage": "机制物品",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_feature_pill_3",
+          "type": "FEATURE",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_feature_pill_4": {
+          "id": "rogue_2_feature_pill_4",
+          "name": "4层药水掉落控制",
+          "description": "机制物品",
+          "usage": "机制物品",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_feature_pill_4",
+          "type": "FEATURE",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_feature_pill_5": {
+          "id": "rogue_2_feature_pill_5",
+          "name": "5层药水掉落控制",
+          "description": "机制物品",
+          "usage": "机制物品",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_feature_pill_5",
+          "type": "FEATURE",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_feature_pill_6": {
+          "id": "rogue_2_feature_pill_6",
+          "name": "6层药水掉落控制",
+          "description": "机制物品",
+          "usage": "机制物品",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_feature_pill_6",
+          "type": "FEATURE",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
+          "sortId": 999,
+          "canSacrifice": false,
+          "unlockCondDesc": null
+        },
+        "rogue_2_feature_pill_7": {
+          "id": "rogue_2_feature_pill_7",
+          "name": "7层药水掉落控制",
+          "description": "机制物品",
+          "usage": "机制物品",
+          "obtainApproach": "在集成战略模式中获得",
+          "iconId": "rogue_2_feature_pill_7",
+          "type": "FEATURE",
+          "subType": "NONE",
+          "rarity": "NONE",
+          "value": 0,
           "sortId": 999,
           "canSacrifice": false,
           "unlockCondDesc": null
@@ -189056,6 +190902,24 @@
             "initialDiceCount": 1
           },
           {
+            "modeId": "NORMAL",
+            "modeGrade": 16,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 17,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
+            "modeId": "NORMAL",
+            "modeGrade": 18,
+            "predefinedId": null,
+            "initialDiceCount": 1
+          },
+          {
             "modeId": "MONTH_TEAM",
             "modeGrade": 0,
             "predefinedId": "month_team_1",
@@ -197057,6 +198921,23 @@
         {
           "modeDifficulty": "NORMAL",
           "grade": 15,
+          "buffDesc": []
+        },
+        {
+          "modeDifficulty": "NORMAL",
+          "grade": 16,
+          "buffDesc": [
+            "战斗结束有概率掉落改良基因和改良基因组"
+          ]
+        },
+        {
+          "modeDifficulty": "NORMAL",
+          "grade": 17,
+          "buffDesc": []
+        },
+        {
+          "modeDifficulty": "NORMAL",
+          "grade": 18,
           "buffDesc": []
         },
         {
