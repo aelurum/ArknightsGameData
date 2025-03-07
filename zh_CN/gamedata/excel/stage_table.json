@@ -86184,6 +86184,1385 @@
       "extraCondition": null,
       "extraInfo": null
     },
+    "act41side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_st01",
+      "levelId": null,
+      "zoneId": "act41side_zone1",
+      "code": "EA-ST-1",
+      "name": "涉过寒夜",
+      "description": "故事、歌谣、篝火......齐聚在此的人一无所有，也无所不有。",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_01",
+      "levelId": "Activities/act41side/level_act41side_01",
+      "zoneId": "act41side_zone1",
+      "code": "EA-1",
+      "name": "扉页所见",
+      "description": "“自我放逐者，你为何来此？”",
+      "hardStagedId": null,
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 8,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 8,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_tr01",
+      "levelId": "Activities/act41side/level_act41side_tr01",
+      "zoneId": "act41side_zone1",
+      "code": "EA-TR-1",
+      "name": "拨雾声",
+      "description": "“我带来牧场的丰获与野地的馈赠。我曾空手离去，而今满载归来。”\\n<@lv.item><草毯></>可以生长<树丛>，置于其上的单位持续受到法术伤害\\n<@lv.item><树丛></>不会受到攻击，遮挡我方单位的视野",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_02",
+      "levelId": "Activities/act41side/level_act41side_02",
+      "zoneId": "act41side_zone1",
+      "code": "EA-2",
+      "name": "不过别离",
+      "description": "“你满怀真诚，却别无所求？”\\n<@lv.item><树丛></>不会受到攻击，遮挡我方单位的视野",
+      "hardStagedId": null,
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 8,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 8,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_03",
+      "levelId": "Activities/act41side/level_act41side_03",
+      "zoneId": "act41side_zone1",
+      "code": "EA-3",
+      "name": "惶惑与冲动",
+      "description": "“也为弥补过去，也为再临故土。此外，我别无所求。”\\n<@lv.item><树丛></>不会受到攻击，遮挡我方单位的视野",
+      "hardStagedId": null,
+      "dangerLevel": "精英1 LV.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_04",
+      "levelId": "Activities/act41side/level_act41side_04",
+      "zoneId": "act41side_zone1",
+      "code": "EA-4",
+      "name": "旧舞步",
+      "description": "“你饱尝悔愧与思念，但别无所求？”\\n<@lv.item><草毯></>可以生长<树丛>，置于其上的单位持续受到法术伤害\\n<@lv.item><空壳></>干员部署至其上时，使场上的另一个<空壳>成为干员的复制并能造成灼燃损伤",
+      "hardStagedId": null,
+      "dangerLevel": "精英1 LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_05",
+      "levelId": "Activities/act41side/level_act41side_05",
+      "zoneId": "act41side_zone1",
+      "code": "EA-5",
+      "name": "溺火",
+      "description": "“请领我去往另一条红龙身旁。此外，我别无所求。”\\n<@lv.item><树丛></>不会受到攻击，遮挡我方单位的视野\\n<@lv.item><盾与墙></>遮挡我方单位的视野",
+      "hardStagedId": null,
+      "dangerLevel": "精英1 LV.30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_06",
+      "levelId": "Activities/act41side/level_act41side_06",
+      "zoneId": "act41side_zone1",
+      "code": "EA-6",
+      "name": "失路人",
+      "description": "“......这条路，果真是通往他的道路吗？”\\n<@lv.item><树丛></>不会受到攻击，遮挡我方单位的视野",
+      "hardStagedId": null,
+      "dangerLevel": "精英1 LV.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30093",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "30093",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_st02",
+      "levelId": null,
+      "zoneId": "act41side_zone1",
+      "code": "EA-ST-2",
+      "name": "罗曼史已死",
+      "description": "这只是故事，而非你我未来的预兆。不必哭泣，拉芙希妮。",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_07",
+      "levelId": "Activities/act41side/level_act41side_07",
+      "zoneId": "act41side_zone1",
+      "code": "EA-7",
+      "name": "烧灯者",
+      "description": "......如你所愿，爱布拉娜。\\n<@lv.item><草毯></>可以生长<树丛>，置于其上的单位持续受到法术伤害\\n<@lv.item><树丛></>不会受到攻击，遮挡我方单位的视野",
+      "hardStagedId": null,
+      "dangerLevel": "精英1 LV.60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31043",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "31043",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_08",
+      "levelId": "Activities/act41side/level_act41side_08",
+      "zoneId": "act41side_zone1",
+      "code": "EA-8",
+      "name": "夜尽之时",
+      "description": "等到大雨落下，太阳升起，我们既跨越生，亦跨越死。\\n<@lv.item><树丛></>不会受到攻击，遮挡我方单位的视野\\n<@lv.item><空壳></>干员部署至其上时，使场上的另一个<空壳>成为干员的复制并能造成灼燃损伤",
+      "hardStagedId": null,
+      "dangerLevel": "精英2 LV.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31073",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "COMPLETE"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "ACTIVITY_ITEM",
+            "id": "act41side_token_light",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "USUAL",
+            "type": "MATERIAL",
+            "id": "31073",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": true,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act41side_st03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act41side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act41side_st03",
+      "levelId": null,
+      "zoneId": "act41side_zone1",
+      "code": "EA-ST-3",
+      "name": "封底纪事",
+      "description": "千万重复的故事，构成历史。",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_EA_Relicsettlement",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canUseFirework": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act41side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
     "act40side_st01": {
       "stageType": "ACTIVITY",
       "difficulty": "NORMAL",
@@ -274830,6 +276209,42 @@
       "name": "悬索桥起点",
       "description": "悬索桥起点，不可部署",
       "isFunctional": false
+    },
+    "tile_ftplant_road": {
+      "tileKey": "tile_ftplant_road",
+      "name": "草毯",
+      "description": "可以生长<树丛>，置于其上的单位持续受到法术伤害",
+      "isFunctional": true
+    },
+    "tile_ftplant_roadf": {
+      "tileKey": "tile_ftplant_roadf",
+      "name": "草毯",
+      "description": "可以生长<树丛>，置于其上的单位持续受到法术伤害",
+      "isFunctional": true
+    },
+    "tile_ftplant_wall": {
+      "tileKey": "tile_ftplant_wall",
+      "name": "草毯",
+      "description": "可以生长<树丛>，置于其上的单位持续受到法术伤害",
+      "isFunctional": true
+    },
+    "tile_ftstart": {
+      "tileKey": "tile_ftstart",
+      "name": "侵入点",
+      "description": "敌方会从此进入战场",
+      "isFunctional": true
+    },
+    "tile_act6fun_start": {
+      "tileKey": "tile_act6fun_start",
+      "name": "进攻点",
+      "description": "我方战士会从此进入战场",
+      "isFunctional": true
+    },
+    "tile_act6fun_end": {
+      "tileKey": "tile_act6fun_end",
+      "name": "攻略目标",
+      "description": "蓝色目标点，进入后获得本次行动胜利",
+      "isFunctional": true
     }
   },
   "forceOpenTable": {
@@ -456462,6 +457877,54 @@
     "hard_14-04": {
       "startTs": 1715155200,
       "endTs": -1
+    },
+    "act41side_st01": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_01": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_tr01": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_02": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_03": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_04": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_05": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_06": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_st02": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_07": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_08": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
+    },
+    "act41side_st03": {
+      "startTs": 1741320000,
+      "endTs": 1742500799
     },
     "act40side_st01": {
       "startTs": 1737518400,

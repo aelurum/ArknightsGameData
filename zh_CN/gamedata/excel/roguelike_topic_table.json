@@ -158,6 +158,12 @@
           "displayId": "rogue_4_entry_display_3",
           "startTs": 1736409600,
           "endTs": 1736971200
+        },
+        {
+          "topicId": "rogue_4",
+          "displayId": "rogue_4_entry_display_4",
+          "startTs": 1741320000,
+          "endTs": 1741896000
         }
       ],
       "moduleTypes": [
@@ -2253,7 +2259,7 @@
       "char_4151_tinman": {
         "charId": "char_4151_tinman",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_tinman",
         "recruitType": "FREE"
       },
       "char_4146_nymph": {
@@ -2385,7 +2391,7 @@
       "char_1039_thorn2": {
         "charId": "char_1039_thorn2",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_thorn2",
         "recruitType": "FREE"
       },
       "char_4052_surfer": {
@@ -2422,6 +2428,24 @@
         "charId": "char_4010_etlchi",
         "canBeFree": true,
         "uniEquipId": "uniequip_002_etlchi",
+        "recruitType": "FREE"
+      },
+      "char_4177_brigid": {
+        "charId": "char_4177_brigid",
+        "canBeFree": true,
+        "uniEquipId": null,
+        "recruitType": "FREE"
+      },
+      "char_4171_wulfen": {
+        "charId": "char_4171_wulfen",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_wulfen",
+        "recruitType": "FREE"
+      },
+      "char_450_necras": {
+        "charId": "char_450_necras",
+        "canBeFree": true,
+        "uniEquipId": null,
         "recruitType": "FREE"
       }
     }
@@ -2475,13 +2499,13 @@
           "enrollId": "rogue_1_enroll_1",
           "enrollTime": 1648756800,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
         },
         "rogue_1_enroll_2": {
           "enrollId": "rogue_1_enroll_2",
           "enrollTime": 1655323200,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
         }
       },
       "milestones": [
@@ -30443,13 +30467,13 @@
           "enrollId": "rogue_2_enroll_1",
           "enrollTime": 1672300800,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
         },
         "rogue_2_enroll_2": {
           "enrollId": "rogue_2_enroll_2",
           "enrollTime": 1681545600,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
         },
         "rogue_2_enroll_3": {
           "enrollId": "rogue_2_enroll_3",
@@ -62620,7 +62644,7 @@
                   "valueStr": null
                 },
                 {
-                  "key": "cost",
+                  "key": "cost_scale",
                   "value": 0.5,
                   "valueStr": null
                 },
@@ -69870,13 +69894,13 @@
           "enrollId": "rogue_3_enroll_1",
           "enrollTime": 1697961600,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
         },
         "rogue_3_enroll_2": {
           "enrollId": "rogue_3_enroll_2",
           "enrollTime": 1703750400,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
         }
       },
       "milestones": [
@@ -136738,13 +136762,19 @@
           "enrollId": "rogue_4_enroll_1",
           "enrollTime": 1729670400,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
         },
         "rogue_4_enroll_2": {
           "enrollId": "rogue_4_enroll_2",
           "enrollTime": 1736409600,
           "enrollType": "DLC",
-          "enrollNoticeEndTime": -62135625600
+          "enrollNoticeEndTime": -1
+        },
+        "rogue_4_enroll_3": {
+          "enrollId": "rogue_4_enroll_3",
+          "enrollTime": 1741320000,
+          "enrollType": "DLC",
+          "enrollNoticeEndTime": 1744056000
         }
       },
       "milestones": [
@@ -139434,7 +139464,689 @@
           "taskDes": "累计部署10次阿米娅"
         }
       },
-      "challenges": {},
+      "challenges": {
+        "rogue_4_challenge_01": {
+          "challengeId": "rogue_4_challenge_01",
+          "sortId": 1,
+          "challengeName": "语奇终无",
+          "challengeGroup": 1,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "不成熟的想法",
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "。始开将即想畅的地大脱超",
+          "challengeConditionDes": [
+            "初始持有收藏品罗德岛战术电台、锈蚀的铁锤、至宝指环",
+            "区域布局较为特殊，对应出现的作战有所变化",
+            "敌人的初始属性大幅降低，但会随着探索逐渐加强",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_01": {
+              "taskId": "rogue_4_task_01",
+              "taskDes": "到达第五层【虚实疆界】",
+              "completionClass": "CERTAIN_ZONE_ENTER",
+              "completionParams": [
+                "1",
+                "zone_5"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_01",
+          "rewards": [
+            {
+              "id": "30135",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30094",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_02": {
+          "challengeId": "rogue_4_challenge_02",
+          "sortId": 2,
+          "challengeName": "机械降门",
+          "challengeGroup": 1,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "不成熟的想法",
+          "challengeUnlockDesc": null,
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "说不清楚的成长与转变，就让“门”来代劳吧。",
+          "challengeConditionDes": [
+            "初始持有思绪巫术，收藏品佣兵的饰物、赤金的远征",
+            "巫术的掉落概率大幅提升",
+            "进阶干员所需希望大幅提升",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_02": {
+              "taskId": "rogue_4_task_02",
+              "taskDes": "击败5次“门”",
+              "completionClass": "CERTAIN_ENEMY_KILL",
+              "completionParams": [
+                "5",
+                "enemy_2067_skzcy"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_02",
+          "rewards": [
+            {
+              "id": "30115",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30054",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_03": {
+          "challengeId": "rogue_4_challenge_03",
+          "sortId": 3,
+          "challengeName": "魔王与苦难",
+          "challengeGroup": 2,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "当点子来敲门",
+          "challengeUnlockDesc": "通过<不成熟的想法>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": "解锁了<当点子来敲门>",
+          "challengeDes": "你已经受够那些关于魔王和苦难的故事了，萨卡兹明明还有许多能讲的！",
+          "challengeConditionDes": [
+            "初始持有4件遭诅古物",
+            "失与得出现的概率小幅提升",
+            "每经过一个失与得节点额外获得3希望、2源石锭、1构想",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_03": {
+              "taskId": "rogue_4_task_03",
+              "taskDes": "到达第五层【虚实疆界】",
+              "completionClass": "CERTAIN_ZONE_ENTER",
+              "completionParams": [
+                "1",
+                "zone_5"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_03",
+          "rewards": [
+            {
+              "id": "30145",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30104",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_04": {
+          "challengeId": "rogue_4_challenge_04",
+          "sortId": 4,
+          "challengeName": "念力",
+          "challengeGroup": 2,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "当点子来敲门",
+          "challengeUnlockDesc": "通过<不成熟的想法>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "只有想不到，没有做不到。",
+          "challengeConditionDes": [
+            "初始持有思绪枯木新枝，收藏品生命熔炉之薪",
+            "区域布局较为特殊，去伪存真节点只在到达虚实疆界后出现",
+            "负荷临界点大幅提升",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_04": {
+              "taskId": "rogue_4_task_04",
+              "taskDes": "通过任意结局",
+              "completionClass": "ENDING_PASS",
+              "completionParams": [
+                "1",
+                "ro4_ending_1,ro4_ending_2,ro4_ending_3,ro4_ending_4,ro4_ending_5"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_04",
+          "rewards": [
+            {
+              "id": "30155",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30064",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_05": {
+          "challengeId": "rogue_4_challenge_05",
+          "sortId": 5,
+          "challengeName": "旁观者",
+          "challengeGroup": 2,
+          "challengeGroupSortId": 3,
+          "challengeGroupName": "当点子来敲门",
+          "challengeUnlockDesc": "通过<不成熟的想法>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "比起亲身体验，你更渴望和先祖们坐在一起，旁观他人的故事。",
+          "challengeConditionDes": [
+            "初始持有收藏品“小方块”",
+            "区域布局较为特殊，狭路相逢出现的频率大幅提升",
+            "节点可刷新次数为0",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_05": {
+              "taskId": "rogue_4_task_05",
+              "taskDes": "经过10次狭路相逢节点",
+              "completionClass": "NODE_ENTER",
+              "completionParams": [
+                "10",
+                "DUEL"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_05",
+          "rewards": [
+            {
+              "id": "30135",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31044",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_06": {
+          "challengeId": "rogue_4_challenge_06",
+          "sortId": 6,
+          "challengeName": "鸭个故事",
+          "challengeGroup": 3,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "及时转换思路",
+          "challengeUnlockDesc": "通过<当点子来敲门>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": "解锁了<及时转换思路>",
+          "challengeDes": "鸭爵只是想在你的故事里随便看看，绝不是准备在这里建立什么商业帝国。",
+          "challengeConditionDes": [
+            "初始持有收藏品幸运硬币、莱塔尼亚荣誉勋章",
+            "区域布局较为特殊，非战斗节点出现的频率大幅提升",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_06": {
+              "taskId": "rogue_4_task_06",
+              "taskDes": "击败流泪小子或鸭爵或高普尼克或圆仔，至少2次",
+              "completionClass": "CERTAIN_ENEMY_KILL",
+              "completionParams": [
+                "2",
+                "enemy_2001_duckmi,enemy_2002_bearmi,enemy_2034_sythef,enemy_2085_skzjxd"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_06",
+          "rewards": [
+            {
+              "id": "30115",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31014",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_07": {
+          "challengeId": "rogue_4_challenge_07",
+          "sortId": 7,
+          "challengeName": "另辟蹊径",
+          "challengeGroup": 3,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "及时转换思路",
+          "challengeUnlockDesc": "通过<当点子来敲门>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "没有坚不可摧的现状，只有尚未触及的灵感。",
+          "challengeConditionDes": [
+            "初始持有收藏品奥秘之手、讴歌者面纱、“讨魔义旗”",
+            "淬刃和折磨的掉落概率大幅提升",
+            "所有敌人的法抗和防御力大幅提升",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_07": {
+              "taskId": "rogue_4_task_07",
+              "taskDes": "击败200名敌人",
+              "completionClass": "ENEMY_KILL_EXCLUDE",
+              "completionParams": [
+                "200",
+                "enemy_2086_skzdwx,enemy_2087_skzdwy,enemy_2088_skzdwz"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_07",
+          "rewards": [
+            {
+              "id": "30145",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31064",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_08": {
+          "challengeId": "rogue_4_challenge_08",
+          "sortId": 8,
+          "challengeName": "焦点史诗",
+          "challengeGroup": 3,
+          "challengeGroupSortId": 3,
+          "challengeGroupName": "及时转换思路",
+          "challengeUnlockDesc": "通过<当点子来敲门>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "每个人都将自己最美好的想象倾注在了“英雄”们身上，于是他们理所应当地被神化，变得遥不可及。",
+          "challengeConditionDes": [
+            "初始持有收藏品滚动先祖、统帅肖像",
+            "领袖敌人的属性大幅度提升",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_08": {
+              "taskId": "rogue_4_task_08",
+              "taskDes": "通过任意结局",
+              "completionClass": "ENDING_PASS",
+              "completionParams": [
+                "1",
+                "ro4_ending_1,ro4_ending_2,ro4_ending_3,ro4_ending_4,ro4_ending_5"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_08",
+          "rewards": [
+            {
+              "id": "30155",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30014",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_09": {
+          "challengeId": "rogue_4_challenge_09",
+          "sortId": 9,
+          "challengeName": "脚踏实地",
+          "challengeGroup": 4,
+          "challengeGroupSortId": 1,
+          "challengeGroupName": "有理有据有节",
+          "challengeUnlockDesc": "通过<及时转换思路>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": "解锁了<有理有据有节>",
+          "challengeDes": "这一次，无须后方支援也能夺取胜利。",
+          "challengeConditionDes": [
+            "初始持有收藏品漆黑的舞鞋、老近卫军之锋、活木甲",
+            "初始可以招募近卫、重装干员各2名",
+            "更容易获得近卫、重装相关的招募券和收藏品",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_09": {
+              "taskId": "rogue_4_task_09",
+              "taskDes": "击败200名敌人",
+              "completionClass": "ENEMY_KILL_EXCLUDE",
+              "completionParams": [
+                "200",
+                "enemy_2086_skzdwx,enemy_2087_skzdwy,enemy_2088_skzdwz"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_09",
+          "rewards": [
+            {
+              "id": "30135",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31054",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_10": {
+          "challengeId": "rogue_4_challenge_10",
+          "sortId": 10,
+          "challengeName": "旁门正道",
+          "challengeGroup": 4,
+          "challengeGroupSortId": 2,
+          "challengeGroupName": "有理有据有节",
+          "challengeUnlockDesc": "通过<及时转换思路>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "这一次，并非只有战士才能成为主角。",
+          "challengeConditionDes": [
+            "初始持有收藏品扣挠之手、苍白花冠、“童趣玩偶”",
+            "初始可以招募辅助、医疗干员各2名",
+            "更容易获得辅助、医疗相关的招募券和收藏品",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_10": {
+              "taskId": "rogue_4_task_10",
+              "taskDes": "遭遇战斗节点10次",
+              "completionClass": "NODE_ENTER",
+              "completionParams": [
+                "10",
+                "BATTLE_NORMAL,BATTLE_ELITE,BATTLE_BOSS"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_10",
+          "rewards": [
+            {
+              "id": "30115",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30044",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_11": {
+          "challengeId": "rogue_4_challenge_11",
+          "sortId": 11,
+          "challengeName": "自闭",
+          "challengeGroup": 4,
+          "challengeGroupSortId": 3,
+          "challengeGroupName": "有理有据有节",
+          "challengeUnlockDesc": "通过<及时转换思路>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "我觉得大家都不想交流......所以就这样吧......",
+          "challengeConditionDes": [
+            "初始持有收藏品湖中神盾、《神魂坚韧之歌》、“碎片大厦的回忆”",
+            "解读获得的护盾大幅提升",
+            "所有敌人的防御力、法抗和移动速度上升",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_11": {
+              "taskId": "rogue_4_task_11",
+              "taskDes": "使30个敌人进入目标点",
+              "completionClass": "ENEMY_ESCAPE",
+              "completionParams": [
+                "30"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_11",
+          "rewards": [
+            {
+              "id": "30145",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "31024",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        },
+        "rogue_4_challenge_12": {
+          "challengeId": "rogue_4_challenge_12",
+          "sortId": 12,
+          "challengeName": "金翼辉煌",
+          "challengeGroup": 4,
+          "challengeGroupSortId": 4,
+          "challengeGroupName": "有理有据有节",
+          "challengeUnlockDesc": "通过<及时转换思路>中任意一个探索条目后解锁",
+          "challengeUnlockToastDesc": null,
+          "challengeDes": "金翼魔是什么？冰翼魔又是什么？我只听说过石翼魔。",
+          "challengeConditionDes": [
+            "初始持有收藏品财眼、思维捕手、至宝指环",
+            "机器的掉落概率大幅提升",
+            "作战中必定出现宝箱",
+            "众人的想象已发生改变，请小心应对"
+          ],
+          "challengeTasks": {
+            "rogue_4_task_12": {
+              "taskId": "rogue_4_task_12",
+              "taskDes": "赚取150源石锭",
+              "completionClass": "ITEM_GET",
+              "completionParams": [
+                "150",
+                "GOLD"
+              ]
+            }
+          },
+          "defaultTaskId": "rogue_4_task_12",
+          "rewards": [
+            {
+              "id": "30155",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "30014",
+              "count": 2,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2003",
+              "count": 10,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 10000,
+              "type": "GOLD"
+            },
+            {
+              "id": "3301",
+              "count": 15,
+              "type": "MATERIAL"
+            }
+          ],
+          "challengeStoryId": null
+        }
+      },
       "difficulties": [
         {
           "modeDifficulty": "NORMAL",
@@ -139953,6 +140665,32 @@
           "addDesc": null,
           "warningType": "NONE",
           "unlockText": "在<常规行动>中探索一次后解锁",
+          "displayIconId": "icon_difficulty_0",
+          "hideEndingStory": false
+        },
+        {
+          "modeDifficulty": "CHALLENGE",
+          "grade": 0,
+          "name": "深入探索",
+          "subName": null,
+          "enrollId": "rogue_4_enroll_3",
+          "haveInitialRelicIcon": false,
+          "scoreFactor": 0.0,
+          "canUnlockItem": false,
+          "doMonthTask": false,
+          "ruleDesc": "提供特殊体验的挑战模式",
+          "ruleDescReplacements": null,
+          "failTitle": "联系中断",
+          "failImageId": "image_rogue_4_fail_general",
+          "failForceDesc": "充分利用【探索条目】提供的特殊条件，可以在战斗中取得更大优势",
+          "sortId": -1,
+          "equivalentGrade": 0,
+          "color": null,
+          "bpValue": 0,
+          "bossValue": 0,
+          "addDesc": null,
+          "warningType": "NONE",
+          "unlockText": "在<常规行动>中完成游戏结局一次后解锁",
           "displayIconId": "icon_difficulty_0",
           "hideEndingStory": false
         }
@@ -144060,11 +144798,11 @@
         "monthTeamDescTagName": "奇遇讲述者",
         "outerBuffCompleteText": "重构完成",
         "outerProgressTextColor": "#59dddc",
-        "challengeTaskTargetName": "调查目标",
-        "challengeTaskConditionName": "调查条件",
-        "challengeTaskRewardName": "调查奖励",
-        "challengeTaskModeName": "深入调查",
-        "challengeTaskName": "调查条目",
+        "challengeTaskTargetName": "探索目标",
+        "challengeTaskConditionName": "探索条件",
+        "challengeTaskRewardName": "探索奖励",
+        "challengeTaskModeName": "深入探索",
+        "challengeTaskName": "探索条目",
         "outerBuffTokenSum": 190,
         "needAllFrontNode": false,
         "showBlurBack": true,
@@ -145231,6 +145969,576 @@
           "initialHp": 8,
           "initialPopulation": 6,
           "initialGold": 6,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 8,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_01",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 10,
+          "initialPopulation": 8,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 10,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_02",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 6,
+          "initialPopulation": 8,
+          "initialGold": 8,
+          "initialSquadCapacity": 8,
+          "initialShield": 0,
+          "initialMaxHp": 6,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_03",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 10,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_04",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 6,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 6,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_05",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 8,
+          "initialGold": 8,
+          "initialSquadCapacity": 4,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_06",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_07",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_08",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_09",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_c9"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 8,
+          "initialGold": 8,
+          "initialSquadCapacity": 8,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_10",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_c10"
+          ],
+          "initialHp": 4,
+          "initialPopulation": 8,
+          "initialGold": 8,
+          "initialSquadCapacity": 8,
+          "initialShield": 0,
+          "initialMaxHp": 4,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_11",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 12,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 4,
+          "initialShield": 0,
+          "initialMaxHp": 12,
+          "initialKey": 0
+        },
+        {
+          "modeId": "CHALLENGE",
+          "modeGrade": 0,
+          "predefinedId": "rogue_4_challenge_12",
+          "predefinedStyle": "rogue_4_style_challenge",
+          "initialBandRelic": [
+            "rogue_4_band_14",
+            "rogue_4_band_15",
+            "rogue_4_band_24",
+            "rogue_4_band_16",
+            "rogue_4_band_17",
+            "rogue_4_band_23",
+            "rogue_4_band_18",
+            "rogue_4_band_19",
+            "rogue_4_band_25",
+            "rogue_4_band_1",
+            "rogue_4_band_3",
+            "rogue_4_band_4",
+            "rogue_4_band_6",
+            "rogue_4_band_8",
+            "rogue_4_band_9",
+            "rogue_4_band_10",
+            "rogue_4_band_11",
+            "rogue_4_band_12",
+            "rogue_4_band_13",
+            "rogue_4_band_20",
+            "rogue_4_band_26",
+            "rogue_4_band_27",
+            "rogue_4_band_21",
+            "rogue_4_band_28",
+            "rogue_4_band_29",
+            "rogue_4_band_22",
+            "rogue_4_band_30"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_1",
+            "recruit_group_2",
+            "recruit_group_3",
+            "recruit_group_random"
+          ],
+          "initialHp": 8,
+          "initialPopulation": 6,
+          "initialGold": 16,
           "initialSquadCapacity": 6,
           "initialShield": 0,
           "initialMaxHp": 8,
@@ -154111,7 +155419,7 @@
                 },
                 {
                   "key": "delta",
-                  "value": -3.0,
+                  "value": -15.0,
                   "valueStr": null
                 }
               ]
@@ -169368,6 +170676,20 @@
           "name": "支援作战",
           "desc": "两张随机的招募券",
           "unlockDesc": null
+        },
+        "recruit_group_c9": {
+          "id": "recruit_group_c9",
+          "iconId": "recruit_group_c9",
+          "name": "脚踏实地",
+          "desc": "近卫、重装招募券各两张，其中两张必定出现4星临时招募",
+          "unlockDesc": null
+        },
+        "recruit_group_c10": {
+          "id": "recruit_group_c10",
+          "iconId": "recruit_group_c10",
+          "name": "旁门正道",
+          "desc": "辅助、医疗招募券各两张，其中两张必定出现4星临时招募",
+          "unlockDesc": null
         }
       },
       "choices": {
@@ -180033,6 +181355,19 @@
             "故事中的道路危机四伏，适时消耗希望能让探险变得更加轻松",
             "使用各类思绪能让探险变得轻松"
           ]
+        },
+        "CHALLENGE": {
+          "randomDescriptionList": [
+            "谨慎规划前进的路线，每一步的决策都至关重要",
+            "尽可能使用地图中获取的资源能让探索变得更加轻松",
+            "合理选择干员并搭配阵容会让战斗变得更加轻松",
+            "【集成战略】中的战斗节点内容会随机变化，掌握其变化规律会让战斗变得更加轻松",
+            "故事中的道路环境千变万化，并非每条道路都是坦途，不要气馁，再来一次吧",
+            "故事中的道路危机四伏，适时使用源石锭能让探险变得更加轻松",
+            "故事中的道路危机四伏，适时消耗希望能让探险变得更加轻松",
+            "使用各类思绪能让探险变得轻松",
+            "故事虽戛然而止，但你仍有机会去磨炼自己“讲述”故事的技巧"
+          ]
         }
       },
       "battleLoadingTips": [
@@ -189409,6 +190744,10 @@
         "rogue_4_style_default": {
           "styleId": "rogue_4_style_default",
           "styleConfig": 0
+        },
+        "rogue_4_style_challenge": {
+          "styleId": "rogue_4_style_challenge",
+          "styleConfig": 0
         }
       },
       "styleConfig": {
@@ -189433,6 +190772,9 @@
             },
             "WISH": {
               "nodeType": "WISH"
+            },
+            "DUEL": {
+              "nodeType": "DUEL"
             }
           }
         },
@@ -189462,6 +190804,9 @@
             },
             "WISH": {
               "nodeType": "WISH"
+            },
+            "DUEL": {
+              "nodeType": "DUEL"
             }
           }
         },
@@ -203359,6 +204704,16 @@
         },
         {
           "modeDifficulty": "MONTH_TEAM",
+          "grade": 0,
+          "leftDisasterDesc": "成型期",
+          "leftOverweightDesc": "轻松",
+          "relicDevLevel": "实在的",
+          "weightStatusLimitDesc": "每前进一步，失去1点目标生命（不会使目标生命低于1）",
+          "buffs": null,
+          "buffDesc": []
+        },
+        {
+          "modeDifficulty": "CHALLENGE",
           "grade": 0,
           "leftDisasterDesc": "成型期",
           "leftOverweightDesc": "轻松",

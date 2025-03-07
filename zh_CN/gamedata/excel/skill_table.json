@@ -122520,6 +122520,800 @@
       }
     ]
   },
+  "skchr_brigid_1": {
+    "skillId": "skchr_brigid_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.05,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.05,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.1,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.1,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.1,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 4,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.15,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.15,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 3,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.2,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.25,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "所熟知的",
+        "rangeId": null,
+        "description": "下次攻击造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并且回旋投射物可以在敌人间重复弹射（最多弹跳<@ba.vup>{times}</>次）",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 2,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.3,
+            "valueStr": null
+          },
+          {
+            "key": "times",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_brigid_2": {
+    "skillId": "skchr_brigid_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.05,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.1,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.15,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.35,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "可驯服的",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，回旋投射物命中后会继续附着目标，造成<@ba.vup>{attack@sluggish}</>秒的<$ba.sluggish>停顿</>并额外斩击目标<@ba.vup>4</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_brigid_2",
+        "duration": 25.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack@interval",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_duration",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@projectile_delay_time",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@cut_scale",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
   "skchr_spuria_1": {
     "skillId": "skchr_spuria_1",
     "iconId": null,
@@ -142881,6 +143675,1494 @@
           {
             "key": "constraint",
             "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_wulfen_1": {
+    "skillId": "skchr_wulfen_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.8,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.85,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.9,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.95,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.1,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.1,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.2,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.3,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "被动效果：每个矿石“杀手”准备就绪后可以遥控引爆，对范围内的所有敌人造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.5,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_wulfen_1": {
+    "skillId": "sktok_wulfen_1",
+    "iconId": "sktok_wulfen_mine",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.8,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.85,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.9,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.95,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.1,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.1,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.2,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.3,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“驱兽专用”",
+        "rangeId": null,
+        "description": "引爆时对范围内所有目标造成相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其<$ba.stun>晕眩</><@ba.vup>{stun}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.5,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_wulfen_2": {
+    "skillId": "skchr_wulfen_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.6,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.7,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.8,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.9,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.2,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.2,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.2,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.3,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.4,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": null,
+        "description": "被动效果：矿石“杀手”攻击范围扩大，引爆时将同时引爆所有已准备就绪的矿石“杀手”，对范围内的所有敌人造成<@ba.vup>两次</>相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒\\n主动效果：立即获得一个矿石“杀手”",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.5,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_wulfen_2": {
+    "skillId": "sktok_wulfen_2",
+    "iconId": "sktok_wulfen_mine",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.6,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.7,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.8,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.15,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 1.9,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.2,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.2,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.2,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.3,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.4,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "“顽石专用”",
+        "rangeId": "x-5",
+        "description": "引爆时对范围内所有目标造成<@ba.vup>两次</>相当于钼铅攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害，并使其防御力<@ba.vup>-{-def:0%}</>（不叠加），持续<@ba.vup>{duration}</>秒",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_wulfen_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.5,
+            "valueStr": null
+          },
+          {
+            "key": "def",
+            "value": -0.25,
+            "valueStr": null
+          },
+          {
+            "key": "duration",
+            "value": 5.0,
             "valueStr": null
           }
         ]
@@ -195137,6 +197419,1583 @@
           {
             "key": "skill_max_trigger_time",
             "value": -1.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_necras_1": {
+    "skillId": "skchr_necras_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.5,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.7,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 2,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.9,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 2,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.1,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 4,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.3,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "initSp": 4,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.5,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.7,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 4.0,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 4.2,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "噩愿",
+        "rangeId": null,
+        "description": "被动：每个悲叹的仆役生成和升级时对周围所有敌人造成相当于死芒攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害\\n开启：立刻重新召唤所有悲叹的仆役，若场上没有悲叹的仆役存在则召唤1个",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 4.5,
+            "valueStr": null
+          },
+          {
+            "key": "range_radius",
+            "value": 1.5,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_necras_2": {
+    "skillId": "skchr_necras_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 0.7,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 7,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 0.9,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.1,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.2,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 11,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.3,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.4,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 13,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "折朽",
+        "rangeId": null,
+        "description": "令最多<@ba.vup>{max_target}</>名攻击范围内的敌人陷入<$ba.sleep>沉睡</>，每<@ba.vup>{interval}</>秒对目标造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害；技能期间目标被击倒时额外召唤<@ba.vup>{additional_token_cnt}</>个悲叹的仆役",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 14,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_2",
+        "duration": 12.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.6,
+            "valueStr": null
+          },
+          {
+            "key": "additional_token_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "hit_duration",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "max_target",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_necras_3": {
+    "skillId": "skchr_necras_3",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 4.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 4.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 5.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 5.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 5.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 6.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 6.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 7.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 7.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "冠死以冕",
+        "rangeId": "3-3",
+        "description": "被动：最多1名悲叹的仆役变为特殊形态，此形态下只能通过技能升级，最多升级{attack@max_stack_cnt}次\\n开启：立刻对范围内所有敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，之后消耗一个悲叹的仆役使特殊仆役升级并回复<@ba.vup>{attack@hp_ratio:0%}</>生命（若悲叹的仆役已升级则翻倍），重复<@ba.vup>{attack@necras_s_3[attack_cnt].max_stack_cnt}</>次",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_necras_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@atk_scale",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_stack_cnt",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_valid_stack_cnt",
+            "value": -1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@necras_s_3[attack_cnt].max_stack_cnt",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@hp_ratio",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@def",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@max_hp",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@magic_resistance",
+            "value": 0.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@block_cnt",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@ability_range_forward_extend",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_necras_skeltn_1": {
+    "skillId": "sktok_necras_skeltn_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "怨火缠身",
+        "rangeId": null,
+        "description": null,
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_necras_skeltn_1",
+        "duration": -1.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_necras_skeltn_2": {
+    "skillId": "sktok_necras_skeltn_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "怨火缠身",
+        "rangeId": null,
+        "description": null,
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_necras_skeltn_2",
+        "duration": -1.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_necras_skeltn_3": {
+    "skillId": "sktok_necras_skeltn_3",
+    "iconId": "sktok_necras_skeltn",
+    "hidden": false,
+    "levels": [
+      {
+        "name": "怨火缠身",
+        "rangeId": "1-1",
+        "description": "对范围内所有敌人每秒造成自身攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_necras_skeltn_3",
+        "duration": 8.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack@duration",
+            "value": 8.0,
             "valueStr": null
           }
         ]
@@ -300161,6 +304020,81 @@
             "valueStr": "summon_cjblon"
           }
         ]
+      }
+    ]
+  },
+  "sktok_fttree_1": {
+    "skillId": "sktok_fttree_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "生长",
+        "rangeId": "x-5",
+        "description": null,
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_fttree_1",
+        "duration": -1.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_fttreant_1": {
+    "skillId": "sktok_fttreant_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "生长",
+        "rangeId": "x-5",
+        "description": null,
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_fttreant_1",
+        "duration": -1.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_ftshad_1": {
+    "skillId": "sktok_ftshad_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "复制",
+        "rangeId": null,
+        "description": null,
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_ftshad_1",
+        "duration": -1.0,
+        "blackboard": []
       }
     ]
   }

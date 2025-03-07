@@ -222363,6 +222363,1869 @@
       "placeType": "ANNIVERSARY",
       "voiceAsset": "char_4172_xingzh/CN_044"
     },
+    "char_4177_brigid_CN_001": {
+      "charWordId": "char_4177_brigid_CN_001",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_001",
+      "voiceText": "虽然不知道“助理”是什么意思，但待在一起，各自干自己的事，这个我明白。我们相遇，唱歌，分享食物和喜悦，然后分开。总是这样的。",
+      "voiceTitle": "任命助理",
+      "voiceIndex": 1,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4177_brigid/CN_001"
+    },
+    "char_4177_brigid_CN_002": {
+      "charWordId": "char_4177_brigid_CN_002",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_002",
+      "voiceText": "就算没有信要送，也没有天灾来临的迹象，我还是会带着我的驮兽群迁徙，从不在一个地方久留。躺在驮兽的背上，盖着天幕入睡......离它们越远，我就越想念那样的生活。",
+      "voiceTitle": "交谈1",
+      "voiceIndex": 2,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_002"
+    },
+    "char_4177_brigid_CN_003": {
+      "charWordId": "char_4177_brigid_CN_003",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_003",
+      "voiceText": "下面那些地方，走出门去也看不到天，还是待在甲板上更舒服。那儿有个鲁珀小孩的帐篷，扎得不太稳，我用绳索和钉子帮她固定了一下，这样它就不会因为船在跑被风吹得左右乱晃了。",
+      "voiceTitle": "交谈2",
+      "voiceIndex": 3,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_003"
+    },
+    "char_4177_brigid_CN_004": {
+      "charWordId": "char_4177_brigid_CN_004",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_004",
+      "voiceText": "我去你们锻造武器的地方看过了。炉膛很大，火光就能把铁皮烫红，但天花板很低，整个屋子里只有一个人。就是他给这里所有人打造了武器吗？“锅炉房”？那是什么地方？",
+      "voiceTitle": "交谈3",
+      "voiceIndex": 4,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_004"
+    },
+    "char_4177_brigid_CN_005": {
+      "charWordId": "char_4177_brigid_CN_005",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_005",
+      "voiceText": "嗯，是有这样的传说，被死灵换走的孩子会成为守灵人，一辈子守在遗迹里。但我知道涅梅丝就不这样，她在遗迹里出生，又从遗迹出走，成为守灵人又放弃。这些传说，说到底也只是故事而已呀。",
+      "voiceTitle": "晋升后交谈1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_005"
+    },
+    "char_4177_brigid_CN_006": {
+      "charWordId": "char_4177_brigid_CN_006",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_006",
+      "voiceText": "要做这把刀，得把驮兽的骨头放在撒了石灰的磐蟹壳上打磨，得到刀刃，插进把手里，连睡觉也握紧它，让骨和铁长在一起。我用这把刀旋出一个方向，从此离开部落，等我死后，它才会带我回去。",
+      "voiceTitle": "晋升后交谈2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_006"
+    },
+    "char_4177_brigid_CN_007": {
+      "charWordId": "char_4177_brigid_CN_007",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_007",
+      "voiceText": "博士，有你的回信！这样说还挺新奇的。以前除了给涅梅丝帮忙，我都奔波在天灾预警，或为人们传递最后一封信的路上。其他天灾信使是桥梁，而我，硬要说的话，更像是用尽全力掷出去的石头吧。",
+      "voiceTitle": "信赖提升后交谈1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_007"
+    },
+    "char_4177_brigid_CN_008": {
+      "charWordId": "char_4177_brigid_CN_008",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_008",
+      "voiceText": "我给你的绳子乱了？涂了兽油的，应该不会呀......这样，你先把缠住的地方都弄松，找到最长的绳头，往上撑开洞，再把手腕穿进去，最后，绳头往外一拉——行，这下你就被捆住了。",
+      "voiceTitle": "信赖提升后交谈2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_008"
+    },
+    "char_4177_brigid_CN_009": {
+      "charWordId": "char_4177_brigid_CN_009",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_009",
+      "voiceText": "通讯器我会用，也会一直带在身上，如果在外面没有及时回复，那就是顾不上。不过博士，如果你实在需要我，想见我，可以站到甲板上喊我的名字。风会把你的呼唤送到我身边，那比什么工具都快。",
+      "voiceTitle": "信赖提升后交谈3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4177_brigid/CN_009"
+    },
+    "char_4177_brigid_CN_010": {
+      "charWordId": "char_4177_brigid_CN_010",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_010",
+      "voiceText": "这里没有篝火需要看顾......我能不能在墙上再画一个我，坐在这里陪着博士呢？",
+      "voiceTitle": "闲置",
+      "voiceIndex": 10,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4177_brigid/CN_010"
+    },
+    "char_4177_brigid_CN_011": {
+      "charWordId": "char_4177_brigid_CN_011",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_011",
+      "voiceText": "我是——呃，天灾信使，我叫水灯心。这封信要交给罗德岛的博士，你认识博士吗？",
+      "voiceTitle": "干员报到",
+      "voiceIndex": 11,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GACHA",
+      "voiceAsset": "char_4177_brigid/CN_011"
+    },
+    "char_4177_brigid_CN_012": {
+      "charWordId": "char_4177_brigid_CN_012",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_012",
+      "voiceText": "我能不能把这些东西带到甲板上，到露天的地方去看？",
+      "voiceTitle": "观看作战记录",
+      "voiceIndex": 12,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4177_brigid/CN_012"
+    },
+    "char_4177_brigid_CN_013": {
+      "charWordId": "char_4177_brigid_CN_013",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_013",
+      "voiceText": "我帮一些人转交过这样的金属块，收到它们的人总是会哭。如果现在是一个令人高兴的时刻，那当时他们也一定是因为高兴才哭的，对吗？",
+      "voiceTitle": "精英化晋升1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4177_brigid/CN_013"
+    },
+    "char_4177_brigid_CN_014": {
+      "charWordId": "char_4177_brigid_CN_014",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_014",
+      "voiceText": "如果这样的活动还会有很多次，那我就没法把这些金属块都戴在身上了......但我也不想拿它们去换东西。博士，你能不能帮我保管？",
+      "voiceTitle": "精英化晋升2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4177_brigid/CN_014"
+    },
+    "char_4177_brigid_CN_017": {
+      "charWordId": "char_4177_brigid_CN_017",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_017",
+      "voiceText": "刀都已经重新打磨过了，我们什么时候出发？",
+      "voiceTitle": "编入队伍",
+      "voiceIndex": 17,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4177_brigid/CN_017"
+    },
+    "char_4177_brigid_CN_018": {
+      "charWordId": "char_4177_brigid_CN_018",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_018",
+      "voiceText": "就像打仗的时候那样，是吗？",
+      "voiceTitle": "任命队长",
+      "voiceIndex": 18,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4177_brigid/CN_018"
+    },
+    "char_4177_brigid_CN_019": {
+      "charWordId": "char_4177_brigid_CN_019",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_019",
+      "voiceText": "我觉得跑起来比较好哦。",
+      "voiceTitle": "行动出发",
+      "voiceIndex": 19,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4177_brigid/CN_019"
+    },
+    "char_4177_brigid_CN_020": {
+      "charWordId": "char_4177_brigid_CN_020",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_020",
+      "voiceText": "集中注意力，别让猎物逃掉！",
+      "voiceTitle": "行动开始",
+      "voiceIndex": 20,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4177_brigid/CN_020"
+    },
+    "char_4177_brigid_CN_021": {
+      "charWordId": "char_4177_brigid_CN_021",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_021",
+      "voiceText": "需要先埋伏吗？",
+      "voiceTitle": "选中干员1",
+      "voiceIndex": 21,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4177_brigid/CN_021"
+    },
+    "char_4177_brigid_CN_022": {
+      "charWordId": "char_4177_brigid_CN_022",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_022",
+      "voiceText": "告诉我方位就行。",
+      "voiceTitle": "选中干员2",
+      "voiceIndex": 22,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4177_brigid/CN_022"
+    },
+    "char_4177_brigid_CN_023": {
+      "charWordId": "char_4177_brigid_CN_023",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_023",
+      "voiceText": "注意啦，这是一把刀，不是回旋镖！",
+      "voiceTitle": "部署1",
+      "voiceIndex": 23,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4177_brigid/CN_023"
+    },
+    "char_4177_brigid_CN_024": {
+      "charWordId": "char_4177_brigid_CN_024",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_024",
+      "voiceText": "天气不好吗？没关系，我的刀可以割开浓雾。",
+      "voiceTitle": "部署2",
+      "voiceIndex": 24,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4177_brigid/CN_024"
+    },
+    "char_4177_brigid_CN_025": {
+      "charWordId": "char_4177_brigid_CN_025",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_025",
+      "voiceText": "我可以一直追。",
+      "voiceTitle": "作战中1",
+      "voiceIndex": 25,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4177_brigid/CN_025"
+    },
+    "char_4177_brigid_CN_026": {
+      "charWordId": "char_4177_brigid_CN_026",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_026",
+      "voiceText": "不要以为自己能躲过去哦。",
+      "voiceTitle": "作战中2",
+      "voiceIndex": 26,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4177_brigid/CN_026"
+    },
+    "char_4177_brigid_CN_027": {
+      "charWordId": "char_4177_brigid_CN_027",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_027",
+      "voiceText": "像这样扔出去！",
+      "voiceTitle": "作战中3",
+      "voiceIndex": 27,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4177_brigid/CN_027"
+    },
+    "char_4177_brigid_CN_028": {
+      "charWordId": "char_4177_brigid_CN_028",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_028",
+      "voiceText": "我已经在这里待太久了，快点结束吧。",
+      "voiceTitle": "作战中4",
+      "voiceIndex": 28,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4177_brigid/CN_028"
+    },
+    "char_4177_brigid_CN_029": {
+      "charWordId": "char_4177_brigid_CN_029",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_029",
+      "voiceText": "敌人和野兽，在逃窜的时候都一样呢。",
+      "voiceTitle": "完成高难行动",
+      "voiceIndex": 29,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4177_brigid/CN_029"
+    },
+    "char_4177_brigid_CN_030": {
+      "charWordId": "char_4177_brigid_CN_030",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_030",
+      "voiceText": "哼哼哼♪哼哼哼♪哼哼哼——哼♪哼哼哼♪哼哼哼♪哼哼......♪",
+      "voiceTitle": "3星结束行动",
+      "voiceIndex": 30,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4177_brigid/CN_030"
+    },
+    "char_4177_brigid_CN_031": {
+      "charWordId": "char_4177_brigid_CN_031",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_031",
+      "voiceText": "这也很不错了，走吧，我做烤肉给你吃！",
+      "voiceTitle": "非3星结束行动",
+      "voiceIndex": 31,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4177_brigid/CN_031"
+    },
+    "char_4177_brigid_CN_032": {
+      "charWordId": "char_4177_brigid_CN_032",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_032",
+      "voiceText": "胜利也像驮兽一样会随时迁徙吗？",
+      "voiceTitle": "行动失败",
+      "voiceIndex": 32,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOSE",
+      "voiceAsset": "char_4177_brigid/CN_032"
+    },
+    "char_4177_brigid_CN_033": {
+      "charWordId": "char_4177_brigid_CN_033",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_033",
+      "voiceText": "感觉伸手就能摸到天花板，和纳斯尔纱一样。",
+      "voiceTitle": "进驻设施",
+      "voiceIndex": 33,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4177_brigid/CN_033"
+    },
+    "char_4177_brigid_CN_034": {
+      "charWordId": "char_4177_brigid_CN_034",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_034",
+      "voiceText": "嗯？博士，你推不动我的哦。",
+      "voiceTitle": "戳一下",
+      "voiceIndex": 34,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4177_brigid/CN_034"
+    },
+    "char_4177_brigid_CN_036": {
+      "charWordId": "char_4177_brigid_CN_036",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_036",
+      "voiceText": "我尾巴上的毛很卷吧？",
+      "voiceTitle": "信赖触摸",
+      "voiceIndex": 36,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4177_brigid/CN_036"
+    },
+    "char_4177_brigid_CN_037": {
+      "charWordId": "char_4177_brigid_CN_037",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_037",
+      "voiceText": "明日方舟。",
+      "voiceTitle": "标题",
+      "voiceIndex": 37,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4177_brigid/CN_037"
+    },
+    "char_4177_brigid_CN_038": {
+      "charWordId": "char_4177_brigid_CN_038",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_038",
+      "voiceText": "“铜铃第十一次被敲响的时候，把三叶结符文刻在石头上。来年的坏运气就会被封进石头里，只留下光明的前景。”传说里也有好心肠的指导人生活的部分，我每年都这样做。博士，你也试试吧。",
+      "voiceTitle": "新年祝福",
+      "voiceIndex": 38,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4177_brigid/CN_038"
+    },
+    "char_4177_brigid_CN_042": {
+      "charWordId": "char_4177_brigid_CN_042",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_042",
+      "voiceText": "要多出去走走哦，博士。",
+      "voiceTitle": "问候",
+      "voiceIndex": 42,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GREETING",
+      "voiceAsset": "char_4177_brigid/CN_042"
+    },
+    "char_4177_brigid_CN_043": {
+      "charWordId": "char_4177_brigid_CN_043",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_043",
+      "voiceText": "我还在部落里的时候，过生日总是会有瘤奶做的绿奶酪可吃。吃下奶酪就是吃下月亮，这样到了晚上，你的火——或者说灵魂，才不会因为被双月注视而熄灭。所以，来吧博士，这可是我亲手做的！",
+      "voiceTitle": "生日",
+      "voiceIndex": 43,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BIRTHDAY",
+      "voiceAsset": "char_4177_brigid/CN_043"
+    },
+    "char_4177_brigid_CN_044": {
+      "charWordId": "char_4177_brigid_CN_044",
+      "wordKey": "char_4177_brigid",
+      "charId": "char_4177_brigid",
+      "voiceId": "CN_044",
+      "voiceText": "如果没有来到这里，我也许不会知道，在塔拉之外还有更广阔的原野。虽然船上的生活也很有趣，但我还是更希望能用自己的双脚——在火燃尽之前，一直跑，一直跑，就像在纳斯尔纱时一样。",
+      "voiceTitle": "周年庆典",
+      "voiceIndex": 44,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4177_brigid/CN_044"
+    },
+    "char_4171_wulfen_CN_001": {
+      "charWordId": "char_4171_wulfen_CN_001",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_001",
+      "voiceText": "博士，我上次给你介绍的矿石知识你都记住了吗？",
+      "voiceTitle": "任命助理",
+      "voiceIndex": 1,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4171_wulfen/CN_001"
+    },
+    "char_4171_wulfen_CN_002": {
+      "charWordId": "char_4171_wulfen_CN_002",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_002",
+      "voiceText": "博士，来玩个游戏吧，这里有三种矿石，如果你能把它们的名字都说对，我就把它们送给你，怎么样？呃，猜得没错。嗯？算你对了。欸......可惜！就差一个。再接再厉哦，博士。",
+      "voiceTitle": "交谈1",
+      "voiceIndex": 2,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_002"
+    },
+    "char_4171_wulfen_CN_003": {
+      "charWordId": "char_4171_wulfen_CN_003",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_003",
+      "voiceText": "过来过来，别动......放心，我没有给你涂什么奇怪的东西，这是防晒霜，据说非常有效！下次出任务要去的地方太阳可毒了，不做好准备可是要吃亏的。走，我们去甲板上试试效果！",
+      "voiceTitle": "交谈2",
+      "voiceIndex": 3,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_003"
+    },
+    "char_4171_wulfen_CN_004": {
+      "charWordId": "char_4171_wulfen_CN_004",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_004",
+      "voiceText": "博士，这袋东西放我尾巴上吧，这样方便一点。放心，我尾巴的力量比我的手强多了。这可是我最自豪的部位。听我奶奶说，尾巴厉害的人在萨尔贡一些地方是会受到尊敬的，你觉得我怎么样？",
+      "voiceTitle": "交谈3",
+      "voiceIndex": 4,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_004"
+    },
+    "char_4171_wulfen_CN_005": {
+      "charWordId": "char_4171_wulfen_CN_005",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_005",
+      "voiceText": "曾经有人问我，为什么不收集宝石呢，宝石不是更美吗？但我并不喜欢那种美。对对！宝石的美是经过定义的，而矿石却不受拘束，我更喜欢它的不规则！博士，你果然是明白人呀！",
+      "voiceTitle": "晋升后交谈1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_005"
+    },
+    "char_4171_wulfen_CN_006": {
+      "charWordId": "char_4171_wulfen_CN_006",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_006",
+      "voiceText": "找到矿石并不是结束，博士。当你一点一点地去分析它，了解它，你会惊讶地发现，你找到它之前所看到的一切，都可能是影响它诞生的一环。然后？然后我第一次对这片大地的历史有了实感。",
+      "voiceTitle": "晋升后交谈2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_006"
+    },
+    "char_4171_wulfen_CN_007": {
+      "charWordId": "char_4171_wulfen_CN_007",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_007",
+      "voiceText": "咦，我怎么听到了自己的声音？博士，你在看我以前拍的探险视频啊。没事没事，无论你是想要了解矿石的美，还是想要了解我，我都很高兴。当然，要是能直接来问我就更好了。",
+      "voiceTitle": "信赖提升后交谈1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_007"
+    },
+    "char_4171_wulfen_CN_008": {
+      "charWordId": "char_4171_wulfen_CN_008",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_008",
+      "voiceText": "小时候，我曾经有幸进入帕夏大人的宝库。在那里，我见到了一块巨大的矿石，它的颜色和我的发色一样鲜艳动人。我花了很长时间才找到它的名字——钼铅，而这，就是我收集矿石的起点了。",
+      "voiceTitle": "信赖提升后交谈2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_008"
+    },
+    "char_4171_wulfen_CN_009": {
+      "charWordId": "char_4171_wulfen_CN_009",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_009",
+      "voiceText": "博士，你应该也看到我的申请了吧？我打算在罗德岛内部开设一档新的节目，好让更多的人对地质学有所了解！第一期节目，我想邀请你来做嘉宾，可以吗？",
+      "voiceTitle": "信赖提升后交谈3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4171_wulfen/CN_009"
+    },
+    "char_4171_wulfen_CN_010": {
+      "charWordId": "char_4171_wulfen_CN_010",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_010",
+      "voiceText": "博士，你是不是有点无聊？我给你表演一下我的特技——精准地吹起我额头上的这撮白发。看好了，呼——！",
+      "voiceTitle": "闲置",
+      "voiceIndex": 10,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4171_wulfen/CN_010"
+    },
+    "char_4171_wulfen_CN_011": {
+      "charWordId": "char_4171_wulfen_CN_011",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_011",
+      "voiceText": "你好，博士，我是新干员钼铅，以后我们就要一起工作了。对了，我们先来彼此了解一下吧，我来自哥伦比亚，喜欢探险和收藏矿石，还有......",
+      "voiceTitle": "干员报到",
+      "voiceIndex": 11,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GACHA",
+      "voiceAsset": "char_4171_wulfen/CN_011"
+    },
+    "char_4171_wulfen_CN_012": {
+      "charWordId": "char_4171_wulfen_CN_012",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_012",
+      "voiceText": "罗德岛上竟然有这么厉害的探险家......我也要努力了！",
+      "voiceTitle": "观看作战记录",
+      "voiceIndex": 12,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4171_wulfen/CN_012"
+    },
+    "char_4171_wulfen_CN_013": {
+      "charWordId": "char_4171_wulfen_CN_013",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_013",
+      "voiceText": "博士，我可以申请一个房间做我的矿石陈列室吗？",
+      "voiceTitle": "精英化晋升1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4171_wulfen/CN_013"
+    },
+    "char_4171_wulfen_CN_014": {
+      "charWordId": "char_4171_wulfen_CN_014",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_014",
+      "voiceText": "博士，快看，我顺利通过能力测试了，现在我有资格自己带领一支小队去探险了！我有许——多想去探索的矿脉，你要和我一起去吗？",
+      "voiceTitle": "精英化晋升2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4171_wulfen/CN_014"
+    },
+    "char_4171_wulfen_CN_017": {
+      "charWordId": "char_4171_wulfen_CN_017",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_017",
+      "voiceText": "这一次要去哪里挖掘矿石？",
+      "voiceTitle": "编入队伍",
+      "voiceIndex": 17,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4171_wulfen/CN_017"
+    },
+    "char_4171_wulfen_CN_018": {
+      "charWordId": "char_4171_wulfen_CN_018",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_018",
+      "voiceText": "交给我吧，我已经做好了万全的准备。",
+      "voiceTitle": "任命队长",
+      "voiceIndex": 18,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4171_wulfen/CN_018"
+    },
+    "char_4171_wulfen_CN_019": {
+      "charWordId": "char_4171_wulfen_CN_019",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_019",
+      "voiceText": "大家不用担心，跟紧我，不会有问题的。",
+      "voiceTitle": "行动出发",
+      "voiceIndex": 19,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4171_wulfen/CN_019"
+    },
+    "char_4171_wulfen_CN_020": {
+      "charWordId": "char_4171_wulfen_CN_020",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_020",
+      "voiceText": "开始寻找矿石吧！",
+      "voiceTitle": "行动开始",
+      "voiceIndex": 20,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4171_wulfen/CN_020"
+    },
+    "char_4171_wulfen_CN_021": {
+      "charWordId": "char_4171_wulfen_CN_021",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_021",
+      "voiceText": "博士，你找到矿脉了吗？",
+      "voiceTitle": "选中干员1",
+      "voiceIndex": 21,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4171_wulfen/CN_021"
+    },
+    "char_4171_wulfen_CN_022": {
+      "charWordId": "char_4171_wulfen_CN_022",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_022",
+      "voiceText": "什么，又有人来妨碍我们？",
+      "voiceTitle": "选中干员2",
+      "voiceIndex": 22,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4171_wulfen/CN_022"
+    },
+    "char_4171_wulfen_CN_023": {
+      "charWordId": "char_4171_wulfen_CN_023",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_023",
+      "voiceText": "今天又会挖到什么样的矿石呢？",
+      "voiceTitle": "部署1",
+      "voiceIndex": 23,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4171_wulfen/CN_023"
+    },
+    "char_4171_wulfen_CN_024": {
+      "charWordId": "char_4171_wulfen_CN_024",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_024",
+      "voiceText": "快点把这些碍事的家伙赶走吧！",
+      "voiceTitle": "部署2",
+      "voiceIndex": 24,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4171_wulfen/CN_024"
+    },
+    "char_4171_wulfen_CN_025": {
+      "charWordId": "char_4171_wulfen_CN_025",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_025",
+      "voiceText": "不要来妨碍我们！",
+      "voiceTitle": "作战中1",
+      "voiceIndex": 25,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4171_wulfen/CN_025"
+    },
+    "char_4171_wulfen_CN_026": {
+      "charWordId": "char_4171_wulfen_CN_026",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_026",
+      "voiceText": "哇，这种矿石我好像没见过！",
+      "voiceTitle": "作战中2",
+      "voiceIndex": 26,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4171_wulfen/CN_026"
+    },
+    "char_4171_wulfen_CN_027": {
+      "charWordId": "char_4171_wulfen_CN_027",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_027",
+      "voiceText": "当心碎石，我要引爆这里了！",
+      "voiceTitle": "作战中3",
+      "voiceIndex": 27,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4171_wulfen/CN_027"
+    },
+    "char_4171_wulfen_CN_028": {
+      "charWordId": "char_4171_wulfen_CN_028",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_028",
+      "voiceText": "吃我一锤！",
+      "voiceTitle": "作战中4",
+      "voiceIndex": 28,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4171_wulfen/CN_028"
+    },
+    "char_4171_wulfen_CN_029": {
+      "charWordId": "char_4171_wulfen_CN_029",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_029",
+      "voiceText": "呼......呼......博士，能不能扶我一把，我快累死了。我......我先喘口气，再继续勘探工作......",
+      "voiceTitle": "完成高难行动",
+      "voiceIndex": 29,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4171_wulfen/CN_029"
+    },
+    "char_4171_wulfen_CN_030": {
+      "charWordId": "char_4171_wulfen_CN_030",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_030",
+      "voiceText": "博士，快看，我发现了这种矿石！它可稀有了！我们真走运！",
+      "voiceTitle": "3星结束行动",
+      "voiceIndex": 30,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4171_wulfen/CN_030"
+    },
+    "char_4171_wulfen_CN_031": {
+      "charWordId": "char_4171_wulfen_CN_031",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_031",
+      "voiceText": "博士，别露出这种表情嘛，有这样的收获也已经很了不起了！",
+      "voiceTitle": "非3星结束行动",
+      "voiceIndex": 31,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4171_wulfen/CN_031"
+    },
+    "char_4171_wulfen_CN_032": {
+      "charWordId": "char_4171_wulfen_CN_032",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_032",
+      "voiceText": "唉，博士，我们回去吧，这里看来没有我想要的矿石。",
+      "voiceTitle": "行动失败",
+      "voiceIndex": 32,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOSE",
+      "voiceAsset": "char_4171_wulfen/CN_032"
+    },
+    "char_4171_wulfen_CN_033": {
+      "charWordId": "char_4171_wulfen_CN_033",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_033",
+      "voiceText": "仓库在哪里来着，我要存放一下刚挖到的矿石......",
+      "voiceTitle": "进驻设施",
+      "voiceIndex": 33,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4171_wulfen/CN_033"
+    },
+    "char_4171_wulfen_CN_034": {
+      "charWordId": "char_4171_wulfen_CN_034",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_034",
+      "voiceText": "博士，想和我的尾巴玩拔河吗？",
+      "voiceTitle": "戳一下",
+      "voiceIndex": 34,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4171_wulfen/CN_034"
+    },
+    "char_4171_wulfen_CN_036": {
+      "charWordId": "char_4171_wulfen_CN_036",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_036",
+      "voiceText": "哎呀，博士，正好，我有块矿石想给你看看。",
+      "voiceTitle": "信赖触摸",
+      "voiceIndex": 36,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4171_wulfen/CN_036"
+    },
+    "char_4171_wulfen_CN_037": {
+      "charWordId": "char_4171_wulfen_CN_037",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_037",
+      "voiceText": "明日方舟。",
+      "voiceTitle": "标题",
+      "voiceIndex": 37,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4171_wulfen/CN_037"
+    },
+    "char_4171_wulfen_CN_038": {
+      "charWordId": "char_4171_wulfen_CN_038",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_038",
+      "voiceText": "博士，新的一年你有给自己定下什么目标吗？我？有啊，我每年都会给自己定下新的一年去哪里探索和获得多少稀有矿石的目标，去年的已经完成了！博士，我们可以一起制定目标，互相监督！",
+      "voiceTitle": "新年祝福",
+      "voiceIndex": 38,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4171_wulfen/CN_038"
+    },
+    "char_4171_wulfen_CN_042": {
+      "charWordId": "char_4171_wulfen_CN_042",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_042",
+      "voiceText": "博士，一起去采矿吧！",
+      "voiceTitle": "问候",
+      "voiceIndex": 42,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GREETING",
+      "voiceAsset": "char_4171_wulfen/CN_042"
+    },
+    "char_4171_wulfen_CN_043": {
+      "charWordId": "char_4171_wulfen_CN_043",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_043",
+      "voiceText": "博士，给你。对，是你之前想要的那种矿石。我特意帮你找来的，费了我不少功夫呢。没事，跟我客气什么呀。话说，今天你也打算一个人闷在办公室里吗？这也太浪费了，走，我们去举办派对吧！",
+      "voiceTitle": "生日",
+      "voiceIndex": 43,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BIRTHDAY",
+      "voiceAsset": "char_4171_wulfen/CN_043"
+    },
+    "char_4171_wulfen_CN_044": {
+      "charWordId": "char_4171_wulfen_CN_044",
+      "wordKey": "char_4171_wulfen",
+      "charId": "char_4171_wulfen",
+      "voiceId": "CN_044",
+      "voiceText": "我回来了！呼，呼......嘿嘿，博士，你是不是以为我今天也会泡在矿区里？我特地赶回来了！这么重要的日子我怎么会错过呢？对了对了，你快过来，我给你看看这次的成果！",
+      "voiceTitle": "周年庆典",
+      "voiceIndex": 44,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4171_wulfen/CN_044"
+    },
+    "char_450_necras_CN_001": {
+      "charWordId": "char_450_necras_CN_001",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_001",
+      "voiceText": "想吃些甜食吗？我可以为你准备一些。佐餐的酒？也有。",
+      "voiceTitle": "任命助理",
+      "voiceIndex": 1,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_450_necras/CN_001"
+    },
+    "char_450_necras_CN_002": {
+      "charWordId": "char_450_necras_CN_002",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_002",
+      "voiceText": "我的仆臣热衷操纵他人的命运。他们中有自以为是的阴谋家，也有意志脆弱的空想家。不过在消费他人的生命时，他们的冷漠如出一辙。而我？呵呵，无论操纵还是受人操纵，生命的终点都在我这里。",
+      "voiceTitle": "交谈1",
+      "voiceIndex": 2,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_002"
+    },
+    "char_450_necras_CN_003": {
+      "charWordId": "char_450_necras_CN_003",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_003",
+      "voiceText": "那位凯尔希医生的眼神很是凶锐，每当她盯着我，我都觉得她是想把我钉死在甲板上。不过不用担心，身在罗德岛的这一点点时间里，我都是你的死芒，也只是你的死芒。",
+      "voiceTitle": "交谈2",
+      "voiceIndex": 3,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_003"
+    },
+    "char_450_necras_CN_004": {
+      "charWordId": "char_450_necras_CN_004",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_004",
+      "voiceText": "我的躯体冰冷，我的触觉迟钝，我体内翻涌着永不停歇、宛如被自己的火焰灼烧般冰冷刺骨的疼痛......偏偏就是这点疼痛令人着迷，不然，我甚至会忘记自己已经驯服了死亡。",
+      "voiceTitle": "交谈3",
+      "voiceIndex": 4,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_004"
+    },
+    "char_450_necras_CN_005": {
+      "charWordId": "char_450_necras_CN_005",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_005",
+      "voiceText": "罗德岛也是个美丽的地方，无论什么样的人都可以在这里自由书写自己的生命，简直是付出了无数血肉代价才建立起来的想象中的城邦。幻象易逝，尽力去维持它吧。",
+      "voiceTitle": "晋升后交谈1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_005"
+    },
+    "char_450_necras_CN_006": {
+      "charWordId": "char_450_necras_CN_006",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_006",
+      "voiceText": "你对我的邀约保持沉默，或是顾左右而言他，我都允许，可这不意味着你能从我这抽身。我抓住你，你的魂灵就归我所有。时间、生活和快乐任你挥霍，但始终记好，你的终点也在我这。",
+      "voiceTitle": "晋升后交谈2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_006"
+    },
+    "char_450_necras_CN_007": {
+      "charWordId": "char_450_necras_CN_007",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_007",
+      "voiceText": "我为什么在这？因为你在这。还是说，你更愿意向我解释我瞥见的那一缕......连死亡本身都死去了的未来？无论你先向我臣服，还是那个未来先到，我都没有意见。我很乐意接着等下去。",
+      "voiceTitle": "信赖提升后交谈1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_007"
+    },
+    "char_450_necras_CN_008": {
+      "charWordId": "char_450_necras_CN_008",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_008",
+      "voiceText": "拉芙希妮？若她仍是在雪夜里颤抖的孩子，我会随手送她一辈子平安顺遂，直到死亡让我们团聚。可惜，她终究明白了如何在刀锋和谎言中跳舞，而一个令人怜爱的好舞伴有多难得，你不会不知道。",
+      "voiceTitle": "信赖提升后交谈2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_008"
+    },
+    "char_450_necras_CN_009": {
+      "charWordId": "char_450_necras_CN_009",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_009",
+      "voiceText": "你怎样才愿意归顺于我？是想我恳求，还是呵斥？是要我展现从未示人的模样，还是要我将驾驭死亡的权柄交付于你？你想要的，我全都......拒绝。你首先要属于我，然后我们再说别的。",
+      "voiceTitle": "信赖提升后交谈3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_450_necras/CN_009"
+    },
+    "char_450_necras_CN_010": {
+      "charWordId": "char_450_necras_CN_010",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_010",
+      "voiceText": "......深沉的睡眠与死无异。希望你能像往常一样悠悠醒来，学者。",
+      "voiceTitle": "闲置",
+      "voiceIndex": 10,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_450_necras/CN_010"
+    },
+    "char_450_necras_CN_011": {
+      "charWordId": "char_450_necras_CN_011",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_011",
+      "voiceText": "你终于愿意让步了？那么，把登记表给我吧。“死芒”这个代号怎么样，学者？嗯？既然罗德岛需要一个代号来代表我，我自然也会用合适的方式称呼你。",
+      "voiceTitle": "干员报到",
+      "voiceIndex": 11,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GACHA",
+      "voiceAsset": "char_450_necras/CN_011"
+    },
+    "char_450_necras_CN_012": {
+      "charWordId": "char_450_necras_CN_012",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_012",
+      "voiceText": "真让人高兴，他们又一次短暂逃离了命定的终点。",
+      "voiceTitle": "观看作战记录",
+      "voiceIndex": 12,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_450_necras/CN_012"
+    },
+    "char_450_necras_CN_013": {
+      "charWordId": "char_450_necras_CN_013",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_013",
+      "voiceText": "晋升，这是不是意味着我在贵司正式有了位置？学者，这合适吗？",
+      "voiceTitle": "精英化晋升1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_450_necras/CN_013"
+    },
+    "char_450_necras_CN_014": {
+      "charWordId": "char_450_necras_CN_014",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_014",
+      "voiceText": "这枚勋章代表你的信任，可死亡即是对生命永恒的背叛。如果你想清楚了，不妨给我个期限，在那之前，我会尽量不辜负你的。",
+      "voiceTitle": "精英化晋升2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_450_necras/CN_014"
+    },
+    "char_450_necras_CN_017": {
+      "charWordId": "char_450_necras_CN_017",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_017",
+      "voiceText": "需要我遮掩自己的容貌吗？不必？明智的判断。死者自当铭记，生者自会忘却。",
+      "voiceTitle": "编入队伍",
+      "voiceIndex": 17,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD",
+      "voiceAsset": "char_450_necras/CN_017"
+    },
+    "char_450_necras_CN_018": {
+      "charWordId": "char_450_necras_CN_018",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_018",
+      "voiceText": "你的干员未必能容忍我的苛刻。",
+      "voiceTitle": "任命队长",
+      "voiceIndex": 18,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_450_necras/CN_018"
+    },
+    "char_450_necras_CN_019": {
+      "charWordId": "char_450_necras_CN_019",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_019",
+      "voiceText": "启程吧，去制造更多尸骸。",
+      "voiceTitle": "行动出发",
+      "voiceIndex": 19,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_450_necras/CN_019"
+    },
+    "char_450_necras_CN_020": {
+      "charWordId": "char_450_necras_CN_020",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_020",
+      "voiceText": "人们哀悼死亡，而死亡从不哀悼。",
+      "voiceTitle": "行动开始",
+      "voiceIndex": 20,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_450_necras/CN_020"
+    },
+    "char_450_necras_CN_021": {
+      "charWordId": "char_450_necras_CN_021",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_021",
+      "voiceText": "我的火没有温度。",
+      "voiceTitle": "选中干员1",
+      "voiceIndex": 21,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_450_necras/CN_021"
+    },
+    "char_450_necras_CN_022": {
+      "charWordId": "char_450_necras_CN_022",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_022",
+      "voiceText": "我看见了。",
+      "voiceTitle": "选中干员2",
+      "voiceIndex": 22,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_450_necras/CN_022"
+    },
+    "char_450_necras_CN_023": {
+      "charWordId": "char_450_necras_CN_023",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_023",
+      "voiceText": "我接受你的邀请。",
+      "voiceTitle": "部署1",
+      "voiceIndex": 23,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_450_necras/CN_023"
+    },
+    "char_450_necras_CN_024": {
+      "charWordId": "char_450_necras_CN_024",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_024",
+      "voiceText": "这就是你的判断吗？",
+      "voiceTitle": "部署2",
+      "voiceIndex": 24,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_450_necras/CN_024"
+    },
+    "char_450_necras_CN_025": {
+      "charWordId": "char_450_necras_CN_025",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_025",
+      "voiceText": "指尖轻轻一触，你们的意志就会溃散如泥。",
+      "voiceTitle": "作战中1",
+      "voiceIndex": 25,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_450_necras/CN_025"
+    },
+    "char_450_necras_CN_026": {
+      "charWordId": "char_450_necras_CN_026",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_026",
+      "voiceText": "生命枯萎消散，徒留残渣徘徊。",
+      "voiceTitle": "作战中2",
+      "voiceIndex": 26,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_450_necras/CN_026"
+    },
+    "char_450_necras_CN_027": {
+      "charWordId": "char_450_necras_CN_027",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_027",
+      "voiceText": "烈火中，亡魂会因恐惧狂舞不歇。",
+      "voiceTitle": "作战中3",
+      "voiceIndex": 27,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_450_necras/CN_027"
+    },
+    "char_450_necras_CN_028": {
+      "charWordId": "char_450_necras_CN_028",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_028",
+      "voiceText": "死者的喧嚣终有尽头，那尽头的名字叫做忘却。",
+      "voiceTitle": "作战中4",
+      "voiceIndex": 28,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_450_necras/CN_028"
+    },
+    "char_450_necras_CN_029": {
+      "charWordId": "char_450_necras_CN_029",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_029",
+      "voiceText": "你和你的战术一样致命，学者。",
+      "voiceTitle": "完成高难行动",
+      "voiceIndex": 29,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_450_necras/CN_029"
+    },
+    "char_450_necras_CN_030": {
+      "charWordId": "char_450_necras_CN_030",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_030",
+      "voiceText": "为什么要压抑自己呢？我在你身上看见了毁灭的欲望，你理应将其倾泻出去，毫无保留。",
+      "voiceTitle": "3星结束行动",
+      "voiceIndex": 30,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_450_necras/CN_030"
+    },
+    "char_450_necras_CN_031": {
+      "charWordId": "char_450_necras_CN_031",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_031",
+      "voiceText": "别太伤心，生命就是有缺陷的。",
+      "voiceTitle": "非3星结束行动",
+      "voiceIndex": 31,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_450_necras/CN_031"
+    },
+    "char_450_necras_CN_032": {
+      "charWordId": "char_450_necras_CN_032",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_032",
+      "voiceText": "要我把他们全都带走吗？只要你向我付出一点点代价......你当然付得起。",
+      "voiceTitle": "行动失败",
+      "voiceIndex": 32,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOSE",
+      "voiceAsset": "char_450_necras/CN_032"
+    },
+    "char_450_necras_CN_033": {
+      "charWordId": "char_450_necras_CN_033",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_033",
+      "voiceText": "啊，很温和的住处。",
+      "voiceTitle": "进驻设施",
+      "voiceIndex": 33,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_450_necras/CN_033"
+    },
+    "char_450_necras_CN_034": {
+      "charWordId": "char_450_necras_CN_034",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_034",
+      "voiceText": "你想要什么？",
+      "voiceTitle": "戳一下",
+      "voiceIndex": 34,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_450_necras/CN_034"
+    },
+    "char_450_necras_CN_036": {
+      "charWordId": "char_450_necras_CN_036",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_036",
+      "voiceText": "忍住这点冰冷的灼痛，你尽可以一直握着我的手。",
+      "voiceTitle": "信赖触摸",
+      "voiceIndex": 36,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_450_necras/CN_036"
+    },
+    "char_450_necras_CN_037": {
+      "charWordId": "char_450_necras_CN_037",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_037",
+      "voiceText": "明日方舟。",
+      "voiceTitle": "标题",
+      "voiceIndex": 37,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_450_necras/CN_037"
+    },
+    "char_450_necras_CN_038": {
+      "charWordId": "char_450_necras_CN_038",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_038",
+      "voiceText": "新年理当有火。用火把过去的一切全部烧掉，在这废墟上建立起新的事物，然后往复循环。虽说如此，面前这团小小的火，我也很喜欢。随便帮我烤些什么吧，做些我的火焰做不到的事情。",
+      "voiceTitle": "新年祝福",
+      "voiceIndex": 38,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_450_necras/CN_038"
+    },
+    "char_450_necras_CN_042": {
+      "charWordId": "char_450_necras_CN_042",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_042",
+      "voiceText": "见到我高兴吗，学者？",
+      "voiceTitle": "问候",
+      "voiceIndex": 42,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "GREETING",
+      "voiceAsset": "char_450_necras/CN_042"
+    },
+    "char_450_necras_CN_043": {
+      "charWordId": "char_450_necras_CN_043",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_043",
+      "voiceText": "需要我为你准备一束花吗？为什么？不为什么，只是想收到你的回礼，看着你送我的花束在我指间化成灰烬，仅此而已。",
+      "voiceTitle": "生日",
+      "voiceIndex": 43,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "BIRTHDAY",
+      "voiceAsset": "char_450_necras/CN_043"
+    },
+    "char_450_necras_CN_044": {
+      "charWordId": "char_450_necras_CN_044",
+      "wordKey": "char_450_necras",
+      "charId": "char_450_necras",
+      "voiceId": "CN_044",
+      "voiceText": "除了拉芙希妮，罗德岛上还留着些许属于深池的残迹......别紧张。那个梦想既然已经实现，深池就理应死去，但死亡并不意味着凭空消失。就这样把深池的墓碑留在罗德岛上吧，我允许了。",
+      "voiceTitle": "周年庆典",
+      "voiceIndex": 44,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": "",
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_450_necras/CN_044"
+    },
     "char_113_cqbw_epoque#7_CN_001": {
       "charWordId": "char_113_cqbw_epoque#7_CN_001",
       "wordKey": "char_113_cqbw_epoque#7",
@@ -262825,6 +264688,78 @@
         }
       }
     },
+    "char_450_necras": {
+      "wordkeys": [
+        "char_450_necras"
+      ],
+      "charId": "char_450_necras",
+      "dict": {
+        "CN_MANDARIN": {
+          "wordkey": "char_450_necras",
+          "voiceLangType": "CN_MANDARIN",
+          "cvName": [
+            "浮梦若薇"
+          ],
+          "voicePath": null
+        },
+        "JP": {
+          "wordkey": "char_450_necras",
+          "voiceLangType": "JP",
+          "cvName": [
+            "能登麻美子"
+          ],
+          "voicePath": null
+        }
+      }
+    },
+    "char_4171_wulfen": {
+      "wordkeys": [
+        "char_4171_wulfen"
+      ],
+      "charId": "char_4171_wulfen",
+      "dict": {
+        "CN_MANDARIN": {
+          "wordkey": "char_4171_wulfen",
+          "voiceLangType": "CN_MANDARIN",
+          "cvName": [
+            "徐晨"
+          ],
+          "voicePath": null
+        },
+        "JP": {
+          "wordkey": "char_4171_wulfen",
+          "voiceLangType": "JP",
+          "cvName": [
+            "后藤麻衣"
+          ],
+          "voicePath": null
+        }
+      }
+    },
+    "char_4177_brigid": {
+      "wordkeys": [
+        "char_4177_brigid"
+      ],
+      "charId": "char_4177_brigid",
+      "dict": {
+        "CN_MANDARIN": {
+          "wordkey": "char_4177_brigid",
+          "voiceLangType": "CN_MANDARIN",
+          "cvName": [
+            "陈阳"
+          ],
+          "voicePath": null
+        },
+        "JP": {
+          "wordkey": "char_4177_brigid",
+          "voiceLangType": "JP",
+          "cvName": [
+            "樱庭有纱"
+          ],
+          "voicePath": null
+        }
+      }
+    },
     "char_311_mudrok#1": {
       "wordkeys": [
         "char_311_mudrok#1"
@@ -263232,12 +265167,9 @@
   },
   "defaultLangType": "CN_MANDARIN",
   "newTagList": [
-    "char_2026_yu",
-    "char_1040_blaze2",
-    "char_4052_surfer",
-    "char_4172_xingzh",
-    "char_4010_etlchi",
-    "char_4173_nowell"
+    "char_450_necras",
+    "char_4171_wulfen",
+    "char_4177_brigid"
   ],
   "voiceLangTypeDict": {
     "CN_MANDARIN": {
@@ -263684,7 +265616,10 @@
     "char_4052_surfer": "JP",
     "char_4172_xingzh": "JP",
     "char_4010_etlchi": "JP",
-    "char_4173_nowell": "JP"
+    "char_4173_nowell": "JP",
+    "char_450_necras": "JP",
+    "char_4171_wulfen": "JP",
+    "char_4177_brigid": "JP"
   },
   "startTimeWithTypeDict": {
     "CN_TOPOLECT": [
